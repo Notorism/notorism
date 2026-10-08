@@ -1,0 +1,65 @@
+[
+  {
+    "id": "swiss-design-1",
+    "title": "Architecture museum: Public page",
+    "image": "images/swiss-design/example-01.png",
+    "html": "images/swiss-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Strict grid; aligned text; sans-serif type; scale contrast; objective photography.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using Helvetica instead of editing and hierarchy."
+    },
+    "sha256": "d5951c4c93a082437812ae5823ff7a81e4cc83c21509916f076cf5b59939a7d4",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "swiss-design-2",
+    "title": "Type conference: Product workspace",
+    "image": "images/swiss-design/example-02.png",
+    "html": "images/swiss-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Strict grid; aligned text; sans-serif type; scale contrast; objective photography.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using Helvetica instead of editing and hierarchy."
+    },
+    "sha256": "6b395883652407e347c239e18c2285bfd3dd93b638a1890cea2fe27b66788cd9",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "swiss-design-3",
+    "title": "Poster archive: Editorial composition",
+    "image": "images/swiss-design/example-03.png",
+    "html": "images/swiss-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Strict grid; aligned text; sans-serif type; scale contrast; objective photography.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using Helvetica instead of editing and hierarchy."
+    },
+    "sha256": "acffeac79509a2563d2c1078c63e3122c1e88142f9fc6efa24cb9e6e5bb19074",
+    "width": 1440,
+    "height": 960
+  }
+]

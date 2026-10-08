@@ -1,0 +1,65 @@
+[
+  {
+    "id": "solarpunk-1",
+    "title": "Energy cooperative: Public page",
+    "image": "images/solarpunk/example-01.png",
+    "html": "images/solarpunk/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Nature integrated with technology; light; inhabited structures; living colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming sustainability without evidence or reducing the subject to plants."
+    },
+    "sha256": "a5491f5ab246a0225ee6a209aff1e067d8d15cf037806756e36ad9a528543642",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "solarpunk-2",
+    "title": "Urban garden: Product workspace",
+    "image": "images/solarpunk/example-02.png",
+    "html": "images/solarpunk/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Nature integrated with technology; light; inhabited structures; living colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming sustainability without evidence or reducing the subject to plants."
+    },
+    "sha256": "76f5d69089b4646a849525429e50c459afb3d9ad30f3abca7dce557d6f4d65fa",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "solarpunk-3",
+    "title": "Community mobility: Editorial composition",
+    "image": "images/solarpunk/example-03.png",
+    "html": "images/solarpunk/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Nature integrated with technology; light; inhabited structures; living colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming sustainability without evidence or reducing the subject to plants."
+    },
+    "sha256": "f0497faf1f3dccce13f659e00e5147cee07c503bd1df71608ab77bdf16c16c3f",
+    "width": 1440,
+    "height": 960
+  }
+]

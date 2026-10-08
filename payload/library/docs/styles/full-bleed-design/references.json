@@ -1,0 +1,65 @@
+[
+  {
+    "id": "full-bleed-design-1",
+    "title": "Landscape gallery: Public page",
+    "image": "images/full-bleed-design/example-01.png",
+    "html": "images/full-bleed-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Continuous image; directed crop; quiet text zone; internal margins.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing image bleed with absent text breathing room."
+    },
+    "sha256": "621539a83106a29b25bbe563b72c1981f6db85f175b4db62891b2f6bf4505c38",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "full-bleed-design-2",
+    "title": "Travel booking: Product workspace",
+    "image": "images/full-bleed-design/example-02.png",
+    "html": "images/full-bleed-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Continuous image; directed crop; quiet text zone; internal margins.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing image bleed with absent text breathing room."
+    },
+    "sha256": "1c57df225efcdba8e269753a53a248d369c2132eddfa4957b60f2a8872f28ccc",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "full-bleed-design-3",
+    "title": "Photography portfolio: Editorial composition",
+    "image": "images/full-bleed-design/example-03.png",
+    "html": "images/full-bleed-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Continuous image; directed crop; quiet text zone; internal margins.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing image bleed with absent text breathing room."
+    },
+    "sha256": "7940131e0635218600a9ac555a4fe2d121b82604115ca4289b89fe610c3772d3",
+    "width": 1440,
+    "height": 960
+  }
+]

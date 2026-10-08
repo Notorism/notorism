@@ -1,0 +1,65 @@
+[
+  {
+    "id": "split-screen-design-1",
+    "title": "Accommodation catalog: Public page",
+    "image": "images/split-screen-design/example-01.png",
+    "html": "images/split-screen-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Two planes; functional contrast; proportional division; mobile stacking.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Keeping two cramped mobile columns or splitting unrelated subjects."
+    },
+    "sha256": "f8fdbaf109d9cf9372cad701bedee13a70d788419c6b4c8a43ca046398235044",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "split-screen-design-2",
+    "title": "Object comparison: Product workspace",
+    "image": "images/split-screen-design/example-02.png",
+    "html": "images/split-screen-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Two planes; functional contrast; proportional division; mobile stacking.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Keeping two cramped mobile columns or splitting unrelated subjects."
+    },
+    "sha256": "7cdeefcfa23f3b29abba3d5c6ba0e2e728986d27715b7189349bad9bace8a910",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "split-screen-design-3",
+    "title": "Interior studio: Editorial composition",
+    "image": "images/split-screen-design/example-03.png",
+    "html": "images/split-screen-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Two planes; functional contrast; proportional division; mobile stacking.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Keeping two cramped mobile columns or splitting unrelated subjects."
+    },
+    "sha256": "ee1a412dab03908115e54bb323e7d115f6b6efa3ca72851f3745d61764a43ef2",
+    "width": 1440,
+    "height": 960
+  }
+]

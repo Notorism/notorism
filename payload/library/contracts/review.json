@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "review-contract",
+  "appliesTo": "Design verification and handoff",
+  "rules": [
+    "Review wide and narrow layouts, actual interactions, keyboard behavior, content, and relevant contrast. Record limitations when checks cannot run.",
+    "Report only evidence that exists. Startup loading does not prove image inspection, artistic quality, accessibility conformance, or successful deployment."
+  ]
+}

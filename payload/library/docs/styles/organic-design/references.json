@@ -1,0 +1,65 @@
+[
+  {
+    "id": "organic-design-1",
+    "title": "Ceramics workshop: Public page",
+    "image": "images/organic-design/example-01.png",
+    "html": "images/organic-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Continuous contours; soft asymmetry; natural rhythm; material-rich imagery.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding random blobs unrelated to the brand or task."
+    },
+    "sha256": "ab14eac0379ba430d04e7706ee81352f8e2969dec02298f55182d30f5853dbae",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "organic-design-2",
+    "title": "Food brand: Product workspace",
+    "image": "images/organic-design/example-02.png",
+    "html": "images/organic-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Continuous contours; soft asymmetry; natural rhythm; material-rich imagery.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding random blobs unrelated to the brand or task."
+    },
+    "sha256": "fd4260bd97ae51396e45c63f8b1f0408b9038201eab9d6d4e493e42e16f04104",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "organic-design-3",
+    "title": "Landscape studio: Editorial composition",
+    "image": "images/organic-design/example-03.png",
+    "html": "images/organic-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Continuous contours; soft asymmetry; natural rhythm; material-rich imagery.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding random blobs unrelated to the brand or task."
+    },
+    "sha256": "1b878961ca4b0c96d705e93aef50eea9130d2a16eda585970dca512949ea8625",
+    "width": 1440,
+    "height": 960
+  }
+]

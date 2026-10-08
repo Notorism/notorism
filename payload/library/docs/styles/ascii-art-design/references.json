@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ascii-art-design-1",
+    "title": "Terminal archive: Public page",
+    "image": "images/ascii-art-design/example-01.png",
+    "html": "images/ascii-art-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Monospaced type; character grid; tonal density; text alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling Unicode ASCII or exposing hundreds of decorative characters to screen readers."
+    },
+    "sha256": "1bb1972c9b7100e2f5791154a3530eccc582b412fca5222a70ab469791c17a3a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "ascii-art-design-2",
+    "title": "Code club: Product workspace",
+    "image": "images/ascii-art-design/example-02.png",
+    "html": "images/ascii-art-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Monospaced type; character grid; tonal density; text alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling Unicode ASCII or exposing hundreds of decorative characters to screen readers."
+    },
+    "sha256": "1a2a718e0dd477c8970501571748d9e65a0e764c50d9d14aa5f3691630bba068",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "ascii-art-design-3",
+    "title": "Digital exhibition: Editorial composition",
+    "image": "images/ascii-art-design/example-03.png",
+    "html": "images/ascii-art-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Monospaced type; character grid; tonal density; text alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling Unicode ASCII or exposing hundreds of decorative characters to screen readers."
+    },
+    "sha256": "ac1dfdf05b13cc3c5c49f6cace3c1af76d10a8fb736277109e0c32880eb1ec21",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "surrealism-1",
+    "title": "Cinema exhibition: Public page",
+    "image": "images/surrealism/example-01.png",
+    "html": "images/surrealism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Displaced objects; impossible scale; dreamlike space; anchored reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making the primary action as strange as the illustration."
+    },
+    "sha256": "0dab624b5f2e33409c961d9138315457976808aa49e4aedd629c103cbcfc72c3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "surrealism-2",
+    "title": "Image portfolio: Product workspace",
+    "image": "images/surrealism/example-02.png",
+    "html": "images/surrealism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Displaced objects; impossible scale; dreamlike space; anchored reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making the primary action as strange as the illustration."
+    },
+    "sha256": "570de3e2e02876ffbbe725f6d417eaa457f255cbcd9904a9b7d96c5b5dfd4322",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "surrealism-3",
+    "title": "Fragrance campaign: Editorial composition",
+    "image": "images/surrealism/example-03.png",
+    "html": "images/surrealism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Displaced objects; impossible scale; dreamlike space; anchored reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making the primary action as strange as the illustration."
+    },
+    "sha256": "2646301588a1c168c48aae55bd7ea5fa0e397f7a10ac88c66f25f843859fe518",
+    "width": 1440,
+    "height": 960
+  }
+]

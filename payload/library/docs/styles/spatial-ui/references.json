@@ -1,0 +1,65 @@
+[
+  {
+    "id": "spatial-ui-1",
+    "title": "Interior planner: Public page",
+    "image": "images/spatial-ui/example-01.png",
+    "html": "images/spatial-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS depth study. It does not implement a VR or AR runtime.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Purposeful depth; layers; readable distance; focus; positional context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling decorative perspective a functioning spatial environment."
+    },
+    "sha256": "bcb399b58a24510a92766f1527fd3287c33865aabd5f3b358795f46c8b218a6d",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "spatial-ui-2",
+    "title": "Virtual exhibition: Product workspace",
+    "image": "images/spatial-ui/example-02.png",
+    "html": "images/spatial-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS depth study. It does not implement a VR or AR runtime.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Purposeful depth; layers; readable distance; focus; positional context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling decorative perspective a functioning spatial environment."
+    },
+    "sha256": "195640f344388b8bc7c17a89961fa54af9e3b6dfb8610722bea7f79a52627bb3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "spatial-ui-3",
+    "title": "Scene library: Editorial composition",
+    "image": "images/spatial-ui/example-03.png",
+    "html": "images/spatial-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS depth study. It does not implement a VR or AR runtime.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Purposeful depth; layers; readable distance; focus; positional context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling decorative perspective a functioning spatial environment."
+    },
+    "sha256": "bc532811c96f8e6244e4e3becf02d56db12bc74b5d38c614cb86425e30d0f150",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "bento-grid-1",
+    "title": "Product library: Public page",
+    "image": "images/bento-grid/example-01.png",
+    "html": "images/bento-grid/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Varied modules; related proportions; one dominant focus; content sized by role.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Forcing every subject into cards or leaving arbitrary gaps."
+    },
+    "sha256": "a4c1b8dbe370d1127b88be97ae3c9af15f6f11c058d914a6f1e5490d558ff755",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "bento-grid-2",
+    "title": "Research summary: Product workspace",
+    "image": "images/bento-grid/example-02.png",
+    "html": "images/bento-grid/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Varied modules; related proportions; one dominant focus; content sized by role.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Forcing every subject into cards or leaving arbitrary gaps."
+    },
+    "sha256": "584e07479a4b6abe6481eaead29104cf687f799da8474f12b5c87214ac183c48",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "bento-grid-3",
+    "title": "Project portfolio: Editorial composition",
+    "image": "images/bento-grid/example-03.png",
+    "html": "images/bento-grid/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Varied modules; related proportions; one dominant focus; content sized by role.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Forcing every subject into cards or leaving arbitrary gaps."
+    },
+    "sha256": "e0fa25a48cee434f771af3181034a508496955fca28e05427ef5ca2d86b88465",
+    "width": 1440,
+    "height": 960
+  }
+]

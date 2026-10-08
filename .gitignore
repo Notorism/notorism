@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.tools/
+.research/
+.test-output/
+*.tgz
+playwright-report/
+/.notorism/
+/artifacts/
+/site/preview.html
+.env
+.env.*
+!.env.example
+.npmrc
+*.log

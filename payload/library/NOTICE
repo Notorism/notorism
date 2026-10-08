@@ -1,0 +1,12 @@
+NotorismDesign 1.0.0
+Copyright 2026 NotorismDesign contributors.
+
+Original project code, documentation, and composition studies are licensed
+under the Apache License, Version 2.0. See LICENSE for the complete terms.
+
+Bundled fonts retain their upstream licenses in fonts/*.LICENSE.txt inside
+the reference library. npm dependencies retain their own upstream licenses.
+External research sources are linked for context and are not relicensed.
+
+NotorismDesign is an independent project and is not affiliated with the
+Apache Software Foundation, OpenAI, Anthropic, or the referenced publishers.

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mixed-media-design-1",
+    "title": "Image festival: Public page",
+    "image": "images/mixed-media-design/example-01.png",
+    "html": "images/mixed-media-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Different materials; unifying element; scale contrasts; meaningful layers.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding effects with no role for each medium."
+    },
+    "sha256": "502d8c090eeeba3715e9e40703e9f77f57d032c1ce20174d914edf8a571d39f1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "mixed-media-design-2",
+    "title": "Art magazine: Product workspace",
+    "image": "images/mixed-media-design/example-02.png",
+    "html": "images/mixed-media-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Different materials; unifying element; scale contrasts; meaningful layers.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding effects with no role for each medium."
+    },
+    "sha256": "ef8a3be722a52855be8d2f6cab0077920a4db8dc1214915c6eb9da95a01201e0",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "mixed-media-design-3",
+    "title": "Research portfolio: Editorial composition",
+    "image": "images/mixed-media-design/example-03.png",
+    "html": "images/mixed-media-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Different materials; unifying element; scale contrasts; meaningful layers.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding effects with no role for each medium."
+    },
+    "sha256": "b979e30dbaa47e743d6ee70c71757aaa297810700f67d726e88b4247ba69bf28",
+    "width": 1440,
+    "height": 960
+  }
+]

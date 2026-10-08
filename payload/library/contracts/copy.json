@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "copy-contract",
+  "appliesTo": "Original customer-facing interface copy",
+  "rules": [
+    "Write concrete actions and outcomes in the final user's language. Avoid stock contrast slogans and rhetorical em or en dashes.",
+    "Match labels to real behavior. Do not invent testimonials, customer counts, prices, security claims, or other product evidence. Label demonstration content."
+  ]
+}

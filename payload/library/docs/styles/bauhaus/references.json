@@ -1,0 +1,65 @@
+[
+  {
+    "id": "bauhaus-1",
+    "title": "Workshop school: Public page",
+    "image": "images/bauhaus/example-01.png",
+    "html": "images/bauhaus/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Function-related form; elementary geometry; proportion; selective primary colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using geometric decoration with no connection to the content."
+    },
+    "sha256": "9ab7d546db012f5d37719110c4369e402f2b55ce1863ea5e56684c9aab233528",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "bauhaus-2",
+    "title": "Furniture catalog: Product workspace",
+    "image": "images/bauhaus/example-02.png",
+    "html": "images/bauhaus/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Function-related form; elementary geometry; proportion; selective primary colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using geometric decoration with no connection to the content."
+    },
+    "sha256": "4300863e6d47cbd6baa671d0c7448562546908863a0bbe51031b9c7c1e29a989",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "bauhaus-3",
+    "title": "Architecture program: Editorial composition",
+    "image": "images/bauhaus/example-03.png",
+    "html": "images/bauhaus/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Function-related form; elementary geometry; proportion; selective primary colors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using geometric decoration with no connection to the content."
+    },
+    "sha256": "1c33ddeb231ac60abbec7c19dedb2e952498e8767b4ff9a8bccd183c6ea558fe",
+    "width": 1440,
+    "height": 960
+  }
+]

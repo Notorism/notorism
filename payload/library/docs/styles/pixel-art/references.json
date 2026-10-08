@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pixel-art-1",
+    "title": "Game studio: Public page",
+    "image": "images/pixel-art/example-01.png",
+    "html": "images/pixel-art/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Crisp pixels; limited palette; recognizable silhouette; integer scaling.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Pixelating body fonts or interpolating sprites with blur."
+    },
+    "sha256": "d8032063c51ffd020ae66fd36c3c38f114a4d065645190bc4248f2c2e3457e4b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "pixel-art-2",
+    "title": "Map club: Product workspace",
+    "image": "images/pixel-art/example-02.png",
+    "html": "images/pixel-art/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Crisp pixels; limited palette; recognizable silhouette; integer scaling.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Pixelating body fonts or interpolating sprites with blur."
+    },
+    "sha256": "72b2d52e5780d5bc81d102613c08562da6efe70c70239fa0001d95ed1d484a31",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "pixel-art-3",
+    "title": "Sprite gallery: Editorial composition",
+    "image": "images/pixel-art/example-03.png",
+    "html": "images/pixel-art/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Crisp pixels; limited palette; recognizable silhouette; integer scaling.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Pixelating body fonts or interpolating sprites with blur."
+    },
+    "sha256": "20b5b054f62248660c1e587e984936bd8642442de0834941fbe8b760dd2d51c3",
+    "width": 1440,
+    "height": 960
+  }
+]

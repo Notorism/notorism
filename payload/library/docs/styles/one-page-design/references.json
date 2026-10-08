@@ -1,0 +1,65 @@
+[
+  {
+    "id": "one-page-design-1",
+    "title": "Local workshop: Public page",
+    "image": "images/one-page-design/example-01.png",
+    "html": "images/one-page-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Short sequence; anchors; decision progression; contextual action; edited content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding a huge site in endless scrolling."
+    },
+    "sha256": "37856dca735b7d4e85a8d05eee8456a2a340564e4494ad9c4f3c1e06792b19e6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "one-page-design-2",
+    "title": "Event registration: Product workspace",
+    "image": "images/one-page-design/example-02.png",
+    "html": "images/one-page-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Short sequence; anchors; decision progression; contextual action; edited content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding a huge site in endless scrolling."
+    },
+    "sha256": "9317ad556b0ea8174dec651e6c75d2293dd3cf2522e37d86f2ef79592f424f54",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "one-page-design-3",
+    "title": "Compact portfolio: Editorial composition",
+    "image": "images/one-page-design/example-03.png",
+    "html": "images/one-page-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Short sequence; anchors; decision progression; contextual action; edited content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding a huge site in endless scrolling."
+    },
+    "sha256": "7c5d974dd9cf8c1d2c79fafb846e98f8ca86a09fa182a50d2e2f8652a887f730",
+    "width": 1440,
+    "height": 960
+  }
+]

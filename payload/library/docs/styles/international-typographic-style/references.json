@@ -1,0 +1,65 @@
+[
+  {
+    "id": "international-typographic-style-1",
+    "title": "Cultural calendar: Public page",
+    "image": "images/international-typographic-style/example-01.png",
+    "html": "images/international-typographic-style/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Modular columns; precise alignment; text rhythm; scale and weight hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting this as an unrelated movement independent of Swiss Design."
+    },
+    "sha256": "d56b7117fe41e417c2f3e026ab8200734f6382827b97cb1321fb3dbfc6de53ad",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "international-typographic-style-2",
+    "title": "Research index: Product workspace",
+    "image": "images/international-typographic-style/example-02.png",
+    "html": "images/international-typographic-style/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Modular columns; precise alignment; text rhythm; scale and weight hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting this as an unrelated movement independent of Swiss Design."
+    },
+    "sha256": "a87be699c0d44d188fb619b51f898c772c1acde7e61e33ee7f4e6b8018d36c2c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "international-typographic-style-3",
+    "title": "Typography exhibition: Editorial composition",
+    "image": "images/international-typographic-style/example-03.png",
+    "html": "images/international-typographic-style/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Modular columns; precise alignment; text rhythm; scale and weight hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting this as an unrelated movement independent of Swiss Design."
+    },
+    "sha256": "0f680cb63bac56ea5c1fe22abd01b16a60d4ddc6e659d9f080bd05e22f4b3feb",
+    "width": 1440,
+    "height": 960
+  }
+]

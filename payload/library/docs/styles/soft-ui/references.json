@@ -1,0 +1,65 @@
+[
+  {
+    "id": "soft-ui-1",
+    "title": "Health journal: Public page",
+    "image": "images/soft-ui/example-01.png",
+    "html": "images/soft-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Moderate curves; soft edges; functional contrast; light separation shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Erasing control boundaries in pursuit of softness."
+    },
+    "sha256": "550c1c9c21fa78c71edd98dc351cc676b548a754b05eae0e821c8b0eb3816e4c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "soft-ui-2",
+    "title": "Reading diary: Product workspace",
+    "image": "images/soft-ui/example-02.png",
+    "html": "images/soft-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Moderate curves; soft edges; functional contrast; light separation shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Erasing control boundaries in pursuit of softness."
+    },
+    "sha256": "e3107928ad9bac8a7742523935ed75595a507890e0134add6ab2e7ab70c468ed",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "soft-ui-3",
+    "title": "Personal calendar: Editorial composition",
+    "image": "images/soft-ui/example-03.png",
+    "html": "images/soft-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Moderate curves; soft edges; functional contrast; light separation shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Erasing control boundaries in pursuit of softness."
+    },
+    "sha256": "2f3bc0dbd58c8b85ef39ae40bb5da65316440629262126e18ed906212154cfea",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "webgl-3d-experience-1",
+    "title": "Object configurator: Public page",
+    "image": "images/webgl-3d-experience/example-01.png",
+    "html": "images/webgl-3d-experience/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Includes an actual WebGL fragment-shader study, with a static fallback when WebGL is unavailable.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Camera; lighting; controls; loading state; 2D fallback; render budget.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Denying content when GPU or JavaScript fails."
+    },
+    "sha256": "0b03d2fc9202b11b7302135c86abf10573c8d9c1830e76568f870d06de0c33e7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "webgl-3d-experience-2",
+    "title": "Virtual museum: Product workspace",
+    "image": "images/webgl-3d-experience/example-02.png",
+    "html": "images/webgl-3d-experience/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Includes an actual WebGL fragment-shader study, with a static fallback when WebGL is unavailable.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Camera; lighting; controls; loading state; 2D fallback; render budget.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Denying content when GPU or JavaScript fails."
+    },
+    "sha256": "4bfcd29badc2d0619f65cb05cc7fd54dcd9ee4c689b825f5718d4c694f214dba",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "webgl-3d-experience-3",
+    "title": "Exhibition map: Editorial composition",
+    "image": "images/webgl-3d-experience/example-03.png",
+    "html": "images/webgl-3d-experience/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Includes an actual WebGL fragment-shader study, with a static fallback when WebGL is unavailable.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Camera; lighting; controls; loading state; 2D fallback; render budget.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Denying content when GPU or JavaScript fails."
+    },
+    "sha256": "ddbcb4ed8acfba0e4d3541213101193a62b469b924e27af869501efb3d7233cf",
+    "width": 1440,
+    "height": 960
+  }
+]

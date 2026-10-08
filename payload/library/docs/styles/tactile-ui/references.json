@@ -1,0 +1,65 @@
+[
+  {
+    "id": "tactile-ui-1",
+    "title": "Mixing desk: Public page",
+    "image": "images/tactile-ui/example-01.png",
+    "html": "images/tactile-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Visible pressure; edges; small displacement; active-state feedback; consistent material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming real haptic feedback when only visual animation exists."
+    },
+    "sha256": "83abf7c62418345aae42dac01c0f02f6cc32d1152b713caa17c4e2d0983518af",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "tactile-ui-2",
+    "title": "Instrument controls: Product workspace",
+    "image": "images/tactile-ui/example-02.png",
+    "html": "images/tactile-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Visible pressure; edges; small displacement; active-state feedback; consistent material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming real haptic feedback when only visual animation exists."
+    },
+    "sha256": "f42e71bc17a288fd894850641fa04785b2d9b378a9ed9494cee8ffbfb4f4cd23",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "tactile-ui-3",
+    "title": "Object configurator: Editorial composition",
+    "image": "images/tactile-ui/example-03.png",
+    "html": "images/tactile-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Visible pressure; edges; small displacement; active-state feedback; consistent material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming real haptic feedback when only visual animation exists."
+    },
+    "sha256": "c10c54260ae81da48c2761919b22ad92ee39e0e1b5e50bede529b30839223dd6",
+    "width": 1440,
+    "height": 960
+  }
+]

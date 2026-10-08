@@ -1,0 +1,65 @@
+[
+  {
+    "id": "immersive-storytelling-1",
+    "title": "Territory documentary: Public page",
+    "image": "images/immersive-storytelling/example-01.png",
+    "html": "images/immersive-storytelling/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Narrative; agency; understandable transitions; optional audio; exit route.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Autoplay, disorientation, or experiences with no text alternative."
+    },
+    "sha256": "21233c1b3c0fedc0d6267cf71a9e550a41e4e9df20a590f66e2c475d6a3f6ccc",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "immersive-storytelling-2",
+    "title": "Memory museum: Product workspace",
+    "image": "images/immersive-storytelling/example-02.png",
+    "html": "images/immersive-storytelling/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Narrative; agency; understandable transitions; optional audio; exit route.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Autoplay, disorientation, or experiences with no text alternative."
+    },
+    "sha256": "38f6ba1bc34c2a20b8582dc61bfa7ab3a979fea9fe4d4a37d3e9742464cee1bb",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "immersive-storytelling-3",
+    "title": "Community history: Editorial composition",
+    "image": "images/immersive-storytelling/example-03.png",
+    "html": "images/immersive-storytelling/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Narrative; agency; understandable transitions; optional audio; exit route.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Autoplay, disorientation, or experiences with no text alternative."
+    },
+    "sha256": "94d13a26847337bcc17ff8137c885405f64e2e03f7d288d4d8976d0f147ab639",
+    "width": 1440,
+    "height": 960
+  }
+]

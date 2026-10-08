@@ -1,0 +1,65 @@
+[
+  {
+    "id": "flat-design-1",
+    "title": "Urban mobility: Public page",
+    "image": "images/flat-design/example-01.png",
+    "html": "images/flat-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Color planes; simple vectors; clear type; states that do not depend on shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making interactive elements look like static text."
+    },
+    "sha256": "a1cf12ddc5f834c2694c230a5129549bfcf6fcf1f450463ec19af43da73a91c7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "flat-design-2",
+    "title": "Course registration: Product workspace",
+    "image": "images/flat-design/example-02.png",
+    "html": "images/flat-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Color planes; simple vectors; clear type; states that do not depend on shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making interactive elements look like static text."
+    },
+    "sha256": "6e7341e739d6c32618c94a3e3778b014453d8a5536a071e712d157884422b99b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "flat-design-3",
+    "title": "Public library: Editorial composition",
+    "image": "images/flat-design/example-03.png",
+    "html": "images/flat-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Color planes; simple vectors; clear type; states that do not depend on shadows.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making interactive elements look like static text."
+    },
+    "sha256": "25764068d183141cf2b89d15daa47b3834a9fc6c3afc8359632e9a2f432c0eb7",
+    "width": 1440,
+    "height": 960
+  }
+]

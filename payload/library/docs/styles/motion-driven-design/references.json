@@ -1,0 +1,65 @@
+[
+  {
+    "id": "motion-driven-design-1",
+    "title": "Dance festival: Public page",
+    "image": "images/motion-driven-design/example-01.png",
+    "html": "images/motion-driven-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Timing; sequence; causal transitions; complete resting state; reduced alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding content until animation or prioritizing spectacle over task completion."
+    },
+    "sha256": "bc9336d8a9635077348201ee74b26c04263abdef90f792ed767baa9c13f69197",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "motion-driven-design-2",
+    "title": "Audiovisual brand: Product workspace",
+    "image": "images/motion-driven-design/example-02.png",
+    "html": "images/motion-driven-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Timing; sequence; causal transitions; complete resting state; reduced alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding content until animation or prioritizing spectacle over task completion."
+    },
+    "sha256": "1412f6cb7c2c5af53868872aa7c7919dde32786fbd24683bdc13d17cea246936",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "motion-driven-design-3",
+    "title": "Animation portfolio: Editorial composition",
+    "image": "images/motion-driven-design/example-03.png",
+    "html": "images/motion-driven-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Timing; sequence; causal transitions; complete resting state; reduced alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding content until animation or prioritizing spectacle over task completion."
+    },
+    "sha256": "d9ec33f4d49f7644bb1b534758e0fc822d9bf4450cf9deea193d0c344c0b505a",
+    "width": 1440,
+    "height": 960
+  }
+]

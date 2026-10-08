@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gradient-mesh-1",
+    "title": "Cosmetics brand: Public page",
+    "image": "images/gradient-mesh/example-01.png",
+    "html": "images/gradient-mesh/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Multiple color centers; organic transitions; quiet reading zones.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a basic two-color interpolation a complex mesh."
+    },
+    "sha256": "da0877425676692964e126e65cef497366ed64b8660587c3c7d11dc96ba5ed07",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gradient-mesh-2",
+    "title": "Color research: Product workspace",
+    "image": "images/gradient-mesh/example-02.png",
+    "html": "images/gradient-mesh/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Multiple color centers; organic transitions; quiet reading zones.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a basic two-color interpolation a complex mesh."
+    },
+    "sha256": "1e054631d747be400b030ac6ae4e9a4a0dadea9770f7b7adeb24a4d5576b9edd",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gradient-mesh-3",
+    "title": "Audiovisual festival: Editorial composition",
+    "image": "images/gradient-mesh/example-03.png",
+    "html": "images/gradient-mesh/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Multiple color centers; organic transitions; quiet reading zones.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a basic two-color interpolation a complex mesh."
+    },
+    "sha256": "bd228c468445ac61a5004bdce34fba10c8a0129d18725ebd7d0537230c4a9793",
+    "width": 1440,
+    "height": 960
+  }
+]

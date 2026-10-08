@@ -1,0 +1,65 @@
+[
+  {
+    "id": "synthwave-1",
+    "title": "Synthesizer festival: Public page",
+    "image": "images/synthwave/example-01.png",
+    "html": "images/synthwave/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Neon; horizon; nocturnal contrast; color bands; sonic atmosphere.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating every background and obscuring service content."
+    },
+    "sha256": "3f1c0b61b3b563d8a7ec88e19f504be8418ad1ea71a9703ae3b64175d1cf4b84",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "synthwave-2",
+    "title": "Audio studio: Product workspace",
+    "image": "images/synthwave/example-02.png",
+    "html": "images/synthwave/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Neon; horizon; nocturnal contrast; color bands; sonic atmosphere.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating every background and obscuring service content."
+    },
+    "sha256": "b047ab32a62596771db0740d8e72c3c7d72a110b9545bc798e72b1e97269c262",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "synthwave-3",
+    "title": "Vinyl catalog: Editorial composition",
+    "image": "images/synthwave/example-03.png",
+    "html": "images/synthwave/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Neon; horizon; nocturnal contrast; color bands; sonic atmosphere.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating every background and obscuring service content."
+    },
+    "sha256": "f7fae893d5f81ed2e089ccb15fe61f260bd2d61f15766ba2b6137a00311093ef",
+    "width": 1440,
+    "height": 960
+  }
+]

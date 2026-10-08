@@ -1,0 +1,65 @@
+[
+  {
+    "id": "constructivism-1",
+    "title": "Poster exhibition: Public page",
+    "image": "images/constructivism/example-01.png",
+    "html": "images/constructivism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Diagonals; geometry; red blocks; forceful type; montage.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using diagonals that destroy reading order."
+    },
+    "sha256": "580ddf57c938a0952bf74b6c497286641312901f682c9696f19d9a6804e17ef3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "constructivism-2",
+    "title": "Cultural manifesto: Product workspace",
+    "image": "images/constructivism/example-02.png",
+    "html": "images/constructivism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Diagonals; geometry; red blocks; forceful type; montage.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using diagonals that destroy reading order."
+    },
+    "sha256": "f3ba4c30d61c0d4ae0221b481ce612c8e038d817e626ff410011f0ae42a2ff75",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "constructivism-3",
+    "title": "Workshop program: Editorial composition",
+    "image": "images/constructivism/example-03.png",
+    "html": "images/constructivism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Diagonals; geometry; red blocks; forceful type; montage.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using diagonals that destroy reading order."
+    },
+    "sha256": "32b3881294f56f098a786378f399ae216fd9ea6d3fb80b43d22ac08cd729091c",
+    "width": 1440,
+    "height": 960
+  }
+]

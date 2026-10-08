@@ -1,0 +1,65 @@
+[
+  {
+    "id": "data-dense-dashboard-1",
+    "title": "Stock control: Public page",
+    "image": "images/data-dense-dashboard/example-01.png",
+    "html": "images/data-dense-dashboard/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Useful summary; tables; honest scales; filters; units; states; controlled density.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing metrics or making color the only severity signal."
+    },
+    "sha256": "6194da2dd857939fc189cdb1bf2698bba673c1434b5465dd5ab5e2bf6a62380c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "data-dense-dashboard-2",
+    "title": "Field research: Product workspace",
+    "image": "images/data-dense-dashboard/example-02.png",
+    "html": "images/data-dense-dashboard/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Useful summary; tables; honest scales; filters; units; states; controlled density.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing metrics or making color the only severity signal."
+    },
+    "sha256": "f644fff1b904a5d461d1d9261a1c67281b259399e5644209b0eb8be732dd064c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "data-dense-dashboard-3",
+    "title": "Transport operations: Editorial composition",
+    "image": "images/data-dense-dashboard/example-03.png",
+    "html": "images/data-dense-dashboard/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Useful summary; tables; honest scales; filters; units; states; controlled density.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing metrics or making color the only severity signal."
+    },
+    "sha256": "2b9ea148e130d61d5fcabdf24ebe7cd6dbd00224f47f8364cd23fd013ea004cb",
+    "width": 1440,
+    "height": 960
+  }
+]

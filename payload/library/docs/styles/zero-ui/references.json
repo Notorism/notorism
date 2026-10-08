@@ -1,0 +1,65 @@
+[
+  {
+    "id": "zero-ui-1",
+    "title": "Calendar assistant: Public page",
+    "image": "images/zero-ui/example-01.png",
+    "html": "images/zero-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A visible explanation of a contextual interaction. It does not implement voice recognition, sensors, or device automation.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Context; perceptible feedback; control; confirmation for consequential actions; visual alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding automation, excluding people, or promising total invisibility."
+    },
+    "sha256": "2359a8f3006468945edc911f77d8839ca838985328f4933f55124081a2330e97",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "zero-ui-2",
+    "title": "Environment controls: Product workspace",
+    "image": "images/zero-ui/example-02.png",
+    "html": "images/zero-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A visible explanation of a contextual interaction. It does not implement voice recognition, sensors, or device automation.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Context; perceptible feedback; control; confirmation for consequential actions; visual alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding automation, excluding people, or promising total invisibility."
+    },
+    "sha256": "0e9558026f8d35669924d77e58c3384bea32fffa7ea2502653ec920e8bdcade5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "zero-ui-3",
+    "title": "Contextual guide: Editorial composition",
+    "image": "images/zero-ui/example-03.png",
+    "html": "images/zero-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A visible explanation of a contextual interaction. It does not implement voice recognition, sensors, or device automation.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Context; perceptible feedback; control; confirmation for consequential actions; visual alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding automation, excluding people, or promising total invisibility."
+    },
+    "sha256": "68920838c780aa05af82ab7158a18dbc5daa44294178266d73c7aeeff77df9b7",
+    "width": 1440,
+    "height": 960
+  }
+]

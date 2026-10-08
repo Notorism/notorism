@@ -1,0 +1,65 @@
+[
+  {
+    "id": "typography-first-1",
+    "title": "Type studio: Public page",
+    "image": "images/typography-first/example-01.png",
+    "html": "images/typography-first/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Scale; weight; leading; width; reading rhythm; contrasting roles.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Exotic fonts without hierarchy or language support."
+    },
+    "sha256": "0f2608472aec3d4954e7fa22d81595e50c9bb3156246c3f545dee274def71575",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "typography-first-2",
+    "title": "Writing conference: Product workspace",
+    "image": "images/typography-first/example-02.png",
+    "html": "images/typography-first/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Scale; weight; leading; width; reading rhythm; contrasting roles.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Exotic fonts without hierarchy or language support."
+    },
+    "sha256": "b3d7feedf587e7c3110584022111a07b5ea41f5693be1f41e10652d2b4c8c9b0",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "typography-first-3",
+    "title": "Essay publication: Editorial composition",
+    "image": "images/typography-first/example-03.png",
+    "html": "images/typography-first/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Scale; weight; leading; width; reading rhythm; contrasting roles.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Exotic fonts without hierarchy or language support."
+    },
+    "sha256": "1634aece0b77b55ea386938fa4785e15932f7f550643aa597057ebde44b63139",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "kinetic-typography-1",
+    "title": "Poetry festival: Public page",
+    "image": "images/kinetic-typography/example-01.png",
+    "html": "images/kinetic-typography/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Type rhythm; coordinated entrances; readable duration; static version.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving essential text continuously or preventing reading and selection."
+    },
+    "sha256": "aa7edf35844d55f546bdc0e8a8f37496d50916a96799da0fc52a940bd9453716",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "kinetic-typography-2",
+    "title": "Title studio: Product workspace",
+    "image": "images/kinetic-typography/example-02.png",
+    "html": "images/kinetic-typography/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Type rhythm; coordinated entrances; readable duration; static version.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving essential text continuously or preventing reading and selection."
+    },
+    "sha256": "5a9f20e5af4ff678a00a1aa44c414e4a1d396db69fa0724e415afa3a9850992d",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "kinetic-typography-3",
+    "title": "Music archive: Editorial composition",
+    "image": "images/kinetic-typography/example-03.png",
+    "html": "images/kinetic-typography/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Type rhythm; coordinated entrances; readable duration; static version.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving essential text continuously or preventing reading and selection."
+    },
+    "sha256": "efeb471ca656df375dbb223ca04b5e60ad86c68b6f33b443763f43b4ef2ccba2",
+    "width": 1440,
+    "height": 960
+  }
+]

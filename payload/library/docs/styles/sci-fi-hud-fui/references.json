@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sci-fi-hud-fui-1",
+    "title": "Orbital simulation: Public page",
+    "image": "images/sci-fi-hud-fui/example-01.png",
+    "html": "images/sci-fi-hud-fui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Reticles; grouped readings; data relationships; vectors; instrumental hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using random data and microtext as decoration."
+    },
+    "sha256": "35235ebfcfeaa03dfac2c5527d7ab2b49a59247219af1e95bbdd99270ce75476",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "sci-fi-hud-fui-2",
+    "title": "Space game: Product workspace",
+    "image": "images/sci-fi-hud-fui/example-02.png",
+    "html": "images/sci-fi-hud-fui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Reticles; grouped readings; data relationships; vectors; instrumental hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using random data and microtext as decoration."
+    },
+    "sha256": "aea4ae3c15cfa19ddb5517781a09d8953e4b2a95a3763310cda3a82c34b4884f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "sci-fi-hud-fui-3",
+    "title": "Science exhibition: Editorial composition",
+    "image": "images/sci-fi-hud-fui/example-03.png",
+    "html": "images/sci-fi-hud-fui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Reticles; grouped readings; data relationships; vectors; instrumental hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using random data and microtext as decoration."
+    },
+    "sha256": "cc34cd1659f887df6423dc46a8109159c4e39fb765af8d76a7e07c02e7bd10b5",
+    "width": 1440,
+    "height": 960
+  }
+]

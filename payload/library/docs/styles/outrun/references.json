@@ -1,0 +1,65 @@
+[
+  {
+    "id": "outrun-1",
+    "title": "Car gathering: Public page",
+    "image": "images/outrun/example-01.png",
+    "html": "images/outrun/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Road perspective; luminous horizon; stripes; directional motion; grid.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Treating synthwave and outrun as rigidly separated independent histories."
+    },
+    "sha256": "294700e160250ad8cebbb1ea3b175d3a128e069f53d928f85aec9554b79e14a1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "outrun-2",
+    "title": "Racing game: Product workspace",
+    "image": "images/outrun/example-02.png",
+    "html": "images/outrun/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Road perspective; luminous horizon; stripes; directional motion; grid.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Treating synthwave and outrun as rigidly separated independent histories."
+    },
+    "sha256": "90dadb5d5a172214a8f96dc8b63e265942a4a2c4d7ff1fa51b104179a1af3d36",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "outrun-3",
+    "title": "Night festival: Editorial composition",
+    "image": "images/outrun/example-03.png",
+    "html": "images/outrun/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Road perspective; luminous horizon; stripes; directional motion; grid.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Treating synthwave and outrun as rigidly separated independent histories."
+    },
+    "sha256": "99105a248e4e7ab09bb9630d096fd82768476e7c62179b49daef2d19a40d8eae",
+    "width": 1440,
+    "height": 960
+  }
+]

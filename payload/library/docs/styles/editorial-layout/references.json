@@ -1,0 +1,65 @@
+[
+  {
+    "id": "editorial-layout-1",
+    "title": "Architecture magazine: Public page",
+    "image": "images/editorial-layout/example-01.png",
+    "html": "images/editorial-layout/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Columns; calls; captions; breathing room; dialogue between title and image.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing articles, issue numbers, and facts to fill space."
+    },
+    "sha256": "563ed27dcd10637d2ab5bc65d836d824f8cf83348096e896e4bc77aef883be5f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "editorial-layout-2",
+    "title": "Photo essay: Product workspace",
+    "image": "images/editorial-layout/example-02.png",
+    "html": "images/editorial-layout/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Columns; calls; captions; breathing room; dialogue between title and image.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing articles, issue numbers, and facts to fill space."
+    },
+    "sha256": "cc3beaed2b28f070ca230e4bedd33838c519d0ce6f4b5500d7a31895a8a1da03",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "editorial-layout-3",
+    "title": "Culture archive: Editorial composition",
+    "image": "images/editorial-layout/example-03.png",
+    "html": "images/editorial-layout/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Columns; calls; captions; breathing room; dialogue between title and image.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing articles, issue numbers, and facts to fill space."
+    },
+    "sha256": "58f227bc723578624ce648153ce19fb4234a2268dc94431417a322f8a5823eb7",
+    "width": 1440,
+    "height": 960
+  }
+]

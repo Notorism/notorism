@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hand-drawn-design-1",
+    "title": "Recipe notebook: Public page",
+    "image": "images/hand-drawn-design/example-01.png",
+    "html": "images/hand-drawn-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Irregular line; personal marks; simple figures; legible type; manual accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Handwriting fonts in long passages or doodles used as filler."
+    },
+    "sha256": "53de4c0c42d6f4821adc68c1f6590a2bcfcf51c2c424055232bf5d93e1540f9a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hand-drawn-design-2",
+    "title": "Illustration studio: Product workspace",
+    "image": "images/hand-drawn-design/example-02.png",
+    "html": "images/hand-drawn-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Irregular line; personal marks; simple figures; legible type; manual accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Handwriting fonts in long passages or doodles used as filler."
+    },
+    "sha256": "e0f52d53873dc877cf0f610901eb069eb4960cd89ae8aceaee6e4ef3f3f8445a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hand-drawn-design-3",
+    "title": "Community workshop: Editorial composition",
+    "image": "images/hand-drawn-design/example-03.png",
+    "html": "images/hand-drawn-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Irregular line; personal marks; simple figures; legible type; manual accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Handwriting fonts in long passages or doodles used as filler."
+    },
+    "sha256": "d3c4a2589e5c10b93a1c3f7dca77b9c88c0f4a908a1d8ddb8c379f475d490ea4",
+    "width": 1440,
+    "height": 960
+  }
+]

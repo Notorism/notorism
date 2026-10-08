@@ -1,0 +1,65 @@
+[
+  {
+    "id": "generative-design-1",
+    "title": "Pattern archive: Public page",
+    "image": "images/generative-design/example-01.png",
+    "html": "images/generative-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Explicit rules; seed; limits; data relationship; stable composition.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Random numbers without purpose or unreadable generated layouts."
+    },
+    "sha256": "2e59a9816330396e33f6fd96a42f980921df7f719d23cf68bde4f3460843cd14",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "generative-design-2",
+    "title": "Code festival: Product workspace",
+    "image": "images/generative-design/example-02.png",
+    "html": "images/generative-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Explicit rules; seed; limits; data relationship; stable composition.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Random numbers without purpose or unreadable generated layouts."
+    },
+    "sha256": "23306e5179cf53756d49160165ce48dcd41132d940a8cfe5bfe555849de794d1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "generative-design-3",
+    "title": "Map research: Editorial composition",
+    "image": "images/generative-design/example-03.png",
+    "html": "images/generative-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Explicit rules; seed; limits; data relationship; stable composition.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Random numbers without purpose or unreadable generated layouts."
+    },
+    "sha256": "711393a31ba2d862cf5fb2c610ac5d15087660470d73906cc2fabab4e2b6b184",
+    "width": 1440,
+    "height": 960
+  }
+]

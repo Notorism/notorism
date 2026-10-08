@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "palette": {
+    "red": "#FF3215",
+    "ink": "#121212",
+    "paper": "#DEDCC8"
+  },
+  "photographs": [
+    {
+      "file": "david.webp",
+      "original": ".research/sculptures/david-head.jpg",
+      "artist": "Michelangelo Buonarroti (cast after)",
+      "collection": "Statens Museum for Kunst",
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_Buonarroti,_Hoved_fra_statuen_af_David,_,_KAS2232,_Statens_Museum_for_Kunst.jpg",
+      "download": "https://iip.smk.dk/iiif/jp2/mp48sh580_KAS2232_-_Head_of_David.tif.jp2/full/1600,/0/default.jpg"
+    },
+    {
+      "file": "hebe.webp",
+      "original": ".research/sculptures/hebe.jpg",
+      "artist": "Bertel Thorvaldsen",
+      "photographer": "Thorvaldsens Museum / Jakob Faurvig",
+      "license": "CC0-1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hebe_by_Bertel_Thorvaldsen_(A874).jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hebe_by_Bertel_Thorvaldsen_%28A874%29.jpg"
+    },
+    {
+      "file": "hand.webp",
+      "original": ".research/sculptures/hand.jpg",
+      "artist": "Auguste Rodin",
+      "photographer": "The Metropolitan Museum of Art",
+      "license": "CC0-1.0 / Open Access public domain",
+      "source": "https://www.metmuseum.org/art/collection/search/191852",
+      "download": "https://images.metmuseum.org/CRDImages/es/original/DP-12973-001.jpg"
+    },
+    {
+      "file": "pointing-hand.webp",
+      "original": ".research/sculptures/pointing-hand.jpg",
+      "artist": "Unknown Roman sculptor",
+      "collection": "Musei Capitolini, accession MC 786",
+      "photographer": "Jastrow (2006)",
+      "license": "Public domain, released by the photographer",
+      "source": "https://commons.wikimedia.org/wiki/File:Hand_Constantine_Musei_Capitolini_MC786.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hand_Constantine_Musei_Capitolini_MC786.jpg"
+    }
+  ],
+  "processing": "Crop and silhouette mask, Rec.709 luminance, contrast, four-tone quantization, 4x4 ordered Bayer dither; WebP outputs. The gaze crop is mirrored in CSS to face the release headline. The Constantine fragment is rotated to indicate the installation text. Sculpture proportions are preserved.",
+  "studies": [
+    {
+      "file": "study-1.webp",
+      "source": "payload/library/images/swiss-design/example-01.png",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "study-2.webp",
+      "source": "payload/library/images/brutalism/example-02.png",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "study-3.webp",
+      "source": "payload/library/images/dithering/example-03.png",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "study-4.webp",
+      "source": "payload/library/images/constructivism/example-01.png",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "study-5.webp",
+      "source": "payload/library/images/editorial-layout/example-02.png",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "study-6.webp",
+      "source": "payload/library/images/art-deco/example-03.png",
+      "license": "Apache-2.0"
+    }
+  ]
+}

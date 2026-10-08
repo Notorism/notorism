@@ -1,0 +1,65 @@
+[
+  {
+    "id": "duotone-1",
+    "title": "Cultural festival: Public page",
+    "image": "images/duotone/example-01.png",
+    "html": "images/duotone/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Two colors; preserved luminance; unified image; unfiltered body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming two-ink printing for a piece relying on many colors."
+    },
+    "sha256": "684409559df41c234b2d6fb44b8de4709fe6f8f13f350f9e6bf928566d4f1d09",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "duotone-2",
+    "title": "Portrait essay: Product workspace",
+    "image": "images/duotone/example-02.png",
+    "html": "images/duotone/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Two colors; preserved luminance; unified image; unfiltered body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming two-ink printing for a piece relying on many colors."
+    },
+    "sha256": "992b2d4fa26cf206efc42af8493ddcc35329dab1a2afdd925e04b68e58a38444",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "duotone-3",
+    "title": "Music catalog: Editorial composition",
+    "image": "images/duotone/example-03.png",
+    "html": "images/duotone/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Two colors; preserved luminance; unified image; unfiltered body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Claiming two-ink printing for a piece relying on many colors."
+    },
+    "sha256": "7bccdcb88be7b7a0860bafcd9600c46e05d3da8c4b0c64fcdd7b730f5fb730d4",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,5190 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "language": "en",
+  "styleCount": 110,
+  "imageCount": 330,
+  "files": [
+    {
+      "path": "bin/artifact.mjs",
+      "sha256": "06ebc1c36b180d5b05a808b1089c3863e608820f75918c9f7cd4bf1066053b78",
+      "size": 17577
+    },
+    {
+      "path": "bin/notorism-session-start.mjs",
+      "sha256": "fe402d737f9c9c24ef5af4639dfc2b98c5a0e1c63e03b18ba0556e4b9f6c963e",
+      "size": 7784
+    },
+    {
+      "path": "catalog.json",
+      "sha256": "c3114a3412bf9024ee7671beeed959e1b9cc4133f4f67da79df57f2c6ab413ef",
+      "size": 495547
+    },
+    {
+      "path": "contracts/artifact.json",
+      "sha256": "a5836fbac069a95bf82738b3ae5547b3ac2a362ede233b14bd9d8764616846c0",
+      "size": 564
+    },
+    {
+      "path": "contracts/assets.json",
+      "sha256": "53a283cb383d97c33068d39d685bc5e6900ff9dafdcb1dd9ecb7a49fd158fbad",
+      "size": 466
+    },
+    {
+      "path": "contracts/copy.json",
+      "sha256": "9d44ec7ad481270dde038c877dde7b58750ac550bbfd45e85823f8854db6b64f",
+      "size": 423
+    },
+    {
+      "path": "contracts/review.json",
+      "sha256": "e423f667dd0fa1b388409186112dd30eae1f6788746237ca03dae6c7642c868e",
+      "size": 434
+    },
+    {
+      "path": "contracts/scope.json",
+      "sha256": "ef73cfbe59b97ad8676e0324665f9436492eea2d7e914e26fd7a0696f0d0423a",
+      "size": 410
+    },
+    {
+      "path": "contracts/visual-direction.json",
+      "sha256": "6c6f21e5616dc14152e9ff566bcb7a3d1e77c00009f97684a6e9bb22d3df4430",
+      "size": 479
+    },
+    {
+      "path": "docs/foundations/accessibility.md",
+      "sha256": "5335c121e7880091efc96479330188d2707356e72015ad34b7e7e08c062340b1",
+      "size": 1825
+    },
+    {
+      "path": "docs/foundations/agent-protocol.md",
+      "sha256": "58847a69eec5f8d67e9eed7e55d112d1b172c0a7c88eed66d2fea80254c1f4ac",
+      "size": 2795
+    },
+    {
+      "path": "docs/foundations/art-direction.md",
+      "sha256": "fe2528dd4a795b5efb552ccceeb210e47be91428043797a0bc0f2978cc3bf7d3",
+      "size": 2695
+    },
+    {
+      "path": "docs/foundations/copywriting.md",
+      "sha256": "2e7e37685dd79ffc93c39df908262d32587fdd1c6afd9fa2ea409c151a0e03b6",
+      "size": 2197
+    },
+    {
+      "path": "docs/foundations/design-system.md",
+      "sha256": "bf8e7552bcdb5490894006700631c4e835991021aaa17a03eb092c3746d9d9b0",
+      "size": 1515
+    },
+    {
+      "path": "docs/foundations/images-and-icons.md",
+      "sha256": "369893b27967542a9171feec772bf61f1a9e0a079f9440f966f3d86495e52c8c",
+      "size": 2513
+    },
+    {
+      "path": "docs/foundations/information-design.md",
+      "sha256": "2d12275530b551dc2b03f1262efe320663be9a81a6e25e3f0a635f2fd4353521",
+      "size": 1336
+    },
+    {
+      "path": "docs/foundations/motion.md",
+      "sha256": "464f1a8812b814c1cca036d994b044fdaf6c25a5ae2befbeda74f10c04f65af4",
+      "size": 1228
+    },
+    {
+      "path": "docs/foundations/review.md",
+      "sha256": "92df0d0a7e667bcc606e71555258e95b13c8a680459d316d5da9b8f26a8d862d",
+      "size": 1353
+    },
+    {
+      "path": "docs/hooks/README.md",
+      "sha256": "3b20c9e82475fd9934d817025ef3149265c0eca126ea5741e1c7e8e0a8da8e24",
+      "size": 3959
+    },
+    {
+      "path": "docs/research/bibliography.md",
+      "sha256": "848f50912e7e83d508a76d7227b0140d29543ee2f099aec7324a10b62abf6b26",
+      "size": 4872
+    },
+    {
+      "path": "docs/research/render-report.json",
+      "sha256": "aa996074142e089a9c25aaa4fbd3e587ce1955203916f4fb4b7d4116f3f35bd0",
+      "size": 694
+    },
+    {
+      "path": "docs/research/source-inventory.json",
+      "sha256": "76c04191cf8c5c5d49a2fcc06c4722a4a480d27b8f440a2577f12fbc13940e8a",
+      "size": 26926
+    },
+    {
+      "path": "docs/research/source-map.md",
+      "sha256": "f733be2c93739da4e9d9b6859b740e8df9da410e5d4d608c97c53de93fa44bf2",
+      "size": 2973
+    },
+    {
+      "path": "docs/styles/3d-cgi-design/guide.md",
+      "sha256": "9a65220ddceff0454a2ac1a1422ec48472cb57de1e80ed7118c43b88c6596be6",
+      "size": 5159
+    },
+    {
+      "path": "docs/styles/3d-cgi-design/README.md",
+      "sha256": "b0baf53b26fc7d7f1bbc0333bc9ec8980387eaf23450a0ba46074fa53355d0b7",
+      "size": 929
+    },
+    {
+      "path": "docs/styles/3d-cgi-design/references.json",
+      "sha256": "c292b3c40359f5da7e73016600b89a882efbf9545a4b38bb9f45bdc501ae1cda",
+      "size": 3208
+    },
+    {
+      "path": "docs/styles/acid-graphics/guide.md",
+      "sha256": "ada65dde4950239954ab2c4d220d091e309a019d90c077846277024fda1d8581",
+      "size": 5271
+    },
+    {
+      "path": "docs/styles/acid-graphics/README.md",
+      "sha256": "27b06801647b597b5441c8389c4fba82fc9290899ae234ee605fc51e87ac3730",
+      "size": 927
+    },
+    {
+      "path": "docs/styles/acid-graphics/references.json",
+      "sha256": "f5cb62d7bcd969b5b726c782ec9e2a1a804d308601f136b1f4de03370236778a",
+      "size": 3281
+    },
+    {
+      "path": "docs/styles/anti-design/guide.md",
+      "sha256": "356e9be7538fd51cd0b134ab48be7d9506be363f99e6436d535b140723668818",
+      "size": 5368
+    },
+    {
+      "path": "docs/styles/anti-design/README.md",
+      "sha256": "2cd8f5c5a1794c18177f181ca2db3170ebe1316c72b51fe49de505314e49b8c3",
+      "size": 912
+    },
+    {
+      "path": "docs/styles/anti-design/references.json",
+      "sha256": "53f96c99ad1d226b09b44aa41c310a1c48f1eff6eac591c7f7483592243f9914",
+      "size": 3323
+    },
+    {
+      "path": "docs/styles/art-deco/guide.md",
+      "sha256": "b901beffdc451da99fe4e7cb8410cc13ad8d3bae6bfa54936c67bf9859fec44a",
+      "size": 5140
+    },
+    {
+      "path": "docs/styles/art-deco/README.md",
+      "sha256": "7216732b1f58638fc33c60c4c320b54ef3066acf95dd2b3062ecf1e78ce5f38e",
+      "size": 874
+    },
+    {
+      "path": "docs/styles/art-deco/references.json",
+      "sha256": "015958d12f57e5591aa87b83f6eb6fdf2162cbe646f81a693b3283f01e2770fd",
+      "size": 3195
+    },
+    {
+      "path": "docs/styles/art-nouveau/guide.md",
+      "sha256": "6b4a2af30a88332dbf7f14c90e085c651ec35ae2771b929e4134374363a82df5",
+      "size": 5134
+    },
+    {
+      "path": "docs/styles/art-nouveau/README.md",
+      "sha256": "1b32221a2b95c186a102fe77c6d361dc3e44c8c4ff23cc0ea6aabe9da1011808",
+      "size": 885
+    },
+    {
+      "path": "docs/styles/art-nouveau/references.json",
+      "sha256": "c02815739026ee22f2ca990a21325702ab91ad036c3ed07e3274c43bf6dcb3c7",
+      "size": 3251
+    },
+    {
+      "path": "docs/styles/ascii-art-design/guide.md",
+      "sha256": "e9fb1523a597ffde99ac59c628f7d114b233dafb13bddcc4b5cc8c9e7fd7749c",
+      "size": 5197
+    },
+    {
+      "path": "docs/styles/ascii-art-design/README.md",
+      "sha256": "610dd72b8a99739e152c8673b14632b72026f4be288f1e84d83cc9c71ec6953c",
+      "size": 943
+    },
+    {
+      "path": "docs/styles/ascii-art-design/references.json",
+      "sha256": "ae44776b3153a148029fdc0d206284244740ec57d8901edfa3832452aa8566d1",
+      "size": 3335
+    },
+    {
+      "path": "docs/styles/asymmetric-layout/guide.md",
+      "sha256": "0f809058e9d8b522754035f526a57f88d44c34de38ae354cb85da06152f17a50",
+      "size": 5154
+    },
+    {
+      "path": "docs/styles/asymmetric-layout/README.md",
+      "sha256": "ca021e8e151b41ea193e29377635cc4601b2d5a0cd173c11bbf1345355083ee3",
+      "size": 946
+    },
+    {
+      "path": "docs/styles/asymmetric-layout/references.json",
+      "sha256": "387a43b590008c7e18ae82efd2fa7451d1c6b5aa5d8e573fc5163b565b9a8bcc",
+      "size": 3240
+    },
+    {
+      "path": "docs/styles/aurora-ui/guide.md",
+      "sha256": "cea0ebc2a86d74ef45f66a3e845c5980b7621cb605bc8247dec6e7ca105d9a62",
+      "size": 5236
+    },
+    {
+      "path": "docs/styles/aurora-ui/README.md",
+      "sha256": "0541c57c902b3709ea8ee7b4f2e2d273d4f2e47574d06513dd07ed8ead81d6b2",
+      "size": 896
+    },
+    {
+      "path": "docs/styles/aurora-ui/references.json",
+      "sha256": "27452e478a52b3ca5e19016b40b8718fcdd1f3641bf4adf2220273af1163063a",
+      "size": 3218
+    },
+    {
+      "path": "docs/styles/bauhaus/guide.md",
+      "sha256": "94403cec251d1961d86eb00ae113e57de464f0d8a38701b21139411e408ba7a9",
+      "size": 5178
+    },
+    {
+      "path": "docs/styles/bauhaus/README.md",
+      "sha256": "d96ff52378802b6a2f18a64b80c14c5aa5dbadbed8266370d620487da694df73",
+      "size": 872
+    },
+    {
+      "path": "docs/styles/bauhaus/references.json",
+      "sha256": "3111ab0e2e5a6121f699a8c00cebd42468a1ed865a152204675aa097e145522b",
+      "size": 3236
+    },
+    {
+      "path": "docs/styles/bento-grid/guide.md",
+      "sha256": "f64d3b0bf758f06e17f77d930e3338385a8c90f0e7e6a98f59aadf70719fc714",
+      "size": 5176
+    },
+    {
+      "path": "docs/styles/bento-grid/README.md",
+      "sha256": "28b1e8f0488262cdb4ce2cf8ef9039b1aa82fd126811d50e1fda677dac078041",
+      "size": 898
+    },
+    {
+      "path": "docs/styles/bento-grid/references.json",
+      "sha256": "c25242c5ba3ccb2447eac7246587072316c8d8e79205a8640ae8de487d8865be",
+      "size": 3247
+    },
+    {
+      "path": "docs/styles/big-typography/guide.md",
+      "sha256": "8dffcf65b910852310ccf8f44c0ff08bdf6538674a8f27070d323a9db10ba404",
+      "size": 5159
+    },
+    {
+      "path": "docs/styles/big-typography/README.md",
+      "sha256": "b8e4eba0f7bd7a8fa2f03fa0819627e502bcd1401827253e41f7d924754eea86",
+      "size": 917
+    },
+    {
+      "path": "docs/styles/big-typography/references.json",
+      "sha256": "e55b440b4ef7cd6ab8f91ca10d5619143cf944f6a161d790639cff6dbcbb6cfd",
+      "size": 3271
+    },
+    {
+      "path": "docs/styles/biophilic-design/guide.md",
+      "sha256": "dd7047edb3c86b6e7d10bebf66576f3fb3d956af1fb5e3fce44a656d7432a0fc",
+      "size": 5193
+    },
+    {
+      "path": "docs/styles/biophilic-design/README.md",
+      "sha256": "dfb608115f42b3671291c510e0634ac340a49fc928784b05289f3f302ba97cb3",
+      "size": 929
+    },
+    {
+      "path": "docs/styles/biophilic-design/references.json",
+      "sha256": "656fad9c246afd12712c2f3e56e433e3495bfb81b707f3977e9e066bc32f9498",
+      "size": 3254
+    },
+    {
+      "path": "docs/styles/broken-grid/guide.md",
+      "sha256": "46c4e5090b85772cba7b885c76191d3d9855433ac0d9895eb0004fccb413b843",
+      "size": 5078
+    },
+    {
+      "path": "docs/styles/broken-grid/README.md",
+      "sha256": "fc4c8381ed3cfbc15b11376ac0205a5102278582986f20b999a7092dda7507f3",
+      "size": 912
+    },
+    {
+      "path": "docs/styles/broken-grid/references.json",
+      "sha256": "3f5727c07b120913ff9b03df1e402dbefd778872f21d85f4c85a569a4cdf24ae",
+      "size": 3185
+    },
+    {
+      "path": "docs/styles/brutalism/guide.md",
+      "sha256": "bcd0f4c17a7c5a97001f1e4f977adce54822e49fbb9940b733370f0b498a6723",
+      "size": 5292
+    },
+    {
+      "path": "docs/styles/brutalism/README.md",
+      "sha256": "acffbb92f81c97de74e8eda52bbcbea7c00ed84790124f23ddfdd9a19010cfd9",
+      "size": 901
+    },
+    {
+      "path": "docs/styles/brutalism/references.json",
+      "sha256": "97719d23bb35559a45cae8a5fed0c142bed7838b5c7b8f96a51a67ecb31bdd5a",
+      "size": 3287
+    },
+    {
+      "path": "docs/styles/card-based-design/guide.md",
+      "sha256": "4d2581af31e29fe4f8241a31c129017c48e6c0f3c129006aa7bbad8bceb22d2c",
+      "size": 5147
+    },
+    {
+      "path": "docs/styles/card-based-design/README.md",
+      "sha256": "5d1ce304f00357be3419e7f45d7e9aa53495223ac8a34f976717be48074b8702",
+      "size": 948
+    },
+    {
+      "path": "docs/styles/card-based-design/references.json",
+      "sha256": "ff9acb4f85daa947ee4bfb9153102d06036ed9fecba0a94033558932c0aac34e",
+      "size": 3275
+    },
+    {
+      "path": "docs/styles/chromatic-aberration/guide.md",
+      "sha256": "7148b5588d590d252cf67173c4946367cc8538f1558404eb1f2982b9cb4f05a0",
+      "size": 5224
+    },
+    {
+      "path": "docs/styles/chromatic-aberration/README.md",
+      "sha256": "7cd7d79ae86bb053cd1095dae912db2d73aaca2e1da33e880531064cd9542d72",
+      "size": 979
+    },
+    {
+      "path": "docs/styles/chromatic-aberration/references.json",
+      "sha256": "12b77d3648f19454b277289f9e3c6a28c3ef07e40e86a536277bc3c5098aadfb",
+      "size": 3292
+    },
+    {
+      "path": "docs/styles/chrome-metallic/guide.md",
+      "sha256": "4e597353e851fce7c09f6308d4448c5361be816499cc64883c51abb284559430",
+      "size": 5276
+    },
+    {
+      "path": "docs/styles/chrome-metallic/README.md",
+      "sha256": "57195157a4018fbcb852fba119b931306ccdb43b577c024398931114e666435f",
+      "size": 940
+    },
+    {
+      "path": "docs/styles/chrome-metallic/references.json",
+      "sha256": "15b22eac2f77fff78b3f84c427766e2aaff7bb83e02770f129432d29274c726c",
+      "size": 3335
+    },
+    {
+      "path": "docs/styles/claymorphism/guide.md",
+      "sha256": "9b949c84af4cdeb9a010c0ba35643f0022213adf003ffb99a9170995af7fe987",
+      "size": 5288
+    },
+    {
+      "path": "docs/styles/claymorphism/README.md",
+      "sha256": "6727d67c96f1e31bfe0d7de74217eaf489504da79602f896af484da04315b6fc",
+      "size": 917
+    },
+    {
+      "path": "docs/styles/claymorphism/references.json",
+      "sha256": "7739542e18c94875925d2a7b58335a2801d7ada921ec5b54dddfe023f1628adf",
+      "size": 3300
+    },
+    {
+      "path": "docs/styles/collage-design/guide.md",
+      "sha256": "effbc5aa68fcf52a9cf041ef7a4e5525aa707dc88a4a6e9069618bd5e203fa5d",
+      "size": 5194
+    },
+    {
+      "path": "docs/styles/collage-design/README.md",
+      "sha256": "76332ffc05e1e2901fd90a9b9f03b33038cbee49fd83473242713ee46ccdfdda",
+      "size": 935
+    },
+    {
+      "path": "docs/styles/collage-design/references.json",
+      "sha256": "882d8e5ff06fc7644a8c370adaac5f0909b126050b7034fc05cad6c19c510db6",
+      "size": 3227
+    },
+    {
+      "path": "docs/styles/combinations.md",
+      "sha256": "bd85322cce6d3da4db319acb79ccccc1b6095a2c5e3cdce2f1b6eb30b9f49bee",
+      "size": 1746
+    },
+    {
+      "path": "docs/styles/constructivism/guide.md",
+      "sha256": "b48d1534ea2bcc2fd6a19cc18318acc6831c77e2698396cd15d640b593ec0e58",
+      "size": 5125
+    },
+    {
+      "path": "docs/styles/constructivism/README.md",
+      "sha256": "bc862455637982f41bb805b58a752b995c5024050369291e848c845e0940e32f",
+      "size": 920
+    },
+    {
+      "path": "docs/styles/constructivism/references.json",
+      "sha256": "a26dcc0459de4206cc403e96764dec42a2b957de3ccedcede6be352a6cd8efbd",
+      "size": 3169
+    },
+    {
+      "path": "docs/styles/cybercore/guide.md",
+      "sha256": "b6b7e0a95121d086170ef8c78080640ffbb2b595bc0f41e07372d011f4fbd51b",
+      "size": 5205
+    },
+    {
+      "path": "docs/styles/cybercore/README.md",
+      "sha256": "6561f46c1fb8db3c2db3c4c43305443fd3f9553f81b109f4bcb180e82cc44050",
+      "size": 904
+    },
+    {
+      "path": "docs/styles/cybercore/references.json",
+      "sha256": "bfc65128eefb576ddd8c95472a608a5d2fb4b72d6d7d5af5f6b349a00df49f26",
+      "size": 3208
+    },
+    {
+      "path": "docs/styles/cyberpunk-ui/guide.md",
+      "sha256": "f38200bc8d25ba045736e28bcc03b5a4afb3f947d68dd3af8a172a0ff04bb593",
+      "size": 5257
+    },
+    {
+      "path": "docs/styles/cyberpunk-ui/README.md",
+      "sha256": "ddf7d7aefea4c6f1cf52dcbc7176c997b1dad8cfabe2d9ba0f2e17f8f34b8753",
+      "size": 926
+    },
+    {
+      "path": "docs/styles/cyberpunk-ui/references.json",
+      "sha256": "eb8b3c3fc7e72e48cbf1bc655d708e33d32494eb2d7ce11309b287e95c8b70b2",
+      "size": 3263
+    },
+    {
+      "path": "docs/styles/data-dense-dashboard/guide.md",
+      "sha256": "463dd844f0ecd6bbd67e28e5205002ac955b7d2eeea180771fa7b19ae96385d8",
+      "size": 5255
+    },
+    {
+      "path": "docs/styles/data-dense-dashboard/README.md",
+      "sha256": "b53d0269d0fe768c7ce90aa07c2810f307808501c696dc03dda83bbf9a0074a9",
+      "size": 967
+    },
+    {
+      "path": "docs/styles/data-dense-dashboard/references.json",
+      "sha256": "fd578973215f2b64108fa29f46a55b5fbcf11d976f5e8f1bc274e5352adebd9f",
+      "size": 3345
+    },
+    {
+      "path": "docs/styles/de-stijl/guide.md",
+      "sha256": "b2ba18966e3caaca53c319718557878c4c61093f33bb4afeacb73e1c53d98ff0",
+      "size": 5178
+    },
+    {
+      "path": "docs/styles/de-stijl/README.md",
+      "sha256": "060af68ceb614f4ab3ae9250b57468103df3636c8a6ad174849d97bc6002f2e7",
+      "size": 879
+    },
+    {
+      "path": "docs/styles/de-stijl/references.json",
+      "sha256": "1575d698d95080bef84cd14c052865cf36e5f121293cec8d60dcad913563b7d2",
+      "size": 3263
+    },
+    {
+      "path": "docs/styles/dieselpunk/guide.md",
+      "sha256": "27d415fffe4854906e962c2b5638c497d00d32c2bf7c44ac62f65aee75528235",
+      "size": 5241
+    },
+    {
+      "path": "docs/styles/dieselpunk/README.md",
+      "sha256": "9fd0c3242be85ca7ab0a4ddf460c1e494e48c33b85bdfca5f2662d3a83f0aef3",
+      "size": 907
+    },
+    {
+      "path": "docs/styles/dieselpunk/references.json",
+      "sha256": "76cd4cb0b322549a788f9bc630c079692957c9a1b12ec0c4c36b6991fc27cf45",
+      "size": 3267
+    },
+    {
+      "path": "docs/styles/dithering/guide.md",
+      "sha256": "dac392909331ba12b88e946ac78f0fa74def0271addb53ade4893caf6485b053",
+      "size": 5190
+    },
+    {
+      "path": "docs/styles/dithering/README.md",
+      "sha256": "ed9ffb5ab1184462060781c4305e14d1fafdc4afe19d72f034209f1993db53ad",
+      "size": 901
+    },
+    {
+      "path": "docs/styles/dithering/references.json",
+      "sha256": "04fa7d0ec5fa4ad5414f50c75ddf8e5ae5e18b8314059e148c38448d1ba3a759",
+      "size": 3246
+    },
+    {
+      "path": "docs/styles/duotone/guide.md",
+      "sha256": "98c20a7ee34575bd5d93ba42a1567532dfffe5807ff7eac2d4514e179811f233",
+      "size": 5107
+    },
+    {
+      "path": "docs/styles/duotone/README.md",
+      "sha256": "ef2f50e1162e3097247163a55852c15568f7c7abd4bad257389a9b9fb21aa8fc",
+      "size": 881
+    },
+    {
+      "path": "docs/styles/duotone/references.json",
+      "sha256": "a685dda363ded40912a53ac657e5b363540cdbea5420ce98288f353704267072",
+      "size": 3177
+    },
+    {
+      "path": "docs/styles/editorial-layout/guide.md",
+      "sha256": "42ed1ddea313388fbb47a1a4f30d71425ef74cb1e24418011b15edb68f0c7cee",
+      "size": 5199
+    },
+    {
+      "path": "docs/styles/editorial-layout/README.md",
+      "sha256": "7f6a7320ce9aef1cbfec2a9adf7d9f74c072dcc8ede0ff730772f56da5c9ad41",
+      "size": 939
+    },
+    {
+      "path": "docs/styles/editorial-layout/references.json",
+      "sha256": "5c96c5072b60a9680bf6c75f67488cff1c5df391b9720b7a97484e70a6b64242",
+      "size": 3288
+    },
+    {
+      "path": "docs/styles/film-grain/guide.md",
+      "sha256": "935be7cfd9c95f204fca98f577c6099a2c34b383f264bf4578b929150d78f7f6",
+      "size": 5156
+    },
+    {
+      "path": "docs/styles/film-grain/README.md",
+      "sha256": "7d6bda4a8e3927d297a962779e1412bb4cb01dfe0d2472f3c2c16d6b607ef69b",
+      "size": 902
+    },
+    {
+      "path": "docs/styles/film-grain/references.json",
+      "sha256": "9fb97b04d37581c74613f52dcb6547c031ca4d82807c37a620666cf8293be144",
+      "size": 3183
+    },
+    {
+      "path": "docs/styles/flat-design-2-0/guide.md",
+      "sha256": "2629eef4171d13ffd37ccc8c2f21876c1eda90228817e620804cd0da7e771115",
+      "size": 5175
+    },
+    {
+      "path": "docs/styles/flat-design-2-0/README.md",
+      "sha256": "f4bab8c889a78bebfb32641e6bb43f1d5dc4b2b044642de1447a3d18cde67b21",
+      "size": 934
+    },
+    {
+      "path": "docs/styles/flat-design-2-0/references.json",
+      "sha256": "5edfa1d154ad09c4471b77e42450b7907e24e3f56776330cbaadf17a9c8d1cf8",
+      "size": 3271
+    },
+    {
+      "path": "docs/styles/flat-design/guide.md",
+      "sha256": "2af534ae2f88fc925aac76644c2917a9f51f8d5dd49d26ec116159af772c6df7",
+      "size": 5209
+    },
+    {
+      "path": "docs/styles/flat-design/README.md",
+      "sha256": "bffe47e6b0c588d7d145c12d60b852fdfab4c90fba22166bcc42eebe8db244bc",
+      "size": 905
+    },
+    {
+      "path": "docs/styles/flat-design/references.json",
+      "sha256": "a0615427ad044612fcd049b25623ac1493d4e282c6d41bd9308b0189092f7acf",
+      "size": 3228
+    },
+    {
+      "path": "docs/styles/frutiger-aero/guide.md",
+      "sha256": "9da013c71e93a41713054206c6bcf64345c9181ea01d6b18fff098a260762598",
+      "size": 5199
+    },
+    {
+      "path": "docs/styles/frutiger-aero/README.md",
+      "sha256": "303fdaddc7b957a8eb5b3b65af21bb29a50fdc72b261d6aefc0644a1df817ff3",
+      "size": 926
+    },
+    {
+      "path": "docs/styles/frutiger-aero/references.json",
+      "sha256": "8cade3aeae6d301b9dd3514b5144666d507ea575df94f57d7b6e86c2f02fc3a4",
+      "size": 3211
+    },
+    {
+      "path": "docs/styles/frutiger-metro/guide.md",
+      "sha256": "764a47cf5fc6e9cc5c8bce1a43710b100efcafb5b4aaaefce0c56b0d00cb436f",
+      "size": 5200
+    },
+    {
+      "path": "docs/styles/frutiger-metro/README.md",
+      "sha256": "31894bd99492cbaf7b060ed3847497f224d25655032040bf288c6c1232338f7e",
+      "size": 933
+    },
+    {
+      "path": "docs/styles/frutiger-metro/references.json",
+      "sha256": "a4f22ca367befd6f3c5ac9506557067a72703be3b48dadb1f26c5f1495637f7a",
+      "size": 3208
+    },
+    {
+      "path": "docs/styles/full-bleed-design/guide.md",
+      "sha256": "6d87b3090aa0f84a8f1b1eb5f0709a00e2bee37743727f8a79a771a9b21297ba",
+      "size": 5182
+    },
+    {
+      "path": "docs/styles/full-bleed-design/README.md",
+      "sha256": "9709beb3ef21ef0b7ccf68afc1117ce665a43740f7e821ee7d007b6847e8609e",
+      "size": 951
+    },
+    {
+      "path": "docs/styles/full-bleed-design/references.json",
+      "sha256": "1b20f3280772d27c90822498271d4314be8d1f55304262c691a9a058bb39f142",
+      "size": 3263
+    },
+    {
+      "path": "docs/styles/gamified-design/guide.md",
+      "sha256": "bd3a396397d861ec777052c5b5f0217d0ee1e88f774b2c827442dc31d93526ca",
+      "size": 5324
+    },
+    {
+      "path": "docs/styles/gamified-design/README.md",
+      "sha256": "b2dcd5302d32c2b18b0f5d50106f09c044ebb187a98b60cd2458835898310da4",
+      "size": 933
+    },
+    {
+      "path": "docs/styles/gamified-design/references.json",
+      "sha256": "fc6e0c6d75c7e53cc46e6afb84c6be16a7408a45855acfcd56460c9e0a32c8b3",
+      "size": 3231
+    },
+    {
+      "path": "docs/styles/generative-design/guide.md",
+      "sha256": "bd2efae59109683cbdaf296fbf639e69be98d04d219043a04eff8e27b113f72b",
+      "size": 5307
+    },
+    {
+      "path": "docs/styles/generative-design/README.md",
+      "sha256": "a1e3bb4d39379f1c6374eaa6d41ed8a362fa6b13b2c56409aad538e57511e011",
+      "size": 940
+    },
+    {
+      "path": "docs/styles/generative-design/references.json",
+      "sha256": "69d71ab2e9fd9d0f5b20cd196a9bc01846fc8514b33ad0c40adfe6a2739db1f9",
+      "size": 3245
+    },
+    {
+      "path": "docs/styles/glassmorphism/guide.md",
+      "sha256": "5c533bbf4fce9859ac8d3eee5fc79730c5112a4f105418d6bf933663a01c3f04",
+      "size": 5248
+    },
+    {
+      "path": "docs/styles/glassmorphism/README.md",
+      "sha256": "561877dfea199bf28ecad7bf49c19248f120926990d37fc14722d3f9852c014b",
+      "size": 915
+    },
+    {
+      "path": "docs/styles/glassmorphism/references.json",
+      "sha256": "a5f3cb8239ac03ab7d3b48c40efb0d2b17049f6100ff5c1beecd3909147f17dc",
+      "size": 3282
+    },
+    {
+      "path": "docs/styles/glitch-art/guide.md",
+      "sha256": "c605a95a249a8e0d718d8b83b3ac628cea5d0290cfa44a38b4bab4acc2dc7a23",
+      "size": 5198
+    },
+    {
+      "path": "docs/styles/glitch-art/README.md",
+      "sha256": "1023cec5c97bb9bb18a4dea8ba9d1114fdbd6497bf7eebf6f25a456b82100bf3",
+      "size": 902
+    },
+    {
+      "path": "docs/styles/glitch-art/references.json",
+      "sha256": "4e47afcabc3ca3d75adb7530983fdb11ce0ba28b0cd284cc44d73cc0331a31cf",
+      "size": 3232
+    },
+    {
+      "path": "docs/styles/gradient-design/guide.md",
+      "sha256": "571f0d5049bf6a1cf0e251ae5ef544c65f6148b4a9de65d4ab353603e0378ef8",
+      "size": 5209
+    },
+    {
+      "path": "docs/styles/gradient-design/README.md",
+      "sha256": "655876ede894952e3cea2b134d920a92a82e42f5cc08fb3edf93b6699d18c60d",
+      "size": 935
+    },
+    {
+      "path": "docs/styles/gradient-design/references.json",
+      "sha256": "fabc164c0d0960d56caaad74bcde29e6898151f8eb6dc3f183238316f1ea5b29",
+      "size": 3280
+    },
+    {
+      "path": "docs/styles/gradient-mesh/guide.md",
+      "sha256": "6ca5caf0dc9a1609268dbef391d22f1644cf4d5783a605c7d48ad616deff7db7",
+      "size": 5196
+    },
+    {
+      "path": "docs/styles/gradient-mesh/README.md",
+      "sha256": "72bdc9a8bc1fc5a43f025cc6fa4bf265aadf9edd9b59a79f2602686eb31b9122",
+      "size": 921
+    },
+    {
+      "path": "docs/styles/gradient-mesh/references.json",
+      "sha256": "9362872c65fc09366faf0ce5c134546534e3df4b69e9dd66c244a9d6809c7c4c",
+      "size": 3221
+    },
+    {
+      "path": "docs/styles/grainy-gradients/guide.md",
+      "sha256": "b4276fd47152d8f28a1e83e999f6eef8efbde47c98349423bca8168301782678",
+      "size": 5159
+    },
+    {
+      "path": "docs/styles/grainy-gradients/README.md",
+      "sha256": "681fa85725716b3c62d0a9989d191380bbb824529a72b908f2ba579f41188b08",
+      "size": 937
+    },
+    {
+      "path": "docs/styles/grainy-gradients/references.json",
+      "sha256": "7a6ad7ee1dd8da02e5a54210faf1c55ae5fb807f4c6b9307de7578e4fe49867d",
+      "size": 3239
+    },
+    {
+      "path": "docs/styles/grunge-design/guide.md",
+      "sha256": "27573827fd4fdb2a72c4ef69bcf373b8bdf0e160ae8ce82ba7b4c54a424d0205",
+      "size": 5207
+    },
+    {
+      "path": "docs/styles/grunge-design/README.md",
+      "sha256": "21d25cff0bcbb5048f1e27ba702ccc9830c4701310785e11bcec3b1dc87e3b60",
+      "size": 918
+    },
+    {
+      "path": "docs/styles/grunge-design/references.json",
+      "sha256": "d30e0bcd9477914617fe7e22412f1a1310b5d27b777fdb70e20251b92c368fe1",
+      "size": 3210
+    },
+    {
+      "path": "docs/styles/halftone/guide.md",
+      "sha256": "bad41c1100d6d7cbefa732bb316303488b9fcd371e9fa754efb74d4c2b33039d",
+      "size": 5069
+    },
+    {
+      "path": "docs/styles/halftone/README.md",
+      "sha256": "a1dbe614c03d427018d2f12b0529d81aa4ccbdb6d48eedf10a76fe9e75d08e33",
+      "size": 885
+    },
+    {
+      "path": "docs/styles/halftone/references.json",
+      "sha256": "d3734ea320785dcda3d0fc39aabcc53d0e721ce2237cea45e3df171d5692158e",
+      "size": 3147
+    },
+    {
+      "path": "docs/styles/hand-drawn-design/guide.md",
+      "sha256": "e9b899b8ba90ab56cd9b0cf81f7bf7cc862f74f9f05d90cc457622d749fc4bca",
+      "size": 5261
+    },
+    {
+      "path": "docs/styles/hand-drawn-design/README.md",
+      "sha256": "8711035ffbb4dcc525ae1382fa43e9731c247ebc7e60c1d33ff79c8fb6ba8159",
+      "size": 959
+    },
+    {
+      "path": "docs/styles/hand-drawn-design/references.json",
+      "sha256": "dfc0aae208dcd3555ad20810cecb2ee1727271232c20e6cc2edd549ad5a652a5",
+      "size": 3314
+    },
+    {
+      "path": "docs/styles/hero-centric-design/guide.md",
+      "sha256": "3151d0be56326c6cd410e7576c0abf66eaa4cc72f71d70cda04031996330a522",
+      "size": 5224
+    },
+    {
+      "path": "docs/styles/hero-centric-design/README.md",
+      "sha256": "0868cd965dd1dd4f653cc882efb310824d1def1d526c4c93483f7c8421c85eb3",
+      "size": 966
+    },
+    {
+      "path": "docs/styles/hero-centric-design/references.json",
+      "sha256": "ad23dda88673a7e946124b3f1014ba93075a53886afb843036003e3c91ef3e77",
+      "size": 3273
+    },
+    {
+      "path": "docs/styles/horizontal-scrolling/guide.md",
+      "sha256": "313bd82ff8e3fe3b6486623cdbcb1a0ac0d47a1eb4f441af0746e0c4bb6116f0",
+      "size": 5266
+    },
+    {
+      "path": "docs/styles/horizontal-scrolling/README.md",
+      "sha256": "6954c974693772e9b41b1debd8d276ca739f9964f9bb549e6888c08cd64e7607",
+      "size": 967
+    },
+    {
+      "path": "docs/styles/horizontal-scrolling/references.json",
+      "sha256": "f72861c730a769a1952ab5c3b48588165b0a3bc4e4e76ca6e4ffe73cf45e2dfd",
+      "size": 3366
+    },
+    {
+      "path": "docs/styles/hyperrealistic-ui/guide.md",
+      "sha256": "b3537b706234b2a598a63bb8bc5674757d58abd1b30d5d8a1b40cd7c866da30c",
+      "size": 5319
+    },
+    {
+      "path": "docs/styles/hyperrealistic-ui/README.md",
+      "sha256": "e2bbbaceb7eb8034efc4794586b650489ccc678ff6bbc140a1a4f1cd48f52375",
+      "size": 949
+    },
+    {
+      "path": "docs/styles/hyperrealistic-ui/references.json",
+      "sha256": "14bc118d34038a77d88a25410d313f7c4bff045f9a0aff58b503a83bdc2aea99",
+      "size": 3341
+    },
+    {
+      "path": "docs/styles/immersive-storytelling/guide.md",
+      "sha256": "20e32b73b878cbccca320c287d54605acfcabaa850923c17cf9c4cd7de6702bb",
+      "size": 5385
+    },
+    {
+      "path": "docs/styles/immersive-storytelling/README.md",
+      "sha256": "9fa5f56c5e4e42c70fcb9712e0289952c4de2b13ba3151a4c7cce64a916a7378",
+      "size": 986
+    },
+    {
+      "path": "docs/styles/immersive-storytelling/references.json",
+      "sha256": "d6ab22af210c282ffd439fa0979143980e641e7b406ac86d8eff5bfb063e5477",
+      "size": 3328
+    },
+    {
+      "path": "docs/styles/INDEX.md",
+      "sha256": "5ee12e8e03ce373ada47b8c2d200e6c455e0666b1cb29bd5753e23ec83542271",
+      "size": 14209
+    },
+    {
+      "path": "docs/styles/industrial-design/guide.md",
+      "sha256": "9eecc13d6bcb025621d6b37e9a2f67f50b8c183eb8f943f56848044f58684b96",
+      "size": 5219
+    },
+    {
+      "path": "docs/styles/industrial-design/README.md",
+      "sha256": "56eeecf3a36742053f1ff6e8132a8cbd269ac61f25a171b7870afb34d4edefb0",
+      "size": 940
+    },
+    {
+      "path": "docs/styles/industrial-design/references.json",
+      "sha256": "a177d49f4c477b3c3d31f7a8ba928dac1ae5d96765f358e6c7a5bc64da5435f2",
+      "size": 3276
+    },
+    {
+      "path": "docs/styles/interactive-cursor/guide.md",
+      "sha256": "201a0771483866ffb662683c38750d9c31223159eefccdf600c49b79b90163c1",
+      "size": 5376
+    },
+    {
+      "path": "docs/styles/interactive-cursor/README.md",
+      "sha256": "c8c7873218a84966584f8e8a9f9f67f8b5e01d5c1c878fbaeb5d45055232fbf8",
+      "size": 955
+    },
+    {
+      "path": "docs/styles/interactive-cursor/references.json",
+      "sha256": "9af5b3fc55ee939507afb382f61f4aeb2db21633c0f5f4bf5d1bb9d517b7cf55",
+      "size": 3310
+    },
+    {
+      "path": "docs/styles/international-typographic-style/guide.md",
+      "sha256": "d3f2a17dd41f6978ffe6909e01e1e88cc4e46a64aa7b438fc1b8f21bba48e3a1",
+      "size": 5341
+    },
+    {
+      "path": "docs/styles/international-typographic-style/README.md",
+      "sha256": "298faa7f9d9568c072148c2001508ae6e53d10e59ef2465b433f4689a8eaf085",
+      "size": 1040
+    },
+    {
+      "path": "docs/styles/international-typographic-style/references.json",
+      "sha256": "1923cc948d696eb23867adebb13398e329c3e826673ddf3bebdc4c9d18722a17",
+      "size": 3461
+    },
+    {
+      "path": "docs/styles/isometric-design/guide.md",
+      "sha256": "ad4361202b0b0a11202f3649adb7e2ba194fb655cdadc885b10ea6ce9eb57686",
+      "size": 5244
+    },
+    {
+      "path": "docs/styles/isometric-design/README.md",
+      "sha256": "994980fb1cd7f47854dde8d82cd7f0168d1093101419ea53a78183dde3d12c65",
+      "size": 942
+    },
+    {
+      "path": "docs/styles/isometric-design/references.json",
+      "sha256": "300d263f9de20c5052afdd0f512d183cfe67e89669cb540a2fb440ced114be9d",
+      "size": 3293
+    },
+    {
+      "path": "docs/styles/japanese-minimalism/guide.md",
+      "sha256": "d53a5a8a7afa8e6c0bd93dcb6c1a9299d82ce1d1a40417442caee8455566e812",
+      "size": 5226
+    },
+    {
+      "path": "docs/styles/japanese-minimalism/README.md",
+      "sha256": "ec010f2c6146c2656952aef7d1a0cedbac80fdd6ba73a085ee8c1195ba37981a",
+      "size": 946
+    },
+    {
+      "path": "docs/styles/japanese-minimalism/references.json",
+      "sha256": "e73b6b1ddbeb7d21a78d848c57a4bf6538071815031ebad2f7490123a7436f4e",
+      "size": 3313
+    },
+    {
+      "path": "docs/styles/kinetic-typography/guide.md",
+      "sha256": "b2b91baa5cd5f72cbf871b748bd2895508ca169c006ecf3bf583177d8fe9e308",
+      "size": 5303
+    },
+    {
+      "path": "docs/styles/kinetic-typography/README.md",
+      "sha256": "a51f140adafef660f8c21e94635b9b49469f032625395670c59a7a8a4f64f490",
+      "size": 946
+    },
+    {
+      "path": "docs/styles/kinetic-typography/references.json",
+      "sha256": "85459562d8a832ab71bce0835cd67f80c6a110974bd3e9fc0de10e7aa66f9880",
+      "size": 3284
+    },
+    {
+      "path": "docs/styles/line-art/guide.md",
+      "sha256": "6f3785005bedce27e4a4496027fca8f1a4f22af287e2dabe7b4efc01103eb87d",
+      "size": 5129
+    },
+    {
+      "path": "docs/styles/line-art/README.md",
+      "sha256": "72c0d8ccfa983bacac3c59ad2b099db6f9a28eb6d1d06202396ff9acba9ddc37",
+      "size": 889
+    },
+    {
+      "path": "docs/styles/line-art/references.json",
+      "sha256": "728ca36c1ce4113682a204937b3e2178f3361f9e1baa568c9a04b4218957dcbe",
+      "size": 3160
+    },
+    {
+      "path": "docs/styles/liquid-glass/guide.md",
+      "sha256": "d3a32f335706b8dc9306d8710b691ba0ce55b17ac5db17d78914397f26a37258",
+      "size": 5359
+    },
+    {
+      "path": "docs/styles/liquid-glass/README.md",
+      "sha256": "0cb86190b16acca403d6c6c0a5a52f734456cb5472a775ea5f6df600192c46f6",
+      "size": 908
+    },
+    {
+      "path": "docs/styles/liquid-glass/references.json",
+      "sha256": "d24ef00a57e46804787a872034b61a127f9e486780d5fe25ed60e5958171070d",
+      "size": 3276
+    },
+    {
+      "path": "docs/styles/low-poly/guide.md",
+      "sha256": "68dcb84cddd2f9974f6b380bf211bd2c9a4e59576e350b287ef57593e5fa94c8",
+      "size": 5181
+    },
+    {
+      "path": "docs/styles/low-poly/README.md",
+      "sha256": "a78da2a58b9f164aee0792f67ef5c798f5ddcf1aa4c7b2dccf2035cab34357f7",
+      "size": 888
+    },
+    {
+      "path": "docs/styles/low-poly/references.json",
+      "sha256": "9465161463d3a7597a56ded76f117b5df1bb3e68fe22a4ec6db098eb00d513cf",
+      "size": 3207
+    },
+    {
+      "path": "docs/styles/magnetic-ui/guide.md",
+      "sha256": "3f4cc3bc1ee3839646c9f4ceb4fc3472a20946e2a7e0ac08a42214c2f850ae47",
+      "size": 5350
+    },
+    {
+      "path": "docs/styles/magnetic-ui/README.md",
+      "sha256": "e43c6a8a85ec3bbe229d5a23f7968a5b28301832088b7ced4efcc987c6c19084",
+      "size": 909
+    },
+    {
+      "path": "docs/styles/magnetic-ui/references.json",
+      "sha256": "072631ea061860fe046bcc8bc5701c4bc6f86e9175529fd0cd3f0f3926c9ac98",
+      "size": 3262
+    },
+    {
+      "path": "docs/styles/masonry-layout/guide.md",
+      "sha256": "2f65e6a9ed348f652f31d8f8da5faa52ae004ae6b975da9d2f5819039d8122c6",
+      "size": 5162
+    },
+    {
+      "path": "docs/styles/masonry-layout/README.md",
+      "sha256": "695c76cd2c49c57f5ae64052a8cc5d33cf65f12050243852019be59011f90ae1",
+      "size": 928
+    },
+    {
+      "path": "docs/styles/masonry-layout/references.json",
+      "sha256": "4ca1489d932fc2d0ece3a154299fb22c75e0c4df13bb393fc25e99c4259f9bf1",
+      "size": 3252
+    },
+    {
+      "path": "docs/styles/material-design/guide.md",
+      "sha256": "e60247d3fef35e7ce529b7159d8b68ebbcba8df43517b84a98a39f633233b722",
+      "size": 5147
+    },
+    {
+      "path": "docs/styles/material-design/README.md",
+      "sha256": "dacdf6c60bbdabcbc9dfb102a1101bab1f739ae83382dbb9ac7790d654a1a913",
+      "size": 931
+    },
+    {
+      "path": "docs/styles/material-design/references.json",
+      "sha256": "362d2ab1f0ed3c513388d46019e7c7cc19e24933fec7ced0c025db20ed1d6a29",
+      "size": 3247
+    },
+    {
+      "path": "docs/styles/maximalism/guide.md",
+      "sha256": "1b78ca96773b7509bfa9db1fe3ea19311aec8863ea7c3d8286cc721407474105",
+      "size": 5196
+    },
+    {
+      "path": "docs/styles/maximalism/README.md",
+      "sha256": "0dde4ce0d9effbd9ce50a529317622105474570d0852fd26f80270401efa7675",
+      "size": 892
+    },
+    {
+      "path": "docs/styles/maximalism/references.json",
+      "sha256": "4c8c3e04cbe6fc31b0cd40caf6be0c246afe5060068c2dc1a768481a4902e3fd",
+      "size": 3253
+    },
+    {
+      "path": "docs/styles/memphis-design/guide.md",
+      "sha256": "803b7b72ae02d6e75b3e15ac362ee40e51852fd66dc8cb97a8dc2701467e4f65",
+      "size": 5144
+    },
+    {
+      "path": "docs/styles/memphis-design/README.md",
+      "sha256": "0ce75d99778a21ca22f17f2c9a22716044ffc197e0b2c5ce1b33722b4648854c",
+      "size": 916
+    },
+    {
+      "path": "docs/styles/memphis-design/references.json",
+      "sha256": "3bcbe34b70d8186fd279192ca4c3ca9d402abde1a716c443ffa4ea3cb82985e5",
+      "size": 3228
+    },
+    {
+      "path": "docs/styles/micro-interactions/guide.md",
+      "sha256": "ab4cfdad70139c8bfcda483611e53c5c91cb90aa95a1412c5c31ffd1d23c1658",
+      "size": 5366
+    },
+    {
+      "path": "docs/styles/micro-interactions/README.md",
+      "sha256": "32613021b5741196bc54163da530f86ce3295c79d95193024f044247e03552dc",
+      "size": 950
+    },
+    {
+      "path": "docs/styles/micro-interactions/references.json",
+      "sha256": "fb32fcd6a5959f7a9f7c7767f7968bfb953b79e8426a1c1187ea0c3882fa2c90",
+      "size": 3306
+    },
+    {
+      "path": "docs/styles/minimalism/guide.md",
+      "sha256": "f68961cd04e09c74de61af26eaf5a51e294cf0434109093c651ca7bdaee69438",
+      "size": 5215
+    },
+    {
+      "path": "docs/styles/minimalism/README.md",
+      "sha256": "33830f9ca593b2aaf43c4f260d779fc0c25e9398daf406a7588760e5d894da89",
+      "size": 903
+    },
+    {
+      "path": "docs/styles/minimalism/references.json",
+      "sha256": "11891cc9919d7cece9ff5ff1ba964abe1837f4cfdb71bcb7fbc7eed78f7e463b",
+      "size": 3225
+    },
+    {
+      "path": "docs/styles/mixed-media-design/guide.md",
+      "sha256": "de0c902d34e36aeddbad037ebd2e2a18e554448c314500f30f8485e4dd12930e",
+      "size": 5232
+    },
+    {
+      "path": "docs/styles/mixed-media-design/README.md",
+      "sha256": "6df7aa08b5ae8fbcf59158c007db2e3165b1eb884bd252f71e66211b7edc8bcf",
+      "size": 958
+    },
+    {
+      "path": "docs/styles/mixed-media-design/references.json",
+      "sha256": "a7b13611ad55ecd1631b58eb08f8defc6c951c4354437393e404a7aeaed1f6de",
+      "size": 3255
+    },
+    {
+      "path": "docs/styles/modernism/guide.md",
+      "sha256": "e41f0caa0346c453528ecca2e05d6a056c4b9f9ad27a8e7a1d3044f828a6e2f5",
+      "size": 5100
+    },
+    {
+      "path": "docs/styles/modernism/README.md",
+      "sha256": "4e90e4155d7ae91eb427dc30a1f14fa725f69f8eeb64337e30ea5ad579f17e64",
+      "size": 882
+    },
+    {
+      "path": "docs/styles/modernism/references.json",
+      "sha256": "9615c243e3e6454223b393eec43f63da733a80e802809673ec4ed9ba8aa09b26",
+      "size": 3163
+    },
+    {
+      "path": "docs/styles/modular-grid/guide.md",
+      "sha256": "4b0b90609c360dbc25fad9c82fc6165d37aab331ced109aba7290f49e9cb08e3",
+      "size": 5111
+    },
+    {
+      "path": "docs/styles/modular-grid/README.md",
+      "sha256": "73a2dea34e4d0adc95d3162f1acdf64f687ace9a7cc41aea5de633a3c401043e",
+      "size": 916
+    },
+    {
+      "path": "docs/styles/modular-grid/references.json",
+      "sha256": "49342e93f8085ea2f56da6d177baa90bea4d4f5ca9a47c4a90cc8aa53bc4cff9",
+      "size": 3194
+    },
+    {
+      "path": "docs/styles/monochromatic-design/guide.md",
+      "sha256": "b95a400c0bd89cd460a3a3e6891254307d9701bf5c44c57d82d2fdad13c7f71e",
+      "size": 5263
+    },
+    {
+      "path": "docs/styles/monochromatic-design/README.md",
+      "sha256": "4669e9ab62ba424c2ea572284e2c5125e3b28039065dc45d48ea031afc0e59af",
+      "size": 971
+    },
+    {
+      "path": "docs/styles/monochromatic-design/references.json",
+      "sha256": "2d531c462944442c25969047ccbd30f39fe4957112559539e6d2ad6c48b7cfaa",
+      "size": 3294
+    },
+    {
+      "path": "docs/styles/motion-driven-design/guide.md",
+      "sha256": "08cc082bc0132c4e4af85d24eecaef1619c9a15187656dc72ce1bc50e42f3f5b",
+      "size": 5417
+    },
+    {
+      "path": "docs/styles/motion-driven-design/README.md",
+      "sha256": "e42bb4d65b8c825c562d281906a98d1b074ba8c13f46b95960566b55032b7726",
+      "size": 970
+    },
+    {
+      "path": "docs/styles/motion-driven-design/references.json",
+      "sha256": "d1ceefb3ee0d1f2fc2ca9badca6740b573c050f5c5099931edec0c049b714d92",
+      "size": 3369
+    },
+    {
+      "path": "docs/styles/neo-brutalism/guide.md",
+      "sha256": "bf47f2214aad11403411e4b15db094d4fbec82ac352b5e830d6bde3413211d27",
+      "size": 5224
+    },
+    {
+      "path": "docs/styles/neo-brutalism/README.md",
+      "sha256": "b3b230d463319e2f28a2ce4e6ddce06bf9337212cab6a90caea86bf35acf024a",
+      "size": 917
+    },
+    {
+      "path": "docs/styles/neo-brutalism/references.json",
+      "sha256": "058a00db0cabbc1692679b7e718e33b1adef5114f4c5e6344072519884d56a3a",
+      "size": 3266
+    },
+    {
+      "path": "docs/styles/neon-glow/guide.md",
+      "sha256": "706789141dbaee5e8ca0a2c273ca8daabb42103c4efaeb58092fb19fb6141d5d",
+      "size": 5074
+    },
+    {
+      "path": "docs/styles/neon-glow/README.md",
+      "sha256": "83f9c96080b2a32fda2c60c1f65ee401653eea699fbe748c88a274fc38444a56",
+      "size": 891
+    },
+    {
+      "path": "docs/styles/neon-glow/references.json",
+      "sha256": "fd8c67dfba591eb1667717624368a73215489e617dabbab01ce609e82f0f6638",
+      "size": 3149
+    },
+    {
+      "path": "docs/styles/neumorphism/guide.md",
+      "sha256": "888d3822140f3d7700bfb8fd2724fa70370f6e3a19394a92f0af9a67d53c2a9d",
+      "size": 5288
+    },
+    {
+      "path": "docs/styles/neumorphism/README.md",
+      "sha256": "bacafd5f48dffb6ccd300ea4075a0990f2c784608e2528b0fabfcdae8a3db0cc",
+      "size": 897
+    },
+    {
+      "path": "docs/styles/neumorphism/references.json",
+      "sha256": "b061da69cd32c4604b12a6401b3199db4ef30198d99c5d46f0c6f3c5cffcdc5f",
+      "size": 3296
+    },
+    {
+      "path": "docs/styles/one-page-design/guide.md",
+      "sha256": "680260a282653379978bbf6823a1544f544f13c6c3e9071658f73ff987b0f12b",
+      "size": 5191
+    },
+    {
+      "path": "docs/styles/one-page-design/README.md",
+      "sha256": "c34e013a8b2dbf8a516701ac26937ba7a0dbfe93acd38f6abf232fe5a246d430",
+      "size": 934
+    },
+    {
+      "path": "docs/styles/one-page-design/references.json",
+      "sha256": "f12f89d375ce94f4d8e59e73352fd0b7c9f944c5cd3ddf8016d60baf204f9cf8",
+      "size": 3242
+    },
+    {
+      "path": "docs/styles/organic-design/guide.md",
+      "sha256": "f3d7ed136c60abac46ada32aacc1125edda5acaf81b1a516d290f03675a871f0",
+      "size": 5186
+    },
+    {
+      "path": "docs/styles/organic-design/README.md",
+      "sha256": "c036f46b37fbf0b63727d3092df4605cc3ee33b5755d58577280dabfaf0634e1",
+      "size": 912
+    },
+    {
+      "path": "docs/styles/organic-design/references.json",
+      "sha256": "bd2726df8dc39b2d12749255c7e85a5e91351e405e4b8b1d307d9dcf1ca1ec29",
+      "size": 3242
+    },
+    {
+      "path": "docs/styles/outrun/guide.md",
+      "sha256": "a061b0b554b4118842501ccc4203e975b5470d5e5edbf835a357d0aea07463a5",
+      "size": 5151
+    },
+    {
+      "path": "docs/styles/outrun/README.md",
+      "sha256": "45b3e8c81f18a7a842bd0987a271648e3ec1a4b1aa4ebab63c247e14cef0e173",
+      "size": 870
+    },
+    {
+      "path": "docs/styles/outrun/references.json",
+      "sha256": "c165fc8ae8a2f671391df4a2191752d881a4a6878791fa4a5db6e16ba530045e",
+      "size": 3216
+    },
+    {
+      "path": "docs/styles/paper-cut-design/guide.md",
+      "sha256": "285afbae3cb7ee27ece8e2ea42638ddf397c45050f2b6f5e7ac891d5bb204399",
+      "size": 5134
+    },
+    {
+      "path": "docs/styles/paper-cut-design/README.md",
+      "sha256": "7df70fc53ae5c4b1f07616ef2ce94683968dd6b02a7b59560ff7b5b729123e96",
+      "size": 950
+    },
+    {
+      "path": "docs/styles/paper-cut-design/references.json",
+      "sha256": "3d824036303b8edf454c8af44eff2acd58e9d24300158726e43b662b865bad23",
+      "size": 3240
+    },
+    {
+      "path": "docs/styles/parallax-design/guide.md",
+      "sha256": "be9617e40a4fc7dfe09e9b6d704acaf0d160264a9930ebcfefb66704e05d617f",
+      "size": 5288
+    },
+    {
+      "path": "docs/styles/parallax-design/README.md",
+      "sha256": "0c2d074fe23c265b21261633711ea551235a6794ce64c220159e3ffd57a87fba",
+      "size": 931
+    },
+    {
+      "path": "docs/styles/parallax-design/references.json",
+      "sha256": "ed4f348d7ab930981a2952c74e5ebfe896e8ed9e0809c9541a1020d8d827e3b6",
+      "size": 3256
+    },
+    {
+      "path": "docs/styles/pixel-art/guide.md",
+      "sha256": "f557bee0bab3fc57f64bbd0ab1a87bc95826840b81bdee3eff2429d812e8ed85",
+      "size": 5132
+    },
+    {
+      "path": "docs/styles/pixel-art/README.md",
+      "sha256": "6e2593250cd25ef103d9f64921bf6c51548878bc606c5c001bcaf33a73b16dd5",
+      "size": 886
+    },
+    {
+      "path": "docs/styles/pixel-art/references.json",
+      "sha256": "baac2d6c1e5db5e3c5067edee2c1af7a122c02351a3c1c6858718cbba18ea50f",
+      "size": 3196
+    },
+    {
+      "path": "docs/styles/pop-art/guide.md",
+      "sha256": "cc74fa53779d97d71e8f25d02aef81f88b67c62f8fa0c32a21f1b7b0e2bf97cb",
+      "size": 5098
+    },
+    {
+      "path": "docs/styles/pop-art/README.md",
+      "sha256": "73dd04a06467262c1e9e82ec0b7ec0ddddd333205daac5597ba29b6006bac3c3",
+      "size": 864
+    },
+    {
+      "path": "docs/styles/pop-art/references.json",
+      "sha256": "273ad3f79026412b60153d2a0f5523421505791e417fa3c36136e92964f53642",
+      "size": 3195
+    },
+    {
+      "path": "docs/styles/postmodernism/guide.md",
+      "sha256": "d66697e140f312029bbf62b14cd9142f7035c9c434b511ea9ed7b25d0fac8773",
+      "size": 5288
+    },
+    {
+      "path": "docs/styles/postmodernism/README.md",
+      "sha256": "9625273e5f001354e0001b1904853c6a2693b5078dd716f0314c8430ab325698",
+      "size": 919
+    },
+    {
+      "path": "docs/styles/postmodernism/references.json",
+      "sha256": "145ef754c7a764bc14b917569a4fcc00c30e9fc5f2bdc100123f18cc64becbb3",
+      "size": 3304
+    },
+    {
+      "path": "docs/styles/punk-design/guide.md",
+      "sha256": "c877b0c3027636cf2092117494089c7b082886c172042b6528dd7b00f47ab882",
+      "size": 5206
+    },
+    {
+      "path": "docs/styles/punk-design/README.md",
+      "sha256": "598e2d9848971e64389da2cc29675a6e68a628f895393aa3c39882808e2ccb76",
+      "size": 888
+    },
+    {
+      "path": "docs/styles/punk-design/references.json",
+      "sha256": "3ea5ee2f4fa1246ef76510df9125a8728d56482df0e71e8e6979830cb84e8975",
+      "size": 3266
+    },
+    {
+      "path": "docs/styles/retro-arcade/guide.md",
+      "sha256": "ec66ebce7db3f8d7caabb2c2986d442b0579441e41753c015f74be00993447fb",
+      "size": 5195
+    },
+    {
+      "path": "docs/styles/retro-arcade/README.md",
+      "sha256": "270ea7b34f538f6e72c3ff634592c28e4f5c079e4ae3cfe272df596c598a3d96",
+      "size": 920
+    },
+    {
+      "path": "docs/styles/retro-arcade/references.json",
+      "sha256": "a80562b889a78a03a38a171b9b4c3c2a25be0e238b23953a63189802398774c7",
+      "size": 3224
+    },
+    {
+      "path": "docs/styles/retro-futurism/guide.md",
+      "sha256": "e4d23f16042e822b3dc531cb549fc4de6f6232c2d3119c16be55da837b79acf5",
+      "size": 5258
+    },
+    {
+      "path": "docs/styles/retro-futurism/README.md",
+      "sha256": "1d01adc9f4fabb92f23d98cb7ce322f63c788f6f6080d2e4ed7671060ac4ce7f",
+      "size": 938
+    },
+    {
+      "path": "docs/styles/retro-futurism/references.json",
+      "sha256": "5434c76072f53c04be3db79ee4a8b6775d75cef740e8aa7bfa8fc06adc00b596",
+      "size": 3273
+    },
+    {
+      "path": "docs/styles/risograph/guide.md",
+      "sha256": "2c0e069fdb598bb2cd763e7ac34d8116dcedd3c9d93ac97f177a81e5415fcae2",
+      "size": 5168
+    },
+    {
+      "path": "docs/styles/risograph/README.md",
+      "sha256": "86a8e67ffbaa002037f813936bfc798db9ced9061431b32c691d5a67583ea8ce",
+      "size": 895
+    },
+    {
+      "path": "docs/styles/risograph/references.json",
+      "sha256": "f8170aa707d1010785ec142d45e997a6f34db69766cd37992119059613143059",
+      "size": 3213
+    },
+    {
+      "path": "docs/styles/scandinavian-design/guide.md",
+      "sha256": "ea45a9ec813c93b942c9f0b2bcfdda019126999ebdbcbbdddf2fbdbac2600bb1",
+      "size": 5242
+    },
+    {
+      "path": "docs/styles/scandinavian-design/README.md",
+      "sha256": "b081c09e9295571d7cd24c5e15889679c6684dfa1cdfc8688f15b0e9dc7e4169",
+      "size": 954
+    },
+    {
+      "path": "docs/styles/scandinavian-design/references.json",
+      "sha256": "432ae27646d0019b81ed00f6222f6c7202a2457bbefc81917ee4196cf80f448b",
+      "size": 3327
+    },
+    {
+      "path": "docs/styles/sci-fi-hud-fui/guide.md",
+      "sha256": "0f923064ae7253457ad732acd07130582aa4210ffd721df1373ff62de499cb36",
+      "size": 5262
+    },
+    {
+      "path": "docs/styles/sci-fi-hud-fui/README.md",
+      "sha256": "40e093dce8561ca0504829139a80d80093ff7a3fdbd2d8dcaf785a7af4c95f58",
+      "size": 936
+    },
+    {
+      "path": "docs/styles/sci-fi-hud-fui/references.json",
+      "sha256": "32a656d8536120d47adc36f732a90bf700bf4a12215ac90ea399bc6df06747c8",
+      "size": 3245
+    },
+    {
+      "path": "docs/styles/scroll-driven-animation/guide.md",
+      "sha256": "dbc71684f7e0d12dc6dee9e73d734dd0fa3638fc391067cd328728600872d442",
+      "size": 5173
+    },
+    {
+      "path": "docs/styles/scroll-driven-animation/README.md",
+      "sha256": "2cb11d2549128d1b70e22d190fe62242a5b1a4435a5c0ea25775bdcacb426c60",
+      "size": 987
+    },
+    {
+      "path": "docs/styles/scroll-driven-animation/references.json",
+      "sha256": "7c81f9df78e24741162b84274cdfdc1a3992c9cea8ce68647dd6acaba6945457",
+      "size": 3322
+    },
+    {
+      "path": "docs/styles/scrollytelling/guide.md",
+      "sha256": "8c941490be6c40e65ccf52727e344e6100968d12cc56a29f78fa315783c70f26",
+      "size": 5193
+    },
+    {
+      "path": "docs/styles/scrollytelling/README.md",
+      "sha256": "6f99be5d5716744ec15eb7e6e21dc85f29159c5c529fe38daea164b7c4734fd3",
+      "size": 926
+    },
+    {
+      "path": "docs/styles/scrollytelling/references.json",
+      "sha256": "8d6b97fe3984f8e80a0baa69be2665933e1919a24a4a43e65d1584829eca8557",
+      "size": 3280
+    },
+    {
+      "path": "docs/styles/skeuomorphism/guide.md",
+      "sha256": "7ac35932f4edaf87e5208112b35828ecc9c508a2fa3c00fb2178fe77640cc870",
+      "size": 5228
+    },
+    {
+      "path": "docs/styles/skeuomorphism/README.md",
+      "sha256": "24823399572dfd3754de692001d77afbaaa00d6111baa6c3d315d5a5e40c6b2c",
+      "size": 913
+    },
+    {
+      "path": "docs/styles/skeuomorphism/references.json",
+      "sha256": "6a64e31c15a33836b6f990ffb82e61b4d67ea01f233e18bb7bb5202394215970",
+      "size": 3255
+    },
+    {
+      "path": "docs/styles/soft-ui/guide.md",
+      "sha256": "0118b880760cf1e08eccaa9b428441e91f2ea590caa6fd35a1a2cf829b3aac63",
+      "size": 5143
+    },
+    {
+      "path": "docs/styles/soft-ui/README.md",
+      "sha256": "9516c612a8e65423e8e2b60bfde36ea0e78eb019d83c50ce8ab228a253ba3eda",
+      "size": 874
+    },
+    {
+      "path": "docs/styles/soft-ui/references.json",
+      "sha256": "a5fc1018a2f2a43f62f64604b9c11dea6079c6238540075a4c1230b08f39745d",
+      "size": 3177
+    },
+    {
+      "path": "docs/styles/solarpunk/guide.md",
+      "sha256": "46287aca12262c8570a28ef2854390b88aaf2e3cddfc3b07dc2aef2fd87da647",
+      "size": 5239
+    },
+    {
+      "path": "docs/styles/solarpunk/README.md",
+      "sha256": "8978968d8dd47e643fd5c3bde98a9e38fc21c1a2d08b3b6666cbba4c32c9c4bc",
+      "size": 901
+    },
+    {
+      "path": "docs/styles/solarpunk/references.json",
+      "sha256": "b6363b1aa746bded9abcf9009f97289e722451e387f888e828b6cc02b3f97c28",
+      "size": 3283
+    },
+    {
+      "path": "docs/styles/spatial-ui/guide.md",
+      "sha256": "e9110ecdd06d4c35ed93a1225600055e9aad088fa3a401ff6863d0b53054b169",
+      "size": 5170
+    },
+    {
+      "path": "docs/styles/spatial-ui/README.md",
+      "sha256": "270008661fcdbe3348c7eafe4ecc4836526824459b699b883d39820a2415612a",
+      "size": 898
+    },
+    {
+      "path": "docs/styles/spatial-ui/references.json",
+      "sha256": "ffa5cc0f3a4a94c4063816dd2240f9b8f4bd6ff6e8bce496b0a9ae5df6137229",
+      "size": 3111
+    },
+    {
+      "path": "docs/styles/split-screen-design/guide.md",
+      "sha256": "87e8cdb68dfe66d159a3feab16357e825f9df6cd7e3c2e39cbff6771a3c6db86",
+      "size": 5218
+    },
+    {
+      "path": "docs/styles/split-screen-design/README.md",
+      "sha256": "ffb898074696ef06b8a12eb4651ee4124cf160ac4000d27e7d4c3945f45c9ec3",
+      "size": 966
+    },
+    {
+      "path": "docs/styles/split-screen-design/references.json",
+      "sha256": "f94e733c3825676debbb69fff313737abb07395ab84e70f3adf5ad2b73dc1c1e",
+      "size": 3336
+    },
+    {
+      "path": "docs/styles/steampunk/guide.md",
+      "sha256": "71af900b2214e6308e9359ff62558f626f77278608a61068641ba6f05239ad5c",
+      "size": 5170
+    },
+    {
+      "path": "docs/styles/steampunk/README.md",
+      "sha256": "de76267bd573d114a106d4fe2fb2a868cce6dc7a12d6816f7ea1ef8ffacffad9",
+      "size": 901
+    },
+    {
+      "path": "docs/styles/steampunk/references.json",
+      "sha256": "98c7b1ee43f9559055e8caed4c0d570c851ab6cb6ea64d3de081c501de05ea49",
+      "size": 3202
+    },
+    {
+      "path": "docs/styles/surrealism/guide.md",
+      "sha256": "5f25447de754d31e00d24eb5d25ded81b2d0fc4e3e97fa709ac8f00be3c54375",
+      "size": 5157
+    },
+    {
+      "path": "docs/styles/surrealism/README.md",
+      "sha256": "d98431a6747f6b1cdc6607faf565b4e219c78d847f760be474b7f7138af1dcab",
+      "size": 891
+    },
+    {
+      "path": "docs/styles/surrealism/references.json",
+      "sha256": "45529ca9e39e0b93e56d523d0ee9cc1213201a9b1ffa4e48354f9b5975ecdb5e",
+      "size": 3219
+    },
+    {
+      "path": "docs/styles/swiss-design/guide.md",
+      "sha256": "c2e9d9b540ff4710a64d74550f336fdd93f5d4a34f0abe6ab8d34a65837f4584",
+      "size": 5220
+    },
+    {
+      "path": "docs/styles/swiss-design/README.md",
+      "sha256": "6c10eeb7dbea2e0c9a3c4c3a3cfc26cc004a19723afce460c54058bfb0677e84",
+      "size": 903
+    },
+    {
+      "path": "docs/styles/swiss-design/references.json",
+      "sha256": "b85b434e64d7cc9f7cade6b539b44412d2fa2fcecb7c61e1a2a59a78d676e4b0",
+      "size": 3244
+    },
+    {
+      "path": "docs/styles/synthwave/guide.md",
+      "sha256": "64062e940ee47d7b7d243b065aa7d0cd54835a8137b4d6f0848d7d1960b013a4",
+      "size": 5163
+    },
+    {
+      "path": "docs/styles/synthwave/README.md",
+      "sha256": "99d2a5bbd2d5cdcc88b12465020a2da2fcdfc6ca3724cc400d4b1660d84d3a29",
+      "size": 898
+    },
+    {
+      "path": "docs/styles/synthwave/references.json",
+      "sha256": "b6f9da21170293e1e21d5e57a46094f466d5e0f2923083091a0de2f8b37456a3",
+      "size": 3187
+    },
+    {
+      "path": "docs/styles/tactile-ui/guide.md",
+      "sha256": "5c72320faa78af90a566c01a7ab58a6301ff966413b01f8633c9b382f1b4fa2d",
+      "size": 5246
+    },
+    {
+      "path": "docs/styles/tactile-ui/README.md",
+      "sha256": "a416349ddc5ccc16c9ab001f0ac26a07cde9f4c574f2b33aca36b67a28f63737",
+      "size": 900
+    },
+    {
+      "path": "docs/styles/tactile-ui/references.json",
+      "sha256": "209747eee7507db16509f1d521a725946fa55b94627407785f329a372adf9e2a",
+      "size": 3290
+    },
+    {
+      "path": "docs/styles/terminal-hacker-ui/guide.md",
+      "sha256": "84b8634fcdd047e0332743462d11826a79f7413ed7e58ede9a7359e2cd3eb798",
+      "size": 5231
+    },
+    {
+      "path": "docs/styles/terminal-hacker-ui/README.md",
+      "sha256": "e3f281ff516e7796642109ea9f8c4567edd9647f4e3a5bb09286ba1225ec3b05",
+      "size": 957
+    },
+    {
+      "path": "docs/styles/terminal-hacker-ui/references.json",
+      "sha256": "2b46a06d6451acecc1e99d2e99d64670d0f54f07d3be5c26a6df8972b23550a2",
+      "size": 3301
+    },
+    {
+      "path": "docs/styles/typography-first/guide.md",
+      "sha256": "fab1d6476da5f46aa7941054e3351ea6787b7900363507c34b561d0d5e783353",
+      "size": 5124
+    },
+    {
+      "path": "docs/styles/typography-first/README.md",
+      "sha256": "ff5d273d54c92e85ae7c0982456edc95d72bc023c5e1509b3c3de0f1242dae9a",
+      "size": 938
+    },
+    {
+      "path": "docs/styles/typography-first/references.json",
+      "sha256": "08c64638b235bd12d79be9489b1e96d7169c350b5f65bdbe164b29c14079366a",
+      "size": 3233
+    },
+    {
+      "path": "docs/styles/vaporwave/guide.md",
+      "sha256": "4b6d395cb0ca3d9c4ef11ee3f3fcc56a0b6cb824aa4b4814ba1602b5c1d9bd70",
+      "size": 5233
+    },
+    {
+      "path": "docs/styles/vaporwave/README.md",
+      "sha256": "9f9aaaa835150eb2df3939e171d0d5c82467ffdc240c32f723ff979cece0c97e",
+      "size": 896
+    },
+    {
+      "path": "docs/styles/vaporwave/references.json",
+      "sha256": "6d849d086ee36e73d29c66e35175d18d80315ba3c8945f128225f3b75ee9c7a7",
+      "size": 3239
+    },
+    {
+      "path": "docs/styles/variable-typography/guide.md",
+      "sha256": "bc1e2d0c6c6c1533c9e6bdd49c661289c41ea29827b84d1ac99035c169b6b65c",
+      "size": 5267
+    },
+    {
+      "path": "docs/styles/variable-typography/README.md",
+      "sha256": "8d7287a47491072d6c65b2f8cf672e0875ee51d21cc2d6683b8ab93c5b0667a2",
+      "size": 961
+    },
+    {
+      "path": "docs/styles/variable-typography/references.json",
+      "sha256": "3aa5c2d3f01fc01922c39d9d0ab8ccfcf8477a496e99cda6765b536bbc5282c9",
+      "size": 3399
+    },
+    {
+      "path": "docs/styles/vintage-analog/guide.md",
+      "sha256": "adab7ae90174e3099a49a1d73865bf14ac99eed88fbf257ed07bc12062045647",
+      "size": 5175
+    },
+    {
+      "path": "docs/styles/vintage-analog/README.md",
+      "sha256": "83f40cd05d20e11063072894cb433946035c8b70b65c15ed74ca2a52f6b6bebd",
+      "size": 931
+    },
+    {
+      "path": "docs/styles/vintage-analog/references.json",
+      "sha256": "b0aadcadc3ad95f5361bf7f26fa2e3c164dcc8c53a7798d63bc8638d1775a949",
+      "size": 3251
+    },
+    {
+      "path": "docs/styles/wabi-sabi/guide.md",
+      "sha256": "bb0e3dedfbfa5ab9f7d780cd9b0b8348417a48401ca6b709f414a7a9da80ed53",
+      "size": 5118
+    },
+    {
+      "path": "docs/styles/wabi-sabi/README.md",
+      "sha256": "719bd72b8f301edb3eb100700243bacab294a5f650bfe311dd0f5a2037d5510b",
+      "size": 877
+    },
+    {
+      "path": "docs/styles/wabi-sabi/references.json",
+      "sha256": "531628a925a2e08aa2d99565be46e752205579c4ad38fc2b8c6aba15f6dc6a86",
+      "size": 3194
+    },
+    {
+      "path": "docs/styles/web-1-0/guide.md",
+      "sha256": "b3dcca49f0c9cd44b4c074f71f938a7a2c071cbbd5b6137b0244c0b69fcff886",
+      "size": 5225
+    },
+    {
+      "path": "docs/styles/web-1-0/README.md",
+      "sha256": "8d0edbf397b11daf3b02eade23deae1eadd1c333f9298dfe5c26771f13cfc363",
+      "size": 885
+    },
+    {
+      "path": "docs/styles/web-1-0/references.json",
+      "sha256": "559ce6ed942a419ae0dee5f639fbcfe97698e806221048579cacf8326bec59f0",
+      "size": 3281
+    },
+    {
+      "path": "docs/styles/web-2-0-gloss/guide.md",
+      "sha256": "7dd563969d6701587968a4d2af5293fa12c02f409466320e0f48070940b482c1",
+      "size": 5209
+    },
+    {
+      "path": "docs/styles/web-2-0-gloss/README.md",
+      "sha256": "11b73c52df8f63bd912193145cf7bd2c67c6f6c9cfb8e19b0e3b1cc99ae385c6",
+      "size": 924
+    },
+    {
+      "path": "docs/styles/web-2-0-gloss/references.json",
+      "sha256": "3bfcda614f5272ac3e6da60520cc6e5486ebcc5485cd5d7110dedf670602bca3",
+      "size": 3242
+    },
+    {
+      "path": "docs/styles/webgl-3d-experience/guide.md",
+      "sha256": "7411742d80257605bbb3acd2441f36482af8385ebb378fef09c9bdcbb00e78da",
+      "size": 5133
+    },
+    {
+      "path": "docs/styles/webgl-3d-experience/README.md",
+      "sha256": "85a47f9f54fd1efbde6273910c45d452079bc3a0ebff833a4c11acea7fda4eb2",
+      "size": 963
+    },
+    {
+      "path": "docs/styles/webgl-3d-experience/references.json",
+      "sha256": "8e7a91bde5fcaa14c162992a87b74aae20ca54cb28b7b27a88bf3bb9b7da641f",
+      "size": 3240
+    },
+    {
+      "path": "docs/styles/wireframe-aesthetic/guide.md",
+      "sha256": "c547f1edef0e7d3b0df1e347d775fba1843270c8231b08536141a25fee3c5317",
+      "size": 5202
+    },
+    {
+      "path": "docs/styles/wireframe-aesthetic/README.md",
+      "sha256": "37a1978232b4897f2fb86a264e2cb8ac5f1ba5f33a6f32fb15ec2771bf9ca6cd",
+      "size": 966
+    },
+    {
+      "path": "docs/styles/wireframe-aesthetic/references.json",
+      "sha256": "da0f2605ebe96736d44e7ee99939c9a4d5c1e158003724a79cba1a43d0479943",
+      "size": 3280
+    },
+    {
+      "path": "docs/styles/y2k-aesthetic/guide.md",
+      "sha256": "6203a65ef87f5f8bfbce884c6576a44ab2ef8805711c5b03194e8ae07ea27f83",
+      "size": 5449
+    },
+    {
+      "path": "docs/styles/y2k-aesthetic/README.md",
+      "sha256": "a58432c44fa1e6e9bb8619711f7ae44caf6fafce491f2077c725fa1bb7f457ae",
+      "size": 925
+    },
+    {
+      "path": "docs/styles/y2k-aesthetic/references.json",
+      "sha256": "7e8826f9f27cdd54c0989958d3168610e9eda2bbd416400d42cfc81d86fb58b5",
+      "size": 3288
+    },
+    {
+      "path": "docs/styles/zero-ui/guide.md",
+      "sha256": "ae1c55a43562edcb2b1d16b4c745b2ad75a62efe52408657b98bbe4a36fe0fa4",
+      "size": 5535
+    },
+    {
+      "path": "docs/styles/zero-ui/README.md",
+      "sha256": "26b3345cb4d3c1157abfceeb8b3621ff5f89c133360d1a63dd784d84e47ef11f",
+      "size": 884
+    },
+    {
+      "path": "docs/styles/zero-ui/references.json",
+      "sha256": "1b3f3cd05a968fa4b32adcb79cda605daae74e8ba97eda22bca3bee76a031962",
+      "size": 3373
+    },
+    {
+      "path": "fonts/body.LICENSE.txt",
+      "sha256": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7",
+      "size": 4502
+    },
+    {
+      "path": "fonts/body.woff2",
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543",
+      "size": 36932
+    },
+    {
+      "path": "fonts/display.LICENSE.txt",
+      "sha256": "046ee27d8bddc6b6ee08eee53c96dbf3ec1f6df561644e018507dd8ffcb11d31",
+      "size": 6167
+    },
+    {
+      "path": "fonts/display.woff2",
+      "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "size": 22444
+    },
+    {
+      "path": "fonts/editorial.LICENSE.txt",
+      "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3",
+      "size": 4314
+    },
+    {
+      "path": "fonts/editorial.woff2",
+      "sha256": "c1df4596be5029233ed2afbb8b2f6ea20784b3fb1aa5d6b5c6519ccd85eb3dfb",
+      "size": 50824
+    },
+    {
+      "path": "fonts/utility.LICENSE.txt",
+      "sha256": "403581b69dac5cff4079205e01c6b467e56af449ecbd7247693ddb1baafa005b",
+      "size": 4524
+    },
+    {
+      "path": "fonts/utility.woff2",
+      "sha256": "18be452724bfdc236c074ca94a249a7f41a86752c7d04ab258ce9ed5651f6a7e",
+      "size": 40404
+    },
+    {
+      "path": "fonts/variable.LICENSE.txt",
+      "sha256": "9d1e34d7081410f85bc1bf4805ce076a16fb1a2306661aef9a7bee72fffb5e23",
+      "size": 4394
+    },
+    {
+      "path": "fonts/variable.woff2",
+      "sha256": "173b23c08b26e4f98d1f00fd52b030aba61d56131a218655bcac0fd38b6a228b",
+      "size": 326404
+    },
+    {
+      "path": "images/3d-cgi-design/example-01.html",
+      "sha256": "99b0c82254fdc35b04627282872c4d44a0acc48e0309d354de88f908ddb9506f",
+      "size": 11496
+    },
+    {
+      "path": "images/3d-cgi-design/example-01.png",
+      "sha256": "b0dcc7b88a54b918d2c9f97e8d334387981b080fa638b722dabbd8b3d07031bc",
+      "size": 144345
+    },
+    {
+      "path": "images/3d-cgi-design/example-02.html",
+      "sha256": "d66079143157470d5a0142f68919aaf8e07e0ddc56b47481b4d7c4e676e1fb41",
+      "size": 12033
+    },
+    {
+      "path": "images/3d-cgi-design/example-02.png",
+      "sha256": "d003fd7fcfaabc5664407439a2754b35e3e45a27a48244f354cd88851d0680d5",
+      "size": 118931
+    },
+    {
+      "path": "images/3d-cgi-design/example-03.html",
+      "sha256": "6dc68721675aa91f58086048bdcc81ac86fd461034be57e254eb073c4d4c113d",
+      "size": 11356
+    },
+    {
+      "path": "images/3d-cgi-design/example-03.png",
+      "sha256": "e56e71bc268a015da394b442d339aab44d02041f2d3fca74b83a1cec871dd762",
+      "size": 173541
+    },
+    {
+      "path": "images/acid-graphics/example-01.html",
+      "sha256": "cc26167496f08c1ebcafa9f9f9da44a2c87cf7b4807a915e19ddc079453b07e3",
+      "size": 11565
+    },
+    {
+      "path": "images/acid-graphics/example-01.png",
+      "sha256": "f559790a8ba9d22563bbbf0c6dfe3840a04dafff2820a295d5f11a117edfac09",
+      "size": 42129
+    },
+    {
+      "path": "images/acid-graphics/example-02.html",
+      "sha256": "4cdc5e67d6fc389a221f6dceb2bd59238e8fd81386d82c28fe852c226c7927ef",
+      "size": 12122
+    },
+    {
+      "path": "images/acid-graphics/example-02.png",
+      "sha256": "e69e9b945d254d18d982598e55f06b08cc87dc52881a1058a4610baf524f2d19",
+      "size": 39810
+    },
+    {
+      "path": "images/acid-graphics/example-03.html",
+      "sha256": "95e5c3a7f91c596ca8eb8e21be70b6d30dfe9e10abc71253d913acaab3815eef",
+      "size": 11433
+    },
+    {
+      "path": "images/acid-graphics/example-03.png",
+      "sha256": "e73547b15ff047eab2e5328a200b791958d73e178cbeeadaa4083b2ee988b273",
+      "size": 46536
+    },
+    {
+      "path": "images/anti-design/example-01.html",
+      "sha256": "93cdd6a64774cd896233e005e2599cfecdf723f8b2d040e77c408c336ec33846",
+      "size": 11553
+    },
+    {
+      "path": "images/anti-design/example-01.png",
+      "sha256": "5fd21e65107795214cd8606ecc18e6cb1348c537ba09c8042444ef44431d08e3",
+      "size": 35270
+    },
+    {
+      "path": "images/anti-design/example-02.html",
+      "sha256": "c9148ce24d63f1e4329f36a099c9d7b1cd9e8546e9802f7d2f2b53a6c0b933b7",
+      "size": 12050
+    },
+    {
+      "path": "images/anti-design/example-02.png",
+      "sha256": "2c34a35a03f299a29d52317b0e8f9016ba54d26403c99d721b75a3e799bdf462",
+      "size": 34150
+    },
+    {
+      "path": "images/anti-design/example-03.html",
+      "sha256": "ca07f98e5bffa8124168304a2843d6d008ef40f701360531a4f789531acb3e62",
+      "size": 11397
+    },
+    {
+      "path": "images/anti-design/example-03.png",
+      "sha256": "ad0798435f0d72f4fb0335e84fea0835c1c513ccb043256bed58171996128ba8",
+      "size": 40399
+    },
+    {
+      "path": "images/art-deco/example-01.html",
+      "sha256": "32d9ee7fd830c552ef30ac42b2bbfd7018dc1c3a6a17a232732c935acc50c140",
+      "size": 11572
+    },
+    {
+      "path": "images/art-deco/example-01.png",
+      "sha256": "cf929504cacbea6ce9e3a2cbb7bc8b66977fbc68f2cabb84c688d5dae07a1bf6",
+      "size": 32862
+    },
+    {
+      "path": "images/art-deco/example-02.html",
+      "sha256": "c414323a4b560a23d12bc2e33c3125c04ff60e49e941873bba53256b0164ac97",
+      "size": 12101
+    },
+    {
+      "path": "images/art-deco/example-02.png",
+      "sha256": "042587ba1004bd3aa6e795800ac14536439a678672f86fe2dd2dad7dddaaf395",
+      "size": 34091
+    },
+    {
+      "path": "images/art-deco/example-03.html",
+      "sha256": "f8457c48a9bc7b7526a229eda44e7912d5fd965dbd0f44c3f3012633f8ffece1",
+      "size": 11436
+    },
+    {
+      "path": "images/art-deco/example-03.png",
+      "sha256": "e7ad29d7169c7e214869cc67ea30aebf7b8d72dd798adc5756456fc0d93a4862",
+      "size": 33770
+    },
+    {
+      "path": "images/art-nouveau/example-01.html",
+      "sha256": "0e35271f744fd522a7db9761001131ab5608bbc525cdc8767ba12893413e5ca0",
+      "size": 11512
+    },
+    {
+      "path": "images/art-nouveau/example-01.png",
+      "sha256": "6c27fea4a92e83bf8f2b9e58e5abdb379e8849ce68f606289f8c8eddddaa5aa5",
+      "size": 39898
+    },
+    {
+      "path": "images/art-nouveau/example-02.html",
+      "sha256": "67e9f9f96b01e715fa25896e6b03abd4692a50d9a0546ba305127637374d6c17",
+      "size": 12017
+    },
+    {
+      "path": "images/art-nouveau/example-02.png",
+      "sha256": "bb9d2d1b312b3cd403ca8813ab855365c02faab2c0b2012ecc23647f48dbb8fd",
+      "size": 38038
+    },
+    {
+      "path": "images/art-nouveau/example-03.html",
+      "sha256": "6bf4000a52a2acfe70d707e836aad93da630c8e440fe70bf9ba50a1af0558944",
+      "size": 11348
+    },
+    {
+      "path": "images/art-nouveau/example-03.png",
+      "sha256": "5f850c6cc23639dfe34dc1cc23bcd978f701187847052df156847e1b8cea8923",
+      "size": 40752
+    },
+    {
+      "path": "images/ascii-art-design/example-01.html",
+      "sha256": "08d5589c5c8555185e0e0a9bf9c872936382c518c698d349f2a2185183e0d0b0",
+      "size": 11549
+    },
+    {
+      "path": "images/ascii-art-design/example-01.png",
+      "sha256": "1bb1972c9b7100e2f5791154a3530eccc582b412fca5222a70ab469791c17a3a",
+      "size": 18395
+    },
+    {
+      "path": "images/ascii-art-design/example-02.html",
+      "sha256": "591535c1a5a1ad4cbdc3c373e097a496a97f9d55b606cceedf0ee3605d284119",
+      "size": 12009
+    },
+    {
+      "path": "images/ascii-art-design/example-02.png",
+      "sha256": "1a2a718e0dd477c8970501571748d9e65a0e764c50d9d14aa5f3691630bba068",
+      "size": 19053
+    },
+    {
+      "path": "images/ascii-art-design/example-03.html",
+      "sha256": "1f4db3442f21d96658d2de12c1c8a4f346d4a13675322a0d98a63beb02145b65",
+      "size": 11389
+    },
+    {
+      "path": "images/ascii-art-design/example-03.png",
+      "sha256": "ac1dfdf05b13cc3c5c49f6cace3c1af76d10a8fb736277109e0c32880eb1ec21",
+      "size": 18255
+    },
+    {
+      "path": "images/asymmetric-layout/example-01.html",
+      "sha256": "a1a2bcd4020f0129360ff71c0b0398135f6739686123a1ad7bd3b0ed75814413",
+      "size": 11538
+    },
+    {
+      "path": "images/asymmetric-layout/example-01.png",
+      "sha256": "2341279bd609a94296d73fc5efdc31ce9a88ee6c7b4babe7bf78dc40825641f3",
+      "size": 21192
+    },
+    {
+      "path": "images/asymmetric-layout/example-02.html",
+      "sha256": "f4b8236ff509bfe51ca174aeb5083f2caa9e8b3161d0214b5a5763dbb4b02d58",
+      "size": 12051
+    },
+    {
+      "path": "images/asymmetric-layout/example-02.png",
+      "sha256": "4fba1b092f4818c19a4443ebde3838879c45e0e5ae0d3ad9f257e3df9071b951",
+      "size": 20588
+    },
+    {
+      "path": "images/asymmetric-layout/example-03.html",
+      "sha256": "64e6b7c144ecae4664fc5c44557195b1ed4bc595546451bf8a02605ed0827cd8",
+      "size": 11358
+    },
+    {
+      "path": "images/asymmetric-layout/example-03.png",
+      "sha256": "4f3fca1c6e0a81fe933c95d370f2d17f730c3070a8064049f7bd9b5e77f46939",
+      "size": 22703
+    },
+    {
+      "path": "images/aurora-ui/example-01.html",
+      "sha256": "b637cba756786aaa4ad5c364e6d99c9eb1114486507aaebbe20b1760a635c7be",
+      "size": 11619
+    },
+    {
+      "path": "images/aurora-ui/example-01.png",
+      "sha256": "0478758bf79b6225dc8735e4a4460c879ec3730b7f632ee9ff8e06b811e14be8",
+      "size": 737704
+    },
+    {
+      "path": "images/aurora-ui/example-02.html",
+      "sha256": "b48a2723a74879c86db4492bf748aec475f2930724d305dca46cee1cc0ffbc81",
+      "size": 12140
+    },
+    {
+      "path": "images/aurora-ui/example-02.png",
+      "sha256": "9dc3c38d6b65e0da470ab9d016ef5b118befe8d9dbdcd063ac5892f82741589b",
+      "size": 729085
+    },
+    {
+      "path": "images/aurora-ui/example-03.html",
+      "sha256": "f6b3e0ed9fd3394ebbfc84f37bbfc6d548f0187cb4a16a3a95f0d688675c91ba",
+      "size": 11451
+    },
+    {
+      "path": "images/aurora-ui/example-03.png",
+      "sha256": "874cc962a6512a00e7148b9363841041aafe4e20ff785e105f2b5dd7e92df89c",
+      "size": 714879
+    },
+    {
+      "path": "images/bauhaus/example-01.html",
+      "sha256": "5b0aaafca38eab955e9b971879d598910e3ba041cd0c203fc32ccb7404d74b85",
+      "size": 11489
+    },
+    {
+      "path": "images/bauhaus/example-01.png",
+      "sha256": "9ab7d546db012f5d37719110c4369e402f2b55ce1863ea5e56684c9aab233528",
+      "size": 27154
+    },
+    {
+      "path": "images/bauhaus/example-02.html",
+      "sha256": "c8f435ef3c38de3a1224a16a97d5fba15694c8d87706a9397eda4d9f44987318",
+      "size": 12026
+    },
+    {
+      "path": "images/bauhaus/example-02.png",
+      "sha256": "4300863e6d47cbd6baa671d0c7448562546908863a0bbe51031b9c7c1e29a989",
+      "size": 27678
+    },
+    {
+      "path": "images/bauhaus/example-03.html",
+      "sha256": "c4397c7a97e2d34675525c33cc66a48d8568be85c0c9ca58e1026fe9b7e5fe6f",
+      "size": 11353
+    },
+    {
+      "path": "images/bauhaus/example-03.png",
+      "sha256": "1c33ddeb231ac60abbec7c19dedb2e952498e8767b4ff9a8bccd183c6ea558fe",
+      "size": 27257
+    },
+    {
+      "path": "images/bento-grid/example-01.html",
+      "sha256": "11c1f1533de4c0b4a730cf2c639f5bdba5eb887150c10aa9aae34e14fd2192f6",
+      "size": 11524
+    },
+    {
+      "path": "images/bento-grid/example-01.png",
+      "sha256": "a4c1b8dbe370d1127b88be97ae3c9af15f6f11c058d914a6f1e5490d558ff755",
+      "size": 25332
+    },
+    {
+      "path": "images/bento-grid/example-02.html",
+      "sha256": "0071d9a93ace5ec6f625a07f337d89b1fc71c32b07558b26ad7c093c15765a5e",
+      "size": 12057
+    },
+    {
+      "path": "images/bento-grid/example-02.png",
+      "sha256": "584e07479a4b6abe6481eaead29104cf687f799da8474f12b5c87214ac183c48",
+      "size": 26165
+    },
+    {
+      "path": "images/bento-grid/example-03.html",
+      "sha256": "364f5817910c3e911c51ae82e21c6942365e66bc32fdde0d49bcdb1efce8234b",
+      "size": 11376
+    },
+    {
+      "path": "images/bento-grid/example-03.png",
+      "sha256": "e0fa25a48cee434f771af3181034a508496955fca28e05427ef5ca2d86b88465",
+      "size": 23394
+    },
+    {
+      "path": "images/big-typography/example-01.html",
+      "sha256": "7a025faf4d0778d00c8a741a5766a6cb40288af66a0186fda7acc998449b46bb",
+      "size": 11563
+    },
+    {
+      "path": "images/big-typography/example-01.png",
+      "sha256": "f3603bee24142f1a72e17dbaeead137014c433ecef899df3b5d7c4e1f386cb50",
+      "size": 21386
+    },
+    {
+      "path": "images/big-typography/example-02.html",
+      "sha256": "9b81bdd95c748e066ec6d9e2d98d1f6b8854255008312e1f7e732fe7790f60fb",
+      "size": 12076
+    },
+    {
+      "path": "images/big-typography/example-02.png",
+      "sha256": "f95daa29ab71d37b7783d083d1e9544da0e3e037420087e125aa8093d65027bb",
+      "size": 21803
+    },
+    {
+      "path": "images/big-typography/example-03.html",
+      "sha256": "a85e321cad4b850654780d3432e244ad5af1b424115e62ae305905f298bf3ba0",
+      "size": 11387
+    },
+    {
+      "path": "images/big-typography/example-03.png",
+      "sha256": "b22d1cba912438cf1252165ee10fa2a7081992e5bed2a4c3010dea820a5ec8e4",
+      "size": 21967
+    },
+    {
+      "path": "images/biophilic-design/example-01.html",
+      "sha256": "5e28392a0489c4fca4cde7c7e5b66c2d54485339291f3ef394965e5f6040a639",
+      "size": 11519
+    },
+    {
+      "path": "images/biophilic-design/example-01.png",
+      "sha256": "835238d92cfd1661dece3aa4034cd055edf6a8593383f1130674a2de7a7abd50",
+      "size": 97093
+    },
+    {
+      "path": "images/biophilic-design/example-02.html",
+      "sha256": "b37ba21112d0fe3b65dba407a3858b2853500f43bd475f085111e9a1c07df437",
+      "size": 12044
+    },
+    {
+      "path": "images/biophilic-design/example-02.png",
+      "sha256": "4b7193ed80ca961cfd4acf59292379911575a262fc6aa035d53f93e433eb0f3e",
+      "size": 99231
+    },
+    {
+      "path": "images/biophilic-design/example-03.html",
+      "sha256": "ad0e30027eb2594fa976bd8cdf4a97b00a55fa2fc788af23d8d587bc9e56a8a8",
+      "size": 11383
+    },
+    {
+      "path": "images/biophilic-design/example-03.png",
+      "sha256": "cec351090ad5753393f3e73d1552cd16227c0610afd4110ff5146a2caa2a15ce",
+      "size": 126537
+    },
+    {
+      "path": "images/broken-grid/example-01.html",
+      "sha256": "bc7f95a22af3126fb376a1277b94779c8e69ee3c4da8584785d3ed84e569a5b6",
+      "size": 11496
+    },
+    {
+      "path": "images/broken-grid/example-01.png",
+      "sha256": "ec9fb4b3f52c372f74439b327e037d0f2f08f130e0f328bc4a744dd61af05180",
+      "size": 32232
+    },
+    {
+      "path": "images/broken-grid/example-02.html",
+      "sha256": "9ff52feddf33f818f6b13506baa4fe76394de7dd5bf364f3b747638859711387",
+      "size": 12057
+    },
+    {
+      "path": "images/broken-grid/example-02.png",
+      "sha256": "4fc2aa872719a551131dd5bc701a7ac51a13c625c0b63b8b5b8df24c4e4cff8d",
+      "size": 34626
+    },
+    {
+      "path": "images/broken-grid/example-03.html",
+      "sha256": "682f96c60903966e2fad76a24ec467dda5abbf750531016e25902b21a0fb03e1",
+      "size": 11348
+    },
+    {
+      "path": "images/broken-grid/example-03.png",
+      "sha256": "98aea355fe02191d31bedea3959b9967be72881bcb8bcb142fddeba57792d2f8",
+      "size": 34131
+    },
+    {
+      "path": "images/brutalism/example-01.html",
+      "sha256": "c0c7dc01b067852127119583573c148c0c22473ac07be72fdd3d5cdb2c820405",
+      "size": 11506
+    },
+    {
+      "path": "images/brutalism/example-01.png",
+      "sha256": "c1970c617a9ca2d5c104389f7162a0af9ec0d0bc2ba3dce9b48a7d004719a60d",
+      "size": 22235
+    },
+    {
+      "path": "images/brutalism/example-02.html",
+      "sha256": "da9a5c8a1ed97269e50572034ea873e2814bbc9681ded9a9dc45dbb87b74068d",
+      "size": 12015
+    },
+    {
+      "path": "images/brutalism/example-02.png",
+      "sha256": "ce5e195803bdec8b3e8ec32e1f6a89e0a8e4e15bb9a7e22ff8686831f768243b",
+      "size": 21851
+    },
+    {
+      "path": "images/brutalism/example-03.html",
+      "sha256": "383931102947085b5d3a5f8269313fced9124cc2c9978aa8cd34f78951a886a5",
+      "size": 11362
+    },
+    {
+      "path": "images/brutalism/example-03.png",
+      "sha256": "2d2426e8fa5e0a5aac0829447f58a91bb332898dbc495e63c8428fc56dc8d5cb",
+      "size": 23159
+    },
+    {
+      "path": "images/card-based-design/example-01.html",
+      "sha256": "2426e9581571797f2f1e281ff2efd2fc3932aab8ca1f554748d91d9a4ea87d84",
+      "size": 11458
+    },
+    {
+      "path": "images/card-based-design/example-01.png",
+      "sha256": "044b9ae77a7204f21a449a410d9d8e61a084bf3febc92d167f89829392ad0d8b",
+      "size": 24983
+    },
+    {
+      "path": "images/card-based-design/example-02.html",
+      "sha256": "9782f238d7246005d1b184b4e6a9d89f8c12d3fc598ac4e029c636ff1d3e9df8",
+      "size": 12003
+    },
+    {
+      "path": "images/card-based-design/example-02.png",
+      "sha256": "fa178898bc60db3ae3d6864ebc85f4f08534df3b567f56eeff4138b4457a322e",
+      "size": 24404
+    },
+    {
+      "path": "images/card-based-design/example-03.html",
+      "sha256": "2e3da51cf263d89efc621260add7e5896136f81e3d438b8a062a8ac4b6afdf01",
+      "size": 11314
+    },
+    {
+      "path": "images/card-based-design/example-03.png",
+      "sha256": "63776192abdafdcfd690019bfa5ae16de1f0d3a634bb1c418ded90384634b29f",
+      "size": 23466
+    },
+    {
+      "path": "images/chromatic-aberration/example-01.html",
+      "sha256": "2367469e29067849f7483d8a592ff68d6bea3b8bd2809ba926711bfbf4977767",
+      "size": 11501
+    },
+    {
+      "path": "images/chromatic-aberration/example-01.png",
+      "sha256": "491c04e5996ca4bd3fc5e42e81f95835b4a923bc294e7d4003f17c40634087be",
+      "size": 22912
+    },
+    {
+      "path": "images/chromatic-aberration/example-02.html",
+      "sha256": "5660607a4f02837361753588c7f6f00403d40054dbe0704a4bb38e87e13b07f4",
+      "size": 12034
+    },
+    {
+      "path": "images/chromatic-aberration/example-02.png",
+      "sha256": "1c8ce2e2c033b3ef31428862a510c4d210e93ef0e7e7f7e1d2b1de70eae8d524",
+      "size": 22553
+    },
+    {
+      "path": "images/chromatic-aberration/example-03.html",
+      "sha256": "6bbd99e0cfb35b62a63fa9fbe24c8d089b5a5c09bc5e97b95e912210b28596c0",
+      "size": 11377
+    },
+    {
+      "path": "images/chromatic-aberration/example-03.png",
+      "sha256": "8a81434985322b0e21cb3397110c10aef98f5d7cab665858026d032ea52399a8",
+      "size": 27933
+    },
+    {
+      "path": "images/chrome-metallic/example-01.html",
+      "sha256": "61a430611eca7c5d70cf97c0fcb9f3cf17940a923136cb5338b1d6dcfed5e68a",
+      "size": 11565
+    },
+    {
+      "path": "images/chrome-metallic/example-01.png",
+      "sha256": "407d6564fcf3495f515c3308926d7d971b152f4cf9b9e8eff8d26884edb0990a",
+      "size": 160805
+    },
+    {
+      "path": "images/chrome-metallic/example-02.html",
+      "sha256": "823ec0a6e9f7004c9dcaa7cd97d3166340102ecfe11947b2e26748c2c6af344c",
+      "size": 12098
+    },
+    {
+      "path": "images/chrome-metallic/example-02.png",
+      "sha256": "32d5f3215282b4274aea3adfb275648615da575a1e9738bc9f81973625e19ca7",
+      "size": 169764
+    },
+    {
+      "path": "images/chrome-metallic/example-03.html",
+      "sha256": "f5ec2b1523c2ac5827625509b8bd56522791bcc1ab3966f51041ca5cccafd5b1",
+      "size": 11409
+    },
+    {
+      "path": "images/chrome-metallic/example-03.png",
+      "sha256": "e0e0686a13d48b5f2a3475b418919edb2701eee2a54815c9f631b58633c5f74a",
+      "size": 133189
+    },
+    {
+      "path": "images/claymorphism/example-01.html",
+      "sha256": "36a2b695cea38bc4ea738871209cfc355ee78f449310849d63a2b998a5a19fbe",
+      "size": 11523
+    },
+    {
+      "path": "images/claymorphism/example-01.png",
+      "sha256": "d8440ae3815e64e4ef1b044086fbf91ddd849aa4e44a87747b89045e0e7145c9",
+      "size": 58486
+    },
+    {
+      "path": "images/claymorphism/example-02.html",
+      "sha256": "1400ed1eaa722f53bd0dff9c224892968591ae1f1e8740a025eb98638186a789",
+      "size": 12108
+    },
+    {
+      "path": "images/claymorphism/example-02.png",
+      "sha256": "2558099aab6218f6911bf11e83d0811879227939002733bab2c2dc8e5f706ae8",
+      "size": 60903
+    },
+    {
+      "path": "images/claymorphism/example-03.html",
+      "sha256": "628f85544e25f882664678eea85ef3f62ff4a4bed9a24bcc6994d6d3c6fe5116",
+      "size": 11343
+    },
+    {
+      "path": "images/claymorphism/example-03.png",
+      "sha256": "caf59eccf45ea23f98603eb97cba25abcc81c903ab97d977d55a8fe7662608e8",
+      "size": 49293
+    },
+    {
+      "path": "images/collage-design/example-01.html",
+      "sha256": "41f0b314a4be43945f81efa875143b2b008e038a5ebdfa64cb4e9be9f3b5e731",
+      "size": 11546
+    },
+    {
+      "path": "images/collage-design/example-01.png",
+      "sha256": "ee5f1e33eb65929d739827433723575a08f05286f7dcecb4b316ead9092fc2ab",
+      "size": 42109
+    },
+    {
+      "path": "images/collage-design/example-02.html",
+      "sha256": "86a386a6e43a8849b358f30bab336217a6077423687dd285f641fcce660baf3b",
+      "size": 12059
+    },
+    {
+      "path": "images/collage-design/example-02.png",
+      "sha256": "f21b91ed245ca559c5da38fcedfdbe75791c0245f48a34329c86a8490ea5e533",
+      "size": 39386
+    },
+    {
+      "path": "images/collage-design/example-03.html",
+      "sha256": "aeb04a5286909715dbc1c4226dac0ae2b7f2080b901a4383d402714e03de0ec0",
+      "size": 11386
+    },
+    {
+      "path": "images/collage-design/example-03.png",
+      "sha256": "bdcf3948cb5a2cc97cb2a721e638195e4388ebe5736baef03b696b81c3f2bfb7",
+      "size": 43339
+    },
+    {
+      "path": "images/constructivism/example-01.html",
+      "sha256": "e7cda4dd5578fb707683416078cc360fa673261741baf457fc377349823e1e31",
+      "size": 11587
+    },
+    {
+      "path": "images/constructivism/example-01.png",
+      "sha256": "580ddf57c938a0952bf74b6c497286641312901f682c9696f19d9a6804e17ef3",
+      "size": 31180
+    },
+    {
+      "path": "images/constructivism/example-02.html",
+      "sha256": "aef6dfe31e88bd8e556c65fd3a8b62fcf6e51066dcfe657bfb2f81fa227a3d9f",
+      "size": 12120
+    },
+    {
+      "path": "images/constructivism/example-02.png",
+      "sha256": "f3ba4c30d61c0d4ae0221b481ce612c8e038d817e626ff410011f0ae42a2ff75",
+      "size": 31954
+    },
+    {
+      "path": "images/constructivism/example-03.html",
+      "sha256": "f36009e93bef4e8737033ad4248ca33ee86b5c276b6fdd72668bd3199633e524",
+      "size": 11427
+    },
+    {
+      "path": "images/constructivism/example-03.png",
+      "sha256": "32b3881294f56f098a786378f399ae216fd9ea6d3fb80b43d22ac08cd729091c",
+      "size": 36219
+    },
+    {
+      "path": "images/cybercore/example-01.html",
+      "sha256": "81c796ae3ffda35bc8745dfa23bf8af34f9b2db8cd07f999c1f08653326a09e4",
+      "size": 11584
+    },
+    {
+      "path": "images/cybercore/example-01.png",
+      "sha256": "4e5c40e192f9953ae44e1a951c6e0febb62082a83859d01c475eda49633fdc24",
+      "size": 29954
+    },
+    {
+      "path": "images/cybercore/example-02.html",
+      "sha256": "3c2ad4f9409efe57b7a53ce5adfac131da85575e57502c5c36ba73f8dcc5e89b",
+      "size": 12105
+    },
+    {
+      "path": "images/cybercore/example-02.png",
+      "sha256": "553b59fe7aa1bd21851486667f63a1db140c088e79d6be266d326fd92cecb526",
+      "size": 29015
+    },
+    {
+      "path": "images/cybercore/example-03.html",
+      "sha256": "ade70316548bdee3e62ad727c1d2b49956b4d3623badae57e23eea64a81b05d1",
+      "size": 11424
+    },
+    {
+      "path": "images/cybercore/example-03.png",
+      "sha256": "8ae25347695b03e4f6442d14174c14364869116754e638f52436ef12061090af",
+      "size": 31233
+    },
+    {
+      "path": "images/cyberpunk-ui/example-01.html",
+      "sha256": "47c34754691ebb7bd616779baaf118380403a3fd6f79e47ef5fafdbbc7d52927",
+      "size": 11555
+    },
+    {
+      "path": "images/cyberpunk-ui/example-01.png",
+      "sha256": "1ad3094006b5bd888292dbbee5c80f0709181283520cf8279263e11496a2ac21",
+      "size": 21650
+    },
+    {
+      "path": "images/cyberpunk-ui/example-02.html",
+      "sha256": "a7141f12304c3a5aed3c3ecafbd27f34301d5f26f3687a2cb561181054c90fa4",
+      "size": 12076
+    },
+    {
+      "path": "images/cyberpunk-ui/example-02.png",
+      "sha256": "9ef627dc3417e1d0f542dc27618499506e1ade63b831e91718fa9eabb4a3dcd0",
+      "size": 22807
+    },
+    {
+      "path": "images/cyberpunk-ui/example-03.html",
+      "sha256": "587a56928f38670108b26f4e0e72f40353a43b37ed2fa68ab9a109d732460ddb",
+      "size": 11423
+    },
+    {
+      "path": "images/cyberpunk-ui/example-03.png",
+      "sha256": "9599ffbeed7f6e912c8e728ab17cf6fb9677cc2c9660bdd25a74fab26711fa6b",
+      "size": 23528
+    },
+    {
+      "path": "images/data-dense-dashboard/example-01.html",
+      "sha256": "0a28ee126f29e6042b99bf08427a85fb64d63878a6acc77481b89aeb6f17994d",
+      "size": 11519
+    },
+    {
+      "path": "images/data-dense-dashboard/example-01.png",
+      "sha256": "6194da2dd857939fc189cdb1bf2698bba673c1434b5465dd5ab5e2bf6a62380c",
+      "size": 22796
+    },
+    {
+      "path": "images/data-dense-dashboard/example-02.html",
+      "sha256": "2190a921ed182be470241100af23831e0d24d408fe759375bf7319bc6d9cba28",
+      "size": 12052
+    },
+    {
+      "path": "images/data-dense-dashboard/example-02.png",
+      "sha256": "f644fff1b904a5d461d1d9261a1c67281b259399e5644209b0eb8be732dd064c",
+      "size": 22540
+    },
+    {
+      "path": "images/data-dense-dashboard/example-03.html",
+      "sha256": "f2d80bfe22ffb4b8c9e7e0a26702eeb0741466f12672e82af76cabcf6182a399",
+      "size": 11391
+    },
+    {
+      "path": "images/data-dense-dashboard/example-03.png",
+      "sha256": "2b9ea148e130d61d5fcabdf24ebe7cd6dbd00224f47f8364cd23fd013ea004cb",
+      "size": 24395
+    },
+    {
+      "path": "images/de-stijl/example-01.html",
+      "sha256": "9c90391d7b908234df0fbd737e73c4161538a3f9d05878549a62fb41c4f3a023",
+      "size": 11555
+    },
+    {
+      "path": "images/de-stijl/example-01.png",
+      "sha256": "4c2a5338bc44f43204deeb25b936f433ac27591edb0711d8df71282786d9c419",
+      "size": 22499
+    },
+    {
+      "path": "images/de-stijl/example-02.html",
+      "sha256": "a040636b3cdcaf95355ff8ce0b0c82c15c63f9e91b19b311d5cb0b0f5ba2ecd1",
+      "size": 12108
+    },
+    {
+      "path": "images/de-stijl/example-02.png",
+      "sha256": "e58364e76e31f9aa13ed6137c19c26b432bda6d2651934e15fe6c178d8061480",
+      "size": 22714
+    },
+    {
+      "path": "images/de-stijl/example-03.html",
+      "sha256": "4882c93a3fd56c2e8ac866ca421d5df9dde0a237790d045cd9328f5eed22a8d0",
+      "size": 11415
+    },
+    {
+      "path": "images/de-stijl/example-03.png",
+      "sha256": "f5f09daaa6fe7ce173761deebf57a81a9ded9ee3257e8e8baa1f6556c6abe4a8",
+      "size": 23449
+    },
+    {
+      "path": "images/dieselpunk/example-01.html",
+      "sha256": "9fb28068aeb2f6a5f8a2f83ebb8155f8ebc876aec8b0dcab90ad7fd50d27598d",
+      "size": 11535
+    },
+    {
+      "path": "images/dieselpunk/example-01.png",
+      "sha256": "362e3c94032b2c0a14eff7e491e6e9af6fae6c8591ea3decfd0574efded7d652",
+      "size": 21300
+    },
+    {
+      "path": "images/dieselpunk/example-02.html",
+      "sha256": "3c320c7fcf254de8f0256eabe6e3995e4121ee474136dddec534c29cb340a6c2",
+      "size": 12064
+    },
+    {
+      "path": "images/dieselpunk/example-02.png",
+      "sha256": "89f03ab19ea4a43a15e1f9d2d7d5f52c5c9b5e23e7d5108779df9b237a59bc04",
+      "size": 21382
+    },
+    {
+      "path": "images/dieselpunk/example-03.html",
+      "sha256": "da3e659f8749dd7276743999f3fb82733867b42320befa3ae8fff36efc55de9e",
+      "size": 11363
+    },
+    {
+      "path": "images/dieselpunk/example-03.png",
+      "sha256": "3e9dd6cc338b9287d1c615714b83ad72ee53425765b4247592cb9a6b41dbabd6",
+      "size": 21524
+    },
+    {
+      "path": "images/dithering/example-01.html",
+      "sha256": "d51f1f466622ce896e473541d137c1ecc1ccb888f9a372cb36f7881a3d870181",
+      "size": 11542
+    },
+    {
+      "path": "images/dithering/example-01.png",
+      "sha256": "c1d956f22259f70b3c2c5a9be60cfde181a5430effdc5089f6645e9dce287e87",
+      "size": 23929
+    },
+    {
+      "path": "images/dithering/example-02.html",
+      "sha256": "e6802ca9cbf41231f65d39687d4f587c35b590f081626ba7975a07ba1025f295",
+      "size": 12059
+    },
+    {
+      "path": "images/dithering/example-02.png",
+      "sha256": "0b0483b23b90a537bd3f62031fd02f248ced710b9f2b7c552b31a1d808f8b28b",
+      "size": 21636
+    },
+    {
+      "path": "images/dithering/example-03.html",
+      "sha256": "64c4738ef7eac2fe9d7940afb1c1477027d934775e7845fc8832d239d9c2e6ca",
+      "size": 11394
+    },
+    {
+      "path": "images/dithering/example-03.png",
+      "sha256": "db1810ebdc6eac50044c5efd8c7d6cefdafc62396c972bbf59a39af3ec3cb143",
+      "size": 25433
+    },
+    {
+      "path": "images/duotone/example-01.html",
+      "sha256": "4d850747217a53993af49bc253ff0cfd98364f0651951f3a8f6c30ad34edb54c",
+      "size": 11482
+    },
+    {
+      "path": "images/duotone/example-01.png",
+      "sha256": "684409559df41c234b2d6fb44b8de4709fe6f8f13f350f9e6bf928566d4f1d09",
+      "size": 20290
+    },
+    {
+      "path": "images/duotone/example-02.html",
+      "sha256": "c198b39cc7cf055624e59f810559b4adf320cde6effef5baf64c0cb0bb1bc7e1",
+      "size": 11999
+    },
+    {
+      "path": "images/duotone/example-02.png",
+      "sha256": "992b2d4fa26cf206efc42af8493ddcc35329dab1a2afdd925e04b68e58a38444",
+      "size": 19920
+    },
+    {
+      "path": "images/duotone/example-03.html",
+      "sha256": "ea3a5b6360dda0bd035960bec38458aca3a9527659222d9e945c0ea9382c8a8b",
+      "size": 11310
+    },
+    {
+      "path": "images/duotone/example-03.png",
+      "sha256": "7bccdcb88be7b7a0860bafcd9600c46e05d3da8c4b0c64fcdd7b730f5fb730d4",
+      "size": 21051
+    },
+    {
+      "path": "images/editorial-layout/example-01.html",
+      "sha256": "435955976fed69cce3e8ad57b10d0e9a1c6dcb91a81c4b7c020224adef1e518b",
+      "size": 11585
+    },
+    {
+      "path": "images/editorial-layout/example-01.png",
+      "sha256": "563ed27dcd10637d2ab5bc65d836d824f8cf83348096e896e4bc77aef883be5f",
+      "size": 23793
+    },
+    {
+      "path": "images/editorial-layout/example-02.html",
+      "sha256": "b5069d91de4f953dea2c99d17cca090c10dd13a6f6a6c7579c94c34c38802897",
+      "size": 12074
+    },
+    {
+      "path": "images/editorial-layout/example-02.png",
+      "sha256": "cc3beaed2b28f070ca230e4bedd33838c519d0ce6f4b5500d7a31895a8a1da03",
+      "size": 21571
+    },
+    {
+      "path": "images/editorial-layout/example-03.html",
+      "sha256": "b5b55a11403addded46a57c7b3c156f8e08abdbe9d6e8d52ae81bad03efe169c",
+      "size": 11405
+    },
+    {
+      "path": "images/editorial-layout/example-03.png",
+      "sha256": "58f227bc723578624ce648153ce19fb4234a2268dc94431417a322f8a5823eb7",
+      "size": 22406
+    },
+    {
+      "path": "images/film-grain/example-01.html",
+      "sha256": "989d8157b36712d2ad86fd79718d03358e6b7ba7d350f2702f794ee2e2eb85fd",
+      "size": 11530
+    },
+    {
+      "path": "images/film-grain/example-01.png",
+      "sha256": "906e4c6c198d22c1df4a0e564fb4bb4668593a16b485ce04c5ddd892ec837157",
+      "size": 745486
+    },
+    {
+      "path": "images/film-grain/example-02.html",
+      "sha256": "4371d57c005ee0293956c8ef8407d6df741949a26dd2e366b7d58f84cbb45b46",
+      "size": 12043
+    },
+    {
+      "path": "images/film-grain/example-02.png",
+      "sha256": "692ba8eef307261b82150fda1e40b6794b844db8e177f55f3a2551f728452bd6",
+      "size": 599753
+    },
+    {
+      "path": "images/film-grain/example-03.html",
+      "sha256": "1c4731e564aba1eea74a3e5aa1cb60d6f0b033ae83bceef8e48d05376fa994c1",
+      "size": 11362
+    },
+    {
+      "path": "images/film-grain/example-03.png",
+      "sha256": "bdde70fb26487637d37e10b198447c52b9f73ee23ed9551325d7c0c211c1e5c6",
+      "size": 975783
+    },
+    {
+      "path": "images/flat-design-2-0/example-01.html",
+      "sha256": "78fb78916d6f3968f53ffb88e718d2ceff512cfce88030f750f22b06b1f9bf9f",
+      "size": 11469
+    },
+    {
+      "path": "images/flat-design-2-0/example-01.png",
+      "sha256": "c30d718eac1e62bf0063673ccf2c274f2ca09dceda6029ec481c7a613e9f070b",
+      "size": 25066
+    },
+    {
+      "path": "images/flat-design-2-0/example-02.html",
+      "sha256": "b0e9b0ec444e87145680e86b01101ec442656b6574394a8ddc77b6c630da88ef",
+      "size": 12026
+    },
+    {
+      "path": "images/flat-design-2-0/example-02.png",
+      "sha256": "d9e53c3e3fc37c0d0e5d4b5ef8ce748646c7cf95d5495b7485bf51b7d09e57cc",
+      "size": 25231
+    },
+    {
+      "path": "images/flat-design-2-0/example-03.html",
+      "sha256": "d46063d6253384b8f86a226c6110015badd7e0808e92930edc671c812f3f3b0d",
+      "size": 11333
+    },
+    {
+      "path": "images/flat-design-2-0/example-03.png",
+      "sha256": "d68da4858d306109e63eca1dbdca5f10208114448e1d52b8a7b86847b74d3511",
+      "size": 25519
+    },
+    {
+      "path": "images/flat-design/example-01.html",
+      "sha256": "5391b8dd89c5ea3eea2113a7e797b4ccaa2d472c507692b17e87f593ed21d31b",
+      "size": 11439
+    },
+    {
+      "path": "images/flat-design/example-01.png",
+      "sha256": "a1cf12ddc5f834c2694c230a5129549bfcf6fcf1f450463ec19af43da73a91c7",
+      "size": 20883
+    },
+    {
+      "path": "images/flat-design/example-02.html",
+      "sha256": "2bd99c6d29904973405e0268f8d7692902ddd44841487a9998591b14870bf85e",
+      "size": 11988
+    },
+    {
+      "path": "images/flat-design/example-02.png",
+      "sha256": "6e7341e739d6c32618c94a3e3778b014453d8a5536a071e712d157884422b99b",
+      "size": 22265
+    },
+    {
+      "path": "images/flat-design/example-03.html",
+      "sha256": "9cdc22a5cfbd51f3c71706f567e977d28bd187c73e2a7b50dae5902ca5644c56",
+      "size": 11283
+    },
+    {
+      "path": "images/flat-design/example-03.png",
+      "sha256": "25764068d183141cf2b89d15daa47b3834a9fc6c3afc8359632e9a2f432c0eb7",
+      "size": 19277
+    },
+    {
+      "path": "images/frutiger-aero/example-01.html",
+      "sha256": "f233125a0c673f376e378960ae5e361ffabb2f87c007ce091dc88f64d4f10c9e",
+      "size": 11580
+    },
+    {
+      "path": "images/frutiger-aero/example-01.png",
+      "sha256": "d296fd865a9acdb514d53609c214f7ad00fb487a337e255e618f7f902be509a5",
+      "size": 138334
+    },
+    {
+      "path": "images/frutiger-aero/example-02.html",
+      "sha256": "3b358625efd65fc89fa0418f9fbf862d0b2ba97408f4360794f8a7f89040d3c7",
+      "size": 12101
+    },
+    {
+      "path": "images/frutiger-aero/example-02.png",
+      "sha256": "dfd0d9f3d186117f46be78beb444c031cac1defd5484386a4fdd0ff8f16d86c4",
+      "size": 119347
+    },
+    {
+      "path": "images/frutiger-aero/example-03.html",
+      "sha256": "4f2703861025e4d6a3703a4beffe9a28892bd10b55c3594d59abf840276b2439",
+      "size": 11432
+    },
+    {
+      "path": "images/frutiger-aero/example-03.png",
+      "sha256": "c7b40300ef797c5f4c3e084f8b5d18c0140a42d1fb0a8ee77100cfc7057242e2",
+      "size": 160463
+    },
+    {
+      "path": "images/frutiger-metro/example-01.html",
+      "sha256": "3ad880fdf0528056b5f9bd0d8ead310aaff3c9c7004433cbbe4506f7a6374138",
+      "size": 11440
+    },
+    {
+      "path": "images/frutiger-metro/example-01.png",
+      "sha256": "87b3698723c99766a6ea2bbeeca82d78ad39e0c63e2e166bf8c32fd9e82b94cb",
+      "size": 24378
+    },
+    {
+      "path": "images/frutiger-metro/example-02.html",
+      "sha256": "a3794461e5e39e1fd7ada964c458a0d525b9ce47df54aadfa28aefffda769363",
+      "size": 11965
+    },
+    {
+      "path": "images/frutiger-metro/example-02.png",
+      "sha256": "e0e992a282b40ee75493dca8e3cdf678017bd9aa08d151c1c981908f6b9e9690",
+      "size": 24321
+    },
+    {
+      "path": "images/frutiger-metro/example-03.html",
+      "sha256": "7f789d6e3ba92842000502e015e34fd2d4e846336e23f168edb6bfa25be2c413",
+      "size": 11288
+    },
+    {
+      "path": "images/frutiger-metro/example-03.png",
+      "sha256": "fef0d5fccfb440e2879eab3f5ce00bff7b5f93bfafbf741f50f1a398e86e36e4",
+      "size": 21280
+    },
+    {
+      "path": "images/full-bleed-design/example-01.html",
+      "sha256": "78928b930eccc3b8942d2d366822c424e6622a240a4ead191c89c6208a9d5e57",
+      "size": 11542
+    },
+    {
+      "path": "images/full-bleed-design/example-01.png",
+      "sha256": "621539a83106a29b25bbe563b72c1981f6db85f175b4db62891b2f6bf4505c38",
+      "size": 364748
+    },
+    {
+      "path": "images/full-bleed-design/example-02.html",
+      "sha256": "1c7e3bd77fd18e75e7057e276402d94ae505d469c4d3447305814d2109ecbb88",
+      "size": 12059
+    },
+    {
+      "path": "images/full-bleed-design/example-02.png",
+      "sha256": "1c57df225efcdba8e269753a53a248d369c2132eddfa4957b60f2a8872f28ccc",
+      "size": 22687
+    },
+    {
+      "path": "images/full-bleed-design/example-03.html",
+      "sha256": "d8ba5ba3c9c1b81244d68178e7a9fbfb321014385a3d8855828fc1d6294b3535",
+      "size": 11402
+    },
+    {
+      "path": "images/full-bleed-design/example-03.png",
+      "sha256": "7940131e0635218600a9ac555a4fe2d121b82604115ca4289b89fe610c3772d3",
+      "size": 24102
+    },
+    {
+      "path": "images/gamified-design/example-01.html",
+      "sha256": "6d7092a639b90dddba4fe57fce54de1aa9847648adc1d42fd35dfc1b73fdef19",
+      "size": 11489
+    },
+    {
+      "path": "images/gamified-design/example-01.png",
+      "sha256": "f4952b611c0fe9e6b4c5d563b0de8072e84dc7595f0f4c7df8bab76bc63ee87f",
+      "size": 26008
+    },
+    {
+      "path": "images/gamified-design/example-02.html",
+      "sha256": "35aee8c0edff4900eff071b525aa31f3aac2adfeae1ac836146768ae9f7dd152",
+      "size": 12030
+    },
+    {
+      "path": "images/gamified-design/example-02.png",
+      "sha256": "6f79c912fbc08b9a79462441b883acd3565aec129b9f579995c0373673a9ce37",
+      "size": 26442
+    },
+    {
+      "path": "images/gamified-design/example-03.html",
+      "sha256": "b536ad1500ac72bb51f9e1a261879a93c1ff93762a28e4edca15b1e494dacd42",
+      "size": 11341
+    },
+    {
+      "path": "images/gamified-design/example-03.png",
+      "sha256": "f97089655f9d3cfb13c5b27f6e32c566b40fd03f970115115b4d025b30114023",
+      "size": 25182
+    },
+    {
+      "path": "images/generative-design/example-01.html",
+      "sha256": "0dfc2ff70e82e59ae73e47525d18d57e2500208effc328570b45a31e41ab6f45",
+      "size": 16191
+    },
+    {
+      "path": "images/generative-design/example-01.png",
+      "sha256": "2e59a9816330396e33f6fd96a42f980921df7f719d23cf68bde4f3460843cd14",
+      "size": 56286
+    },
+    {
+      "path": "images/generative-design/example-02.html",
+      "sha256": "d14cca849988ca3010557a4410974c4db5c2a4199a9dd17ef200ef29a34c74ce",
+      "size": 16656
+    },
+    {
+      "path": "images/generative-design/example-02.png",
+      "sha256": "23306e5179cf53756d49160165ce48dcd41132d940a8cfe5bfe555849de794d1",
+      "size": 55374
+    },
+    {
+      "path": "images/generative-design/example-03.html",
+      "sha256": "5dfe53746acb338e0ac583f0d61fa884e235d8cfbe137ea380aab2e73a00c0d4",
+      "size": 15995
+    },
+    {
+      "path": "images/generative-design/example-03.png",
+      "sha256": "711393a31ba2d862cf5fb2c610ac5d15087660470d73906cc2fabab4e2b6b184",
+      "size": 72908
+    },
+    {
+      "path": "images/glassmorphism/example-01.html",
+      "sha256": "c80bee12dd78e3dcc5739f7af1a52da3c6a5ec3de4d992fdb503ab75a564f243",
+      "size": 11554
+    },
+    {
+      "path": "images/glassmorphism/example-01.png",
+      "sha256": "d125356f7bd22562e86232360a6aca37e9c6a631448000e68462de792e801b3b",
+      "size": 440906
+    },
+    {
+      "path": "images/glassmorphism/example-02.html",
+      "sha256": "ea74797b03564298f59d8ac137828bb135de62547c39bc1c82f7457b5873d092",
+      "size": 12079
+    },
+    {
+      "path": "images/glassmorphism/example-02.png",
+      "sha256": "c8714238d2f9bb8ce52d8b84f6b7b0b20444e061cbae08e64922cebfab6fedec",
+      "size": 454705
+    },
+    {
+      "path": "images/glassmorphism/example-03.html",
+      "sha256": "514082b85ffe65ebc822f55070d78ad4a45ee17854fd9d264ee688a01c0cb4f6",
+      "size": 11410
+    },
+    {
+      "path": "images/glassmorphism/example-03.png",
+      "sha256": "81b6c4cbda07b3a962e5add7836d0b3de407c9ea182a5c924469eec377417f4f",
+      "size": 490261
+    },
+    {
+      "path": "images/glitch-art/example-01.html",
+      "sha256": "8dc9f1e99b016d2924155bccd6e27f5817b40f18dc32d9433662bfa570d18108",
+      "size": 11562
+    },
+    {
+      "path": "images/glitch-art/example-01.png",
+      "sha256": "e7befe15b5853cc7e2c8d36b0765c81ca114d3d7661eb4674380521171fd6dd1",
+      "size": 23221
+    },
+    {
+      "path": "images/glitch-art/example-02.html",
+      "sha256": "e4f12c7956359279a0406e6eb38967fc271417808612c06870cf87adf8dd517c",
+      "size": 12087
+    },
+    {
+      "path": "images/glitch-art/example-02.png",
+      "sha256": "41b40915a268ca730f07aa68719ffb6320876481e2069c47f235d5fa07c9e136",
+      "size": 23459
+    },
+    {
+      "path": "images/glitch-art/example-03.html",
+      "sha256": "126d2ae7095131ba95b4a6df039bfd378d5b98f2db428037fea05e5d0438a57e",
+      "size": 11410
+    },
+    {
+      "path": "images/glitch-art/example-03.png",
+      "sha256": "7343129d4b937e466e918d3742ac9999cc7676444cf86b7f3b3a5e23a908b98b",
+      "size": 25377
+    },
+    {
+      "path": "images/gradient-design/example-01.html",
+      "sha256": "704dff8e4cd42d90187e7740cdc30c66c20b9bc30d69ae4850e1d381929dd295",
+      "size": 11505
+    },
+    {
+      "path": "images/gradient-design/example-01.png",
+      "sha256": "78afe4e791bbb9eae607a20ed182d927e3641eaf37160d072c5edcb1ec6bb32e",
+      "size": 166056
+    },
+    {
+      "path": "images/gradient-design/example-02.html",
+      "sha256": "ade2870eb47a85b800d978531e41adc4fca2a5ea0a48001c4d58cc646cfa6d62",
+      "size": 12034
+    },
+    {
+      "path": "images/gradient-design/example-02.png",
+      "sha256": "322e5ae640e7bf21cd88bee9c929f3234e3a64aa356cc0e447eeb3c884da2921",
+      "size": 158120
+    },
+    {
+      "path": "images/gradient-design/example-03.html",
+      "sha256": "5c4d34afde8e48da51abb55d25e52275541cd5630690cef05a913e05c10f2887",
+      "size": 11361
+    },
+    {
+      "path": "images/gradient-design/example-03.png",
+      "sha256": "eccc935864998b92f66e68666738718b9af7a174fe5ee95a22f324643dfd915e",
+      "size": 135250
+    },
+    {
+      "path": "images/gradient-mesh/example-01.html",
+      "sha256": "41fa5fa544378a25b57cd48f675565427384a62fb0fb360214032178074d056a",
+      "size": 11564
+    },
+    {
+      "path": "images/gradient-mesh/example-01.png",
+      "sha256": "da0877425676692964e126e65cef497366ed64b8660587c3c7d11dc96ba5ed07",
+      "size": 179658
+    },
+    {
+      "path": "images/gradient-mesh/example-02.html",
+      "sha256": "f1a37db74cb4f72b95de84c41e47ed6a727073f1881e51e965f7b41a41c9d68b",
+      "size": 12089
+    },
+    {
+      "path": "images/gradient-mesh/example-02.png",
+      "sha256": "1e054631d747be400b030ac6ae4e9a4a0dadea9770f7b7adeb24a4d5576b9edd",
+      "size": 155387
+    },
+    {
+      "path": "images/gradient-mesh/example-03.html",
+      "sha256": "f99eb200f14d552da97463d34302161e196f552c75c6963bb3f7bcbe5df1918c",
+      "size": 11428
+    },
+    {
+      "path": "images/gradient-mesh/example-03.png",
+      "sha256": "bd228c468445ac61a5004bdce34fba10c8a0129d18725ebd7d0537230c4a9793",
+      "size": 287362
+    },
+    {
+      "path": "images/grainy-gradients/example-01.html",
+      "sha256": "df7faf70f2b27c7b47881b36e70e2ebbf94bb5070c3ba35a020a0307917fa12f",
+      "size": 11503
+    },
+    {
+      "path": "images/grainy-gradients/example-01.png",
+      "sha256": "3417a063ac89a0bca7c275427af2d044e19939eb9389cd5227eddff017bb41aa",
+      "size": 759070
+    },
+    {
+      "path": "images/grainy-gradients/example-02.html",
+      "sha256": "32829c69beb5baea44ca55a13ab6326018cc2cb7ed15ee60f931c0ef1a65834e",
+      "size": 12044
+    },
+    {
+      "path": "images/grainy-gradients/example-02.png",
+      "sha256": "a62c75f260ea3b7f72b653394dcbac3684c045c64f9617499c37aa5b1d35fd63",
+      "size": 609932
+    },
+    {
+      "path": "images/grainy-gradients/example-03.html",
+      "sha256": "ee8a8ed2e7507c13ca62ff1342f5b4682239048e72b8998ef39148d1d1569fb8",
+      "size": 11351
+    },
+    {
+      "path": "images/grainy-gradients/example-03.png",
+      "sha256": "0192156438eeaed5f03ae91ff663cc0bf75c3b2ce6dfd2906d746a224a35454c",
+      "size": 1000289
+    },
+    {
+      "path": "images/grunge-design/example-01.html",
+      "sha256": "afe1fc8f837aefdaad51e2a48608644c7545f6fd5bc1f72a2084995c3b19715d",
+      "size": 11563
+    },
+    {
+      "path": "images/grunge-design/example-01.png",
+      "sha256": "710826bb70546394ccf0eb4d0dc64023e27a09ce31cff4e230ce7c8c2955ceec",
+      "size": 22740
+    },
+    {
+      "path": "images/grunge-design/example-02.html",
+      "sha256": "512424da3e0b61f1460ed4e79a891cd833fa436db20c5294c7f504850f4e3681",
+      "size": 12060
+    },
+    {
+      "path": "images/grunge-design/example-02.png",
+      "sha256": "490c35c291fd962c4bf29295cc353175dc5b859e04201c5da3ef15ff4dda7265",
+      "size": 22749
+    },
+    {
+      "path": "images/grunge-design/example-03.html",
+      "sha256": "28b70a3ef25a91d00f5953cda446c6dbf5fba2354e31c169bb901a3d37ef175d",
+      "size": 11375
+    },
+    {
+      "path": "images/grunge-design/example-03.png",
+      "sha256": "e0d04e285e0a49e377be0ec18650fa5c95dbfc35ac0ca9533d64f8948f6f347d",
+      "size": 23078
+    },
+    {
+      "path": "images/halftone/example-01.html",
+      "sha256": "b082148cc750931a5c378cd67f3f7cbe140c2d52e3ea1cdc8663184d349fa2a8",
+      "size": 11521
+    },
+    {
+      "path": "images/halftone/example-01.png",
+      "sha256": "fce24410e5fe0c8be4f95076d05a6b09f46d6b64abead5e57c18576aee4f230a",
+      "size": 31920
+    },
+    {
+      "path": "images/halftone/example-02.html",
+      "sha256": "cd67adbfb44cf8faa667dec470344576ce01191c874448358de980e89de12835",
+      "size": 12074
+    },
+    {
+      "path": "images/halftone/example-02.png",
+      "sha256": "f2d502a49856901718b33e6b1e5d915d289c459077492f7bf81334df81645bda",
+      "size": 32966
+    },
+    {
+      "path": "images/halftone/example-03.html",
+      "sha256": "6c7d0928ce469606b0e5599f0f27871b7d7b4b2f96cab555065372f44f7413a5",
+      "size": 11385
+    },
+    {
+      "path": "images/halftone/example-03.png",
+      "sha256": "41c020bfeafe90d7beb666f005bc416ffc495daa147eb9cd58e3005287de05a7",
+      "size": 35568
+    },
+    {
+      "path": "images/hand-drawn-design/example-01.html",
+      "sha256": "9e752c5f553834dce68d18afd60eee5a1d02c06f1916cef13677bf52647dc028",
+      "size": 11612
+    },
+    {
+      "path": "images/hand-drawn-design/example-01.png",
+      "sha256": "53de4c0c42d6f4821adc68c1f6590a2bcfcf51c2c424055232bf5d93e1540f9a",
+      "size": 46121
+    },
+    {
+      "path": "images/hand-drawn-design/example-02.html",
+      "sha256": "c301f11edeb6f03fcdf2b020d269220305acf7b0c1beee3f2e26150ba8aa7b13",
+      "size": 12157
+    },
+    {
+      "path": "images/hand-drawn-design/example-02.png",
+      "sha256": "e0f52d53873dc877cf0f610901eb069eb4960cd89ae8aceaee6e4ef3f3f8445a",
+      "size": 47450
+    },
+    {
+      "path": "images/hand-drawn-design/example-03.html",
+      "sha256": "6ee475f5486e2c3c59c675f9521df0bde9bce2b3e2aea3c6cbaae2c746712dd2",
+      "size": 11468
+    },
+    {
+      "path": "images/hand-drawn-design/example-03.png",
+      "sha256": "d3c4a2589e5c10b93a1c3f7dca77b9c88c0f4a908a1d8ddb8c379f475d490ea4",
+      "size": 49386
+    },
+    {
+      "path": "images/hero-centric-design/example-01.html",
+      "sha256": "80932aa98fdf29c107d6285b1dc5ce7ded50d2fd72dfb79b0bcb981b09f8d3cd",
+      "size": 11572
+    },
+    {
+      "path": "images/hero-centric-design/example-01.png",
+      "sha256": "6b9ea9d62520c6e3703b4d988e500a6730d220cce048f4df09531f77a85775e8",
+      "size": 23579
+    },
+    {
+      "path": "images/hero-centric-design/example-02.html",
+      "sha256": "864874fcfec2692899f206f845d4100e07549b490c5196ceb07cbe14e4ab17a1",
+      "size": 12065
+    },
+    {
+      "path": "images/hero-centric-design/example-02.png",
+      "sha256": "52127fd2192dc95bf709e56ceaa3ad240390cdffe69a1217c6a9d5b4476a1bd1",
+      "size": 21602
+    },
+    {
+      "path": "images/hero-centric-design/example-03.html",
+      "sha256": "365f206b1b09a8e7417cdfc64001d6b4176f1ce7d5403cb1f83489b561b647b8",
+      "size": 11400
+    },
+    {
+      "path": "images/hero-centric-design/example-03.png",
+      "sha256": "45b9d88cbb8bbd5bdb8a57a8153e24a4da960204d6c19679db6680637d7ae157",
+      "size": 23340
+    },
+    {
+      "path": "images/horizontal-scrolling/example-01.html",
+      "sha256": "38caa628b90d076d510b2bdb848d4555910a362e86fb646eb3fe669007805dc9",
+      "size": 11494
+    },
+    {
+      "path": "images/horizontal-scrolling/example-01.png",
+      "sha256": "623bcabd8c8fe48eae983fb154c9dfe33ab1ad5cd6e12d9f270b938eb744272a",
+      "size": 22813
+    },
+    {
+      "path": "images/horizontal-scrolling/example-02.html",
+      "sha256": "7deb3da03f7f051e75aa65a4b45b8e18bc56c77ac29f850ea14c0f037b53306a",
+      "size": 12027
+    },
+    {
+      "path": "images/horizontal-scrolling/example-02.png",
+      "sha256": "d965a63cb7197af8882631ca34808b56c1af2e23ca3b1baf36f3f8e77ccf539e",
+      "size": 22076
+    },
+    {
+      "path": "images/horizontal-scrolling/example-03.html",
+      "sha256": "5833604b50a5e1bc52abf34013cb909151f736774bcb581895bf060c960e1f3e",
+      "size": 11342
+    },
+    {
+      "path": "images/horizontal-scrolling/example-03.png",
+      "sha256": "fa6c90a6c00b6d34da63d5c468bcdf9ab7b01ac1a4d5ef2556a7c36bfbc6fdc0",
+      "size": 22928
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-01.html",
+      "sha256": "88c393454c8e6cfe280c9f7f275b14dec0fd63bdeb5e57dd5b2fe149d8f54ebd",
+      "size": 11570
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-01.png",
+      "sha256": "4c567143ac9abac924a14386cf8f88185e16dec471ac01df69c08ca8bfaf4ed7",
+      "size": 218650
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-02.html",
+      "sha256": "63b841583f96eeb8c67999a33c2ea65f2f553e30b4b7e967c1df4055b04af3eb",
+      "size": 12123
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-02.png",
+      "sha256": "36aac6ad3653eeecd3810e5aa98e7f2f2a1f0e75e32061e11bf596007d2e59e0",
+      "size": 195792
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-03.html",
+      "sha256": "8e9ef371b69bec3d759a52d7eda5de98a87454d6b62847ddea337ef746415cdf",
+      "size": 11430
+    },
+    {
+      "path": "images/hyperrealistic-ui/example-03.png",
+      "sha256": "17a037277a18f8dd50d730294db135c0140075a6536c09c0466af4cc119ebd08",
+      "size": 205970
+    },
+    {
+      "path": "images/immersive-storytelling/example-01.html",
+      "sha256": "35b581213c7f928ba0f7bd1c305392350fd8340928b364ca8649f4102a8dd2f0",
+      "size": 11568
+    },
+    {
+      "path": "images/immersive-storytelling/example-01.png",
+      "sha256": "21233c1b3c0fedc0d6267cf71a9e550a41e4e9df20a590f66e2c475d6a3f6ccc",
+      "size": 133269
+    },
+    {
+      "path": "images/immersive-storytelling/example-02.html",
+      "sha256": "d8cb607a91cc47f88d0c0f1b3e89fee5261e9f60939ae86ca9e345ab35e4719b",
+      "size": 12065
+    },
+    {
+      "path": "images/immersive-storytelling/example-02.png",
+      "sha256": "38f6ba1bc34c2a20b8582dc61bfa7ab3a979fea9fe4d4a37d3e9742464cee1bb",
+      "size": 94132
+    },
+    {
+      "path": "images/immersive-storytelling/example-03.html",
+      "sha256": "3521887212eaf12b547b91cb169284cd51d5d99ff12582c83db777d6f21e4b7f",
+      "size": 11396
+    },
+    {
+      "path": "images/immersive-storytelling/example-03.png",
+      "sha256": "94d13a26847337bcc17ff8137c885405f64e2e03f7d288d4d8976d0f147ab639",
+      "size": 131726
+    },
+    {
+      "path": "images/industrial-design/example-01.html",
+      "sha256": "5bc9cae9f1708a45e0f6cd6212e7b5f5b410849066a0a47515e3f677e7f39aec",
+      "size": 11608
+    },
+    {
+      "path": "images/industrial-design/example-01.png",
+      "sha256": "ffeaff8fd3de2a613cffa9759c10bd4c12bceddd32414e92789edc85e41c143a",
+      "size": 23201
+    },
+    {
+      "path": "images/industrial-design/example-02.html",
+      "sha256": "45b196dee9c2a0ac70b7dab869d10eb98f65afe943363ce466195759fae6a284",
+      "size": 12105
+    },
+    {
+      "path": "images/industrial-design/example-02.png",
+      "sha256": "b01f8312dc8003c34c091cdd8f8bcdab45b65e223083c241b912ddfa14e72917",
+      "size": 21521
+    },
+    {
+      "path": "images/industrial-design/example-03.html",
+      "sha256": "53565313d927ccc73d3a0374a95539509a533b7ea8c8f9f602f131ee67e52ffb",
+      "size": 11444
+    },
+    {
+      "path": "images/industrial-design/example-03.png",
+      "sha256": "a60453b1bdd3719071f9c846ffc386e3f8e03ea68ef7d0a522477d2e50f42a69",
+      "size": 22230
+    },
+    {
+      "path": "images/interactive-cursor/example-01.html",
+      "sha256": "176d04ed95c000ee24515b9ff9064b800b1f7f93c82b7404495ec7fe453b42d4",
+      "size": 11455
+    },
+    {
+      "path": "images/interactive-cursor/example-01.png",
+      "sha256": "188488ebb47530d975091e2bde40708b3db2a17acbc0eead56ad6ff83c93eb25",
+      "size": 21708
+    },
+    {
+      "path": "images/interactive-cursor/example-02.html",
+      "sha256": "1f49b9320da6b7b7ad4d9767b7783b61f73e3b816f35a40aa9b9e9d238267155",
+      "size": 11976
+    },
+    {
+      "path": "images/interactive-cursor/example-02.png",
+      "sha256": "8fd080e8133f87c820572a499641ed38f7c2e80c7a9d29c3088dba1230b04399",
+      "size": 22084
+    },
+    {
+      "path": "images/interactive-cursor/example-03.html",
+      "sha256": "231578a238d1799e69bf6cc3065d8a6c10419598e3a332d00254ef54d5fa5a60",
+      "size": 11307
+    },
+    {
+      "path": "images/interactive-cursor/example-03.png",
+      "sha256": "1d29b6112f9519ae3564efbe5b61c19e2d5ed1d2d9d1bb67840fc338b6781c90",
+      "size": 22761
+    },
+    {
+      "path": "images/international-typographic-style/example-01.html",
+      "sha256": "8b0062e9b206c4844974d64cd2e14ac55f230f440c66f6e41dd58ebb447eaf21",
+      "size": 11591
+    },
+    {
+      "path": "images/international-typographic-style/example-01.png",
+      "sha256": "d56b7117fe41e417c2f3e026ab8200734f6382827b97cb1321fb3dbfc6de53ad",
+      "size": 22677
+    },
+    {
+      "path": "images/international-typographic-style/example-02.html",
+      "sha256": "96798066002d6251a767648a14b104fe4636e36836b8add8f79413f39d1686d7",
+      "size": 12108
+    },
+    {
+      "path": "images/international-typographic-style/example-02.png",
+      "sha256": "a87be699c0d44d188fb619b51f898c772c1acde7e61e33ee7f4e6b8018d36c2c",
+      "size": 22108
+    },
+    {
+      "path": "images/international-typographic-style/example-03.html",
+      "sha256": "c1e05215ad2136595eb6d1692bdd39195068a72372dccb0ac00fe509a6ba5338",
+      "size": 11451
+    },
+    {
+      "path": "images/international-typographic-style/example-03.png",
+      "sha256": "0f680cb63bac56ea5c1fe22abd01b16a60d4ddc6e659d9f080bd05e22f4b3feb",
+      "size": 23318
+    },
+    {
+      "path": "images/isometric-design/example-01.html",
+      "sha256": "4ba908608f29ffa55b766731b914c49f46bc27173d148fb952551115edcd2955",
+      "size": 11462
+    },
+    {
+      "path": "images/isometric-design/example-01.png",
+      "sha256": "3a313fc19d2e9a4e21f989ee7e2c244585ab38bbb53183c26ad7342bbac49d3c",
+      "size": 40703
+    },
+    {
+      "path": "images/isometric-design/example-02.html",
+      "sha256": "9d96473e8266123447f18a2487307b94af79913d9fae1a4f01b8fe2ccf3af9a7",
+      "size": 12027
+    },
+    {
+      "path": "images/isometric-design/example-02.png",
+      "sha256": "308fcc190afbb360d7d08a20e36d05e9dd8172b96f9fc053de6823898fbdf512",
+      "size": 43192
+    },
+    {
+      "path": "images/isometric-design/example-03.html",
+      "sha256": "87186b7523262a0d39695732a2692de84a4156fc45d1a3c8f81accf1063bea65",
+      "size": 11346
+    },
+    {
+      "path": "images/isometric-design/example-03.png",
+      "sha256": "0f7a351e2568bb94a38857e264904ed7ccde20904b8fc7170619666dc701e1e1",
+      "size": 48884
+    },
+    {
+      "path": "images/japanese-minimalism/example-01.html",
+      "sha256": "2e1ae65d807d08f81a3df2d9ec22d4b91f3a1c1e063a7f208d93cbb4fa11c972",
+      "size": 11571
+    },
+    {
+      "path": "images/japanese-minimalism/example-01.png",
+      "sha256": "d713a27532fb7091996b9815fcd9362883e04f2e3f4ec8a4da5584041cfc7872",
+      "size": 23211
+    },
+    {
+      "path": "images/japanese-minimalism/example-02.html",
+      "sha256": "8f93e8205a8cdb2377f6baa77432247b8b1aa12ea3f142310692f2038b58eba3",
+      "size": 12072
+    },
+    {
+      "path": "images/japanese-minimalism/example-02.png",
+      "sha256": "907833309c20d44eecec91b78cad54f4266a4957350835a548626a8095ed33e6",
+      "size": 22360
+    },
+    {
+      "path": "images/japanese-minimalism/example-03.html",
+      "sha256": "7364e8313d3c682a038af004005b9e027506804df19b84507669aca162a92bce",
+      "size": 11419
+    },
+    {
+      "path": "images/japanese-minimalism/example-03.png",
+      "sha256": "ad3cba8b348436714a829cae7218c1394e62b1c1cef59384643aa66a36d80b27",
+      "size": 22817
+    },
+    {
+      "path": "images/kinetic-typography/example-01.html",
+      "sha256": "3c120fb3b47697b782e2d8b68fd6d634324603b10db0a667abd8478ba23bf562",
+      "size": 11526
+    },
+    {
+      "path": "images/kinetic-typography/example-01.png",
+      "sha256": "aa7edf35844d55f546bdc0e8a8f37496d50916a96799da0fc52a940bd9453716",
+      "size": 21357
+    },
+    {
+      "path": "images/kinetic-typography/example-02.html",
+      "sha256": "57dd5a846074c4b74a804e7cec3309877c16f9d2b420889f844439874ef476b4",
+      "size": 12043
+    },
+    {
+      "path": "images/kinetic-typography/example-02.png",
+      "sha256": "5a9f20e5af4ff678a00a1aa44c414e4a1d396db69fa0724e415afa3a9850992d",
+      "size": 20918
+    },
+    {
+      "path": "images/kinetic-typography/example-03.html",
+      "sha256": "7a1855bf65c9a1338794f0dc9500528fb5feff4b011f213e24dd0ef85ebff6b7",
+      "size": 11362
+    },
+    {
+      "path": "images/kinetic-typography/example-03.png",
+      "sha256": "efeb471ca656df375dbb223ca04b5e60ad86c68b6f33b443763f43b4ef2ccba2",
+      "size": 21454
+    },
+    {
+      "path": "images/line-art/example-01.html",
+      "sha256": "1e8d05325f5d4f3716c4680a84732f0d71cefe77598b7e30a4c85d5e1ab51885",
+      "size": 11547
+    },
+    {
+      "path": "images/line-art/example-01.png",
+      "sha256": "f83ae92d926c1380dacf5383879f6b36818d099830f8f90c726f172699c9af3f",
+      "size": 27400
+    },
+    {
+      "path": "images/line-art/example-02.html",
+      "sha256": "562c8f48df7aa9d252c19a2d49e0517039e6040dbb9b9721a112b42fc58b261e",
+      "size": 12064
+    },
+    {
+      "path": "images/line-art/example-02.png",
+      "sha256": "f4257ffc601b1dd52bdca558affffa55156f459a19f01ece4e552b1980546834",
+      "size": 27846
+    },
+    {
+      "path": "images/line-art/example-03.html",
+      "sha256": "d59c5f078c1cc560c9807bdc34c3ed2d94463ee1a3b7427aeaf6bb796cb2c1e2",
+      "size": 11379
+    },
+    {
+      "path": "images/line-art/example-03.png",
+      "sha256": "259beedab58ee248b9940b761e6df1fad2a2232c66385b9e52c4707d4f5f0dc1",
+      "size": 27755
+    },
+    {
+      "path": "images/liquid-glass/example-01.html",
+      "sha256": "d13ebfab6d583e6d2176b697033cdb32a1fa87e5cb3bfe117141bd573c75bed1",
+      "size": 11628
+    },
+    {
+      "path": "images/liquid-glass/example-01.png",
+      "sha256": "3d00dd885efb46779d4a271a00866a1ffc73fa97717678331312c92c332c14e6",
+      "size": 634547
+    },
+    {
+      "path": "images/liquid-glass/example-02.html",
+      "sha256": "260c342b42f33376fec44869b4b89f7cdb9daf0cd50d135cbd750c14605652af",
+      "size": 12165
+    },
+    {
+      "path": "images/liquid-glass/example-02.png",
+      "sha256": "5894d2a3bde174880e893cdc1e55742be01587d08da0f4806d7e6e9aec752d8d",
+      "size": 639847
+    },
+    {
+      "path": "images/liquid-glass/example-03.html",
+      "sha256": "dc49daf7db2a72611ee50fa2943281b0fd67ce008a0a1e6df10107b93af393a6",
+      "size": 11472
+    },
+    {
+      "path": "images/liquid-glass/example-03.png",
+      "sha256": "3ae753aa5427bb9bda2f94903db9af3006c235d71f19ff04a471c0c507a90c58",
+      "size": 573520
+    },
+    {
+      "path": "images/low-poly/example-01.html",
+      "sha256": "a7d023292124b5c6b2830adec58c4e5fa434d493592db6e2c26a203c34db5a51",
+      "size": 11501
+    },
+    {
+      "path": "images/low-poly/example-01.png",
+      "sha256": "d42e5023fb69c7b1b6e4e5713f95f0bbc34b2d0bfedbe6f2d94cbe681e0909ea",
+      "size": 18411
+    },
+    {
+      "path": "images/low-poly/example-02.html",
+      "sha256": "4808f98ba9e666934e0993d19ebe36ac9d5daa85859930d560c38a62e4132176",
+      "size": 11985
+    },
+    {
+      "path": "images/low-poly/example-02.png",
+      "sha256": "96e5f5e31c8d94d283ed9efe62c26868cdb99a934432c57cb769c730b554d0a2",
+      "size": 19041
+    },
+    {
+      "path": "images/low-poly/example-03.html",
+      "sha256": "3798c08299e70355d39fb6dce355d1b22f6ad74961437d2865fd93691242f18e",
+      "size": 11309
+    },
+    {
+      "path": "images/low-poly/example-03.png",
+      "sha256": "1f180b928b12f6134265beecd6a5d849848a439dca1d7e8225ba8b81341a779a",
+      "size": 18599
+    },
+    {
+      "path": "images/magnetic-ui/example-01.html",
+      "sha256": "b5811bc61e38b1df79c9e0ce21530eca9ea44750392df893b9edcf2dad61607f",
+      "size": 11516
+    },
+    {
+      "path": "images/magnetic-ui/example-01.png",
+      "sha256": "8d2e7e102fc75905d63028417c84d2c317aa1c7f5a38e12baf2f1745132815b4",
+      "size": 30277
+    },
+    {
+      "path": "images/magnetic-ui/example-02.html",
+      "sha256": "b931f9db41030767647a89affe9b019bb4aac3ea137db291e2b4cb1d558c7676",
+      "size": 12069
+    },
+    {
+      "path": "images/magnetic-ui/example-02.png",
+      "sha256": "fed957f23cb664b602967aa6492f68b93de787d92f4011752db07795f4abe8f4",
+      "size": 30224
+    },
+    {
+      "path": "images/magnetic-ui/example-03.html",
+      "sha256": "12fe050e1f7bf19c11d074a029ba5428f887b81c4d126dd896e6f22a59b1d3c6",
+      "size": 11360
+    },
+    {
+      "path": "images/magnetic-ui/example-03.png",
+      "sha256": "1177da2a3a4319a81887cfc6ecd1b5b5c371656faf79f7cf6c384718a9803f5a",
+      "size": 32011
+    },
+    {
+      "path": "images/masonry-layout/example-01.html",
+      "sha256": "716c1140b76de77be684880c452d22019a1546340479010e89a93edc3dedb652",
+      "size": 11498
+    },
+    {
+      "path": "images/masonry-layout/example-01.png",
+      "sha256": "8c6c5cdc486d95c2472a6da2a059507384c2042ded9dfd5b7a4b6e6f66c1aac8",
+      "size": 24562
+    },
+    {
+      "path": "images/masonry-layout/example-02.html",
+      "sha256": "b5455da1c6da341e4f9c76a2a7d7548dc2f174795d78dbdf1cfdcda213796376",
+      "size": 12019
+    },
+    {
+      "path": "images/masonry-layout/example-02.png",
+      "sha256": "37665b7df47a8e0dd3f77bf388b0df7b733678250977183134e8b43cbcf8bdfa",
+      "size": 22800
+    },
+    {
+      "path": "images/masonry-layout/example-03.html",
+      "sha256": "70104e10d4b3b2ec15da8b37843311e2e26edfd1b2a604f37a208de27de46de6",
+      "size": 11322
+    },
+    {
+      "path": "images/masonry-layout/example-03.png",
+      "sha256": "d00d71261236947b8d80f974ef749d3c1804ea7215dae3e75f8a0e6ebb7a6daa",
+      "size": 23120
+    },
+    {
+      "path": "images/material-design/example-01.html",
+      "sha256": "c3c6918299a207a59b6cb41497317028680e339f6120a704cae963aee5b0d791",
+      "size": 11485
+    },
+    {
+      "path": "images/material-design/example-01.png",
+      "sha256": "94da679ac28e0aa76f30aed57719a0e47e163dcd2b41ed8fd677905a5cbcd2e7",
+      "size": 27252
+    },
+    {
+      "path": "images/material-design/example-02.html",
+      "sha256": "0d83fab869a8ad6a4bbdb1af7ebea1b5a5451704919e34c78ad530b924df75fb",
+      "size": 12018
+    },
+    {
+      "path": "images/material-design/example-02.png",
+      "sha256": "34488781289433d36bc0da682ad5d8053185d51b835c8e752c575f8b3670eca1",
+      "size": 27536
+    },
+    {
+      "path": "images/material-design/example-03.html",
+      "sha256": "d85518f4e81b932125c84d010cbe43ca2cda91875f8d707ea492328ade7cf361",
+      "size": 11349
+    },
+    {
+      "path": "images/material-design/example-03.png",
+      "sha256": "0e81f7df76bb617d6dcb4a68c98960a20b58acdc9d7d85777a52963c2164bf73",
+      "size": 26407
+    },
+    {
+      "path": "images/maximalism/example-01.html",
+      "sha256": "d1d947281ec295d430c6669e449b81931c12d380396d06f640845d5a3b3c7b2a",
+      "size": 11664
+    },
+    {
+      "path": "images/maximalism/example-01.png",
+      "sha256": "a86c82e858c0afc143f3280870c387e964d46bf63538e6ba2a651680a6e4f329",
+      "size": 80581
+    },
+    {
+      "path": "images/maximalism/example-02.html",
+      "sha256": "9d31bdaaca17bd2604a4c128cc780be801e2f7097f1e62523418c329500cfaba",
+      "size": 12185
+    },
+    {
+      "path": "images/maximalism/example-02.png",
+      "sha256": "2e28f352bb16d04abac2582bc9b4bcadc62d4fb7c792e2e1285a541bca93858d",
+      "size": 82342
+    },
+    {
+      "path": "images/maximalism/example-03.html",
+      "sha256": "9664fc32333ab562e919204f246371e9b63ef23d12e1b4b3b376f47dd914ba90",
+      "size": 11516
+    },
+    {
+      "path": "images/maximalism/example-03.png",
+      "sha256": "f4b6caac6a52692894b10d1279056fecc58682909b79424535f8fe1387b4ada6",
+      "size": 82928
+    },
+    {
+      "path": "images/memphis-design/example-01.html",
+      "sha256": "ed6cee08b405e81b12b5efb3588babfdde910f59098be230bcb9c63a55831d2e",
+      "size": 11598
+    },
+    {
+      "path": "images/memphis-design/example-01.png",
+      "sha256": "a5cd484e46a5d4e4c2965e006f267e103a84f3db410edd359e8f9438de8af29a",
+      "size": 27197
+    },
+    {
+      "path": "images/memphis-design/example-02.html",
+      "sha256": "e17735712602ba517ef98621f170b85b305e5d1d0788e920cd2060f2d109cb36",
+      "size": 12115
+    },
+    {
+      "path": "images/memphis-design/example-02.png",
+      "sha256": "4e6e75decfabf8401ee4ec201f0c21afeb51fbba91ad1880d5f308250e4a50d5",
+      "size": 27334
+    },
+    {
+      "path": "images/memphis-design/example-03.html",
+      "sha256": "94a02bef860393b04ec2e1d13d5545d453acec7e08a4ac7585a5d7f3d6d4bc11",
+      "size": 11438
+    },
+    {
+      "path": "images/memphis-design/example-03.png",
+      "sha256": "3b5b8a9ab01de1d942ee98e09977c405ce7faddcfaef8da6ebaf6fd9d536d688",
+      "size": 23918
+    },
+    {
+      "path": "images/micro-interactions/example-01.html",
+      "sha256": "bf61eed0f2f1b142b9aec0f8fac85b532b3e481769490626becced46d413dc8f",
+      "size": 11485
+    },
+    {
+      "path": "images/micro-interactions/example-01.png",
+      "sha256": "ef8ff17039dd56da3bc0ddae3404a6db56a3c591ac515fab691753bab94ff6da",
+      "size": 22355
+    },
+    {
+      "path": "images/micro-interactions/example-02.html",
+      "sha256": "58eaa511128d092e2aca8187de66a181fb12727d879beead3123433f9aa412da",
+      "size": 12054
+    },
+    {
+      "path": "images/micro-interactions/example-02.png",
+      "sha256": "484360eb036aba10b3064f4e9a95b17cf430c4a5a3ec78612a4694a2d3eb27c8",
+      "size": 23974
+    },
+    {
+      "path": "images/micro-interactions/example-03.html",
+      "sha256": "67fd7f1244417f6ec77ca3a593860ebee2e121b76c4d9302c540846477eb77e2",
+      "size": 11357
+    },
+    {
+      "path": "images/micro-interactions/example-03.png",
+      "sha256": "476d153075113730e4e614fd74a45096ea9db58f50a19296317ae08b117b01e9",
+      "size": 23407
+    },
+    {
+      "path": "images/minimalism/example-01.html",
+      "sha256": "64b0a1120ec84bb2a64fa6e256a51f47146b77761dc18ea6264580a0fececc0d",
+      "size": 11508
+    },
+    {
+      "path": "images/minimalism/example-01.png",
+      "sha256": "867aa5d411822a462461a76f1cda5fc480e967d2d97746da2397f3b03599e4a6",
+      "size": 22525
+    },
+    {
+      "path": "images/minimalism/example-02.html",
+      "sha256": "cf67802851878c352a073c802ec6ea2437792a539339d788f63101881ef07758",
+      "size": 12053
+    },
+    {
+      "path": "images/minimalism/example-02.png",
+      "sha256": "e92fe41995259070e16956f6093ea340226766ba5ad289ba94942dc90c0ffa9a",
+      "size": 22688
+    },
+    {
+      "path": "images/minimalism/example-03.html",
+      "sha256": "a74561fbeaa37529fe993593139adc88d2afc385483d980442df2a177d7086d6",
+      "size": 11368
+    },
+    {
+      "path": "images/minimalism/example-03.png",
+      "sha256": "89350b42e6142be4e6e2fe657781f6d5dfe120b5a8592b38cf418d0d1e80bf1a",
+      "size": 23402
+    },
+    {
+      "path": "images/mixed-media-design/example-01.html",
+      "sha256": "58b79f58b56a7bd614af31dba56c0a90fff360e49a0f238e0ba5a157ed8ccc61",
+      "size": 11606
+    },
+    {
+      "path": "images/mixed-media-design/example-01.png",
+      "sha256": "502d8c090eeeba3715e9e40703e9f77f57d032c1ce20174d914edf8a571d39f1",
+      "size": 430889
+    },
+    {
+      "path": "images/mixed-media-design/example-02.html",
+      "sha256": "c61771ab0fa8dbd7446e96679fb4b87ec19ec03eb39c3e62c5fbf372480215ee",
+      "size": 12127
+    },
+    {
+      "path": "images/mixed-media-design/example-02.png",
+      "sha256": "ef8a3be722a52855be8d2f6cab0077920a4db8dc1214915c6eb9da95a01201e0",
+      "size": 361485
+    },
+    {
+      "path": "images/mixed-media-design/example-03.html",
+      "sha256": "f008ddaf63f0102551595b3757f22cdbd9be80895caed04fae8c7a9dc65ff3cf",
+      "size": 11466
+    },
+    {
+      "path": "images/mixed-media-design/example-03.png",
+      "sha256": "b979e30dbaa47e743d6ee70c71757aaa297810700f67d726e88b4247ba69bf28",
+      "size": 610301
+    },
+    {
+      "path": "images/modernism/example-01.html",
+      "sha256": "0dacec618b943ce0761a4e33043b6b047f7670953b10ed02ebd3dd55ac6e38c2",
+      "size": 11446
+    },
+    {
+      "path": "images/modernism/example-01.png",
+      "sha256": "516c692f859765539b455de7fa6e61738209fb067331229fe6631727da80334b",
+      "size": 22261
+    },
+    {
+      "path": "images/modernism/example-02.html",
+      "sha256": "794d580ace0a5b7406bbfa3075e6cb068ab2d913cea9f5ccc949b0d54579997a",
+      "size": 11959
+    },
+    {
+      "path": "images/modernism/example-02.png",
+      "sha256": "8671396a9b7f37adc3d1fd9139af99ebb548c01237c0fd3321ea4e756e9eb93f",
+      "size": 21838
+    },
+    {
+      "path": "images/modernism/example-03.html",
+      "sha256": "515392d0831bdf489deedc3ef1bf938f894645c7b30d90860889e5f98151b28a",
+      "size": 11282
+    },
+    {
+      "path": "images/modernism/example-03.png",
+      "sha256": "4e1ebdbadb0d76a206386d15c928889c4043e3cae549c78808cb4ff1b7368565",
+      "size": 22946
+    },
+    {
+      "path": "images/modular-grid/example-01.html",
+      "sha256": "e9a05cb5c3f0a855f46ac89ec58b05478740c8edb4a66813bf46a98b98e20d3f",
+      "size": 11509
+    },
+    {
+      "path": "images/modular-grid/example-01.png",
+      "sha256": "8e0465a4e5bb3f408727391f9f38723a39f63965fdd13514a395233d0b6db8e4",
+      "size": 22731
+    },
+    {
+      "path": "images/modular-grid/example-02.html",
+      "sha256": "9a6c10c41ce6181ccd0a207889af8be19332ec658a7dc0dc2045ed585ca1428e",
+      "size": 12046
+    },
+    {
+      "path": "images/modular-grid/example-02.png",
+      "sha256": "94e0da80c152aad553712c53e003594cbebc875287f5bc1234609502705c608e",
+      "size": 22675
+    },
+    {
+      "path": "images/modular-grid/example-03.html",
+      "sha256": "ae898f6bc47c2858d94174b7eda55ab04b94beb7aead94b95e9dc8bf1bc4051d",
+      "size": 11361
+    },
+    {
+      "path": "images/modular-grid/example-03.png",
+      "sha256": "baff1a94d55688e19f591119e466601a668dec412970d1bec39400cd9a5c5253",
+      "size": 23348
+    },
+    {
+      "path": "images/monochromatic-design/example-01.html",
+      "sha256": "0a88b725bf0f6f9db6b0323e3707a59f199de1cafbd3bbc4489b4501aceeb02b",
+      "size": 11460
+    },
+    {
+      "path": "images/monochromatic-design/example-01.png",
+      "sha256": "4bdd4125729aab8ce8a1fe0b502dfb47314a71b693a98338b989b600e93eae70",
+      "size": 23957
+    },
+    {
+      "path": "images/monochromatic-design/example-02.html",
+      "sha256": "fb4d39efb21bd399a2b83f23c84ff049f05ee2e5dc0a333b08728073424f844e",
+      "size": 11981
+    },
+    {
+      "path": "images/monochromatic-design/example-02.png",
+      "sha256": "a59f80acfb02ba19fcaedc154b3d2ae80200b417cd2657200f4f68985c681a62",
+      "size": 23614
+    },
+    {
+      "path": "images/monochromatic-design/example-03.html",
+      "sha256": "e1db2126aebb73f6caf2814a557e0db5de0ba6d5fdb2c4c9eac9e82b8fa61ac5",
+      "size": 11308
+    },
+    {
+      "path": "images/monochromatic-design/example-03.png",
+      "sha256": "3898ca606ad6d3d84a6af5b67b0e22abae674190e7cb3d6c054d3fa44af45867",
+      "size": 24414
+    },
+    {
+      "path": "images/motion-driven-design/example-01.html",
+      "sha256": "da3063b7237a35b3a08f2c1c344b7b818dab7585a9ee8ff63b44592b6ffb4d41",
+      "size": 11476
+    },
+    {
+      "path": "images/motion-driven-design/example-01.png",
+      "sha256": "bc9336d8a9635077348201ee74b26c04263abdef90f792ed767baa9c13f69197",
+      "size": 22913
+    },
+    {
+      "path": "images/motion-driven-design/example-02.html",
+      "sha256": "cadba3132bc6c91b2845583ad4bdd636986df68496ee97d9f3c383dd5dbc2998",
+      "size": 12017
+    },
+    {
+      "path": "images/motion-driven-design/example-02.png",
+      "sha256": "1412f6cb7c2c5af53868872aa7c7919dde32786fbd24683bdc13d17cea246936",
+      "size": 23740
+    },
+    {
+      "path": "images/motion-driven-design/example-03.html",
+      "sha256": "4933c94b6b274060694ba30e938d15777b0517413b36bc6b02dda13010187830",
+      "size": 11340
+    },
+    {
+      "path": "images/motion-driven-design/example-03.png",
+      "sha256": "d9ec33f4d49f7644bb1b534758e0fc822d9bf4450cf9deea193d0c344c0b505a",
+      "size": 23197
+    },
+    {
+      "path": "images/neo-brutalism/example-01.html",
+      "sha256": "b1922e42f1a778460ed982e3be75474e8d1916d0623eabdac1bc86ddcf04151e",
+      "size": 11476
+    },
+    {
+      "path": "images/neo-brutalism/example-01.png",
+      "sha256": "f5a2bcf67581713999e3238c8ba5f35f22d59d1764e11cfaf2492ccdf5103121",
+      "size": 25241
+    },
+    {
+      "path": "images/neo-brutalism/example-02.html",
+      "sha256": "047f07468c07335e456725e0eec665376961382f3044ff4b4ef3a4e5f6b5ca32",
+      "size": 11985
+    },
+    {
+      "path": "images/neo-brutalism/example-02.png",
+      "sha256": "1fb11ce71af75fad1c674f26d3a9a35dffd121a5fdbc2867969c36c9af23c32c",
+      "size": 22847
+    },
+    {
+      "path": "images/neo-brutalism/example-03.html",
+      "sha256": "f7a103ca1f4c04a5dea7b705609923508ca5a9b23df16cc04198cbb374940254",
+      "size": 11320
+    },
+    {
+      "path": "images/neo-brutalism/example-03.png",
+      "sha256": "ba944b07c58adb65b8585fc99f7f2822392e5303aeeafbc7414fbb9d2b8a775c",
+      "size": 23623
+    },
+    {
+      "path": "images/neon-glow/example-01.html",
+      "sha256": "b49fda9133a24955e0870332dee5e7a4af04153d125bc19c2dd9dd52df59df0c",
+      "size": 11542
+    },
+    {
+      "path": "images/neon-glow/example-01.png",
+      "sha256": "438dda384560c593104370ce7d93a494344e037414b26f20e404add3d6ef8355",
+      "size": 54108
+    },
+    {
+      "path": "images/neon-glow/example-02.html",
+      "sha256": "a0aac509a779e53dc01ef1331c90df8321ad2ff58fa7bfa17f6d52c684012356",
+      "size": 12095
+    },
+    {
+      "path": "images/neon-glow/example-02.png",
+      "sha256": "3e89d6b944ac25f4352aaefd5988783f1b5ac4ae331095591dbc851516dda0c0",
+      "size": 54533
+    },
+    {
+      "path": "images/neon-glow/example-03.html",
+      "sha256": "213a36d57075906b1fc69dfe8d2b633e559ce6070de6ce4dc8c1d40f9434fd3a",
+      "size": 11402
+    },
+    {
+      "path": "images/neon-glow/example-03.png",
+      "sha256": "54e512213d551341c8b3ba24bea295275f7b65641cb2e14d1c0819c6ea353f5d",
+      "size": 70727
+    },
+    {
+      "path": "images/neumorphism/example-01.html",
+      "sha256": "8af9d47d2e2f4ddb742998928d0863ab10dab71a2ad89658b65a3c951357f138",
+      "size": 11597
+    },
+    {
+      "path": "images/neumorphism/example-01.png",
+      "sha256": "ace83a17501e2aaa7c7e6860fbddea60364fe551f37400a2d649533a7bc066e2",
+      "size": 63856
+    },
+    {
+      "path": "images/neumorphism/example-02.html",
+      "sha256": "88998d775bbfd2d4a78a519eb28452048a2a4c2645a6a91f1c091663f83dc187",
+      "size": 12118
+    },
+    {
+      "path": "images/neumorphism/example-02.png",
+      "sha256": "e9f2f1c6df27d84a35ed9cecd42d65660e0d5c975e8428f12e9c9bef69e24b9a",
+      "size": 65256
+    },
+    {
+      "path": "images/neumorphism/example-03.html",
+      "sha256": "49e5250303bc8aa68879bda98e25c6af6fa0d80419b3bff0c412d956b160e574",
+      "size": 11453
+    },
+    {
+      "path": "images/neumorphism/example-03.png",
+      "sha256": "3fcc22dee478032c18f91cf01d1a4f659d3361087e3587efa633ec12a46a130e",
+      "size": 48823
+    },
+    {
+      "path": "images/one-page-design/example-01.html",
+      "sha256": "3545622df67b0d12bf6ffaa25b717e3cba088253b0c92dc7d352c50e8236cf5f",
+      "size": 11537
+    },
+    {
+      "path": "images/one-page-design/example-01.png",
+      "sha256": "37856dca735b7d4e85a8d05eee8456a2a340564e4494ad9c4f3c1e06792b19e6",
+      "size": 22483
+    },
+    {
+      "path": "images/one-page-design/example-02.html",
+      "sha256": "84e488aa320ce19173160f33f2c6935f39dc05b4acb3c26349a1b4e8141ff8ba",
+      "size": 12082
+    },
+    {
+      "path": "images/one-page-design/example-02.png",
+      "sha256": "9317ad556b0ea8174dec651e6c75d2293dd3cf2522e37d86f2ef79592f424f54",
+      "size": 22796
+    },
+    {
+      "path": "images/one-page-design/example-03.html",
+      "sha256": "ae228fd18d5ff17d3a234a7010d89f41b612552ae1803424b4c23528ca865b77",
+      "size": 11393
+    },
+    {
+      "path": "images/one-page-design/example-03.png",
+      "sha256": "7c5d974dd9cf8c1d2c79fafb846e98f8ca86a09fa182a50d2e2f8652a887f730",
+      "size": 23845
+    },
+    {
+      "path": "images/organic-design/example-01.html",
+      "sha256": "74139efc974214be29f639c1fe80a8d9387173f4632d6d39a4c9b2fe71855d3e",
+      "size": 11477
+    },
+    {
+      "path": "images/organic-design/example-01.png",
+      "sha256": "ab14eac0379ba430d04e7706ee81352f8e2969dec02298f55182d30f5853dbae",
+      "size": 29900
+    },
+    {
+      "path": "images/organic-design/example-02.html",
+      "sha256": "00b927892842ab62852526308927d44c92dbbe9b87a8fb5d2fb19277955ad4b7",
+      "size": 11978
+    },
+    {
+      "path": "images/organic-design/example-02.png",
+      "sha256": "fd4260bd97ae51396e45c63f8b1f0408b9038201eab9d6d4e493e42e16f04104",
+      "size": 28156
+    },
+    {
+      "path": "images/organic-design/example-03.html",
+      "sha256": "b3ae7cb41a06b599f965e1b0788425fa41fae92656b1f6d4d0399969424ce755",
+      "size": 11317
+    },
+    {
+      "path": "images/organic-design/example-03.png",
+      "sha256": "1b878961ca4b0c96d705e93aef50eea9130d2a16eda585970dca512949ea8625",
+      "size": 30692
+    },
+    {
+      "path": "images/outrun/example-01.html",
+      "sha256": "71bada319235067f1595a2b3e4184e3e863d2fd5b8116c38517daed41266e6ae",
+      "size": 11551
+    },
+    {
+      "path": "images/outrun/example-01.png",
+      "sha256": "294700e160250ad8cebbb1ea3b175d3a128e069f53d928f85aec9554b79e14a1",
+      "size": 56382
+    },
+    {
+      "path": "images/outrun/example-02.html",
+      "sha256": "e49d6c174a896d9f51c55f9987a6ba919bf7fd9042c254eaf229c494fae869f5",
+      "size": 12072
+    },
+    {
+      "path": "images/outrun/example-02.png",
+      "sha256": "90dadb5d5a172214a8f96dc8b63e265942a4a2c4d7ff1fa51b104179a1af3d36",
+      "size": 47304
+    },
+    {
+      "path": "images/outrun/example-03.html",
+      "sha256": "11bc13fe340cbec40b3f2da6eb8cf4ca81221d4354a101ff5c2fca3c068409e5",
+      "size": 11399
+    },
+    {
+      "path": "images/outrun/example-03.png",
+      "sha256": "99105a248e4e7ab09bb9630d096fd82768476e7c62179b49daef2d19a40d8eae",
+      "size": 54789
+    },
+    {
+      "path": "images/paper-cut-design/example-01.html",
+      "sha256": "f4014b44928ff5fd1bd33c8f80e64c8c888375b11254684cd889e921bdb07744",
+      "size": 11573
+    },
+    {
+      "path": "images/paper-cut-design/example-01.png",
+      "sha256": "b5c960b6eacd27ada4da867c8d3122a62bc78d7ec55e667293353ef4019144bc",
+      "size": 28656
+    },
+    {
+      "path": "images/paper-cut-design/example-02.html",
+      "sha256": "177bce90823d8325c27ead262ba1941d17cd1001877fae320ee67bbf42f8f805",
+      "size": 12126
+    },
+    {
+      "path": "images/paper-cut-design/example-02.png",
+      "sha256": "a1508b642c03e105788539ef3bf9ca921b4cd8b111f10e5e974a7b981204453d",
+      "size": 28622
+    },
+    {
+      "path": "images/paper-cut-design/example-03.html",
+      "sha256": "0c05b9b39986a64ebe664b4d1d2325af9ff8eb953a07894dccaea0f16de31af0",
+      "size": 11425
+    },
+    {
+      "path": "images/paper-cut-design/example-03.png",
+      "sha256": "2f09cfb86927b517b262d1286695f9873531b3751f384768cef3461c0e9140a1",
+      "size": 30890
+    },
+    {
+      "path": "images/parallax-design/example-01.html",
+      "sha256": "9f490f5d6832914b7d56cc5a3aa906d730db00f011de925bdebccf620cbbe5e1",
+      "size": 11516
+    },
+    {
+      "path": "images/parallax-design/example-01.png",
+      "sha256": "9c81208f467f299c93f4a634f107101c0e4121eb7a126352e549e9d7ac996137",
+      "size": 134203
+    },
+    {
+      "path": "images/parallax-design/example-02.html",
+      "sha256": "b9fae876c10110846f564843a7acefc63f13079f7fc5e79b5447c1678dc1f3bf",
+      "size": 12057
+    },
+    {
+      "path": "images/parallax-design/example-02.png",
+      "sha256": "23568eac68c402b6521aef081f6bd3d4f4c3b556165f1a4aee2baae1e3fa46e5",
+      "size": 105215
+    },
+    {
+      "path": "images/parallax-design/example-03.html",
+      "sha256": "927892744cd86e9ae8e3c02d74b42a85dfb6fb794f68ff97630f7644f3fbdd2f",
+      "size": 11348
+    },
+    {
+      "path": "images/parallax-design/example-03.png",
+      "sha256": "6d1de51fd6308f49b625168978fe1f81b7981612aa78a89a163e685c4a2b3b90",
+      "size": 153120
+    },
+    {
+      "path": "images/pixel-art/example-01.html",
+      "sha256": "f4d180de42cc35abe8c89dadd12531cc15e7460e29fca7c53be3d2511efb6502",
+      "size": 11595
+    },
+    {
+      "path": "images/pixel-art/example-01.png",
+      "sha256": "d8032063c51ffd020ae66fd36c3c38f114a4d065645190bc4248f2c2e3457e4b",
+      "size": 16002
+    },
+    {
+      "path": "images/pixel-art/example-02.html",
+      "sha256": "daa7087340cbb8cb9d722dc2c2753092e81645ece088183ab8bb958df7b509af",
+      "size": 12071
+    },
+    {
+      "path": "images/pixel-art/example-02.png",
+      "sha256": "72b2d52e5780d5bc81d102613c08562da6efe70c70239fa0001d95ed1d484a31",
+      "size": 16421
+    },
+    {
+      "path": "images/pixel-art/example-03.html",
+      "sha256": "0b32c27a1eba21bef74e82310950cad6e03e96123d6c842aa5ecbe3042644455",
+      "size": 11439
+    },
+    {
+      "path": "images/pixel-art/example-03.png",
+      "sha256": "20b5b054f62248660c1e587e984936bd8642442de0834941fbe8b760dd2d51c3",
+      "size": 17032
+    },
+    {
+      "path": "images/pop-art/example-01.html",
+      "sha256": "44aac8f83f73bf491091f7379ad4b3a0b9a07d8a9cde4786438e88f91c3073ec",
+      "size": 11597
+    },
+    {
+      "path": "images/pop-art/example-01.png",
+      "sha256": "a56c1644e13bc40f8ea382b68fb8d0cd1a4187a12c75add250204b7f6ca41469",
+      "size": 29952
+    },
+    {
+      "path": "images/pop-art/example-02.html",
+      "sha256": "6db01abe0c048df4f86a54b24c71f96601cfe515cde0ccae5a21329366368935",
+      "size": 12102
+    },
+    {
+      "path": "images/pop-art/example-02.png",
+      "sha256": "b1f1868be230aeeb57a8ef50f53d9065204b33c6cc549cef6f41d9db666ac156",
+      "size": 29341
+    },
+    {
+      "path": "images/pop-art/example-03.html",
+      "sha256": "a1927130e7bd4c9996dff336b50455ab418e4e5f07a34639c94f5df54ae6d131",
+      "size": 11437
+    },
+    {
+      "path": "images/pop-art/example-03.png",
+      "sha256": "f68785b24999463793a6ce72b2ad92ea113ba112b3db548484fbf4f82f561592",
+      "size": 30067
+    },
+    {
+      "path": "images/postmodernism/example-01.html",
+      "sha256": "3f401a8ba9b169bf909738c41f36cd0e20df616be4470ff28df73052347d655d",
+      "size": 11523
+    },
+    {
+      "path": "images/postmodernism/example-01.png",
+      "sha256": "9a15714fde2b30dacb917540bbf41e0e66529bc560bb3469bb20c7e63952986c",
+      "size": 32357
+    },
+    {
+      "path": "images/postmodernism/example-02.html",
+      "sha256": "08d0c8a6f25054d5164ad5f4342abf917e02d1b30e671c1f5c8d8142be981d11",
+      "size": 12064
+    },
+    {
+      "path": "images/postmodernism/example-02.png",
+      "sha256": "fa68ef510c0dab363a812aa8993b5d629272f5a133df9dc873099d081c8002eb",
+      "size": 30722
+    },
+    {
+      "path": "images/postmodernism/example-03.html",
+      "sha256": "87f3f8baca6ba9b61975bd1637367d43722d3794eaec464892ee5e79d80132ef",
+      "size": 11379
+    },
+    {
+      "path": "images/postmodernism/example-03.png",
+      "sha256": "b2b0a03d48627d938aa67fd379ad538c74aa23439ba1581a403703a8899a860c",
+      "size": 29381
+    },
+    {
+      "path": "images/punk-design/example-01.html",
+      "sha256": "ddaaf260797536f5f57ab801023703adf300228898cb2787b175c0c0ab0e75b9",
+      "size": 11567
+    },
+    {
+      "path": "images/punk-design/example-01.png",
+      "sha256": "630de44327fdfbf0f4d51f50204617d29e3b420d3a6b48c692d42f8034bb7c19",
+      "size": 36575
+    },
+    {
+      "path": "images/punk-design/example-02.html",
+      "sha256": "c03d636db16ec1d5aad17f3cf9ba8fe3d049947b25eba13cd68280b7128b2198",
+      "size": 12112
+    },
+    {
+      "path": "images/punk-design/example-02.png",
+      "sha256": "e54c4c8889abab6cec90f0cf5b732b2c65ac57b4b8ba7cec4277389cef7fb19c",
+      "size": 39035
+    },
+    {
+      "path": "images/punk-design/example-03.html",
+      "sha256": "5b812f49a915a43a8731abbaeb90879fce146d27b2221d37b541d71acd923d9a",
+      "size": 11435
+    },
+    {
+      "path": "images/punk-design/example-03.png",
+      "sha256": "51ddb3538749d9d1eb87d6c88ccf26dacfa4b4ac8c5f646d84efb3c0478fb198",
+      "size": 44250
+    },
+    {
+      "path": "images/retro-arcade/example-01.html",
+      "sha256": "805b7bb9adb433878732023428384ec46fd158efab217c313ac8f6e668d4d23f",
+      "size": 11560
+    },
+    {
+      "path": "images/retro-arcade/example-01.png",
+      "sha256": "bc299fed5de574d118d12ee44f15c95aecbc08ce7ee95d4ac9b3f5f9fb6dfbfd",
+      "size": 19202
+    },
+    {
+      "path": "images/retro-arcade/example-02.html",
+      "sha256": "9ae89d44a01bb0886021f0099fd0e54a4b6ead71fa76d0fa20addb6a4e31a8fe",
+      "size": 12032
+    },
+    {
+      "path": "images/retro-arcade/example-02.png",
+      "sha256": "0274785dceabfe0d408ce2962cb664785a13a713aab9c48ff7952a4f80c13052",
+      "size": 20140
+    },
+    {
+      "path": "images/retro-arcade/example-03.html",
+      "sha256": "b7494e55611c5e7204fe9da59e43d3f27fecad7c58f4008b5e3147a1ccb699f9",
+      "size": 11400
+    },
+    {
+      "path": "images/retro-arcade/example-03.png",
+      "sha256": "3cdaa3ebc483c5343154954f6fec14029f4538b1a8fe3f59504bea4fc9db1089",
+      "size": 19075
+    },
+    {
+      "path": "images/retro-futurism/example-01.html",
+      "sha256": "182098dbd1288661f3d8180ecc4db95fe0e812c92d5fb15e6bcf66bf83ee7b9e",
+      "size": 11511
+    },
+    {
+      "path": "images/retro-futurism/example-01.png",
+      "sha256": "d78599810c65f583bbc5af709ae4121e504740181de4f8837a066b971c048ebe",
+      "size": 32841
+    },
+    {
+      "path": "images/retro-futurism/example-02.html",
+      "sha256": "a6ceb9d2b11ac46f89e09784fe12a9341fc9961f9228c5569660581c6c4c9643",
+      "size": 12024
+    },
+    {
+      "path": "images/retro-futurism/example-02.png",
+      "sha256": "c36bc67c950be338ecfbfb9901a7806f4df559d257c16f4c8d3a544b5e3e726f",
+      "size": 32852
+    },
+    {
+      "path": "images/retro-futurism/example-03.html",
+      "sha256": "9d370f7db17c98ac802766b1472d104679dac77fb210470e335787fa68b49542",
+      "size": 11367
+    },
+    {
+      "path": "images/retro-futurism/example-03.png",
+      "sha256": "6fff6069b73707bd93953ad81a78c6eeb7b87565faf2e2732b634a56b04e6a0f",
+      "size": 31146
+    },
+    {
+      "path": "images/risograph/example-01.html",
+      "sha256": "b5e6b24e040f49c4f1e9ba0789d9eb981f346112a88d6245f21be765f66905e5",
+      "size": 11552
+    },
+    {
+      "path": "images/risograph/example-01.png",
+      "sha256": "a8578376fc172655bdf7f3e0d2fb84ebd14d6e3c702f31f0ab851af818406936",
+      "size": 539465
+    },
+    {
+      "path": "images/risograph/example-02.html",
+      "sha256": "a8e91874b91d86226a1a274bb26c92f7c8c6b082c4ecb114b0e7fbd69ca387d2",
+      "size": 12053
+    },
+    {
+      "path": "images/risograph/example-02.png",
+      "sha256": "73dbdc4b946dba62ecbf12e379e729bdb46738e8f176493d2aa1591b61848e1d",
+      "size": 437483
+    },
+    {
+      "path": "images/risograph/example-03.html",
+      "sha256": "9ec6e74e8a5201da24539e84ade9e84deace7dc8874a36544c81245e5d1a3659",
+      "size": 11348
+    },
+    {
+      "path": "images/risograph/example-03.png",
+      "sha256": "9768dcfae3ab191e5caf65fa5aeb2a18f41893178a2b40eefc24d9119c9c5205",
+      "size": 703711
+    },
+    {
+      "path": "images/scandinavian-design/example-01.html",
+      "sha256": "b1ad15c59248711eb7e1a7801a701390bb66aa421467ce0329e780b35ffb0e87",
+      "size": 11508
+    },
+    {
+      "path": "images/scandinavian-design/example-01.png",
+      "sha256": "5cddbe738ed6eb418cbf9657fa1c1c3450ae714afb31e396216ffe5e34898676",
+      "size": 126331
+    },
+    {
+      "path": "images/scandinavian-design/example-02.html",
+      "sha256": "9ad898af55f0631a9a7bb5b1f08fefbe7a14f24b7418178185569f52578c3502",
+      "size": 12057
+    },
+    {
+      "path": "images/scandinavian-design/example-02.png",
+      "sha256": "fec445b73e29c69a8fc21d46147eb1b2c959ee0cb7959b94e214f911526b36c7",
+      "size": 100036
+    },
+    {
+      "path": "images/scandinavian-design/example-03.html",
+      "sha256": "3f6c2df11b762f9a90be52fad27a071829111ba0a1c2e3de057cd6993f798eb2",
+      "size": 11352
+    },
+    {
+      "path": "images/scandinavian-design/example-03.png",
+      "sha256": "82debdfbb62cab5f6d17df8ed6c48e456fff0a536dbebec62e5e702a1482de9b",
+      "size": 140731
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-01.html",
+      "sha256": "dbf76c98b96a03afeaa8f266ac01487938b302ed9247fcf7ed61aeb96477f8b6",
+      "size": 11686
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-01.png",
+      "sha256": "35235ebfcfeaa03dfac2c5527d7ab2b49a59247219af1e95bbdd99270ce75476",
+      "size": 33163
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-02.html",
+      "sha256": "46fe081de9d0dbd1bc9722f07442cf219e7101e44ae7e2b16d90b484eee2c24a",
+      "size": 12183
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-02.png",
+      "sha256": "aea4ae3c15cfa19ddb5517781a09d8953e4b2a95a3763310cda3a82c34b4884f",
+      "size": 33536
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-03.html",
+      "sha256": "a3223673c494c247bace71bc2105c41a160269ecf6412f086066bcc78e9a8a08",
+      "size": 11530
+    },
+    {
+      "path": "images/sci-fi-hud-fui/example-03.png",
+      "sha256": "cc34cd1659f887df6423dc46a8109159c4e39fb765af8d76a7e07c02e7bd10b5",
+      "size": 36789
+    },
+    {
+      "path": "images/scroll-driven-animation/example-01.html",
+      "sha256": "180a89a920edee02ae6dc78bb3df09761d7422a1e7a7ed09ce429859a7b9376f",
+      "size": 11556
+    },
+    {
+      "path": "images/scroll-driven-animation/example-01.png",
+      "sha256": "a825e4d4c3813191e4d11f41075a75e4c83e88acea3b7b5ca737f3fb67780066",
+      "size": 22190
+    },
+    {
+      "path": "images/scroll-driven-animation/example-02.html",
+      "sha256": "055f96104a002cab25cb65d6fdbaaf82ab7446a6a4902969a2d5a3cea7a107f7",
+      "size": 12101
+    },
+    {
+      "path": "images/scroll-driven-animation/example-02.png",
+      "sha256": "25eacd224d7c27bce42f00cf9fe963e13302e254783481ce40b4d0bee79ade0f",
+      "size": 22021
+    },
+    {
+      "path": "images/scroll-driven-animation/example-03.html",
+      "sha256": "a535e05030fab2fee0bd12a53c236ddf0be594f859be2fd391da5c4cc8030ac3",
+      "size": 11396
+    },
+    {
+      "path": "images/scroll-driven-animation/example-03.png",
+      "sha256": "e1490651d0ab7745a5b3d0d281607bfe366fc1a04c1ddedcb42d5ea211c5641d",
+      "size": 21862
+    },
+    {
+      "path": "images/scrollytelling/example-01.html",
+      "sha256": "9ccb4cf34af3706733db5897b07588a264e1467339914666ce7ef34afb645022",
+      "size": 11511
+    },
+    {
+      "path": "images/scrollytelling/example-01.png",
+      "sha256": "876ac28bb583f20b8002fda4bccc9bdf272121f57abbb90742e4465c5d0b6bdf",
+      "size": 22412
+    },
+    {
+      "path": "images/scrollytelling/example-02.html",
+      "sha256": "793168ab81c290ea8513039a99305d8d961fe41d6cf1f943d7d50e67b609709a",
+      "size": 12060
+    },
+    {
+      "path": "images/scrollytelling/example-02.png",
+      "sha256": "650a9289ea477e8355c45b3d56660825669a71d19716d1b98bc788d8504d4fb6",
+      "size": 21983
+    },
+    {
+      "path": "images/scrollytelling/example-03.html",
+      "sha256": "81d7eaa737994889e605ff34146f3474f467a0c0138b4568e1e8fd72ca32a3b5",
+      "size": 11371
+    },
+    {
+      "path": "images/scrollytelling/example-03.png",
+      "sha256": "4e01169ec488d753c5c268acf138296c8e43a7dd1a6da986d10fe1c1b49d5415",
+      "size": 23707
+    },
+    {
+      "path": "images/skeuomorphism/example-01.html",
+      "sha256": "b0488fdab7e6d6baba0185ded57239f2d0921088723d9bc5f32df4f5b499c39d",
+      "size": 11575
+    },
+    {
+      "path": "images/skeuomorphism/example-01.png",
+      "sha256": "1dcfe44715c52f7293468d9b927c867ddfbc66822c3975c6e1942c291208d710",
+      "size": 166098
+    },
+    {
+      "path": "images/skeuomorphism/example-02.html",
+      "sha256": "aa9c06f463f6fd3d4a4594175bb8e340f0c539edf372001de69c2a955be0e1cb",
+      "size": 12116
+    },
+    {
+      "path": "images/skeuomorphism/example-02.png",
+      "sha256": "bdf404d07ffa2f44ba7d86999510742f9fbbe157d3452a147c25c1971c012763",
+      "size": 142986
+    },
+    {
+      "path": "images/skeuomorphism/example-03.html",
+      "sha256": "032060137b762ec253728c7a5558fd473b0e3118f0d549dace404b1169ab7afb",
+      "size": 11427
+    },
+    {
+      "path": "images/skeuomorphism/example-03.png",
+      "sha256": "2196368b4bb404e81ee7309fc352f1b1558e76e8e30006e6103bf3c5829ae2ee",
+      "size": 134320
+    },
+    {
+      "path": "images/soft-ui/example-01.html",
+      "sha256": "75635a08353c55f2087e1304d50504995bfdf8169cff2daa351e3ab4586ece1f",
+      "size": 11399
+    },
+    {
+      "path": "images/soft-ui/example-01.png",
+      "sha256": "550c1c9c21fa78c71edd98dc351cc676b548a754b05eae0e821c8b0eb3816e4c",
+      "size": 26964
+    },
+    {
+      "path": "images/soft-ui/example-02.html",
+      "sha256": "6788233a120fe0f8d9e546338642772c39038ea7dfe09e43b138bcccb759e047",
+      "size": 11924
+    },
+    {
+      "path": "images/soft-ui/example-02.png",
+      "sha256": "e3107928ad9bac8a7742523935ed75595a507890e0134add6ab2e7ab70c468ed",
+      "size": 27751
+    },
+    {
+      "path": "images/soft-ui/example-03.html",
+      "sha256": "015005f379bce5bc0a7ba0589e10d2125f2b3f996b7566af09bc1bb2467fe6a8",
+      "size": 11255
+    },
+    {
+      "path": "images/soft-ui/example-03.png",
+      "sha256": "2f3bc0dbd58c8b85ef39ae40bb5da65316440629262126e18ed906212154cfea",
+      "size": 25578
+    },
+    {
+      "path": "images/solarpunk/example-01.html",
+      "sha256": "11436c1a7903832aaef0f7465359c8748a714eee60c7d3697c3c0b584b6e2d06",
+      "size": 11511
+    },
+    {
+      "path": "images/solarpunk/example-01.png",
+      "sha256": "a5491f5ab246a0225ee6a209aff1e067d8d15cf037806756e36ad9a528543642",
+      "size": 131798
+    },
+    {
+      "path": "images/solarpunk/example-02.html",
+      "sha256": "bc53b16ffd8d622736f45d2471b5d66ea359507d342ea66735caf0da36505a67",
+      "size": 12016
+    },
+    {
+      "path": "images/solarpunk/example-02.png",
+      "sha256": "76f5d69089b4646a849525429e50c459afb3d9ad30f3abca7dce557d6f4d65fa",
+      "size": 105006
+    },
+    {
+      "path": "images/solarpunk/example-03.html",
+      "sha256": "fd7aacd91ceb25f515dd51aea6214fb4c27a1503ef517f6eb8c822c3e9cc0ebd",
+      "size": 11355
+    },
+    {
+      "path": "images/solarpunk/example-03.png",
+      "sha256": "f0497faf1f3dccce13f659e00e5147cee07c503bd1df71608ab77bdf16c16c3f",
+      "size": 148917
+    },
+    {
+      "path": "images/spatial-ui/example-01.html",
+      "sha256": "8c937925c5ab19f38078a34f0aa4d5711c7a2832cf78749a85f2a2fa12371269",
+      "size": 11504
+    },
+    {
+      "path": "images/spatial-ui/example-01.png",
+      "sha256": "bcb399b58a24510a92766f1527fd3287c33865aabd5f3b358795f46c8b218a6d",
+      "size": 37927
+    },
+    {
+      "path": "images/spatial-ui/example-02.html",
+      "sha256": "bf09cecf8dce36adaf5846cdde59f3c199f7b4e38f1c04140ff92cf1ae6d5ba6",
+      "size": 12041
+    },
+    {
+      "path": "images/spatial-ui/example-02.png",
+      "sha256": "195640f344388b8bc7c17a89961fa54af9e3b6dfb8610722bea7f79a52627bb3",
+      "size": 40746
+    },
+    {
+      "path": "images/spatial-ui/example-03.html",
+      "sha256": "3e0d3a36fae045690ac9d6f78e10c37552b3ed2407a894bfd28f5b0db2987dda",
+      "size": 11336
+    },
+    {
+      "path": "images/spatial-ui/example-03.png",
+      "sha256": "bc532811c96f8e6244e4e3becf02d56db12bc74b5d38c614cb86425e30d0f150",
+      "size": 34791
+    },
+    {
+      "path": "images/split-screen-design/example-01.html",
+      "sha256": "453d38fd91c7db4b6d216af1903f89f0bd797257664855968344191b068d3057",
+      "size": 11535
+    },
+    {
+      "path": "images/split-screen-design/example-01.png",
+      "sha256": "f8fdbaf109d9cf9372cad701bedee13a70d788419c6b4c8a43ca046398235044",
+      "size": 21424
+    },
+    {
+      "path": "images/split-screen-design/example-02.html",
+      "sha256": "127195f72909108a088c0e789dafdf5aaf8b31f89fc97358646a5da91bb8c7f9",
+      "size": 12048
+    },
+    {
+      "path": "images/split-screen-design/example-02.png",
+      "sha256": "7cdeefcfa23f3b29abba3d5c6ba0e2e728986d27715b7189349bad9bace8a910",
+      "size": 21754
+    },
+    {
+      "path": "images/split-screen-design/example-03.html",
+      "sha256": "f477c585b18c82a1b43a7eb19f2761dbfae89bd64cefba5b57f1e23c348d8357",
+      "size": 11355
+    },
+    {
+      "path": "images/split-screen-design/example-03.png",
+      "sha256": "ee1a412dab03908115e54bb323e7d115f6b6efa3ca72851f3745d61764a43ef2",
+      "size": 19452
+    },
+    {
+      "path": "images/steampunk/example-01.html",
+      "sha256": "9939acd40247c9df7e583f333cb95d62ae1e7541e36fc7f17302419893da913d",
+      "size": 11529
+    },
+    {
+      "path": "images/steampunk/example-01.png",
+      "sha256": "6a2ee5da9b95c5bab500ad60fd21c8efb54c62e38ab37e8178114437f4856e8a",
+      "size": 132692
+    },
+    {
+      "path": "images/steampunk/example-02.html",
+      "sha256": "7554bdea90ad4e58f5915cf3c1fd99ea41c79ec17d31041d3f4f5d8bc346af49",
+      "size": 12066
+    },
+    {
+      "path": "images/steampunk/example-02.png",
+      "sha256": "9f1694cedbd5f60507d5e7da7c9d333719dd246c660dce9a77abd1c56c9bb9b2",
+      "size": 103854
+    },
+    {
+      "path": "images/steampunk/example-03.html",
+      "sha256": "a311572833dc62c9a7f84fb400de73f97d076c736b119eda0f8d4b6de60e4d37",
+      "size": 11389
+    },
+    {
+      "path": "images/steampunk/example-03.png",
+      "sha256": "d5284e6d7be944139618c5f6eea5f85a35ec9a7196f8f8d986e34dd9cc03f619",
+      "size": 156300
+    },
+    {
+      "path": "images/surrealism/example-01.html",
+      "sha256": "e8c0ba8d16218629b2980d361a29af846fc561159f75534bae0d3e41c26ae9f1",
+      "size": 11536
+    },
+    {
+      "path": "images/surrealism/example-01.png",
+      "sha256": "0dab624b5f2e33409c961d9138315457976808aa49e4aedd629c103cbcfc72c3",
+      "size": 40382
+    },
+    {
+      "path": "images/surrealism/example-02.html",
+      "sha256": "fb265bbdcf2d7a143fa79f95ad027054d11b726513164a0d76bcf9f791783e47",
+      "size": 12057
+    },
+    {
+      "path": "images/surrealism/example-02.png",
+      "sha256": "570de3e2e02876ffbbe725f6d417eaa457f255cbcd9904a9b7d96c5b5dfd4322",
+      "size": 35797
+    },
+    {
+      "path": "images/surrealism/example-03.html",
+      "sha256": "2630aff52ee081c26d01887ab7dec45d72a86dd53c0fa98b149258d14b733e7c",
+      "size": 11384
+    },
+    {
+      "path": "images/surrealism/example-03.png",
+      "sha256": "2646301588a1c168c48aae55bd7ea5fa0e397f7a10ac88c66f25f843859fe518",
+      "size": 48735
+    },
+    {
+      "path": "images/swiss-design/example-01.html",
+      "sha256": "d31efe22688c8ed6521480ef763188610d7738f954759fb4993a126e117e35e5",
+      "size": 11583
+    },
+    {
+      "path": "images/swiss-design/example-01.png",
+      "sha256": "d5951c4c93a082437812ae5823ff7a81e4cc83c21509916f076cf5b59939a7d4",
+      "size": 22298
+    },
+    {
+      "path": "images/swiss-design/example-02.html",
+      "sha256": "d5bf5a778439c27b681d593925a65471d981e524f79e549abcdb4982027c6b74",
+      "size": 12096
+    },
+    {
+      "path": "images/swiss-design/example-02.png",
+      "sha256": "6b395883652407e347c239e18c2285bfd3dd93b638a1890cea2fe27b66788cd9",
+      "size": 21739
+    },
+    {
+      "path": "images/swiss-design/example-03.html",
+      "sha256": "4354e6ea3e7a907d6a6af3a4df92341fd3d19411a79dbf471dcea339eaf1676d",
+      "size": 11407
+    },
+    {
+      "path": "images/swiss-design/example-03.png",
+      "sha256": "acffeac79509a2563d2c1078c63e3122c1e88142f9fc6efa24cb9e6e5bb19074",
+      "size": 22252
+    },
+    {
+      "path": "images/synthwave/example-01.html",
+      "sha256": "2c2e18d37a78d482daf8d4fa70eff209cf99f2f449a4ea6a63fe518fb435bc93",
+      "size": 11600
+    },
+    {
+      "path": "images/synthwave/example-01.png",
+      "sha256": "3f1c0b61b3b563d8a7ec88e19f504be8418ad1ea71a9703ae3b64175d1cf4b84",
+      "size": 38234
+    },
+    {
+      "path": "images/synthwave/example-02.html",
+      "sha256": "ec46c4312c82f5b164461b8b463d460886652752e7061ee3a49c3232acc08d8d",
+      "size": 12097
+    },
+    {
+      "path": "images/synthwave/example-02.png",
+      "sha256": "b047ab32a62596771db0740d8e72c3c7d72a110b9545bc798e72b1e97269c262",
+      "size": 34838
+    },
+    {
+      "path": "images/synthwave/example-03.html",
+      "sha256": "9dc4ad2c6442d796de83a5743f39aa3a3d103619bbd7d2ec19447379bb5230a3",
+      "size": 11416
+    },
+    {
+      "path": "images/synthwave/example-03.png",
+      "sha256": "f7fae893d5f81ed2e089ccb15fe61f260bd2d61f15766ba2b6137a00311093ef",
+      "size": 34612
+    },
+    {
+      "path": "images/tactile-ui/example-01.html",
+      "sha256": "c98f77e97ccbdfd411a811c7975659c3b63a9e3583878bb6b7b0c74ee5d3a827",
+      "size": 11502
+    },
+    {
+      "path": "images/tactile-ui/example-01.png",
+      "sha256": "83abf7c62418345aae42dac01c0f02f6cc32d1152b713caa17c4e2d0983518af",
+      "size": 25431
+    },
+    {
+      "path": "images/tactile-ui/example-02.html",
+      "sha256": "d2cc5d507c99c75516a55882f46f1cd4354f08369c2a3a8546790871969484f1",
+      "size": 12063
+    },
+    {
+      "path": "images/tactile-ui/example-02.png",
+      "sha256": "f42e71bc17a288fd894850641fa04785b2d9b378a9ed9494cee8ffbfb4f4cd23",
+      "size": 25498
+    },
+    {
+      "path": "images/tactile-ui/example-03.html",
+      "sha256": "a418bfdd3ba5d58c7e981faaaf84712e0a850ba41b90d783dcbf08aa610f5100",
+      "size": 11378
+    },
+    {
+      "path": "images/tactile-ui/example-03.png",
+      "sha256": "c10c54260ae81da48c2761919b22ad92ee39e0e1b5e50bede529b30839223dd6",
+      "size": 26553
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-01.html",
+      "sha256": "3d2ef394587c3e015be3fb0dff4f5087fba1aeccaa98c1fdab2b687f97f0f7d3",
+      "size": 11666
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-01.png",
+      "sha256": "ef617221f01b5c9d9f21675576f58a90b19ce031e98030da399d75511fe5e705",
+      "size": 28750
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-02.html",
+      "sha256": "10db7906712278dc8091ea3d2cc8b3e51500125d4ba44ab60ac695d2e6a26516",
+      "size": 12199
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-02.png",
+      "sha256": "8c7560516502645721712dc5c9bab1b7e6b71c68a452c6d7272d320c66630377",
+      "size": 29881
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-03.html",
+      "sha256": "8dd900b067e9373b972206035c8e7ea1c7ad55201e325d2362051aa7286ec0cb",
+      "size": 11530
+    },
+    {
+      "path": "images/terminal-hacker-ui/example-03.png",
+      "sha256": "f0da2bce35a6220ed495f5566d3fa36153727bc2f07cad5e1ecfaca363ad7da2",
+      "size": 28471
+    },
+    {
+      "path": "images/typography-first/example-01.html",
+      "sha256": "42856b4f65e3b08166121663c522299cc4ff4cca4e14d1388a0c165b785cb14d",
+      "size": 11538
+    },
+    {
+      "path": "images/typography-first/example-01.png",
+      "sha256": "0f2608472aec3d4954e7fa22d81595e50c9bb3156246c3f545dee274def71575",
+      "size": 22009
+    },
+    {
+      "path": "images/typography-first/example-02.html",
+      "sha256": "ee5db7141482fc3f4ae044fbbba59e8254f2037d01b649e8650291bd1c0b007a",
+      "size": 12095
+    },
+    {
+      "path": "images/typography-first/example-02.png",
+      "sha256": "b3d7feedf587e7c3110584022111a07b5ea41f5693be1f41e10652d2b4c8c9b0",
+      "size": 22901
+    },
+    {
+      "path": "images/typography-first/example-03.html",
+      "sha256": "81a336cf1121cb65229ad4070aa3feef05502e4f393e334b64f725e88ecf205d",
+      "size": 11406
+    },
+    {
+      "path": "images/typography-first/example-03.png",
+      "sha256": "1634aece0b77b55ea386938fa4785e15932f7f550643aa597057ebde44b63139",
+      "size": 23600
+    },
+    {
+      "path": "images/vaporwave/example-01.html",
+      "sha256": "47d278d04fb43bbc9109ada1b3d9206baae1c0b4327cf84c5b654b0d645a5f23",
+      "size": 11583
+    },
+    {
+      "path": "images/vaporwave/example-01.png",
+      "sha256": "cf6660a9c187662c1947f0c3e1249c9d27af6c421260ba700f0ae0f35bdc9b8f",
+      "size": 32916
+    },
+    {
+      "path": "images/vaporwave/example-02.html",
+      "sha256": "d34824f88ff6b358e9a32de9e12c4fd6b610f7ec565e907b955d77babe7dc19b",
+      "size": 12132
+    },
+    {
+      "path": "images/vaporwave/example-02.png",
+      "sha256": "515168ed1f4b6f9338b2b1231ee36ef35bd02f63bf33d817e353bcbf400c2f6e",
+      "size": 32839
+    },
+    {
+      "path": "images/vaporwave/example-03.html",
+      "sha256": "e5f0e6d696c087559a89d43570419fc39f47ad7467569ba455c7e44fbe97ff8a",
+      "size": 11423
+    },
+    {
+      "path": "images/vaporwave/example-03.png",
+      "sha256": "948b76d6eebf2dfac0b29623d6b2ea8f391b88943ece453f0b91ba071b5e0eea",
+      "size": 32332
+    },
+    {
+      "path": "images/variable-typography/example-01.html",
+      "sha256": "55fdfbc475f013b46c61e952ab896205154236b43a8da89d0d7bba10442b79c6",
+      "size": 11537
+    },
+    {
+      "path": "images/variable-typography/example-01.png",
+      "sha256": "99ce160a4044651ee52c99b14504249038fbe59f6786615552c08b4d735d20ff",
+      "size": 20689
+    },
+    {
+      "path": "images/variable-typography/example-02.html",
+      "sha256": "3b97cad697494984b7fcf193af85c7da2006cf3f93485b0dd1e88fc2ac969ba6",
+      "size": 12086
+    },
+    {
+      "path": "images/variable-typography/example-02.png",
+      "sha256": "afc7afa23b46276f08df58a9b0d5c2954b25806c2f5b4accf08c70bdadbac0c6",
+      "size": 21698
+    },
+    {
+      "path": "images/variable-typography/example-03.html",
+      "sha256": "971058a75b537ec804ec080434bd2c5815ab09340cbd168ebbea03ad0569def6",
+      "size": 11417
+    },
+    {
+      "path": "images/variable-typography/example-03.png",
+      "sha256": "074764e2c0d1862ea109db7df9f5ec3ce52a94c12cad3f89beb4827a0c8de9ba",
+      "size": 22589
+    },
+    {
+      "path": "images/vintage-analog/example-01.html",
+      "sha256": "50d87012829e0602d3e1e8d2db0c8a121b3b260f712c8f83ee411e07c48b0d10",
+      "size": 11559
+    },
+    {
+      "path": "images/vintage-analog/example-01.png",
+      "sha256": "5bce42318a30fb73c74e6963f82fef335e5053e36b656de0430d2a74885e31eb",
+      "size": 38681
+    },
+    {
+      "path": "images/vintage-analog/example-02.html",
+      "sha256": "1e7bf5ae37cb9cbf38c4a76b19e95f9af119062ae7b0e1d474819000f8742d2f",
+      "size": 12088
+    },
+    {
+      "path": "images/vintage-analog/example-02.png",
+      "sha256": "294c63f73a21c5212a7406e68bd89c7c2c1febae16987d1d8be45d8de6debf4b",
+      "size": 40416
+    },
+    {
+      "path": "images/vintage-analog/example-03.html",
+      "sha256": "9756d88248dedd7b6b29573b7a6c8b406b31ebcf5f041e5ee454b28a8c690e5e",
+      "size": 11407
+    },
+    {
+      "path": "images/vintage-analog/example-03.png",
+      "sha256": "e1c2235911a411e631c4185188041622c8bb298b8945d89aa2f79a2b1ea9a796",
+      "size": 45904
+    },
+    {
+      "path": "images/wabi-sabi/example-01.html",
+      "sha256": "0f4bf8b2a2e7ec864fd539f78fdaac212e1435183739014d3d432843ba0cc0da",
+      "size": 11519
+    },
+    {
+      "path": "images/wabi-sabi/example-01.png",
+      "sha256": "f68e0eee0159c9398adca4be4483fc632aeef4ef9fd2d94bb6353ff572e0f2de",
+      "size": 28677
+    },
+    {
+      "path": "images/wabi-sabi/example-02.html",
+      "sha256": "644deb1b1a44d54fe2fddb379aaabb6c128d05f279de3fa72356d04fcb6ccd5b",
+      "size": 12040
+    },
+    {
+      "path": "images/wabi-sabi/example-02.png",
+      "sha256": "06c621efbf5ea3ddf5263c4439d3062214faa8bee69ff63107451ecc6231b6e0",
+      "size": 27443
+    },
+    {
+      "path": "images/wabi-sabi/example-03.html",
+      "sha256": "385b0905e837ae548d09136575a82c0d1e2499cc51bf9dd7d3b378c1bf778bf9",
+      "size": 11339
+    },
+    {
+      "path": "images/wabi-sabi/example-03.png",
+      "sha256": "48557b7577d6ff56b458432c3dbaca598b2b6bec6f74cbb8233c93bdd581d412",
+      "size": 29090
+    },
+    {
+      "path": "images/web-1-0/example-01.html",
+      "sha256": "1ea78ff5663de8fc8dd122ef81e89c90167857abf301e7a11ea6afb6f0ed7d34",
+      "size": 11655
+    },
+    {
+      "path": "images/web-1-0/example-01.png",
+      "sha256": "40c68fd626250fc61712d6d10a9240b85d627320e9566a5288f8f37405673e06",
+      "size": 27889
+    },
+    {
+      "path": "images/web-1-0/example-02.html",
+      "sha256": "98101b97444d36c7a27c624038138097038f181fe6c6a750a1ebb6397bdc245e",
+      "size": 12176
+    },
+    {
+      "path": "images/web-1-0/example-02.png",
+      "sha256": "ec6abe52f107093b08fefba3e95643311ed036cd66f8add03ced4d8a08e27291",
+      "size": 27798
+    },
+    {
+      "path": "images/web-1-0/example-03.html",
+      "sha256": "e1e4ee7bc66d2c1ef31d96973228419ccf610289f45098d666c742cb3472d9d7",
+      "size": 11499
+    },
+    {
+      "path": "images/web-1-0/example-03.png",
+      "sha256": "ac44fb099f03a69cf26312edc5414cb99b420eda2bb654440b68d8809ccb0eab",
+      "size": 27344
+    },
+    {
+      "path": "images/web-2-0-gloss/example-01.html",
+      "sha256": "28902f286acbe1ec88ee6d9e0bb6351b5be5cd40d12736e559f89c4f02cbd4c2",
+      "size": 11587
+    },
+    {
+      "path": "images/web-2-0-gloss/example-01.png",
+      "sha256": "a266d2a9e99ed0ea85e0fb3b486d780f313fbe5d514f22729e072756790e9c53",
+      "size": 49384
+    },
+    {
+      "path": "images/web-2-0-gloss/example-02.html",
+      "sha256": "19868438a3f421e48725ae6141d775800d7129aa3c377890d767886ffaab91c6",
+      "size": 12116
+    },
+    {
+      "path": "images/web-2-0-gloss/example-02.png",
+      "sha256": "80785b3e9bdb7f539d16a4e70483c4b1a65262a62589da92e34983dabb5ff5c8",
+      "size": 49153
+    },
+    {
+      "path": "images/web-2-0-gloss/example-03.html",
+      "sha256": "8469484066db9d44d28fa8af50e250ed07331eacc12ffc6d287b76b8d4fa6ea2",
+      "size": 11423
+    },
+    {
+      "path": "images/web-2-0-gloss/example-03.png",
+      "sha256": "377369b2dcb9442e495aea9dd5062d8b9010b9ce64ccf7a93d4147113bf1c238",
+      "size": 35731
+    },
+    {
+      "path": "images/webgl-3d-experience/example-01.html",
+      "sha256": "524f6125a21c27c3cb466f8182a4e08c306e3077bd751e780938ebca9a8c7a7c",
+      "size": 11511
+    },
+    {
+      "path": "images/webgl-3d-experience/example-01.png",
+      "sha256": "0b03d2fc9202b11b7302135c86abf10573c8d9c1830e76568f870d06de0c33e7",
+      "size": 57478
+    },
+    {
+      "path": "images/webgl-3d-experience/example-02.html",
+      "sha256": "4e33e2562f08e237431718cb552b3e57975ec8ce5f636f8dbedd7f8cd90a51f7",
+      "size": 12020
+    },
+    {
+      "path": "images/webgl-3d-experience/example-02.png",
+      "sha256": "4bfcd29badc2d0619f65cb05cc7fd54dcd9ee4c689b825f5718d4c694f214dba",
+      "size": 50979
+    },
+    {
+      "path": "images/webgl-3d-experience/example-03.html",
+      "sha256": "002e29dcbd2c2467f803d4f090f97050c0718b52b8120cd9f3e4d0c20ef3e538",
+      "size": 11335
+    },
+    {
+      "path": "images/webgl-3d-experience/example-03.png",
+      "sha256": "ddbcb4ed8acfba0e4d3541213101193a62b469b924e27af869501efb3d7233cf",
+      "size": 64018
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-01.html",
+      "sha256": "3d2b46adf09d3fc618272cef241851bc545978894541b5eaeb0fb3beb6697da5",
+      "size": 11507
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-01.png",
+      "sha256": "a5890e40d51ab59785718b5c9d52fc6bd34da6b49dbac0b78032c270ddd20e6f",
+      "size": 26505
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-02.html",
+      "sha256": "822b76689c85b9323b487198085ff9d21e5cf3f64c29afaa82adc5e660bda4ca",
+      "size": 12040
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-02.png",
+      "sha256": "d50108cdc9daddaac6532b59b5d6a6637855cdad5aca3d5cda74d829f85fcd79",
+      "size": 26704
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-03.html",
+      "sha256": "d35f30e5715bc9eebe61172e968181ae8a63647483d47ff03d72a32c039bb53f",
+      "size": 11359
+    },
+    {
+      "path": "images/wireframe-aesthetic/example-03.png",
+      "sha256": "262a4ae158eefae9703d6d956c380f906e61ded20ae5af3cba1b19b120bd02d9",
+      "size": 27702
+    },
+    {
+      "path": "images/y2k-aesthetic/example-01.html",
+      "sha256": "60a3d72c4ccda101220e3c075ac99c89a511b730cf7a024f9e64f428ab031816",
+      "size": 11590
+    },
+    {
+      "path": "images/y2k-aesthetic/example-01.png",
+      "sha256": "455913aa4cb84c03a7652f867f509d9ac34154e64a7ea586c2f8fd362d3c38a3",
+      "size": 116577
+    },
+    {
+      "path": "images/y2k-aesthetic/example-02.html",
+      "sha256": "0f872f4737037f0c3793e781d9fe9d59abcc090e34907ba5e4464dc3f8f9c9fc",
+      "size": 12123
+    },
+    {
+      "path": "images/y2k-aesthetic/example-02.png",
+      "sha256": "9d65eb41ec59a046b5328d20316f456a40a13da31b7e100a763fe49ed7a192b9",
+      "size": 84561
+    },
+    {
+      "path": "images/y2k-aesthetic/example-03.html",
+      "sha256": "645c869fc11a3c0af64b16f436107e6833192c7291aacdbb366a50a34ac26dc1",
+      "size": 11426
+    },
+    {
+      "path": "images/y2k-aesthetic/example-03.png",
+      "sha256": "db9e24aee5019159f3b3093f7aea66b53138f86c06f5256375c9d846bdb70d97",
+      "size": 141036
+    },
+    {
+      "path": "images/zero-ui/example-01.html",
+      "sha256": "ce49256512bced8fd9120af7b7ad0203e3a7cf76d8cf278b5783199808038fe0",
+      "size": 11443
+    },
+    {
+      "path": "images/zero-ui/example-01.png",
+      "sha256": "2359a8f3006468945edc911f77d8839ca838985328f4933f55124081a2330e97",
+      "size": 19452
+    },
+    {
+      "path": "images/zero-ui/example-02.html",
+      "sha256": "2453200b532f01b45a05aac7a47bf344919a86fef1b38da222824d80699d6602",
+      "size": 11939
+    },
+    {
+      "path": "images/zero-ui/example-02.png",
+      "sha256": "0e9558026f8d35669924d77e58c3384bea32fffa7ea2502653ec920e8bdcade5",
+      "size": 20338
+    },
+    {
+      "path": "images/zero-ui/example-03.html",
+      "sha256": "d47f65220473333b6fda11b8fe7033ef107b89d0eaff9fa87cf115c2036074f3",
+      "size": 11267
+    },
+    {
+      "path": "images/zero-ui/example-03.png",
+      "sha256": "68920838c780aa05af82ab7158a18dbc5daa44294178266d73c7aeeff77df9b7",
+      "size": 19648
+    },
+    {
+      "path": "index.html",
+      "sha256": "92919c6ddff89d3f87f70eec58c484a8e41994c756e418466002e5b6a18faf99",
+      "size": 136251
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "50e6751797c50dedd75ef1b8a0d9e42f5f8472e9fbce91f34718e9f97b0c780a",
+      "size": 11324
+    },
+    {
+      "path": "modules/registry.json",
+      "sha256": "ecedc25268b5404e342d79b546e88d3f7dd26650b059082a33b8aaf3260ce111",
+      "size": 2774
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "c2bf21f1993cbbe30fd1deab309217c5b3dba48ddeb8e42c938edc8dd5c9add6",
+      "size": 591
+    },
+    {
+      "path": "skill/design/artifacts/capabilities.md",
+      "sha256": "5eb64a15beccf045ba51eb6ecdfc8edca20ff0a1208980aa48556060edaf5516",
+      "size": 1672
+    },
+    {
+      "path": "skill/design/artifacts/diagramming.md",
+      "sha256": "997338eafe0ea840763fbd1e900578732bb39da85f17e5c95ffea1f0e80e8e03",
+      "size": 902
+    },
+    {
+      "path": "skill/design/artifacts/README.md",
+      "sha256": "8d5adfd1992ec58be29eed8ed3274d88b4476d70075125f8901a5ab3f973eae8",
+      "size": 1632
+    },
+    {
+      "path": "skill/design/artifacts/templates/brief.json",
+      "sha256": "2fa0e3b9cbaa5f8707379d2e3d42eba7a0237692fe44c350e5cdaff04f4843ce",
+      "size": 220
+    },
+    {
+      "path": "skill/design/artifacts/templates/decisions.json",
+      "sha256": "da0baa732ed12da6ede5ada355ba176e4120c71c5118251b2f1b7605350a8394",
+      "size": 234
+    },
+    {
+      "path": "skill/design/artifacts/templates/review.json",
+      "sha256": "21f73aca1d323362695f4260d7ec7018a2562f3e990d3d9316a8e3233793b2eb",
+      "size": 222
+    },
+    {
+      "path": "skill/design/artifacts/workflow.md",
+      "sha256": "c969e7685329b94b1faa8907e81fe1a1a708ffb0a9833bea109370a069615495",
+      "size": 3054
+    }
+  ]
+}

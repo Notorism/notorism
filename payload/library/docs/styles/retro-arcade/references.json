@@ -1,0 +1,65 @@
+[
+  {
+    "id": "retro-arcade-1",
+    "title": "Local tournament: Public page",
+    "image": "images/retro-arcade/example-01.png",
+    "html": "images/retro-arcade/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Vivid contrast; meaningful scores; pixels; game frame; direct action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Gamifying service tasks without a benefit to the person."
+    },
+    "sha256": "bc299fed5de574d118d12ee44f15c95aecbc08ce7ee95d4ac9b3f5f9fb6dfbfd",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "retro-arcade-2",
+    "title": "Game library: Product workspace",
+    "image": "images/retro-arcade/example-02.png",
+    "html": "images/retro-arcade/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Vivid contrast; meaningful scores; pixels; game frame; direct action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Gamifying service tasks without a benefit to the person."
+    },
+    "sha256": "0274785dceabfe0d408ce2962cb664785a13a713aab9c48ff7952a4f80c13052",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "retro-arcade-3",
+    "title": "Interactive museum: Editorial composition",
+    "image": "images/retro-arcade/example-03.png",
+    "html": "images/retro-arcade/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Vivid contrast; meaningful scores; pixels; game frame; direct action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Gamifying service tasks without a benefit to the person."
+    },
+    "sha256": "3cdaa3ebc483c5343154954f6fec14029f4538b1a8fe3f59504bea4fc9db1089",
+    "width": 1440,
+    "height": 960
+  }
+]

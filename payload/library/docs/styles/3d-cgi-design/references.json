@@ -1,0 +1,65 @@
+[
+  {
+    "id": "3d-cgi-design-1",
+    "title": "Product studio: Public page",
+    "image": "images/3d-cgi-design/example-01.png",
+    "html": "images/3d-cgi-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Volume; coherent lighting; materials; camera; static alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting a basic CSS object as hyperrealistic CGI."
+    },
+    "sha256": "b0dcc7b88a54b918d2c9f97e8d334387981b080fa638b722dabbd8b3d07031bc",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "3d-cgi-design-2",
+    "title": "Lighting catalog: Product workspace",
+    "image": "images/3d-cgi-design/example-02.png",
+    "html": "images/3d-cgi-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Volume; coherent lighting; materials; camera; static alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting a basic CSS object as hyperrealistic CGI."
+    },
+    "sha256": "d003fd7fcfaabc5664407439a2754b35e3e45a27a48244f354cd88851d0680d5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "3d-cgi-design-3",
+    "title": "Digital exhibition: Editorial composition",
+    "image": "images/3d-cgi-design/example-03.png",
+    "html": "images/3d-cgi-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Volume; coherent lighting; materials; camera; static alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Presenting a basic CSS object as hyperrealistic CGI."
+    },
+    "sha256": "e56e71bc268a015da394b442d339aab44d02041f2d3fca74b83a1cec871dd762",
+    "width": 1440,
+    "height": 960
+  }
+]

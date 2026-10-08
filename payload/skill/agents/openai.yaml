@@ -1,0 +1,6 @@
+interface:
+  display_name: "NotorismDesign"
+  short_description: "Art direction, 110 styles, and inspectable artifacts"
+  default_prompt: "Use $notorism-design to create a distinctive, useful design grounded in the local reference library and an inspectable artifact."
+policy:
+  allow_implicit_invocation: true

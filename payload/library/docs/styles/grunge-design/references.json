@@ -1,0 +1,65 @@
+[
+  {
+    "id": "grunge-design-1",
+    "title": "Independent record label: Public page",
+    "image": "images/grunge-design/example-01.png",
+    "html": "images/grunge-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Irregular texture; cuts; localized wear; expressive scale; intact body text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Eroding reading text or form controls."
+    },
+    "sha256": "710826bb70546394ccf0eb4d0dc64023e27a09ce31cff4e230ce7c8c2955ceec",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "grunge-design-2",
+    "title": "Concert calendar: Product workspace",
+    "image": "images/grunge-design/example-02.png",
+    "html": "images/grunge-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Irregular texture; cuts; localized wear; expressive scale; intact body text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Eroding reading text or form controls."
+    },
+    "sha256": "490c35c291fd962c4bf29295cc353175dc5b859e04201c5da3ef15ff4dda7265",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "grunge-design-3",
+    "title": "Photography zine: Editorial composition",
+    "image": "images/grunge-design/example-03.png",
+    "html": "images/grunge-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Irregular texture; cuts; localized wear; expressive scale; intact body text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Eroding reading text or form controls."
+    },
+    "sha256": "e0d04e285e0a49e377be0ec18650fa5c95dbfc35ac0ca9533d64f8948f6f347d",
+    "width": 1440,
+    "height": 960
+  }
+]

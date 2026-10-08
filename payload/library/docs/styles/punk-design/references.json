@@ -1,0 +1,65 @@
+[
+  {
+    "id": "punk-design-1",
+    "title": "Live venue: Public page",
+    "image": "images/punk-design/example-01.png",
+    "html": "images/punk-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Cutouts; photocopy texture; black-white contrast; assembled letters; urgent hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying famous covers or making every word undecipherable."
+    },
+    "sha256": "630de44327fdfbf0f4d51f50204617d29e3b420d3a6b48c692d42f8034bb7c19",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "punk-design-2",
+    "title": "Community zine: Product workspace",
+    "image": "images/punk-design/example-02.png",
+    "html": "images/punk-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Cutouts; photocopy texture; black-white contrast; assembled letters; urgent hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying famous covers or making every word undecipherable."
+    },
+    "sha256": "e54c4c8889abab6cec90f0cf5b732b2c65ac57b4b8ba7cec4277389cef7fb19c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "punk-design-3",
+    "title": "Music collective: Editorial composition",
+    "image": "images/punk-design/example-03.png",
+    "html": "images/punk-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Cutouts; photocopy texture; black-white contrast; assembled letters; urgent hierarchy.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying famous covers or making every word undecipherable."
+    },
+    "sha256": "51ddb3538749d9d1eb87d6c88ccf26dacfa4b4ac8c5f646d84efb3c0478fb198",
+    "width": 1440,
+    "height": 960
+  }
+]

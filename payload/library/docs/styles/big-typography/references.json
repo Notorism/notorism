@@ -1,0 +1,65 @@
+[
+  {
+    "id": "big-typography-1",
+    "title": "Reading festival: Public page",
+    "image": "images/big-typography/example-01.png",
+    "html": "images/big-typography/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Dominant heading; responsive clamp; deliberate line breaks; subordinate body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Clipping meaningful words or pushing the action out of view."
+    },
+    "sha256": "f3603bee24142f1a72e17dbaeead137014c433ecef899df3b5d7c4e1f386cb50",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "big-typography-2",
+    "title": "Image studio: Product workspace",
+    "image": "images/big-typography/example-02.png",
+    "html": "images/big-typography/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Dominant heading; responsive clamp; deliberate line breaks; subordinate body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Clipping meaningful words or pushing the action out of view."
+    },
+    "sha256": "f95daa29ab71d37b7783d083d1e9544da0e3e037420087e125aa8093d65027bb",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "big-typography-3",
+    "title": "Book launch: Editorial composition",
+    "image": "images/big-typography/example-03.png",
+    "html": "images/big-typography/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Dominant heading; responsive clamp; deliberate line breaks; subordinate body.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Clipping meaningful words or pushing the action out of view."
+    },
+    "sha256": "b22d1cba912438cf1252165ee10fa2a7081992e5bed2a4c3010dea820a5ec8e4",
+    "width": 1440,
+    "height": 960
+  }
+]

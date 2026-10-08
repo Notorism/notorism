@@ -1,0 +1,65 @@
+[
+  {
+    "id": "variable-typography-1",
+    "title": "Font studio: Public page",
+    "image": "images/variable-typography/example-01.png",
+    "html": "images/variable-typography/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Uses a bundled variable font when present; verify actual loaded axes rather than inferring them from a still.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Existing axes; legible interpolation; type roles; limits; verified fonts.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying font-variation-settings to a static font or endlessly animating body text."
+    },
+    "sha256": "99ce160a4044651ee52c99b14504249038fbe59f6786615552c08b4d735d20ff",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "variable-typography-2",
+    "title": "Writing festival: Product workspace",
+    "image": "images/variable-typography/example-02.png",
+    "html": "images/variable-typography/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Uses a bundled variable font when present; verify actual loaded axes rather than inferring them from a still.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Existing axes; legible interpolation; type roles; limits; verified fonts.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying font-variation-settings to a static font or endlessly animating body text."
+    },
+    "sha256": "afc7afa23b46276f08df58a9b0d5c2954b25806c2f5b4accf08c70bdadbac0c6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "variable-typography-3",
+    "title": "Language publication: Editorial composition",
+    "image": "images/variable-typography/example-03.png",
+    "html": "images/variable-typography/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Uses a bundled variable font when present; verify actual loaded axes rather than inferring them from a still.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Existing axes; legible interpolation; type roles; limits; verified fonts.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying font-variation-settings to a static font or endlessly animating body text."
+    },
+    "sha256": "074764e2c0d1862ea109db7df9f5ec3ce52a94c12cad3f89beb4827a0c8de9ba",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "memphis-design-1",
+    "title": "Creative festival: Public page",
+    "image": "images/memphis-design/example-01.png",
+    "html": "images/memphis-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Zigzags; confetti; colored geometry; conflicting planes; playful rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing busy patterns behind every line of text."
+    },
+    "sha256": "a5cd484e46a5d4e4c2965e006f267e103a84f3db410edd359e8f9438de8af29a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "memphis-design-2",
+    "title": "Accessory shop: Product workspace",
+    "image": "images/memphis-design/example-02.png",
+    "html": "images/memphis-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Zigzags; confetti; colored geometry; conflicting planes; playful rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing busy patterns behind every line of text."
+    },
+    "sha256": "4e6e75decfabf8401ee4ec201f0c21afeb51fbba91ad1880d5f308250e4a50d5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "memphis-design-3",
+    "title": "Pattern workshop: Editorial composition",
+    "image": "images/memphis-design/example-03.png",
+    "html": "images/memphis-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Zigzags; confetti; colored geometry; conflicting planes; playful rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing busy patterns behind every line of text."
+    },
+    "sha256": "3b5b8a9ab01de1d942ee98e09977c405ce7faddcfaef8da6ebaf6fd9d536d688",
+    "width": 1440,
+    "height": 960
+  }
+]

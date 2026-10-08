@@ -1,0 +1,65 @@
+[
+  {
+    "id": "art-nouveau-1",
+    "title": "Historic garden: Public page",
+    "image": "images/art-nouveau/example-01.png",
+    "html": "images/art-nouveau/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Sinuous lines; stylized flowers; integrated frames; expressive lettering.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering controls with ornaments or reproducing a specific artwork."
+    },
+    "sha256": "6c27fea4a92e83bf8f2b9e58e5abdb379e8849ce68f606289f8c8eddddaa5aa5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "art-nouveau-2",
+    "title": "Tea house: Product workspace",
+    "image": "images/art-nouveau/example-02.png",
+    "html": "images/art-nouveau/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Sinuous lines; stylized flowers; integrated frames; expressive lettering.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering controls with ornaments or reproducing a specific artwork."
+    },
+    "sha256": "bb9d2d1b312b3cd403ca8813ab855365c02faab2c0b2012ecc23647f48dbb8fd",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "art-nouveau-3",
+    "title": "Print catalog: Editorial composition",
+    "image": "images/art-nouveau/example-03.png",
+    "html": "images/art-nouveau/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Sinuous lines; stylized flowers; integrated frames; expressive lettering.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering controls with ornaments or reproducing a specific artwork."
+    },
+    "sha256": "5f850c6cc23639dfe34dc1cc23bcd978f701187847052df156847e1b8cea8923",
+    "width": 1440,
+    "height": 960
+  }
+]

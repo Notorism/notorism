@@ -1,0 +1,65 @@
+[
+  {
+    "id": "neon-glow-1",
+    "title": "Live venue: Public page",
+    "image": "images/neon-glow/example-01.png",
+    "html": "images/neon-glow/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Defined core; limited halo; dark base; hierarchical emission.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Blurring text and using glow as its only contrast."
+    },
+    "sha256": "438dda384560c593104370ce7d93a494344e037414b26f20e404add3d6ef8355",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neon-glow-2",
+    "title": "Night exhibition: Product workspace",
+    "image": "images/neon-glow/example-02.png",
+    "html": "images/neon-glow/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Defined core; limited halo; dark base; hierarchical emission.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Blurring text and using glow as its only contrast."
+    },
+    "sha256": "3e89d6b944ac25f4352aaefd5988783f1b5ac4ae331095591dbc851516dda0c0",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neon-glow-3",
+    "title": "Music calendar: Editorial composition",
+    "image": "images/neon-glow/example-03.png",
+    "html": "images/neon-glow/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Defined core; limited halo; dark base; hierarchical emission.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Blurring text and using glow as its only contrast."
+    },
+    "sha256": "54e512213d551341c8b3ba24bea295275f7b65641cb2e14d1c0819c6ea353f5d",
+    "width": 1440,
+    "height": 960
+  }
+]

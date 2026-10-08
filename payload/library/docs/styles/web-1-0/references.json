@@ -1,0 +1,65 @@
+[
+  {
+    "id": "web-1-0-1",
+    "title": "Personal archive: Public page",
+    "image": "images/web-1-0/example-01.png",
+    "html": "images/web-1-0/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Explicit links; simple borders; document modules; small images; personal authorship.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying historical incompatibilities, autoplay, or inaccessible structures."
+    },
+    "sha256": "40c68fd626250fc61712d6d10a9240b85d627320e9566a5288f8f37405673e06",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "web-1-0-2",
+    "title": "Astronomy club: Product workspace",
+    "image": "images/web-1-0/example-02.png",
+    "html": "images/web-1-0/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Explicit links; simple borders; document modules; small images; personal authorship.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying historical incompatibilities, autoplay, or inaccessible structures."
+    },
+    "sha256": "ec6abe52f107093b08fefba3e95643311ed036cd66f8add03ced4d8a08e27291",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "web-1-0-3",
+    "title": "Computing museum: Editorial composition",
+    "image": "images/web-1-0/example-03.png",
+    "html": "images/web-1-0/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Explicit links; simple borders; document modules; small images; personal authorship.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying historical incompatibilities, autoplay, or inaccessible structures."
+    },
+    "sha256": "ac44fb099f03a69cf26312edc5414cb99b420eda2bb654440b68d8809ccb0eab",
+    "width": 1440,
+    "height": 960
+  }
+]

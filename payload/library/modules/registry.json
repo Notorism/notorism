@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "language": "en",
+  "modules": [
+    {"id":"agent-protocol","path":"docs/foundations/agent-protocol.md","load":"session-start","purpose":"Scope, working sequence, communication, and authority."},
+    {"id":"art-direction","path":"docs/foundations/art-direction.md","load":"on-demand","purpose":"Define the visual direction before implementation."},
+    {"id":"artifact-workflow","path":"skill/design/artifacts/workflow.md","load":"on-demand","purpose":"Initialize, plan, assemble, review, and finalize the artifact."},
+    {"id":"artifact-capabilities","path":"skill/design/artifacts/capabilities.md","load":"on-demand","purpose":"Discover real native capabilities and portable fallbacks."},
+    {"id":"diagramming","path":"skill/design/artifacts/diagramming.md","load":"on-demand","purpose":"Explain mechanisms with meaningful diagrams."},
+    {"id":"style-index","path":"docs/styles/INDEX.md","load":"on-demand","purpose":"Choose a style, read its guide, and inspect its three images."},
+    {"id":"style-combinations","path":"docs/styles/combinations.md","load":"on-demand","purpose":"Combine visual languages deliberately."},
+    {"id":"copywriting","path":"docs/foundations/copywriting.md","load":"on-demand","purpose":"Write customer-facing copy and avoid stock AI patterns."},
+    {"id":"images-and-icons","path":"docs/foundations/images-and-icons.md","load":"on-demand","purpose":"Choose meaningful, authorized imagery and consistent icons."},
+    {"id":"design-system","path":"docs/foundations/design-system.md","load":"on-demand","purpose":"Preserve existing tokens and define coherent components."},
+    {"id":"accessibility","path":"docs/foundations/accessibility.md","load":"on-demand","purpose":"Review contrast, semantics, keyboard access, and responsiveness."},
+    {"id":"information-design","path":"docs/foundations/information-design.md","load":"on-demand","purpose":"Make data and relationships understandable."},
+    {"id":"motion","path":"docs/foundations/motion.md","load":"on-demand","purpose":"Provide useful motion and reduced-motion alternatives."},
+    {"id":"review","path":"docs/foundations/review.md","load":"on-demand","purpose":"Inspect rendered work and record actual evidence."},
+    {"id":"bibliography","path":"docs/research/bibliography.md","load":"on-demand","purpose":"Consult books and primary sources for specific decisions."},
+    {"id":"source-map","path":"docs/research/source-map.md","load":"on-demand","purpose":"Understand research provenance and adaptation limits."}
+  ],
+  "contracts": [
+    "contracts/scope.json",
+    "contracts/artifact.json",
+    "contracts/visual-direction.json",
+    "contracts/copy.json",
+    "contracts/assets.json",
+    "contracts/review.json"
+  ]
+}

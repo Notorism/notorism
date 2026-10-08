@@ -1,0 +1,65 @@
+[
+  {
+    "id": "low-poly-1",
+    "title": "Landscape gallery: Public page",
+    "image": "images/low-poly/example-01.png",
+    "html": "images/low-poly/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Large faces; plane-based lighting; silhouette; coherent palette; simplified volume.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any decorative triangle a low-poly model."
+    },
+    "sha256": "d42e5023fb69c7b1b6e4e5713f95f0bbc34b2d0bfedbe6f2d94cbe681e0909ea",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "low-poly-2",
+    "title": "Exploration game: Product workspace",
+    "image": "images/low-poly/example-02.png",
+    "html": "images/low-poly/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Large faces; plane-based lighting; silhouette; coherent palette; simplified volume.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any decorative triangle a low-poly model."
+    },
+    "sha256": "96e5f5e31c8d94d283ed9efe62c26868cdb99a934432c57cb769c730b554d0a2",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "low-poly-3",
+    "title": "Reserve map: Editorial composition",
+    "image": "images/low-poly/example-03.png",
+    "html": "images/low-poly/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Large faces; plane-based lighting; silhouette; coherent palette; simplified volume.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any decorative triangle a low-poly model."
+    },
+    "sha256": "1f180b928b12f6134265beecd6a5d849848a439dca1d7e8225ba8b81341a779a",
+    "width": 1440,
+    "height": 960
+  }
+]

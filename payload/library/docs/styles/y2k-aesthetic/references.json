@@ -1,0 +1,65 @@
+[
+  {
+    "id": "y2k-aesthetic-1",
+    "title": "Accessory brand: Public page",
+    "image": "images/y2k-aesthetic/example-01.png",
+    "html": "images/y2k-aesthetic/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Metal; aerodynamic forms; digital shine; compressed type; electric color.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing an archive’s launch date with the aesthetic’s foundation."
+    },
+    "sha256": "455913aa4cb84c03a7652f867f509d9ac34154e64a7ea586c2f8fd362d3c38a3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "y2k-aesthetic-2",
+    "title": "Digital festival: Product workspace",
+    "image": "images/y2k-aesthetic/example-02.png",
+    "html": "images/y2k-aesthetic/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Metal; aerodynamic forms; digital shine; compressed type; electric color.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing an archive’s launch date with the aesthetic’s foundation."
+    },
+    "sha256": "9d65eb41ec59a046b5328d20316f456a40a13da31b7e100a763fe49ed7a192b9",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "y2k-aesthetic-3",
+    "title": "Music archive: Editorial composition",
+    "image": "images/y2k-aesthetic/example-03.png",
+    "html": "images/y2k-aesthetic/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Metal; aerodynamic forms; digital shine; compressed type; electric color.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing an archive’s launch date with the aesthetic’s foundation."
+    },
+    "sha256": "db9e24aee5019159f3b3093f7aea66b53138f86c06f5256375c9d846bdb70d97",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "dithering-1",
+    "title": "Computing archive: Public page",
+    "image": "images/dithering/example-01.png",
+    "html": "images/dithering/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Pixel patterns; density-based tones; restricted palette; deliberate scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing random noise with dithering or rasterizing reading text."
+    },
+    "sha256": "c1d956f22259f70b3c2c5a9be60cfde181a5430effdc5089f6645e9dce287e87",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "dithering-2",
+    "title": "Print festival: Product workspace",
+    "image": "images/dithering/example-02.png",
+    "html": "images/dithering/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Pixel patterns; density-based tones; restricted palette; deliberate scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing random noise with dithering or rasterizing reading text."
+    },
+    "sha256": "0b0483b23b90a537bd3f62031fd02f248ced710b9f2b7c552b31a1d808f8b28b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "dithering-3",
+    "title": "Engraving portfolio: Editorial composition",
+    "image": "images/dithering/example-03.png",
+    "html": "images/dithering/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Pixel patterns; density-based tones; restricted palette; deliberate scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Confusing random noise with dithering or rasterizing reading text."
+    },
+    "sha256": "db1810ebdc6eac50044c5efd8c7d6cefdafc62396c972bbf59a39af3ec3cb143",
+    "width": 1440,
+    "height": 960
+  }
+]

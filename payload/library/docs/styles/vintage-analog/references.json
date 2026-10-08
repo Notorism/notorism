@@ -1,0 +1,65 @@
+[
+  {
+    "id": "vintage-analog-1",
+    "title": "Family archive: Public page",
+    "image": "images/vintage-analog/example-01.png",
+    "html": "images/vintage-analog/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Paper; film; faded color; subtle imperfections; contextual type.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining sepia, VHS, and old paper without a temporal reference."
+    },
+    "sha256": "5bce42318a30fb73c74e6963f82fef335e5053e36b656de0430d2a74885e31eb",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "vintage-analog-2",
+    "title": "Camera catalog: Product workspace",
+    "image": "images/vintage-analog/example-02.png",
+    "html": "images/vintage-analog/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Paper; film; faded color; subtle imperfections; contextual type.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining sepia, VHS, and old paper without a temporal reference."
+    },
+    "sha256": "294c63f73a21c5212a7406e68bd89c7c2c1febae16987d1d8be45d8de6debf4b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "vintage-analog-3",
+    "title": "Travel magazine: Editorial composition",
+    "image": "images/vintage-analog/example-03.png",
+    "html": "images/vintage-analog/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Paper; film; faded color; subtle imperfections; contextual type.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining sepia, VHS, and old paper without a temporal reference."
+    },
+    "sha256": "e1c2235911a411e631c4185188041622c8bb298b8945d89aa2f79a2b1ea9a796",
+    "width": 1440,
+    "height": 960
+  }
+]

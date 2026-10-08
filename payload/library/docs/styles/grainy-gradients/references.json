@@ -1,0 +1,65 @@
+[
+  {
+    "id": "grainy-gradients-1",
+    "title": "Paper brand: Public page",
+    "image": "images/grainy-gradients/example-01.png",
+    "html": "images/grainy-gradients/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Broad gradient; fine grain; quiet boundaries; value-based focus.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Texturing operational elements or using oversized assets."
+    },
+    "sha256": "3417a063ac89a0bca7c275427af2d044e19939eb9389cd5227eddff017bb41aa",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "grainy-gradients-2",
+    "title": "Sound festival: Product workspace",
+    "image": "images/grainy-gradients/example-02.png",
+    "html": "images/grainy-gradients/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Broad gradient; fine grain; quiet boundaries; value-based focus.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Texturing operational elements or using oversized assets."
+    },
+    "sha256": "a62c75f260ea3b7f72b653394dcbac3684c045c64f9617499c37aa5b1d35fd63",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "grainy-gradients-3",
+    "title": "Art magazine: Editorial composition",
+    "image": "images/grainy-gradients/example-03.png",
+    "html": "images/grainy-gradients/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Broad gradient; fine grain; quiet boundaries; value-based focus.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Texturing operational elements or using oversized assets."
+    },
+    "sha256": "0192156438eeaed5f03ae91ff663cc0bf75c3b2ce6dfd2906d746a224a35454c",
+    "width": 1440,
+    "height": 960
+  }
+]

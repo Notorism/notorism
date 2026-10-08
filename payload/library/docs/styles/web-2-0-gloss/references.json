@@ -1,0 +1,65 @@
+[
+  {
+    "id": "web-2-0-gloss-1",
+    "title": "Photo community: Public page",
+    "image": "images/web-2-0-gloss/example-01.png",
+    "html": "images/web-2-0-gloss/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Glossy buttons; short gradients; relief; medium corners; explicit tabs.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reflecting over text or making passive surfaces too shiny."
+    },
+    "sha256": "a266d2a9e99ed0ea85e0fb3b486d780f313fbe5d514f22729e072756790e9c53",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "web-2-0-gloss-2",
+    "title": "Event organizer: Product workspace",
+    "image": "images/web-2-0-gloss/example-02.png",
+    "html": "images/web-2-0-gloss/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Glossy buttons; short gradients; relief; medium corners; explicit tabs.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reflecting over text or making passive surfaces too shiny."
+    },
+    "sha256": "80785b3e9bdb7f539d16a4e70483c4b1a65262a62589da92e34983dabb5ff5c8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "web-2-0-gloss-3",
+    "title": "Media library: Editorial composition",
+    "image": "images/web-2-0-gloss/example-03.png",
+    "html": "images/web-2-0-gloss/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Glossy buttons; short gradients; relief; medium corners; explicit tabs.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reflecting over text or making passive surfaces too shiny."
+    },
+    "sha256": "377369b2dcb9442e495aea9dd5062d8b9010b9ce64ccf7a93d4147113bf1c238",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,8 @@
+* text=auto eol=lf
+# Preserve exact bytes covered by the installation integrity manifest.
+payload/** -text
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary

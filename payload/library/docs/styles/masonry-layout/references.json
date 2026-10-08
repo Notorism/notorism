@@ -1,0 +1,65 @@
+[
+  {
+    "id": "masonry-layout-1",
+    "title": "Photography gallery: Public page",
+    "image": "images/masonry-layout/example-01.png",
+    "html": "images/masonry-layout/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Consistent columns; content-driven height; equal gaps; predictable reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reordering the visual layout against keyboard order."
+    },
+    "sha256": "8c6c5cdc486d95c2472a6da2a059507384c2042ded9dfd5b7a4b6e6f66c1aac8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "masonry-layout-2",
+    "title": "Object collection: Product workspace",
+    "image": "images/masonry-layout/example-02.png",
+    "html": "images/masonry-layout/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Consistent columns; content-driven height; equal gaps; predictable reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reordering the visual layout against keyboard order."
+    },
+    "sha256": "37665b7df47a8e0dd3f77bf388b0df7b733678250977183134e8b43cbcf8bdfa",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "masonry-layout-3",
+    "title": "Poster archive: Editorial composition",
+    "image": "images/masonry-layout/example-03.png",
+    "html": "images/masonry-layout/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Consistent columns; content-driven height; equal gaps; predictable reading.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reordering the visual layout against keyboard order."
+    },
+    "sha256": "d00d71261236947b8d80f974ef749d3c1804ea7215dae3e75f8a0e6ebb7a6daa",
+    "width": 1440,
+    "height": 960
+  }
+]

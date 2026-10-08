@@ -1,0 +1,65 @@
+[
+  {
+    "id": "risograph-1",
+    "title": "Independent publisher: Public page",
+    "image": "images/risograph/example-01.png",
+    "html": "images/risograph/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Short palette; grain; overprinting; subtle offset; paper material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a filter actual printing or blurring operational content."
+    },
+    "sha256": "a8578376fc172655bdf7f3e0d2fb84ebd14d6e3c702f31f0ab851af818406936",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "risograph-2",
+    "title": "Print workshop: Product workspace",
+    "image": "images/risograph/example-02.png",
+    "html": "images/risograph/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Short palette; grain; overprinting; subtle offset; paper material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a filter actual printing or blurring operational content."
+    },
+    "sha256": "73dbdc4b946dba62ecbf12e379e729bdb46738e8f176493d2aa1591b61848e1d",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "risograph-3",
+    "title": "City zine: Editorial composition",
+    "image": "images/risograph/example-03.png",
+    "html": "images/risograph/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Short palette; grain; overprinting; subtle offset; paper material.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling a filter actual printing or blurring operational content."
+    },
+    "sha256": "9768dcfae3ab191e5caf65fa5aeb2a18f41893178a2b40eefc24d9119c9c5205",
+    "width": 1440,
+    "height": 960
+  }
+]

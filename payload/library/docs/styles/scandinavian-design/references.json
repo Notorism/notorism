@@ -1,0 +1,65 @@
+[
+  {
+    "id": "scandinavian-design-1",
+    "title": "Furniture store: Public page",
+    "image": "images/scandinavian-design/example-01.png",
+    "html": "images/scandinavian-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Clarity; simple materials; light; restrained tones; domestic organization.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reducing cultural diversity to beige backgrounds and one plant."
+    },
+    "sha256": "5cddbe738ed6eb418cbf9657fa1c1c3450ae714afb31e396216ffe5e34898676",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scandinavian-design-2",
+    "title": "Neighborhood library: Product workspace",
+    "image": "images/scandinavian-design/example-02.png",
+    "html": "images/scandinavian-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Clarity; simple materials; light; restrained tones; domestic organization.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reducing cultural diversity to beige backgrounds and one plant."
+    },
+    "sha256": "fec445b73e29c69a8fc21d46147eb1b2c959ee0cb7959b94e214f911526b36c7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scandinavian-design-3",
+    "title": "Interior studio: Editorial composition",
+    "image": "images/scandinavian-design/example-03.png",
+    "html": "images/scandinavian-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Clarity; simple materials; light; restrained tones; domestic organization.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reducing cultural diversity to beige backgrounds and one plant."
+    },
+    "sha256": "82debdfbb62cab5f6d17df8ed6c48e456fff0a536dbebec62e5e702a1482de9b",
+    "width": 1440,
+    "height": 960
+  }
+]

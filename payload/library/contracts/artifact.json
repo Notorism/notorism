@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "artifact-contract",
+  "appliesTo": "The NotorismDesign design workflow",
+  "rules": [
+    "Initialize the project artifact before visual implementation. Complete its brief, reference analysis, and design decisions.",
+    "Use working artboards, assemble the canvas, inspect the rendered result, save real wide and narrow screenshot evidence, and finalize with the helper.",
+    "For a small revision, update the existing artifact proportionally. A scaffold or a retrospective description is not a completed design artifact."
+  ]
+}

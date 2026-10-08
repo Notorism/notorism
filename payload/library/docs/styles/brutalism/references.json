@@ -1,0 +1,65 @@
+[
+  {
+    "id": "brutalism-1",
+    "title": "Architecture archive: Public page",
+    "image": "images/brutalism/example-01.png",
+    "html": "images/brutalism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Visible grid; heavy type; raw surfaces; functional rules; hierarchy through scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mistaking visual roughness for unreadable links or broken navigation."
+    },
+    "sha256": "c1970c617a9ca2d5c104389f7162a0af9ec0d0bc2ba3dce9b48a7d004719a60d",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "brutalism-2",
+    "title": "Concrete studio: Product workspace",
+    "image": "images/brutalism/example-02.png",
+    "html": "images/brutalism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Visible grid; heavy type; raw surfaces; functional rules; hierarchy through scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mistaking visual roughness for unreadable links or broken navigation."
+    },
+    "sha256": "ce5e195803bdec8b3e8ec32e1f6a89e0a8e4e15bb9a7e22ff8686831f768243b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "brutalism-3",
+    "title": "Independent publication: Editorial composition",
+    "image": "images/brutalism/example-03.png",
+    "html": "images/brutalism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Visible grid; heavy type; raw surfaces; functional rules; hierarchy through scale.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mistaking visual roughness for unreadable links or broken navigation."
+    },
+    "sha256": "2d2426e8fa5e0a5aac0829447f58a91bb332898dbc495e63c8428fc56dc8d5cb",
+    "width": 1440,
+    "height": 960
+  }
+]

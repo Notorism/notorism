@@ -1,0 +1,65 @@
+[
+  {
+    "id": "industrial-design-1",
+    "title": "Fabrication workshop: Public page",
+    "image": "images/industrial-design/example-01.png",
+    "html": "images/industrial-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Useful markings; restrained materials; technical type; joints and modules.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing gauges and numbers just to look technical."
+    },
+    "sha256": "ffeaff8fd3de2a613cffa9759c10bd4c12bceddd32414e92789edc85e41c143a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "industrial-design-2",
+    "title": "Tool catalog: Product workspace",
+    "image": "images/industrial-design/example-02.png",
+    "html": "images/industrial-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Useful markings; restrained materials; technical type; joints and modules.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing gauges and numbers just to look technical."
+    },
+    "sha256": "b01f8312dc8003c34c091cdd8f8bcdab45b65e223083c241b912ddfa14e72917",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "industrial-design-3",
+    "title": "Production monitor: Editorial composition",
+    "image": "images/industrial-design/example-03.png",
+    "html": "images/industrial-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Useful markings; restrained materials; technical type; joints and modules.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing gauges and numbers just to look technical."
+    },
+    "sha256": "a60453b1bdd3719071f9c846ffc386e3f8e03ea68ef7d0a522477d2e50f42a69",
+    "width": 1440,
+    "height": 960
+  }
+]

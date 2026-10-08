@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hyperrealistic-ui-1",
+    "title": "Watch catalog: Public page",
+    "image": "images/hyperrealistic-ui/example-01.png",
+    "html": "images/hyperrealistic-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Consistent lighting; controlled reflections; correctly scaled texture; convincing objects.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Sacrificing performance and legibility for material detail."
+    },
+    "sha256": "4c567143ac9abac924a14386cf8f88185e16dec471ac01df69c08ca8bfaf4ed7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hyperrealistic-ui-2",
+    "title": "Camera configurator: Product workspace",
+    "image": "images/hyperrealistic-ui/example-02.png",
+    "html": "images/hyperrealistic-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Consistent lighting; controlled reflections; correctly scaled texture; convincing objects.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Sacrificing performance and legibility for material detail."
+    },
+    "sha256": "36aac6ad3653eeecd3810e5aa98e7f2f2a1f0e75e32061e11bf596007d2e59e0",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hyperrealistic-ui-3",
+    "title": "Material showroom: Editorial composition",
+    "image": "images/hyperrealistic-ui/example-03.png",
+    "html": "images/hyperrealistic-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified code-native volume and lighting study. It is not a photograph or a production CGI render.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Consistent lighting; controlled reflections; correctly scaled texture; convincing objects.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Sacrificing performance and legibility for material detail."
+    },
+    "sha256": "17a037277a18f8dd50d730294db135c0140075a6536c09c0466af4cc119ebd08",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "terminal-hacker-ui-1",
+    "title": "Search tool: Public page",
+    "image": "images/terminal-hacker-ui/example-01.png",
+    "html": "images/terminal-hacker-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Monospaced type; clear commands; prompts; readable output; state feedback.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Low-contrast green text or invented commands that do nothing."
+    },
+    "sha256": "ef617221f01b5c9d9f21675576f58a90b19ce031e98030da399d75511fe5e705",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "terminal-hacker-ui-2",
+    "title": "Code archive: Product workspace",
+    "image": "images/terminal-hacker-ui/example-02.png",
+    "html": "images/terminal-hacker-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Monospaced type; clear commands; prompts; readable output; state feedback.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Low-contrast green text or invented commands that do nothing."
+    },
+    "sha256": "8c7560516502645721712dc5c9bab1b7e6b71c68a452c6d7272d320c66630377",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "terminal-hacker-ui-3",
+    "title": "Research console: Editorial composition",
+    "image": "images/terminal-hacker-ui/example-03.png",
+    "html": "images/terminal-hacker-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Monospaced type; clear commands; prompts; readable output; state feedback.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Low-contrast green text or invented commands that do nothing."
+    },
+    "sha256": "f0da2bce35a6220ed495f5566d3fa36153727bc2f07cad5e1ecfaca363ad7da2",
+    "width": 1440,
+    "height": 960
+  }
+]

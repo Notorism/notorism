@@ -1,0 +1,65 @@
+[
+  {
+    "id": "liquid-glass-1",
+    "title": "Audio controls: Public page",
+    "image": "images/liquid-glass/example-01.png",
+    "html": "images/liquid-glass/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS and SVG approximation of a glass treatment, not a reproduction of Apple’s native optical material.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Glassy contours; curved highlights; subtle distortion; controls over changing planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Promising physical refraction using transparency alone."
+    },
+    "sha256": "3d00dd885efb46779d4a271a00866a1ffc73fa97717678331312c92c332c14e6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "liquid-glass-2",
+    "title": "Interior gallery: Product workspace",
+    "image": "images/liquid-glass/example-02.png",
+    "html": "images/liquid-glass/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS and SVG approximation of a glass treatment, not a reproduction of Apple’s native optical material.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Glassy contours; curved highlights; subtle distortion; controls over changing planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Promising physical refraction using transparency alone."
+    },
+    "sha256": "5894d2a3bde174880e893cdc1e55742be01587d08da0f4806d7e6e9aec752d8d",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "liquid-glass-3",
+    "title": "Map navigation: Editorial composition",
+    "image": "images/liquid-glass/example-03.png",
+    "html": "images/liquid-glass/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A CSS and SVG approximation of a glass treatment, not a reproduction of Apple’s native optical material.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Glassy contours; curved highlights; subtle distortion; controls over changing planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Promising physical refraction using transparency alone."
+    },
+    "sha256": "3ae753aa5427bb9bda2f94903db9af3006c235d71f19ff04a471c0c507a90c58",
+    "width": 1440,
+    "height": 960
+  }
+]

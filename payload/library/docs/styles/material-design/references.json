@@ -1,0 +1,65 @@
+[
+  {
+    "id": "material-design-1",
+    "title": "Team calendar: Public page",
+    "image": "images/material-design/example-01.png",
+    "html": "images/material-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Tokens; elevated surfaces; semantic types; defined components and states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any interface with shadows Material Design."
+    },
+    "sha256": "94da679ac28e0aa76f30aed57719a0e47e163dcd2b41ed8fd677905a5cbcd2e7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "material-design-2",
+    "title": "Task organizer: Product workspace",
+    "image": "images/material-design/example-02.png",
+    "html": "images/material-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Tokens; elevated surfaces; semantic types; defined components and states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any interface with shadows Material Design."
+    },
+    "sha256": "34488781289433d36bc0da682ad5d8053185d51b835c8e752c575f8b3670eca1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "material-design-3",
+    "title": "Municipal services: Editorial composition",
+    "image": "images/material-design/example-03.png",
+    "html": "images/material-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Tokens; elevated surfaces; semantic types; defined components and states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling any interface with shadows Material Design."
+    },
+    "sha256": "0e81f7df76bb617d6dcb4a68c98960a20b58acdc9d7d85777a52963c2164bf73",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pop-art-1",
+    "title": "Comics exhibition: Public page",
+    "image": "images/pop-art/example-01.png",
+    "html": "images/pop-art/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Flat colors; repetition; halftone; strong outlines; direct calls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reproducing known works or adding speech bubbles to every element."
+    },
+    "sha256": "a56c1644e13bc40f8ea382b68fb8d0cd1a4187a12c75add250204b7f6ca41469",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "pop-art-2",
+    "title": "Poster shop: Product workspace",
+    "image": "images/pop-art/example-02.png",
+    "html": "images/pop-art/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Flat colors; repetition; halftone; strong outlines; direct calls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reproducing known works or adding speech bubbles to every element."
+    },
+    "sha256": "b1f1868be230aeeb57a8ef50f53d9065204b33c6cc549cef6f41d9db666ac156",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "pop-art-3",
+    "title": "Culture festival: Editorial composition",
+    "image": "images/pop-art/example-03.png",
+    "html": "images/pop-art/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Flat colors; repetition; halftone; strong outlines; direct calls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reproducing known works or adding speech bubbles to every element."
+    },
+    "sha256": "f68785b24999463793a6ce72b2ad92ea113ba112b3db548484fbf4f82f561592",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "visual-direction-contract",
+  "appliesTo": "Style selection and visual implementation",
+  "rules": [
+    "Choose a direction from audience, purpose, actual content, and existing identity. Explain the useful relationship behind each distinctive choice.",
+    "Read the selected style guide and visually inspect all three PNG examples. Record observations, transferable choices, and limitations instead of copying the supplied descriptions."
+  ]
+}

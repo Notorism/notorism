@@ -1,0 +1,65 @@
+[
+  {
+    "id": "anti-design-1",
+    "title": "Experimental festival: Public page",
+    "image": "images/anti-design/example-01.png",
+    "html": "images/anti-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Intentional asymmetry; scale reversals; graphic cuts; unexpected composition with recognizable routes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making reading, purchasing, and navigation into puzzles."
+    },
+    "sha256": "5fd21e65107795214cd8606ecc18e6cb1348c537ba09c8042444ef44431d08e3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "anti-design-2",
+    "title": "Art publisher: Product workspace",
+    "image": "images/anti-design/example-02.png",
+    "html": "images/anti-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Intentional asymmetry; scale reversals; graphic cuts; unexpected composition with recognizable routes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making reading, purchasing, and navigation into puzzles."
+    },
+    "sha256": "2c34a35a03f299a29d52317b0e8f9016ba54d26403c99d721b75a3e799bdf462",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "anti-design-3",
+    "title": "Performance portfolio: Editorial composition",
+    "image": "images/anti-design/example-03.png",
+    "html": "images/anti-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Intentional asymmetry; scale reversals; graphic cuts; unexpected composition with recognizable routes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making reading, purchasing, and navigation into puzzles."
+    },
+    "sha256": "ad0798435f0d72f4fb0335e84fea0835c1c513ccb043256bed58171996128ba8",
+    "width": 1440,
+    "height": 960
+  }
+]

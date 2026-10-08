@@ -1,0 +1,65 @@
+[
+  {
+    "id": "steampunk-1",
+    "title": "Machine museum: Public page",
+    "image": "images/steampunk/example-01.png",
+    "html": "images/steampunk/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Copper; instruments; functional gears; serif type; aged materials.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Scattering unrelated gears and producing confusing controls."
+    },
+    "sha256": "6a2ee5da9b95c5bab500ad60fd21c8efb54c62e38ab37e8178114437f4856e8a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "steampunk-2",
+    "title": "Exploration game: Product workspace",
+    "image": "images/steampunk/example-02.png",
+    "html": "images/steampunk/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Copper; instruments; functional gears; serif type; aged materials.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Scattering unrelated gears and producing confusing controls."
+    },
+    "sha256": "9f1694cedbd5f60507d5e7da7c9d333719dd246c660dce9a77abd1c56c9bb9b2",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "steampunk-3",
+    "title": "Instrument catalog: Editorial composition",
+    "image": "images/steampunk/example-03.png",
+    "html": "images/steampunk/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Copper; instruments; functional gears; serif type; aged materials.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Scattering unrelated gears and producing confusing controls."
+    },
+    "sha256": "d5284e6d7be944139618c5f6eea5f85a35ec9a7196f8f8d986e34dd9cc03f619",
+    "width": 1440,
+    "height": 960
+  }
+]

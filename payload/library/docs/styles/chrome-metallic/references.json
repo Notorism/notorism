@@ -1,0 +1,65 @@
+[
+  {
+    "id": "chrome-metallic-1",
+    "title": "Object catalog: Public page",
+    "image": "images/chrome-metallic/example-01.png",
+    "html": "images/chrome-metallic/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Coherent reflections; luminous bands; defined edges; polished surfaces; calm base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying metallic texture to long text or claiming unconvincing realism."
+    },
+    "sha256": "407d6564fcf3495f515c3308926d7d971b152f4cf9b9e8eff8d26884edb0990a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "chrome-metallic-2",
+    "title": "Accessory brand: Product workspace",
+    "image": "images/chrome-metallic/example-02.png",
+    "html": "images/chrome-metallic/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Coherent reflections; luminous bands; defined edges; polished surfaces; calm base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying metallic texture to long text or claiming unconvincing realism."
+    },
+    "sha256": "32d5f3215282b4274aea3adfb275648615da575a1e9738bc9f81973625e19ca7",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "chrome-metallic-3",
+    "title": "Product studio: Editorial composition",
+    "image": "images/chrome-metallic/example-03.png",
+    "html": "images/chrome-metallic/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Coherent reflections; luminous bands; defined edges; polished surfaces; calm base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Applying metallic texture to long text or claiming unconvincing realism."
+    },
+    "sha256": "e0e0686a13d48b5f2a3475b418919edb2701eee2a54815c9f631b58633c5f74a",
+    "width": 1440,
+    "height": 960
+  }
+]

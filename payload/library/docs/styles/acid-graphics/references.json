@@ -1,0 +1,65 @@
+[
+  {
+    "id": "acid-graphics-1",
+    "title": "Music night: Public page",
+    "image": "images/acid-graphics/example-01.png",
+    "html": "images/acid-graphics/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Distorted display type; intense color; optical tension; biomorphic forms; rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Distorting control labels and turning all layout into noise."
+    },
+    "sha256": "f559790a8ba9d22563bbbf0c6dfe3840a04dafff2820a295d5f11a117edfac09",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "acid-graphics-2",
+    "title": "Experimental label: Product workspace",
+    "image": "images/acid-graphics/example-02.png",
+    "html": "images/acid-graphics/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Distorted display type; intense color; optical tension; biomorphic forms; rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Distorting control labels and turning all layout into noise."
+    },
+    "sha256": "e69e9b945d254d18d982598e55f06b08cc87dc52881a1058a4610baf524f2d19",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "acid-graphics-3",
+    "title": "Poster exhibition: Editorial composition",
+    "image": "images/acid-graphics/example-03.png",
+    "html": "images/acid-graphics/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Distorted display type; intense color; optical tension; biomorphic forms; rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Distorting control labels and turning all layout into noise."
+    },
+    "sha256": "e73547b15ff047eab2e5328a200b791958d73e178cbeeadaa4083b2ee988b273",
+    "width": 1440,
+    "height": 960
+  }
+]

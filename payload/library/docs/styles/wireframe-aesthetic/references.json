@@ -1,0 +1,65 @@
+[
+  {
+    "id": "wireframe-aesthetic-1",
+    "title": "Product studio: Public page",
+    "image": "images/wireframe-aesthetic/example-01.png",
+    "html": "images/wireframe-aesthetic/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Edges; implied faces; coherent projection; light lines; clean base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding thousands of lines that communicate no structure."
+    },
+    "sha256": "a5890e40d51ab59785718b5c9d52fc6bd34da6b49dbac0b78032c270ddd20e6f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "wireframe-aesthetic-2",
+    "title": "Modeling museum: Product workspace",
+    "image": "images/wireframe-aesthetic/example-02.png",
+    "html": "images/wireframe-aesthetic/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Edges; implied faces; coherent projection; light lines; clean base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding thousands of lines that communicate no structure."
+    },
+    "sha256": "d50108cdc9daddaac6532b59b5d6a6637855cdad5aca3d5cda74d829f85fcd79",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "wireframe-aesthetic-3",
+    "title": "Spatial research: Editorial composition",
+    "image": "images/wireframe-aesthetic/example-03.png",
+    "html": "images/wireframe-aesthetic/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Edges; implied faces; coherent projection; light lines; clean base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding thousands of lines that communicate no structure."
+    },
+    "sha256": "262a4ae158eefae9703d6d956c380f906e61ded20ae5af3cba1b19b120bd02d9",
+    "width": 1440,
+    "height": 960
+  }
+]

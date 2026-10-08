@@ -1,0 +1,65 @@
+[
+  {
+    "id": "modernism-1",
+    "title": "Research institute: Public page",
+    "image": "images/modernism/example-01.png",
+    "html": "images/modernism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Formal economy; proportion; legibility; task-appropriate forms.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assigning one palette or founder to all modernism."
+    },
+    "sha256": "516c692f859765539b455de7fa6e61738209fb067331229fe6631727da80334b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "modernism-2",
+    "title": "Object catalog: Product workspace",
+    "image": "images/modernism/example-02.png",
+    "html": "images/modernism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Formal economy; proportion; legibility; task-appropriate forms.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assigning one palette or founder to all modernism."
+    },
+    "sha256": "8671396a9b7f37adc3d1fd9139af99ebb548c01237c0fd3321ea4e756e9eb93f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "modernism-3",
+    "title": "Education portal: Editorial composition",
+    "image": "images/modernism/example-03.png",
+    "html": "images/modernism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Formal economy; proportion; legibility; task-appropriate forms.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assigning one palette or founder to all modernism."
+    },
+    "sha256": "4e1ebdbadb0d76a206386d15c928889c4043e3cae549c78808cb4ff1b7368565",
+    "width": 1440,
+    "height": 960
+  }
+]

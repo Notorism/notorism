@@ -1,0 +1,65 @@
+[
+  {
+    "id": "magnetic-ui-1",
+    "title": "Creative studio: Public page",
+    "image": "images/magnetic-ui/example-01.png",
+    "html": "images/magnetic-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Limited displacement; stable hit target; smooth return; precise-pointer activation.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving the hit target away from the person or blocking keyboard use."
+    },
+    "sha256": "8d2e7e102fc75905d63028417c84d2c317aa1c7f5a38e12baf2f1745132815b4",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "magnetic-ui-2",
+    "title": "Interaction portfolio: Product workspace",
+    "image": "images/magnetic-ui/example-02.png",
+    "html": "images/magnetic-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Limited displacement; stable hit target; smooth return; precise-pointer activation.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving the hit target away from the person or blocking keyboard use."
+    },
+    "sha256": "fed957f23cb664b602967aa6492f68b93de787d92f4011752db07795f4abe8f4",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "magnetic-ui-3",
+    "title": "Design festival: Editorial composition",
+    "image": "images/magnetic-ui/example-03.png",
+    "html": "images/magnetic-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Limited displacement; stable hit target; smooth return; precise-pointer activation.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Moving the hit target away from the person or blocking keyboard use."
+    },
+    "sha256": "1177da2a3a4319a81887cfc6ecd1b5b5c371656faf79f7cf6c384718a9803f5a",
+    "width": 1440,
+    "height": 960
+  }
+]

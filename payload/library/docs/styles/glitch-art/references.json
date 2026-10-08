@@ -1,0 +1,65 @@
+[
+  {
+    "id": "glitch-art-1",
+    "title": "Video festival: Public page",
+    "image": "images/glitch-art/example-01.png",
+    "html": "images/glitch-art/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Controlled displacement; bands; cuts; brief interruption; intact base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making functional text appear corrupted or using intense flashes."
+    },
+    "sha256": "e7befe15b5853cc7e2c8d36b0765c81ca114d3d7661eb4674380521171fd6dd1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "glitch-art-2",
+    "title": "Media gallery: Product workspace",
+    "image": "images/glitch-art/example-02.png",
+    "html": "images/glitch-art/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Controlled displacement; bands; cuts; brief interruption; intact base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making functional text appear corrupted or using intense flashes."
+    },
+    "sha256": "41b40915a268ca730f07aa68719ffb6320876481e2069c47f235d5fa07c9e136",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "glitch-art-3",
+    "title": "Sound portfolio: Editorial composition",
+    "image": "images/glitch-art/example-03.png",
+    "html": "images/glitch-art/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Controlled displacement; bands; cuts; brief interruption; intact base.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making functional text appear corrupted or using intense flashes."
+    },
+    "sha256": "7343129d4b937e466e918d3742ac9999cc7676444cf86b7f3b3a5e23a908b98b",
+    "width": 1440,
+    "height": 960
+  }
+]

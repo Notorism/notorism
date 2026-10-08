@@ -1,0 +1,65 @@
+[
+  {
+    "id": "flat-design-2-0-1",
+    "title": "Room booking: Public page",
+    "image": "images/flat-design-2-0/example-01.png",
+    "html": "images/flat-design-2-0/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Simple planes; restrained layer shadows; clear states; consistent icons.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reintroducing decoration with no relationship to elevation."
+    },
+    "sha256": "c30d718eac1e62bf0063673ccf2c274f2ca09dceda6029ec481c7a613e9f070b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "flat-design-2-0-2",
+    "title": "Delivery management: Product workspace",
+    "image": "images/flat-design-2-0/example-02.png",
+    "html": "images/flat-design-2-0/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Simple planes; restrained layer shadows; clear states; consistent icons.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reintroducing decoration with no relationship to elevation."
+    },
+    "sha256": "d9e53c3e3fc37c0d0e5d4b5ef8ce748646c7cf95d5495b7485bf51b7d09e57cc",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "flat-design-2-0-3",
+    "title": "Service directory: Editorial composition",
+    "image": "images/flat-design-2-0/example-03.png",
+    "html": "images/flat-design-2-0/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Simple planes; restrained layer shadows; clear states; consistent icons.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Reintroducing decoration with no relationship to elevation."
+    },
+    "sha256": "d68da4858d306109e63eca1dbdca5f10208114448e1d52b8a7b86847b74d3511",
+    "width": 1440,
+    "height": 960
+  }
+]

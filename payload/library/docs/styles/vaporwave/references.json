@@ -1,0 +1,65 @@
+[
+  {
+    "id": "vaporwave-1",
+    "title": "Music archive: Public page",
+    "image": "images/vaporwave/example-01.png",
+    "html": "images/vaporwave/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Pink-violet color; digital ruins; grids; displacement; critical nostalgia.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using statues and Japanese characters as context-free accessories."
+    },
+    "sha256": "cf6660a9c187662c1947f0c3e1249c9d27af6c421260ba700f0ae0f35bdc9b8f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "vaporwave-2",
+    "title": "Digital exhibition: Product workspace",
+    "image": "images/vaporwave/example-02.png",
+    "html": "images/vaporwave/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Pink-violet color; digital ruins; grids; displacement; critical nostalgia.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using statues and Japanese characters as context-free accessories."
+    },
+    "sha256": "515168ed1f4b6f9338b2b1231ee36ef35bd02f63bf33d817e353bcbf400c2f6e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "vaporwave-3",
+    "title": "Edition shop: Editorial composition",
+    "image": "images/vaporwave/example-03.png",
+    "html": "images/vaporwave/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Pink-violet color; digital ruins; grids; displacement; critical nostalgia.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using statues and Japanese characters as context-free accessories."
+    },
+    "sha256": "948b76d6eebf2dfac0b29623d6b2ea8f391b88943ece453f0b91ba071b5e0eea",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "horizontal-scrolling-1",
+    "title": "Scenery gallery: Public page",
+    "image": "images/horizontal-scrolling/example-01.png",
+    "html": "images/horizontal-scrolling/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Panoramic sequence; visible position; controls; keyboard routes; vertical alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Capturing the mouse wheel and obstructing ordinary navigation."
+    },
+    "sha256": "623bcabd8c8fe48eae983fb154c9dfe33ab1ad5cd6e12d9f270b938eb744272a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "horizontal-scrolling-2",
+    "title": "Project timeline: Product workspace",
+    "image": "images/horizontal-scrolling/example-02.png",
+    "html": "images/horizontal-scrolling/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Panoramic sequence; visible position; controls; keyboard routes; vertical alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Capturing the mouse wheel and obstructing ordinary navigation."
+    },
+    "sha256": "d965a63cb7197af8882631ca34808b56c1af2e23ca3b1baf36f3f8e77ccf539e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "horizontal-scrolling-3",
+    "title": "Panorama archive: Editorial composition",
+    "image": "images/horizontal-scrolling/example-03.png",
+    "html": "images/horizontal-scrolling/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Panoramic sequence; visible position; controls; keyboard routes; vertical alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Capturing the mouse wheel and obstructing ordinary navigation."
+    },
+    "sha256": "fa6c90a6c00b6d34da63d5c468bcdf9ab7b01ac1a4d5ef2556a7c36bfbc6fdc0",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cyberpunk-ui-1",
+    "title": "Fiction festival: Public page",
+    "image": "images/cyberpunk-ui/example-01.png",
+    "html": "images/cyberpunk-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Selective neon; nocturnal base; informative layers; limited glitch; contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing alarms, coordinates, and gauges with no function."
+    },
+    "sha256": "1ad3094006b5bd888292dbbee5c80f0709181283520cf8279263e11496a2ac21",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "cyberpunk-ui-2",
+    "title": "Narrative game: Product workspace",
+    "image": "images/cyberpunk-ui/example-02.png",
+    "html": "images/cyberpunk-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Selective neon; nocturnal base; informative layers; limited glitch; contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing alarms, coordinates, and gauges with no function."
+    },
+    "sha256": "9ef627dc3417e1d0f542dc27618499506e1ade63b831e91718fa9eabb4a3dcd0",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "cyberpunk-ui-3",
+    "title": "Audiovisual laboratory: Editorial composition",
+    "image": "images/cyberpunk-ui/example-03.png",
+    "html": "images/cyberpunk-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Selective neon; nocturnal base; informative layers; limited glitch; contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing alarms, coordinates, and gauges with no function."
+    },
+    "sha256": "9599ffbeed7f6e912c8e728ab17cf6fb9677cc2c9660bdd25a74fab26711fa6b",
+    "width": 1440,
+    "height": 960
+  }
+]

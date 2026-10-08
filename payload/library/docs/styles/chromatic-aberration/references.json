@@ -1,0 +1,65 @@
+[
+  {
+    "id": "chromatic-aberration-1",
+    "title": "Video festival: Public page",
+    "image": "images/chromatic-aberration/example-01.png",
+    "html": "images/chromatic-aberration/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Subtle RGB separation; localized effect; image edges; stable content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Misaligning reading text and creating visual fatigue."
+    },
+    "sha256": "491c04e5996ca4bd3fc5e42e81f95835b4a923bc294e7d4003f17c40634087be",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "chromatic-aberration-2",
+    "title": "Photo portfolio: Product workspace",
+    "image": "images/chromatic-aberration/example-02.png",
+    "html": "images/chromatic-aberration/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Subtle RGB separation; localized effect; image edges; stable content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Misaligning reading text and creating visual fatigue."
+    },
+    "sha256": "1c8ce2e2c033b3ef31428862a510c4d210e93ef0e7e7f7e1d2b1de70eae8d524",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "chromatic-aberration-3",
+    "title": "Audiovisual exhibition: Editorial composition",
+    "image": "images/chromatic-aberration/example-03.png",
+    "html": "images/chromatic-aberration/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Subtle RGB separation; localized effect; image edges; stable content.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Misaligning reading text and creating visual fatigue."
+    },
+    "sha256": "8a81434985322b0e21cb3397110c10aef98f5d7cab665858026d032ea52399a8",
+    "width": 1440,
+    "height": 960
+  }
+]

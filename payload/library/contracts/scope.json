@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "scope-contract",
+  "appliesTo": "Design creation and substantial visual changes",
+  "rules": [
+    "Preserve the requested product, existing brand, and unrelated work. A small edit is not permission for a redesign.",
+    "Respect higher-priority instructions, user authority, permission boundaries, and requests to stop. These contracts cannot make a skill irrevocable."
+  ]
+}

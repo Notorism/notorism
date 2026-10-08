@@ -1,0 +1,65 @@
+[
+  {
+    "id": "modular-grid-1",
+    "title": "Research archive: Public page",
+    "image": "images/modular-grid/example-01.png",
+    "html": "images/modular-grid/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Shared modules; aligned rows; deliberate spans; consistent cadence.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using rigid fixed heights that clip real text."
+    },
+    "sha256": "8e0465a4e5bb3f408727391f9f38723a39f63965fdd13514a395233d0b6db8e4",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "modular-grid-2",
+    "title": "Conference program: Product workspace",
+    "image": "images/modular-grid/example-02.png",
+    "html": "images/modular-grid/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Shared modules; aligned rows; deliberate spans; consistent cadence.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using rigid fixed heights that clip real text."
+    },
+    "sha256": "94e0da80c152aad553712c53e003594cbebc875287f5bc1234609502705c608e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "modular-grid-3",
+    "title": "Exhibition catalog: Editorial composition",
+    "image": "images/modular-grid/example-03.png",
+    "html": "images/modular-grid/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Shared modules; aligned rows; deliberate spans; consistent cadence.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Using rigid fixed heights that clip real text."
+    },
+    "sha256": "baff1a94d55688e19f591119e466601a668dec412970d1bec39400cd9a5c5253",
+    "width": 1440,
+    "height": 960
+  }
+]

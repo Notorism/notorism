@@ -1,0 +1,65 @@
+[
+  {
+    "id": "biophilic-design-1",
+    "title": "Nature reserve: Public page",
+    "image": "images/biophilic-design/example-01.png",
+    "html": "images/biophilic-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Natural light; plants; materials; landscape colors; breathable rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding leaves and promising unproven health benefits."
+    },
+    "sha256": "835238d92cfd1661dece3aa4034cd055edf6a8593383f1130674a2de7a7abd50",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "biophilic-design-2",
+    "title": "Trail planner: Product workspace",
+    "image": "images/biophilic-design/example-02.png",
+    "html": "images/biophilic-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Natural light; plants; materials; landscape colors; breathable rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding leaves and promising unproven health benefits."
+    },
+    "sha256": "4b7193ed80ca961cfd4acf59292379911575a262fc6aa035d53f93e433eb0f3e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "biophilic-design-3",
+    "title": "Garden architecture: Editorial composition",
+    "image": "images/biophilic-design/example-03.png",
+    "html": "images/biophilic-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Natural light; plants; materials; landscape colors; breathable rhythm.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Adding leaves and promising unproven health benefits."
+    },
+    "sha256": "cec351090ad5753393f3e73d1552cd16227c0610afd4110ff5146a2caa2a15ce",
+    "width": 1440,
+    "height": 960
+  }
+]

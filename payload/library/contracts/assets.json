@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "assets-contract",
+  "appliesTo": "Images, icons, illustration, and motion",
+  "rules": [
+    "Use imagery to explain the actual subject and keep asset provenance and permission clear. The original reference studies are teaching examples, not real-client screenshots.",
+    "Keep icons consistent and recognizable, with text labels for ambiguous actions. Provide accessible alternatives and respect reduced-motion preferences."
+  ]
+}

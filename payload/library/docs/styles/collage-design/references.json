@@ -1,0 +1,65 @@
+[
+  {
+    "id": "collage-design-1",
+    "title": "Territory magazine: Public page",
+    "image": "images/collage-design/example-01.png",
+    "html": "images/collage-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Cutouts; overlaps; material differences; connections; anchored text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing images with no narrative or recorded origin."
+    },
+    "sha256": "ee5f1e33eb65929d739827433723575a08f05286f7dcecb4b316ead9092fc2ab",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "collage-design-2",
+    "title": "Image workshop: Product workspace",
+    "image": "images/collage-design/example-02.png",
+    "html": "images/collage-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Cutouts; overlaps; material differences; connections; anchored text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing images with no narrative or recorded origin."
+    },
+    "sha256": "f21b91ed245ca559c5da38fcedfdbe75791c0245f48a34329c86a8490ea5e533",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "collage-design-3",
+    "title": "Cultural festival: Editorial composition",
+    "image": "images/collage-design/example-03.png",
+    "html": "images/collage-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Cutouts; overlaps; material differences; connections; anchored text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing images with no narrative or recorded origin."
+    },
+    "sha256": "bdcf3948cb5a2cc97cb2a721e638195e4388ebe5736baef03b696b81c3f2bfb7",
+    "width": 1440,
+    "height": 960
+  }
+]

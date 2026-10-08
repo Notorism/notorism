@@ -1,0 +1,65 @@
+[
+  {
+    "id": "neumorphism-1",
+    "title": "Home controls: Public page",
+    "image": "images/neumorphism/example-01.png",
+    "html": "images/neumorphism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Paired light and dark shadows; shared base; convex and inset relief; state expressed by form.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making controls too low-contrast or states indistinguishable."
+    },
+    "sha256": "ace83a17501e2aaa7c7e6860fbddea60364fe551f37400a2d649533a7bc066e2",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neumorphism-2",
+    "title": "Focus timer: Product workspace",
+    "image": "images/neumorphism/example-02.png",
+    "html": "images/neumorphism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Paired light and dark shadows; shared base; convex and inset relief; state expressed by form.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making controls too low-contrast or states indistinguishable."
+    },
+    "sha256": "e9f2f1c6df27d84a35ed9cecd42d65660e0d5c975e8428f12e9c9bef69e24b9a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neumorphism-3",
+    "title": "Lighting console: Editorial composition",
+    "image": "images/neumorphism/example-03.png",
+    "html": "images/neumorphism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Paired light and dark shadows; shared base; convex and inset relief; state expressed by form.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Making controls too low-contrast or states indistinguishable."
+    },
+    "sha256": "3fcc22dee478032c18f91cf01d1a4f659d3361087e3587efa633ec12a46a130e",
+    "width": 1440,
+    "height": 960
+  }
+]

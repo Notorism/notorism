@@ -1,0 +1,65 @@
+[
+  {
+    "id": "film-grain-1",
+    "title": "Cinema exhibition: Public page",
+    "image": "images/film-grain/example-01.png",
+    "html": "images/film-grain/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Fine grain; low intensity; image-local treatment; preserved contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering body text and controls with heavy noise."
+    },
+    "sha256": "906e4c6c198d22c1df4a0e564fb4bb4668593a16b485ce04c5ddd892ec837157",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "film-grain-2",
+    "title": "Photo archive: Product workspace",
+    "image": "images/film-grain/example-02.png",
+    "html": "images/film-grain/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Fine grain; low intensity; image-local treatment; preserved contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering body text and controls with heavy noise."
+    },
+    "sha256": "692ba8eef307261b82150fda1e40b6794b844db8e177f55f3a2551f728452bd6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "film-grain-3",
+    "title": "Travel journal: Editorial composition",
+    "image": "images/film-grain/example-03.png",
+    "html": "images/film-grain/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Fine grain; low intensity; image-local treatment; preserved contrast.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Covering body text and controls with heavy noise."
+    },
+    "sha256": "bdde70fb26487637d37e10b198447c52b9f73ee23ed9551325d7c0c211c1e5c6",
+    "width": 1440,
+    "height": 960
+  }
+]

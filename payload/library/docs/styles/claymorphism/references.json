@@ -1,0 +1,65 @@
+[
+  {
+    "id": "claymorphism-1",
+    "title": "Modeling course: Public page",
+    "image": "images/claymorphism/example-01.png",
+    "html": "images/claymorphism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Soft volumes; pastel color; inner shading; generous curves; objects with visual weight.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Infantilizing a serious service or leaving buttons unlabeled."
+    },
+    "sha256": "d8440ae3815e64e4ef1b044086fbf91ddd849aa4e44a87747b89045e0e7145c9",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "claymorphism-2",
+    "title": "Children’s activity planner: Product workspace",
+    "image": "images/claymorphism/example-02.png",
+    "html": "images/claymorphism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Soft volumes; pastel color; inner shading; generous curves; objects with visual weight.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Infantilizing a serious service or leaving buttons unlabeled."
+    },
+    "sha256": "2558099aab6218f6911bf11e83d0811879227939002733bab2c2dc8e5f706ae8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "claymorphism-3",
+    "title": "Toy store: Editorial composition",
+    "image": "images/claymorphism/example-03.png",
+    "html": "images/claymorphism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Soft volumes; pastel color; inner shading; generous curves; objects with visual weight.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Infantilizing a serious service or leaving buttons unlabeled."
+    },
+    "sha256": "caf59eccf45ea23f98603eb97cba25abcc81c903ab97d977d55a8fe7662608e8",
+    "width": 1440,
+    "height": 960
+  }
+]

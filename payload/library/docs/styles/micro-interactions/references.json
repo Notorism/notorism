@@ -1,0 +1,65 @@
+[
+  {
+    "id": "micro-interactions-1",
+    "title": "Task list: Public page",
+    "image": "images/micro-interactions/example-01.png",
+    "html": "images/micro-interactions/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Immediate feedback; state change; short duration; consistent responses by function.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating unrelated to action or confusing success with loading."
+    },
+    "sha256": "ef8ff17039dd56da3bc0ddae3404a6db56a3c591ac515fab691753bab94ff6da",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "micro-interactions-2",
+    "title": "Appointment planner: Product workspace",
+    "image": "images/micro-interactions/example-02.png",
+    "html": "images/micro-interactions/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Immediate feedback; state change; short duration; consistent responses by function.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating unrelated to action or confusing success with loading."
+    },
+    "sha256": "484360eb036aba10b3064f4e9a95b17cf430c4a5a3ec78612a4694a2d3eb27c8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "micro-interactions-3",
+    "title": "Favorite library: Editorial composition",
+    "image": "images/micro-interactions/example-03.png",
+    "html": "images/micro-interactions/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Immediate feedback; state change; short duration; consistent responses by function.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Animating unrelated to action or confusing success with loading."
+    },
+    "sha256": "476d153075113730e4e614fd74a45096ea9db58f50a19296317ae08b117b01e9",
+    "width": 1440,
+    "height": 960
+  }
+]

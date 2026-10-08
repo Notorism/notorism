@@ -1,0 +1,65 @@
+[
+  {
+    "id": "interactive-cursor-1",
+    "title": "Visual portfolio: Public page",
+    "image": "images/interactive-cursor/example-01.png",
+    "html": "images/interactive-cursor/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Contextual pointer; restrained displacement; labeled actions; native behavior.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding the native pointer or creating touch-inaccessible interaction."
+    },
+    "sha256": "188488ebb47530d975091e2bde40708b3db2a17acbc0eead56ad6ff83c93eb25",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "interactive-cursor-2",
+    "title": "Object gallery: Product workspace",
+    "image": "images/interactive-cursor/example-02.png",
+    "html": "images/interactive-cursor/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Contextual pointer; restrained displacement; labeled actions; native behavior.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding the native pointer or creating touch-inaccessible interaction."
+    },
+    "sha256": "8fd080e8133f87c820572a499641ed38f7c2e80c7a9d29c3088dba1230b04399",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "interactive-cursor-3",
+    "title": "Digital exhibition: Editorial composition",
+    "image": "images/interactive-cursor/example-03.png",
+    "html": "images/interactive-cursor/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Contextual pointer; restrained displacement; labeled actions; native behavior.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Hiding the native pointer or creating touch-inaccessible interaction."
+    },
+    "sha256": "1d29b6112f9519ae3564efbe5b61c19e2d5ed1d2d9d1bb67840fc338b6781c90",
+    "width": 1440,
+    "height": 960
+  }
+]

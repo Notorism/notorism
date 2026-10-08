@@ -1,0 +1,65 @@
+[
+  {
+    "id": "neo-brutalism-1",
+    "title": "Creative workshop: Public page",
+    "image": "images/neo-brutalism/example-01.png",
+    "html": "images/neo-brutalism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Thick outlines; offset shadows without blur; flat color; explicit controls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting hard shadows on every level and flattening hierarchy."
+    },
+    "sha256": "f5a2bcf67581713999e3238c8ba5f35f22d59d1764e11cfaf2492ccdf5103121",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neo-brutalism-2",
+    "title": "Tool library: Product workspace",
+    "image": "images/neo-brutalism/example-02.png",
+    "html": "images/neo-brutalism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Thick outlines; offset shadows without blur; flat color; explicit controls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting hard shadows on every level and flattening hierarchy."
+    },
+    "sha256": "1fb11ce71af75fad1c674f26d3a9a35dffd121a5fdbc2867969c36c9af23c32c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "neo-brutalism-3",
+    "title": "Illustration club: Editorial composition",
+    "image": "images/neo-brutalism/example-03.png",
+    "html": "images/neo-brutalism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Thick outlines; offset shadows without blur; flat color; explicit controls.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting hard shadows on every level and flattening hierarchy."
+    },
+    "sha256": "ba944b07c58adb65b8585fc99f7f2822392e5303aeeafbc7414fbb9d2b8a775c",
+    "width": 1440,
+    "height": 960
+  }
+]

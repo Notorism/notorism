@@ -1,0 +1,65 @@
+[
+  {
+    "id": "minimalism-1",
+    "title": "Ceramics studio: Public page",
+    "image": "images/minimalism/example-01.png",
+    "html": "images/minimalism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "One dominant action; negative space; few type families; precise details.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Removing labels and necessary signifiers to appear clean."
+    },
+    "sha256": "867aa5d411822a462461a76f1cda5fc480e967d2d97746da2397f3b03599e4a6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "minimalism-2",
+    "title": "Appointment planner: Product workspace",
+    "image": "images/minimalism/example-02.png",
+    "html": "images/minimalism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "One dominant action; negative space; few type families; precise details.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Removing labels and necessary signifiers to appear clean."
+    },
+    "sha256": "e92fe41995259070e16956f6093ea340226766ba5ad289ba94942dc90c0ffa9a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "minimalism-3",
+    "title": "Photography gallery: Editorial composition",
+    "image": "images/minimalism/example-03.png",
+    "html": "images/minimalism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "One dominant action; negative space; few type families; precise details.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Removing labels and necessary signifiers to appear clean."
+    },
+    "sha256": "89350b42e6142be4e6e2fe657781f6d5dfe120b5a8592b38cf418d0d1e80bf1a",
+    "width": 1440,
+    "height": 960
+  }
+]

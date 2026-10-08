@@ -1,0 +1,65 @@
+[
+  {
+    "id": "frutiger-metro-1",
+    "title": "Community radio: Public page",
+    "image": "images/frutiger-metro/example-01.png",
+    "html": "images/frutiger-metro/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Silhouettes; curves; color fields; vectors; urban graphics.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting Aero-style glass realism into every flat plane."
+    },
+    "sha256": "87b3698723c99766a6ea2bbeeca82d78ad39e0c63e2e166bf8c32fd9e82b94cb",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "frutiger-metro-2",
+    "title": "Urban festival: Product workspace",
+    "image": "images/frutiger-metro/example-02.png",
+    "html": "images/frutiger-metro/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Silhouettes; curves; color fields; vectors; urban graphics.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting Aero-style glass realism into every flat plane."
+    },
+    "sha256": "e0e992a282b40ee75493dca8e3cdf678017bd9aa08d151c1c981908f6b9e9690",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "frutiger-metro-3",
+    "title": "Transit calendar: Editorial composition",
+    "image": "images/frutiger-metro/example-03.png",
+    "html": "images/frutiger-metro/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Silhouettes; curves; color fields; vectors; urban graphics.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Putting Aero-style glass realism into every flat plane."
+    },
+    "sha256": "fef0d5fccfb440e2879eab3f5ce00bff7b5f93bfafbf741f50f1a398e86e36e4",
+    "width": 1440,
+    "height": 960
+  }
+]

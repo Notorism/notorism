@@ -1,0 +1,65 @@
+[
+  {
+    "id": "card-based-design-1",
+    "title": "Course catalog: Public page",
+    "image": "images/card-based-design/example-01.png",
+    "html": "images/card-based-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Autonomous units; shared anatomy; clear headings; object-level action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning continuous prose or every paragraph into a card."
+    },
+    "sha256": "044b9ae77a7204f21a449a410d9d8e61a084bf3febc92d167f89829392ad0d8b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "card-based-design-2",
+    "title": "Accommodation list: Product workspace",
+    "image": "images/card-based-design/example-02.png",
+    "html": "images/card-based-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Autonomous units; shared anatomy; clear headings; object-level action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning continuous prose or every paragraph into a card."
+    },
+    "sha256": "fa178898bc60db3ae3d6864ebc85f4f08534df3b567f56eeff4138b4457a322e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "card-based-design-3",
+    "title": "Cultural calendar: Editorial composition",
+    "image": "images/card-based-design/example-03.png",
+    "html": "images/card-based-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Autonomous units; shared anatomy; clear headings; object-level action.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning continuous prose or every paragraph into a card."
+    },
+    "sha256": "63776192abdafdcfd690019bfa5ae16de1f0d3a634bb1c418ded90384634b29f",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "line-art-1",
+    "title": "Botanical gallery: Public page",
+    "image": "images/line-art/example-01.png",
+    "html": "images/line-art/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Contours; economical strokes; weight hierarchy; clear internal space.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Arbitrary stroke mixtures or unreadable detail."
+    },
+    "sha256": "f83ae92d926c1380dacf5383879f6b36818d099830f8f90c726f172699c9af3f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "line-art-2",
+    "title": "Object catalog: Product workspace",
+    "image": "images/line-art/example-02.png",
+    "html": "images/line-art/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Contours; economical strokes; weight hierarchy; clear internal space.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Arbitrary stroke mixtures or unreadable detail."
+    },
+    "sha256": "f4257ffc601b1dd52bdca558affffa55156f459a19f01ece4e552b1980546834",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "line-art-3",
+    "title": "Interior guide: Editorial composition",
+    "image": "images/line-art/example-03.png",
+    "html": "images/line-art/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Contours; economical strokes; weight hierarchy; clear internal space.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Arbitrary stroke mixtures or unreadable detail."
+    },
+    "sha256": "259beedab58ee248b9940b761e6df1fad2a2232c66385b9e52c4707d4f5f0dc1",
+    "width": 1440,
+    "height": 960
+  }
+]

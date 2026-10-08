@@ -1,0 +1,65 @@
+[
+  {
+    "id": "frutiger-aero-1",
+    "title": "Weather service: Public page",
+    "image": "images/frutiger-aero/example-01.png",
+    "html": "images/frutiger-aero/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Water; glossy glass; sky; vegetation; soft reflections.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Attributing authorship to Adrian Frutiger because of the label."
+    },
+    "sha256": "d296fd865a9acdb514d53609c214f7ad00fb487a337e255e618f7f902be509a5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "frutiger-aero-2",
+    "title": "Water catalog: Product workspace",
+    "image": "images/frutiger-aero/example-02.png",
+    "html": "images/frutiger-aero/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Water; glossy glass; sky; vegetation; soft reflections.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Attributing authorship to Adrian Frutiger because of the label."
+    },
+    "sha256": "dfd0d9f3d186117f46be78beb444c031cac1defd5484386a4fdd0ff8f16d86c4",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "frutiger-aero-3",
+    "title": "Technology center: Editorial composition",
+    "image": "images/frutiger-aero/example-03.png",
+    "html": "images/frutiger-aero/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Water; glossy glass; sky; vegetation; soft reflections.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Attributing authorship to Adrian Frutiger because of the label."
+    },
+    "sha256": "c7b40300ef797c5f4c3e084f8b5d18c0140a42d1fb0a8ee77100cfc7057242e2",
+    "width": 1440,
+    "height": 960
+  }
+]

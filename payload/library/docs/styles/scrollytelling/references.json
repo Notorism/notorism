@@ -1,0 +1,65 @@
+[
+  {
+    "id": "scrollytelling-1",
+    "title": "River history: Public page",
+    "image": "images/scrollytelling/example-01.png",
+    "html": "images/scrollytelling/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Chapters; anchors; persistent context; causal transitions; linear alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Requiring precise gestures to reveal essential information."
+    },
+    "sha256": "876ac28bb583f20b8002fda4bccc9bdf272121f57abbb90742e4465c5d0b6bdf",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scrollytelling-2",
+    "title": "Territory research: Product workspace",
+    "image": "images/scrollytelling/example-02.png",
+    "html": "images/scrollytelling/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Chapters; anchors; persistent context; causal transitions; linear alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Requiring precise gestures to reveal essential information."
+    },
+    "sha256": "650a9289ea477e8355c45b3d56660825669a71d19716d1b98bc788d8504d4fb6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scrollytelling-3",
+    "title": "Documentary essay: Editorial composition",
+    "image": "images/scrollytelling/example-03.png",
+    "html": "images/scrollytelling/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Chapters; anchors; persistent context; causal transitions; linear alternative.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Requiring precise gestures to reveal essential information."
+    },
+    "sha256": "4e01169ec488d753c5c268acf138296c8e43a7dd1a6da986d10fe1c1b49d5415",
+    "width": 1440,
+    "height": 960
+  }
+]

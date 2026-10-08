@@ -1,0 +1,65 @@
+[
+  {
+    "id": "art-deco-1",
+    "title": "Historic hotel: Public page",
+    "image": "images/art-deco/example-01.png",
+    "html": "images/art-deco/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Symmetry; stepped lines; frames; elongated proportions; metal accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming gold on black automatically communicates luxury."
+    },
+    "sha256": "cf929504cacbea6ce9e3a2cbb7bc8b66977fbc68f2cabb84c688d5dae07a1bf6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "art-deco-2",
+    "title": "Cinema program: Product workspace",
+    "image": "images/art-deco/example-02.png",
+    "html": "images/art-deco/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Symmetry; stepped lines; frames; elongated proportions; metal accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming gold on black automatically communicates luxury."
+    },
+    "sha256": "042587ba1004bd3aa6e795800ac14536439a678672f86fe2dd2dad7dddaaf395",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "art-deco-3",
+    "title": "Independent jewelry: Editorial composition",
+    "image": "images/art-deco/example-03.png",
+    "html": "images/art-deco/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Symmetry; stepped lines; frames; elongated proportions; metal accents.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming gold on black automatically communicates luxury."
+    },
+    "sha256": "e7ad29d7169c7e214869cc67ea30aebf7b8d72dd798adc5756456fc0d93a4862",
+    "width": 1440,
+    "height": 960
+  }
+]

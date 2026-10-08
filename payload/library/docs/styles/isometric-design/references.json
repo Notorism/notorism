@@ -1,0 +1,65 @@
+[
+  {
+    "id": "isometric-design-1",
+    "title": "Campus map: Public page",
+    "image": "images/isometric-design/example-01.png",
+    "html": "images/isometric-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Consistent axes; uniformly lit faces; modular alignment; spatial diagrams.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing incompatible projections or adding unexplained volume."
+    },
+    "sha256": "3a313fc19d2e9a4e21f989ee7e2c244585ab38bbb53183c26ad7342bbac49d3c",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "isometric-design-2",
+    "title": "Warehouse logistics: Product workspace",
+    "image": "images/isometric-design/example-02.png",
+    "html": "images/isometric-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Consistent axes; uniformly lit faces; modular alignment; spatial diagrams.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing incompatible projections or adding unexplained volume."
+    },
+    "sha256": "308fcc190afbb360d7d08a20e36d05e9dd8172b96f9fc053de6823898fbdf512",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "isometric-design-3",
+    "title": "Infrastructure guide: Editorial composition",
+    "image": "images/isometric-design/example-03.png",
+    "html": "images/isometric-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Consistent axes; uniformly lit faces; modular alignment; spatial diagrams.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing incompatible projections or adding unexplained volume."
+    },
+    "sha256": "0f7a351e2568bb94a38857e264904ed7ccde20904b8fc7170619666dc701e1e1",
+    "width": 1440,
+    "height": 960
+  }
+]

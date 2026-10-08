@@ -1,0 +1,65 @@
+[
+  {
+    "id": "scroll-driven-animation-1",
+    "title": "Object history: Public page",
+    "image": "images/scroll-driven-animation/example-01.png",
+    "html": "images/scroll-driven-animation/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Scroll-linked progress; fallback; visible content; measurable states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming universal support or requiring animation for comprehension."
+    },
+    "sha256": "a825e4d4c3813191e4d11f41075a75e4c83e88acea3b7b5ca737f3fb67780066",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scroll-driven-animation-2",
+    "title": "Territory research: Product workspace",
+    "image": "images/scroll-driven-animation/example-02.png",
+    "html": "images/scroll-driven-animation/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Scroll-linked progress; fallback; visible content; measurable states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming universal support or requiring animation for comprehension."
+    },
+    "sha256": "25eacd224d7c27bce42f00cf9fe963e13302e254783481ce40b4d0bee79ade0f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "scroll-driven-animation-3",
+    "title": "Visual report: Editorial composition",
+    "image": "images/scroll-driven-animation/example-03.png",
+    "html": "images/scroll-driven-animation/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Scroll-linked progress; fallback; visible content; measurable states.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Assuming universal support or requiring animation for comprehension."
+    },
+    "sha256": "e1490651d0ab7745a5b3d0d281607bfe366fc1a04c1ddedcb42d5ea211c5641d",
+    "width": 1440,
+    "height": 960
+  }
+]

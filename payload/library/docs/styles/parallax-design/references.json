@@ -1,0 +1,65 @@
+[
+  {
+    "id": "parallax-design-1",
+    "title": "Landscape story: Public page",
+    "image": "images/parallax-design/example-01.png",
+    "html": "images/parallax-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Related speeds; layers; low amplitude; fixed content; optional movement.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Intense motion, scroll capture, or displacement-induced discomfort."
+    },
+    "sha256": "9c81208f467f299c93f4a634f107101c0e4121eb7a126352e549e9d7ac996137",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "parallax-design-2",
+    "title": "Scenery exhibition: Product workspace",
+    "image": "images/parallax-design/example-02.png",
+    "html": "images/parallax-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Related speeds; layers; low amplitude; fixed content; optional movement.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Intense motion, scroll capture, or displacement-induced discomfort."
+    },
+    "sha256": "23568eac68c402b6521aef081f6bd3d4f4c3b556165f1a4aee2baae1e3fa46e5",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "parallax-design-3",
+    "title": "Travel essay: Editorial composition",
+    "image": "images/parallax-design/example-03.png",
+    "html": "images/parallax-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Related speeds; layers; low amplitude; fixed content; optional movement.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Intense motion, scroll capture, or displacement-induced discomfort."
+    },
+    "sha256": "6d1de51fd6308f49b625168978fe1f81b7981612aa78a89a163e685c4a2b3b90",
+    "width": 1440,
+    "height": 960
+  }
+]

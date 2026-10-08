@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gradient-design-1",
+    "title": "Color catalog: Public page",
+    "image": "images/gradient-design/example-01.png",
+    "html": "images/gradient-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Directed transitions; defined stops; region-by-region contrast; purpose.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "A generic gradient in every hero without a content relationship."
+    },
+    "sha256": "78afe4e791bbb9eae607a20ed182d927e3641eaf37160d072c5edcb1ec6bb32e",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gradient-design-2",
+    "title": "Textile brand: Product workspace",
+    "image": "images/gradient-design/example-02.png",
+    "html": "images/gradient-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Directed transitions; defined stops; region-by-region contrast; purpose.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "A generic gradient in every hero without a content relationship."
+    },
+    "sha256": "322e5ae640e7bf21cd88bee9c929f3234e3a64aa356cc0e447eeb3c884da2921",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gradient-design-3",
+    "title": "Light exhibition: Editorial composition",
+    "image": "images/gradient-design/example-03.png",
+    "html": "images/gradient-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Directed transitions; defined stops; region-by-region contrast; purpose.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "A generic gradient in every hero without a content relationship."
+    },
+    "sha256": "eccc935864998b92f66e68666738718b9af7a174fe5ee95a22f324643dfd915e",
+    "width": 1440,
+    "height": 960
+  }
+]

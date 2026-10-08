@@ -1,0 +1,796 @@
+{
+  "repository": "https://github.com/asgeirtj/system_prompts_leaks",
+  "revision": "e31ec211bc24a2816b03470c61eb7f513c710d2a",
+  "retrievedAt": "2026-10-08T18:11:17.577Z",
+  "method": "Complete UTF-8 reads and source indexing; design guidance synthesized separately. Raw source text is not redistributed.",
+  "files": [
+    {
+      "path": "Anthropic/claude-design/claude-design.md",
+      "bytes": 145909,
+      "sha256": "d6f1ce8e30dc762f160d1b278d38387992ecc0ae76835690b37f0f694919e2f8",
+      "headings": [
+        "System Prompt",
+        "Do not divulge technical details of your environment",
+        "You can talk about your capabilities in non-technical ways",
+        "Your workflow",
+        "Reading documents",
+        "Output creation guidelines",
+        "Reading `<mentioned-element>` blocks",
+        "Preserving comment anchors",
+        "Labelling slides and screens for comment context",
+        "Writing code — Design Components",
+        "Authoring a DC",
+        "One DC by default",
+        "Templates",
+        "Logic (`c_dc_js`)",
+        "Anti-patterns — DO NOT",
+        "⚠ Design Components are mandatory",
+        "How to do design work",
+        "Showing files to the user",
+        "Context management",
+        "System placeholders",
+        "Asking questions",
+        "Verification",
+        "Working economically",
+        "Napkin Sketches (.napkin files)",
+        "Attached .fig files and local folders",
+        "Tool search",
+        "GitHub",
+        "Content Guidelines",
+        "Skills",
+        "Project instructions (CLAUDE.md)",
+        "Do not recreate copyrighted designs",
+        "Additional design guidance",
+        "Batch mechanical work through `run_script`",
+        "Commit to your first reasonable plan",
+        "Tools",
+        "read_file",
+        "write_file",
+        "list_files",
+        "grep",
+        "delete_file",
+        "copy_files",
+        "str_replace_edit",
+        "copy_starter_component",
+        "show_html",
+        "show_to_user",
+        "ready_for_verification",
+        "view_image",
+        "image_metadata",
+        "get_webview_logs",
+        "sleep",
+        "save_screenshot",
+        "multi_screenshot",
+        "eval_js_user_view",
+        "screenshot_user_view",
+        "eval_js",
+        "screenshot",
+        "run_script",
+        "gen_pptx",
+        "snapshot_element",
+        "super_inline_html",
+        "bundle_project",
+        "show_pdf_export_dialog",
+        "present_fs_item_for_download",
+        "get_public_file_url",
+        "update_todos",
+        "read_skill_prompt",
+        "get_comments",
+        "resolve_comments",
+        "set_project_title",
+        "connect_github",
+        "github_list_repos",
+        "github_get_tree",
+        "github_read_files",
+        "github_search_code",
+        "github_copy_files",
+        "github_compare",
+        "github_prompt_install",
+        "verification_feedback",
+        "ask_user",
+        "local_ls",
+        "local_read",
+        "local_grep",
+        "local_copy_to_project",
+        "fig_ls",
+        "fig_read",
+        "fig_grep",
+        "fig_copy_files",
+        "fig_screenshot",
+        "fig_materialize",
+        "dc_write",
+        "dc_html_str_replace",
+        "dc_js_str_replace",
+        "dc_set_props",
+        "snip",
+        "web_search",
+        "web_fetch",
+        "tool_search_tool_bm25"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/3d-object/SKILL.md",
+      "bytes": 4383,
+      "sha256": "49fa99fff994eabbffb48f95524a4b79d861ac3ef4db8035147796e7afdee71b",
+      "headings": [
+        "3D object"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/animated-video/SKILL.md",
+      "bytes": 10232,
+      "sha256": "b7486e6e7e980b622dcf773397c75eaea8253d615637e9d5e108890b7ee3f850",
+      "headings": [
+        "Animated video"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/claude-api-in-prototypes/SKILL.md",
+      "bytes": 1146,
+      "sha256": "d4b74b5d22830c960683fcc892e71173e5871a5a92341413868fac7c544e20ca",
+      "headings": [
+        "Claude API in prototypes"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/create-design-system/SKILL.md",
+      "bytes": 19157,
+      "sha256": "80aaca6098eb21c93a0e6338948d828d291f0d6035bb009b208e4aa07658ec53",
+      "headings": [
+        "Create design system"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/export-as-pptx-editable/SKILL.md",
+      "bytes": 6202,
+      "sha256": "e6717ab3fa9b5682752d825bbd6829d7071836571111598600850102c29f6eaf",
+      "headings": [
+        "Export as PPTX (editable)",
+        "What you do",
+        "gen_pptx inputs",
+        "If the deck uses the `<deck-stage>` starter component",
+        "Speaker notes",
+        "Validation flags",
+        "Font strategy"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/export-as-pptx-screenshots/SKILL.md",
+      "bytes": 1932,
+      "sha256": "dec522389168806ca5d17a87e27763833b3a7b97f0a968e244b0664b69446903",
+      "headings": [
+        "Export as PPTX (screenshots)",
+        "Steps",
+        "If the deck uses the `<deck-stage>` starter component",
+        "Validation"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/flier/SKILL.md",
+      "bytes": 2182,
+      "sha256": "1261c8ebcc022ca922eb6ec8d7827e8661e79c2d9daddf4dc9ca84eaa4e4aca6",
+      "headings": [
+        "Flier"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/frontend-design/SKILL.md",
+      "bytes": 2526,
+      "sha256": "b63ea94e4f56148efabc0dcd34bcac315ab26293cb2e9bee4faf7aa50150acc3",
+      "headings": [
+        "Frontend design",
+        "Design Thinking",
+        "Aesthetics Guidelines"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/handoff-to-claude-code/SKILL.md",
+      "bytes": 4191,
+      "sha256": "872df1e99268a77ba2ad1a5e6a5d1ea11eb2975563e22e68c3ffabcd1cc56caa",
+      "headings": [
+        "Handoff to Claude Code",
+        "Steps",
+        "README.md Structure",
+        "Handoff: <Feature Name>",
+        "Overview",
+        "About the Design Files",
+        "Fidelity",
+        "Screens / Views",
+        "Interactions & Behavior",
+        "State Management",
+        "Design Tokens",
+        "Assets",
+        "Files",
+        "Important Notes"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/hi-fi-design/SKILL.md",
+      "bytes": 6481,
+      "sha256": "0a3e27f38de79728dd74862a278de56f34d14a3d035dfd519d09ee6286850a98",
+      "headings": [
+        "Hi-fi design"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/html-email/SKILL.md",
+      "bytes": 2706,
+      "sha256": "e4be88281bb91a6a14e03c6d5db35a5302202ebc131aa7feb91cf1e9b3822f80",
+      "headings": [
+        "HTML email"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/interactive-prototype/SKILL.md",
+      "bytes": 454,
+      "sha256": "8de862c801dd5313a3f5fe232af19ee85388587b89c1f4cc6acf903e14b47572",
+      "headings": [
+        "Interactive prototype"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/make-a-deck/SKILL.md",
+      "bytes": 9768,
+      "sha256": "2851851f934efcc888f43b9dffce159c97758996e4be05a04e044e54638cfb90",
+      "headings": [
+        "Make a deck",
+        "Slide writing guidelines",
+        "Planning steps",
+        "Verification tips for slide decks"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/make-a-doc/SKILL.md",
+      "bytes": 2709,
+      "sha256": "5ab8c25985596cccfdf8d67cd1aa32df2bc508e259bda17a35946903c773d8ef",
+      "headings": [
+        "Make a doc"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/make-tweakable/SKILL.md",
+      "bytes": 400,
+      "sha256": "7cfc9642fe40d10f88be966529b703fa734131274e3051eabe26be57d4e1be6f",
+      "headings": [
+        "Make tweakable"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/maps-geography/SKILL.md",
+      "bytes": 2917,
+      "sha256": "c102426ef65ca41056dacabf3051069d0fb8d4c2727f777d8b183e5e053a50a0",
+      "headings": [
+        "Maps & geography"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/options/SKILL.md",
+      "bytes": 3745,
+      "sha256": "a9315736a0aff65c8e2709cde8ca0405ff13c8e8d85e14ba5374a22444673559",
+      "headings": [
+        "Options"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/save-as-pdf/SKILL.md",
+      "bytes": 9227,
+      "sha256": "da4fb659e929a88ae95c2a782efdea1f61d24ae407249e8b8d6632ac94f9e654",
+      "headings": [
+        "Save as PDF",
+        "Steps",
+        "Important Notes"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/save-as-standalone-html/SKILL.md",
+      "bytes": 5923,
+      "sha256": "cb2943e0f2ec5f5d063eccd7fc7887543108cac62f3f6a5b642282041d7da05b",
+      "headings": [
+        "Save as standalone HTML",
+        "How it works",
+        "Step 1: Make a copy of the HTML file and update code-referenced resources",
+        "Step 2: Add ext-resource-dependency meta tags",
+        "Step 3: Create a thumbnail (REQUIRED — the bundler will reject the file without it)",
+        "Step 4: Run the bundler",
+        "Step 5: Verify (internal check only)",
+        "Step 6: Present for download — MANDATORY"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/web-research/SKILL.md",
+      "bytes": 2064,
+      "sha256": "a823a36091dbe94fc2d61d862001cad310ad728843bdedd897af8a759d4990c1",
+      "headings": [
+        "Web research"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/skills/wireframe/SKILL.md",
+      "bytes": 4224,
+      "sha256": "78e74f0fff0ad50c3a5f5edde5f493b22ce7903283e89e679cbedf514f38eb94",
+      "headings": [
+        "Wireframe"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/android-frame.jsx",
+      "bytes": 10545,
+      "sha256": "e020a2c8de81ecbbc434cf23cddfe21a4ee50c3d7e80928f6bc811bac249d281",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/animations-v3.jsx",
+      "bytes": 56823,
+      "sha256": "73450821c0378567cb65b4813e2c086aec18ce0b2a5c11a065b1fe9ae03ebb5a",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/browser-window.jsx",
+      "bytes": 4861,
+      "sha256": "e509712bb10bc4d42c64511dcc56147d82565357b60ea3e271d8d60ea2943f92",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/deck-stage.js",
+      "bytes": 139262,
+      "sha256": "c3c51ea49dec1378fbaa2b57d889d1c3ad5affdc5894b0604136ee9f2dbffc55",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/doc-page.js",
+      "bytes": 39358,
+      "sha256": "f813f683d655a76855e2de50c5b6a26b2431c688fb2b84aa45d44d39c20fef48",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/image-slot.js",
+      "bytes": 66575,
+      "sha256": "4522b26c35ec3a55b1b434aed79edd81bec6a9c38a68d3fec1d2689703d8d9b8",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/ios-frame.jsx",
+      "bytes": 16859,
+      "sha256": "1e733c107027c831cc64ed1fdc2ea2dd1701c63a11299d8fa0a2138f9658b108",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/macos-window.jsx",
+      "bytes": 9013,
+      "sha256": "1ad549b1bbeef1f644fd435f1547b215e5bfafabec34d5fa0bb37d4423d3ba12",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/three-d-stage.js",
+      "bytes": 17047,
+      "sha256": "e1f276454307aa39725bfabf8ba44975f944653b4a73de91f22561162b2fa3c6",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-design/starter-components/tweaks-panel.jsx",
+      "bytes": 25992,
+      "sha256": "76fb9072d6bfa6293d560e41758a6aa4b8401aef5b8b7b030d319eeab78a85c3",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-design/SKILL.md",
+      "bytes": 19276,
+      "sha256": "4769eb072f003f2e2f895f13243ea3c943588c485f063332fffb01e8753519c8",
+      "headings": [
+        "Read the request first",
+        "Fundamentals for every artifact",
+        "Process",
+        "When the request is editorial"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/artifact.d.ts",
+      "bytes": 30695,
+      "sha256": "292c25b0796c22ef32824050cbe9c686372709faaacad6e75ed033293e9b2fae",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/assets.d.ts",
+      "bytes": 13496,
+      "sha256": "3f1e65cfaff0d06bf2290f1eafef369f8fbba70e8cf07a02a08ed410063828ac",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/claude.d.ts",
+      "bytes": 3080,
+      "sha256": "94af5f38a94d63b37550ebd6265dd1583b4d1586df3fca92a45a0be14f13ba0f",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/comments.d.ts",
+      "bytes": 31414,
+      "sha256": "426fecb370ac55c2d04cac3845209e86c4e87ffad298fe8da1698f88fb328eea",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/db.d.ts",
+      "bytes": 23374,
+      "sha256": "6cc04c705e9e599277f9e5f910c65221d0867c36637bd328b697bcd70a905256",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/downloads.d.ts",
+      "bytes": 5299,
+      "sha256": "b274153eac299d4486753a80232c7290061703a0dd69419b7c134bb55278a3bb",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/mcp.d.ts",
+      "bytes": 37090,
+      "sha256": "6677be05d7ecbd8f6c96a1c9b37d2a1d07eee615d4b592dd970626b39277c71a",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/permissions.d.ts",
+      "bytes": 3448,
+      "sha256": "ba285d9144a8501646119d67177102459389b56dd6920f6948436f44b5f93d4d",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/room.d.ts",
+      "bytes": 26085,
+      "sha256": "51157e18d7cedd64b37641a279f59d40ac7d4903b47a23c3a6f692e4ebfcdbca",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/sample.d.ts",
+      "bytes": 34392,
+      "sha256": "ccb3dc04be7c4304244ace683b77cfb12dad4534943ab5f2a72f3790ce5cc475",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/self.d.ts",
+      "bytes": 659,
+      "sha256": "aaab6015194213239e78883bc80d1ef7ed887e8c27e050e476d60734442b5b67",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/0.2.52/user.d.ts",
+      "bytes": 13133,
+      "sha256": "f186d404851e48895c59c01e6a5edc2e5e88f30607ab1e031267276d9093db06",
+      "headings": [],
+      "kind": "capability-contract"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-capabilities/SKILL.md",
+      "bytes": 17517,
+      "sha256": "d9a459965a1850a72eba40d40f81918e355e35d4e8e8930de4a8a150ee8cbd13",
+      "headings": [
+        "Artifact runtime capabilities"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/artifact-diagramming/SKILL.md",
+      "bytes": 3878,
+      "sha256": "618fa356347d3ad5da0111d7ea334f5c5972e9ded6753aaa6f3b284d852e8d31",
+      "headings": [
+        "What to draw",
+        "Inline SVG mechanics"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/design/seed-canvas.mjs",
+      "bytes": 41163,
+      "sha256": "58e97fa3dbd9b9254b39f68b35373efa01532086b1887e1381b3443d1e086bb0",
+      "headings": [],
+      "kind": "supporting-implementation"
+    },
+    {
+      "path": "Anthropic/claude-code/skills/design/SKILL.md",
+      "bytes": 57514,
+      "sha256": "96cca1fe3f8014623983f81dcb82567552d157886d5b68d1acb0a51f2b871e36",
+      "headings": [
+        "Create a design canvas",
+        "What lives where",
+        "Workflow",
+        "Updating an existing canvas",
+        "Artboards and canvas.json",
+        "Authoring the seed .dc.html",
+        "Designing well (craft, not format)",
+        "Settle the aesthetic with the user, not for them",
+        "When no brand or design system governs",
+        "Hi-fi mockups are rooted in context",
+        "Variations and options on the canvas",
+        "Layout that survives direct manipulation",
+        "Appropriate scales",
+        "Landing pages and marketing artboards",
+        "Print craft (posters, flyers, brochures)",
+        "Mobile prototypes",
+        "Recreating an existing UI",
+        "Quick syntax card",
+        "Known limits (set expectations honestly)",
+        "How to talk to the user about it",
+        "Foundation",
+        "Content and design guidance"
+      ],
+      "kind": "prompt-or-skill"
+    },
+    {
+      "path": "Anthropic/claude-opus-5.5.md",
+      "bytes": 486548,
+      "sha256": "ac5ca6016a23e2a43c7f42ddbba23d5f984b4086d66c011407852c73c372e6e1",
+      "headings": [
+        "claude_behavior",
+        "product_information",
+        "refusal_handling",
+        "legal_and_financial_advice",
+        "tone_and_formatting",
+        "lists_and_bullets",
+        "user_wellbeing",
+        "anthropic_reminders",
+        "evenhandedness",
+        "responding_to_mistakes_and_criticism",
+        "knowledge_cutoff",
+        "memory_filesystem",
+        "What's already filed",
+        "File format",
+        "Where it goes",
+        "When to write",
+        "Calibration — what counts, and how to phrase it",
+        "Read before writing",
+        "privacy_requirements",
+        "protected_attributes",
+        "omission_guidance",
+        "behavioral_guardrails",
+        "memory_application_instructions",
+        "forbidden_memory_phrases",
+        "appropriate_boundaries_re_memory",
+        "memory_application_examples",
+        "preferences_guardrails",
+        "end_conversation_tool_info",
+        "Rules for use of the `<end_conversation>` tool:",
+        "Addressing potential self-harm or violent harm to others",
+        "Using the end_conversation tool",
+        "persistent_storage_for_artifacts",
+        "Storage API",
+        "Usage Examples",
+        "Key Design Pattern",
+        "Data Scope",
+        "Error Handling",
+        "Limitations",
+        "mcp_app_suggestions",
+        "When to search the directory",
+        "Connector directory first",
+        "After search",
+        "[third_party_mcp_app] tools need opt-in",
+        "When to call an [third_party_mcp_app] tool directly",
+        "What not to do",
+        "What this should feel like",
+        "suggest_catalog_plugins_and_skills",
+        "When to search",
+        "How to suggest",
+        "past_chats_tools",
+        "preferences_info",
+        "computer_use",
+        "skills",
+        "file_creation_advice",
+        "high_level_computer_use_explanation",
+        "file_handling_rules",
+        "notes_on_user_uploaded_files",
+        "producing_outputs",
+        "sharing_files",
+        "artifact_usage_criteria",
+        "Use artifacts for",
+        "Do NOT use artifacts for",
+        "CRITICAL BROWSER STORAGE RESTRICTION",
+        "package_management",
+        "additional_skills_reminder",
+        "publishing_artifacts",
+        "Decks, designs and docs: use the ready-made form first",
+        "Publish an artifact for",
+        "Do not publish; create the file and present it instead",
+        "Authoring rules for published pages",
+        "request_evaluation_checklist",
+        "Step 0 — Does the request need a visual at all?",
+        "Step 1 — Is the visual itself a piece of design work?",
+        "Step 2 — Is a connected MCP tool a fit?",
+        "Step 3 — Did the person ask for a file?",
+        "Step 4 — Visualizer (default inline visual)",
+        "when_to_use_visualizer_for_inline_visuals",
+        "Explicit triggers",
+        "Proactive triggers (no explicit ask needed)",
+        "Specification triggers (no verb needed)",
+        "Multi-visualization responses",
+        "Design guidance",
+        "Content safety",
+        "visualizer_examples",
+        "search_instructions",
+        "core_search_behaviors",
+        "search_usage_guidelines",
+        "CRITICAL_COPYRIGHT_COMPLIANCE",
+        "claude_prioritizes_copyright_compliance",
+        "mandatory_copyright_requirements",
+        "hard_limits",
+        "self_check_before_responding",
+        "copyright_examples",
+        "search_examples",
+        "harmful_content_safety",
+        "critical_reminders",
+        "Many queries benefit from images:",
+        "Examples of when **NOT** to use image search:",
+        "Critical NEVER search for images in following categories (blocked):",
+        "Tools",
+        "Artifact",
+        "bash_tool",
+        "create_file",
+        "image_search",
+        "memory_append",
+        "memory_delete",
+        "memory_list",
+        "memory_read",
+        "memory_str_replace",
+        "memory_write",
+        "present_files",
+        "search_mcp_registry",
+        "search_plugins",
+        "search_skills",
+        "str_replace",
+        "suggest_connectors",
+        "suggest_plugin_install",
+        "suggest_research",
+        "suggest_skills",
+        "view",
+        "web_fetch",
+        "web_search",
+        "web_search_fast",
+        "ask_user_input_v0",
+        "chart_display_v0",
+        "comparison_card_display_v0",
+        "conversation_search",
+        "end_conversation",
+        "featured_card_display_v0",
+        "fetch_sports_data",
+        "itinerary_display_v0",
+        "link_preview_display_v0",
+        "message_compose_v1",
+        "options_card_display_v0",
+        "places_list_display_v0",
+        "places_map_display_v0",
+        "places_search",
+        "product_carousel_display_v0",
+        "quiz_display_v0",
+        "read_conversation",
+        "recent_chats",
+        "recipe_display_v0",
+        "show_recommendation_cards",
+        "step_card_display_v0",
+        "translation_display_v0",
+        "weather_fetch",
+        "list_mcp_resources",
+        "mcp__Claude_Docs__batch",
+        "mcp__Claude_Docs__create",
+        "mcp__Claude_Docs__delete",
+        "mcp__Claude_Docs__export",
+        "mcp__Claude_Docs__guide",
+        "mcp__Claude_Docs__query",
+        "mcp__Claude_Docs__read",
+        "mcp__Claude_Docs__update",
+        "mcp__Gmail__apply_sensitive_message_label",
+        "mcp__Gmail__apply_sensitive_thread_label",
+        "mcp__Gmail__create_draft",
+        "mcp__Gmail__create_label",
+        "mcp__Gmail__delete_draft",
+        "mcp__Gmail__delete_label",
+        "mcp__Gmail__forward",
+        "mcp__Gmail__get_draft",
+        "mcp__Gmail__get_message",
+        "mcp__Gmail__get_thread",
+        "mcp__Gmail__label_message",
+        "mcp__Gmail__label_thread",
+        "mcp__Gmail__list_drafts",
+        "mcp__Gmail__list_labels",
+        "mcp__Gmail__mark_message_spam",
+        "mcp__Gmail__mark_thread_spam",
+        "mcp__Gmail__reply",
+        "mcp__Gmail__search_threads",
+        "mcp__Gmail__send_message",
+        "mcp__Gmail__trash_message",
+        "mcp__Gmail__trash_thread",
+        "mcp__Gmail__unlabel_message",
+        "mcp__Gmail__unlabel_thread",
+        "mcp__Gmail__unmark_message_spam",
+        "mcp__Gmail__unmark_thread_spam",
+        "mcp__Gmail__untrash_message",
+        "mcp__Gmail__untrash_thread",
+        "mcp__Gmail__update_draft",
+        "mcp__Gmail__update_label",
+        "mcp__Gmail__update_message_labels",
+        "mcp__Google_Calendar__create_event",
+        "mcp__Google_Calendar__delete_event",
+        "mcp__Google_Calendar__get_event",
+        "mcp__Google_Calendar__list_calendars",
+        "mcp__Google_Calendar__list_events",
+        "mcp__Google_Calendar__respond_to_event",
+        "mcp__Google_Calendar__search_events",
+        "mcp__Google_Calendar__suggest_time",
+        "mcp__Google_Calendar__update_event",
+        "mcp__Google_Drive__copy_file",
+        "mcp__Google_Drive__create_file",
+        "mcp__Google_Drive__download_file_content",
+        "mcp__Google_Drive__get_file_metadata",
+        "mcp__Google_Drive__get_file_permissions",
+        "mcp__Google_Drive__list_recent_files",
+        "mcp__Google_Drive__read_file_content",
+        "mcp__Google_Drive__search_files",
+        "mcp__Google_Drive__share_file",
+        "mcp__Google_Drive__trash_file",
+        "mcp__Google_Drive__update_file",
+        "mcp__visualize__read_me",
+        "mcp__visualize__show_widget",
+        "read_resource_link",
+        "anthropic_api_in_artifacts",
+        "overview",
+        "api_details",
+        "structured_outputs_in_xml",
+        "tool_usage",
+        "mcp_servers",
+        "mcp_response_handling",
+        "handling_tool_responses",
+        "handling_files",
+        "pdf",
+        "image",
+        "context_window_management",
+        "conversation_management",
+        "stateful_applications",
+        "error_handling",
+        "critical_ui_requirements",
+        "available_skills",
+        "network_configuration",
+        "filesystem_configuration",
+        "thinking_behavior"
+      ],
+      "kind": "prompt-or-skill"
+    }
+  ]
+}

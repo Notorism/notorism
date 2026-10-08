@@ -1,0 +1,65 @@
+[
+  {
+    "id": "aurora-ui-1",
+    "title": "Digital observatory: Public page",
+    "image": "images/aurora-ui/example-01.png",
+    "html": "images/aurora-ui/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Diffuse light fields; broad gradients; calm content planes; focus through luminance.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing glow behind long text or dense tables."
+    },
+    "sha256": "0478758bf79b6225dc8735e4a4460c879ec3730b7f632ee9ff8e06b811e14be8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "aurora-ui-2",
+    "title": "Music application: Product workspace",
+    "image": "images/aurora-ui/example-02.png",
+    "html": "images/aurora-ui/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Diffuse light fields; broad gradients; calm content planes; focus through luminance.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing glow behind long text or dense tables."
+    },
+    "sha256": "9dc3c38d6b65e0da470ab9d016ef5b118befe8d9dbdcd063ac5892f82741589b",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "aurora-ui-3",
+    "title": "Cultural program: Editorial composition",
+    "image": "images/aurora-ui/example-03.png",
+    "html": "images/aurora-ui/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Diffuse light fields; broad gradients; calm content planes; focus through luminance.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Placing glow behind long text or dense tables."
+    },
+    "sha256": "874cc962a6512a00e7148b9363841041aafe4e20ff785e105f2b5dd7e92df89c",
+    "width": 1440,
+    "height": 960
+  }
+]

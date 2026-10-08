@@ -1,0 +1,65 @@
+[
+  {
+    "id": "asymmetric-layout-1",
+    "title": "Architecture studio: Public page",
+    "image": "images/asymmetric-layout/example-01.png",
+    "html": "images/asymmetric-layout/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Unequal visual weight; anchors; breathing room; relational alignment.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling random placement balanced composition."
+    },
+    "sha256": "2341279bd609a94296d73fc5efdc31ce9a88ee6c7b4babe7bf78dc40825641f3",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "asymmetric-layout-2",
+    "title": "Dance portfolio: Product workspace",
+    "image": "images/asymmetric-layout/example-02.png",
+    "html": "images/asymmetric-layout/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Unequal visual weight; anchors; breathing room; relational alignment.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling random placement balanced composition."
+    },
+    "sha256": "4fba1b092f4818c19a4443ebde3838879c45e0e5ae0d3ad9f257e3df9071b951",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "asymmetric-layout-3",
+    "title": "Ceramics shop: Editorial composition",
+    "image": "images/asymmetric-layout/example-03.png",
+    "html": "images/asymmetric-layout/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Unequal visual weight; anchors; breathing room; relational alignment.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Calling random placement balanced composition."
+    },
+    "sha256": "4f3fca1c6e0a81fe933c95d370f2d17f730c3070a8064049f7bd9b5e77f46939",
+    "width": 1440,
+    "height": 960
+  }
+]

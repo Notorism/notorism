@@ -1,0 +1,65 @@
+[
+  {
+    "id": "japanese-minimalism-1",
+    "title": "Ceramics gallery: Public page",
+    "image": "images/japanese-minimalism/example-01.png",
+    "html": "images/japanese-minimalism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Negative space; contemplative rhythm; few accents; imagery with breathing room.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining generic cultural symbols or hiding navigation."
+    },
+    "sha256": "d713a27532fb7091996b9815fcd9362883e04f2e3f4ec8a4da5584041cfc7872",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "japanese-minimalism-2",
+    "title": "Tea house: Product workspace",
+    "image": "images/japanese-minimalism/example-02.png",
+    "html": "images/japanese-minimalism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Negative space; contemplative rhythm; few accents; imagery with breathing room.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining generic cultural symbols or hiding navigation."
+    },
+    "sha256": "907833309c20d44eecec91b78cad54f4266a4957350835a548626a8095ed33e6",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "japanese-minimalism-3",
+    "title": "Landscape archive: Editorial composition",
+    "image": "images/japanese-minimalism/example-03.png",
+    "html": "images/japanese-minimalism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Negative space; contemplative rhythm; few accents; imagery with breathing room.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Combining generic cultural symbols or hiding navigation."
+    },
+    "sha256": "ad3cba8b348436714a829cae7218c1394e62b1c1cef59384643aa66a36d80b27",
+    "width": 1440,
+    "height": 960
+  }
+]

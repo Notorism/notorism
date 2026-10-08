@@ -1,0 +1,65 @@
+[
+  {
+    "id": "monochromatic-design-1",
+    "title": "Botanical archive: Public page",
+    "image": "images/monochromatic-design/example-01.png",
+    "html": "images/monochromatic-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "One hue family; distinct values; luminance contrast; text-supported status.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Encoding all states only through similar shades."
+    },
+    "sha256": "4bdd4125729aab8ce8a1fe0b502dfb47314a71b693a98338b989b600e93eae70",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "monochromatic-design-2",
+    "title": "Textile catalog: Product workspace",
+    "image": "images/monochromatic-design/example-02.png",
+    "html": "images/monochromatic-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "One hue family; distinct values; luminance contrast; text-supported status.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Encoding all states only through similar shades."
+    },
+    "sha256": "a59f80acfb02ba19fcaedc154b3d2ae80200b417cd2657200f4f68985c681a62",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "monochromatic-design-3",
+    "title": "Research dashboard: Editorial composition",
+    "image": "images/monochromatic-design/example-03.png",
+    "html": "images/monochromatic-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "One hue family; distinct values; luminance contrast; text-supported status.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Encoding all states only through similar shades."
+    },
+    "sha256": "3898ca606ad6d3d84a6af5b67b0e22abae674190e7cb3d6c054d3fa44af45867",
+    "width": 1440,
+    "height": 960
+  }
+]

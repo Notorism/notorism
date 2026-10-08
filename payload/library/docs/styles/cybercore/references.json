@@ -1,0 +1,65 @@
+[
+  {
+    "id": "cybercore-1",
+    "title": "Digital collective: Public page",
+    "image": "images/cybercore/example-01.png",
+    "html": "images/cybercore/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Circuits; meaningful technical symbols; condensed type; digital surfaces.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing a precise genealogy or using code as filler."
+    },
+    "sha256": "4e5c40e192f9953ae44e1a951c6e0febb62082a83859d01c475eda49633fdc24",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "cybercore-2",
+    "title": "Sound laboratory: Product workspace",
+    "image": "images/cybercore/example-02.png",
+    "html": "images/cybercore/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Circuits; meaningful technical symbols; condensed type; digital surfaces.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing a precise genealogy or using code as filler."
+    },
+    "sha256": "553b59fe7aa1bd21851486667f63a1db140c088e79d6be266d326fd92cecb526",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "cybercore-3",
+    "title": "Interface archive: Editorial composition",
+    "image": "images/cybercore/example-03.png",
+    "html": "images/cybercore/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Circuits; meaningful technical symbols; condensed type; digital surfaces.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing a precise genealogy or using code as filler."
+    },
+    "sha256": "8ae25347695b03e4f6442d14174c14364869116754e638f52436ef12061090af",
+    "width": 1440,
+    "height": 960
+  }
+]

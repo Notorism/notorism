@@ -1,0 +1,65 @@
+[
+  {
+    "id": "de-stijl-1",
+    "title": "Object gallery: Public page",
+    "image": "images/de-stijl/example-01.png",
+    "html": "images/de-stijl/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Black grids; rectangles; primaries; balanced asymmetry; white planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning a known painting into an interface or using primaries without a system."
+    },
+    "sha256": "4c2a5338bc44f43204deeb25b936f433ac27591edb0711d8df71282786d9c419",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "de-stijl-2",
+    "title": "Architecture catalog: Product workspace",
+    "image": "images/de-stijl/example-02.png",
+    "html": "images/de-stijl/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Black grids; rectangles; primaries; balanced asymmetry; white planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning a known painting into an interface or using primaries without a system."
+    },
+    "sha256": "e58364e76e31f9aa13ed6137c19c26b432bda6d2651934e15fe6c178d8061480",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "de-stijl-3",
+    "title": "Composition course: Editorial composition",
+    "image": "images/de-stijl/example-03.png",
+    "html": "images/de-stijl/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Black grids; rectangles; primaries; balanced asymmetry; white planes.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Turning a known painting into an interface or using primaries without a system."
+    },
+    "sha256": "f5f09daaa6fe7ce173761deebf57a81a9ded9ee3257e8e8baa1f6556c6abe4a8",
+    "width": 1440,
+    "height": 960
+  }
+]

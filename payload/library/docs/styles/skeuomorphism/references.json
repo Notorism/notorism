@@ -1,0 +1,65 @@
+[
+  {
+    "id": "skeuomorphism-1",
+    "title": "Audio studio: Public page",
+    "image": "images/skeuomorphism/example-01.png",
+    "html": "images/skeuomorphism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Recognizable material; fittings; functional depth; consistent physical metaphors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying physical limitations that hinder digital use."
+    },
+    "sha256": "1dcfe44715c52f7293468d9b927c867ddfbc66822c3975c6e1942c291208d710",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "skeuomorphism-2",
+    "title": "Recipe notebook: Product workspace",
+    "image": "images/skeuomorphism/example-02.png",
+    "html": "images/skeuomorphism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Recognizable material; fittings; functional depth; consistent physical metaphors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying physical limitations that hinder digital use."
+    },
+    "sha256": "bdf404d07ffa2f44ba7d86999510742f9fbbe157d3452a147c25c1971c012763",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "skeuomorphism-3",
+    "title": "Training clock: Editorial composition",
+    "image": "images/skeuomorphism/example-03.png",
+    "html": "images/skeuomorphism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Recognizable material; fittings; functional depth; consistent physical metaphors.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Copying physical limitations that hinder digital use."
+    },
+    "sha256": "2196368b4bb404e81ee7309fc352f1b1558e76e8e30006e6103bf3c5829ae2ee",
+    "width": 1440,
+    "height": 960
+  }
+]

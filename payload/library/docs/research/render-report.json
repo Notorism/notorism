@@ -1,0 +1,39 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 960
+  },
+  "screenshots": 3,
+  "totalReferenceImages": 330,
+  "issues": [],
+  "history": [
+    {
+      "screenshots": 330,
+      "issues": []
+    },
+    {
+      "completedAt": "2026-10-08T18:22:01.394Z",
+      "styles": [
+        "liquid-glass",
+        "neumorphism",
+        "web-2-0-gloss"
+      ],
+      "screenshots": 9,
+      "issues": []
+    },
+    {
+      "completedAt": "2026-10-08T18:41:44.322Z",
+      "styles": "all",
+      "screenshots": 330,
+      "issues": []
+    },
+    {
+      "completedAt": "2026-10-08T18:45:30.897Z",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "screenshots": 3,
+      "issues": []
+    }
+  ]
+}

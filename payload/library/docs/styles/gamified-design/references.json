@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gamified-design-1",
+    "title": "Reading course: Public page",
+    "image": "images/gamified-design/example-01.png",
+    "html": "images/gamified-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Clear goals; actual progress; feedback; proportionate rewards; user control.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing points, pressuring streaks, or hiding costs."
+    },
+    "sha256": "f4952b611c0fe9e6b4c5d563b0de8072e84dc7595f0f4c7df8bab76bc63ee87f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gamified-design-2",
+    "title": "Language practice: Product workspace",
+    "image": "images/gamified-design/example-02.png",
+    "html": "images/gamified-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Clear goals; actual progress; feedback; proportionate rewards; user control.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing points, pressuring streaks, or hiding costs."
+    },
+    "sha256": "6f79c912fbc08b9a79462441b883acd3565aec129b9f579995c0373673a9ce37",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "gamified-design-3",
+    "title": "Workshop program: Editorial composition",
+    "image": "images/gamified-design/example-03.png",
+    "html": "images/gamified-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "Open the HTML to inspect the implemented interaction; the PNG is a resting-state reference.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Clear goals; actual progress; feedback; proportionate rewards; user control.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Inventing points, pressuring streaks, or hiding costs."
+    },
+    "sha256": "f97089655f9d3cfb13c5b27f6e32c566b40fd03f970115115b4d025b30114023",
+    "width": 1440,
+    "height": 960
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hero-centric-design-1",
+    "title": "Photography exhibition: Public page",
+    "image": "images/hero-centric-design/example-01.png",
+    "html": "images/hero-centric-design/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "One thesis; focal image or demonstration; visible action; enough context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "An empty 100vh opening with a generic slogan."
+    },
+    "sha256": "6b9ea9d62520c6e3703b4d988e500a6730d220cce048f4df09531f77a85775e8",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hero-centric-design-2",
+    "title": "Object launch: Product workspace",
+    "image": "images/hero-centric-design/example-02.png",
+    "html": "images/hero-centric-design/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "One thesis; focal image or demonstration; visible action; enough context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "An empty 100vh opening with a generic slogan."
+    },
+    "sha256": "52127fd2192dc95bf709e56ceaa3ad240390cdffe69a1217c6a9d5b4476a1bd1",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "hero-centric-design-3",
+    "title": "Experience booking: Editorial composition",
+    "image": "images/hero-centric-design/example-03.png",
+    "html": "images/hero-centric-design/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "One thesis; focal image or demonstration; visible action; enough context.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "An empty 100vh opening with a generic slogan."
+    },
+    "sha256": "45b9d88cbb8bbd5bdb8a57a8153e24a4da960204d6c19679db6680637d7ae157",
+    "width": 1440,
+    "height": 960
+  }
+]

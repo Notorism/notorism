@@ -1,0 +1,65 @@
+[
+  {
+    "id": "halftone-1",
+    "title": "Photo zine: Public page",
+    "image": "images/halftone/example-01.png",
+    "html": "images/halftone/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Aligned dots; controlled frequency; image layer; clean text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Screening small labels or producing accidental moire."
+    },
+    "sha256": "fce24410e5fe0c8be4f95076d05a6b09f46d6b64abead5e57c18576aee4f230a",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "halftone-2",
+    "title": "Print exhibition: Product workspace",
+    "image": "images/halftone/example-02.png",
+    "html": "images/halftone/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Aligned dots; controlled frequency; image layer; clean text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Screening small labels or producing accidental moire."
+    },
+    "sha256": "f2d502a49856901718b33e6b1e5d915d289c459077492f7bf81334df81645bda",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "halftone-3",
+    "title": "Poster workshop: Editorial composition",
+    "image": "images/halftone/example-03.png",
+    "html": "images/halftone/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Aligned dots; controlled frequency; image layer; clean text.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Screening small labels or producing accidental moire."
+    },
+    "sha256": "41c020bfeafe90d7beb666f005bc416ffc495daa147eb9cd58e3005287de05a7",
+    "width": 1440,
+    "height": 960
+  }
+]

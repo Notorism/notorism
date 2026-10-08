@@ -1,0 +1,65 @@
+[
+  {
+    "id": "retro-futurism-1",
+    "title": "Technology museum: Public page",
+    "image": "images/retro-futurism/example-01.png",
+    "html": "images/retro-futurism/example-01.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "A subject-specific headline, one action, then related collections.",
+      "composition": "A public opening with a focal visual and supporting content.",
+      "treatment": "Technology with memory; product curves; period typography; stylized instruments.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing decades without selecting a temporal reference."
+    },
+    "sha256": "d78599810c65f583bbc5af709ae4121e504740181de4f8837a066b971c048ebe",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "retro-futurism-2",
+    "title": "Radio catalog: Product workspace",
+    "image": "images/retro-futurism/example-02.png",
+    "html": "images/retro-futurism/example-02.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Navigation, working context, object statuses, and object-level action.",
+      "composition": "A workspace with sidebar, preview, list, and repeated units.",
+      "treatment": "Technology with memory; product curves; period typography; stylized instruments.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing decades without selecting a temporal reference."
+    },
+    "sha256": "c36bc67c950be338ecfbfb9901a7806f4df559d257c16f4c8d3a544b5e3e726f",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "id": "retro-futurism-3",
+    "title": "Historic observatory: Editorial composition",
+    "image": "images/retro-futurism/example-03.png",
+    "html": "images/retro-futurism/example-03.html",
+    "creator": "NotorismDesign",
+    "origin": "original-code-native-study",
+    "license": "Apache-2.0",
+    "isRealClientScreenshot": false,
+    "description": "A simplified original composition study, not a historical specimen or a real-client website screenshot.",
+    "analysis": {
+      "hierarchy": "Title-image relationship, captioned context, and reading rhythm.",
+      "composition": "An editorial opening with a large title and a composed image-text spread.",
+      "treatment": "Technology with memory; product curves; period typography; stylized instruments.",
+      "transfer": "Transfer relationships and material mechanics; replace all fictional content with the actual brief.",
+      "limitation": "Mixing decades without selecting a temporal reference."
+    },
+    "sha256": "6fff6069b73707bd93953ad81a78c6eeb7b87565faf2e2732b634a56b04e6a0f",
+    "width": 1440,
+    "height": 960
+  }
+]

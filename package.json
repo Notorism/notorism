@@ -1,0 +1,75 @@
+{
+  "name": "notorism",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "description": "Art direction, 110 design styles, and artifact workflows for AI agents.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Notorism/notorism.git"
+  },
+  "homepage": "https://notorism.github.io/notorism/",
+  "bugs": {
+    "url": "https://github.com/Notorism/notorism/issues"
+  },
+  "keywords": [
+    "design",
+    "design-system",
+    "ai-agents",
+    "art-direction",
+    "codex",
+    "claude-code",
+    "ink"
+  ],
+  "bin": {
+    "notorism": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "payload",
+    "README.md",
+    "LICENSE",
+    "NOTICE",
+    "install.cmd"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsx src/cli.tsx",
+    "library:build": "tsx scripts/build-library.ts",
+    "library:render": "tsx scripts/render-library.ts",
+    "library:sync": "tsx scripts/sync-library.ts",
+    "check": "tsx scripts/check-library.ts",
+    "verify:browser": "tsx scripts/verify-browser.tsx",
+    "test": "tsx --test tests/*.test.ts tests/*.test.tsx",
+    "pack:check": "node scripts/verify-package.mjs",
+    "site:build": "node scripts/build-site.mjs",
+    "site:verify": "node scripts/verify-site.mjs",
+    "verify": "npm run build && npm test && npm run check && npm run pack:check",
+    "prepublishOnly": "npm run verify"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "ink": "7.0.0",
+    "react": "19.2.0"
+  },
+  "devDependencies": {
+    "@fontsource-variable/dm-sans": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource-variable/roboto-flex": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.0",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "ink-testing-library": "^4.0.0",
+    "playwright": "^1.56.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
