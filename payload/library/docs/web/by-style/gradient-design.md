@@ -1,43 +1,50 @@
 # Gradient Design: real websites
 
-39 live sites measured as examples of [Gradient Design](../../styles/gradient-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+46 live sites measured as examples of [Gradient Design](../../styles/gradient-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [Radio Null Rewind 2022](https://2022.madebynull.com/) — 23 gradient surfaces; light page; accent #000010 / #00009f; display type up to 172px; type: PP Neue + Suisse; webgl, svg-heavy. _confidence 0.56_
+- [Apple](https://www.apple.com/) — 18 gradient surfaces; light page; accent #24568e / #241004; type: SF Pro Text + SF Pro Display; svg-heavy. _confidence 0.56_
+- [Astro](https://astro.build/) — 51 gradient surfaces; dark page; accent #0c0f19 / #1a3e57; type: ui-sans-serif + Obviously; svg-heavy. _confidence 0.56_
+- [Atlassian Design](https://atlassian.design/) — 13 gradient surfaces; light page; accent #1868db / #fca700; display type up to 112px; type: Atlassian Sans + Atlassian Mono; svg-heavy. _confidence 0.56_
+- [Cal.com](https://cal.com/) — 16 gradient surfaces; light page; 6-colour palette; type: Cal Sans UI Variable Light + Cal Sans; svg-heavy, framer. _confidence 0.56_
+- [Chakra UI](https://chakra-ui.com/) — 8 gradient surfaces; light page; accent #0d9488 / #14b8a6; type: Wix Madefor Text + SFMono-Regular; svg-heavy. _confidence 0.56_
+- [Craft](https://www.craft.do/) — 29 gradient surfaces; light page; accent #ff4500; type: UntitledSerifFont + UntitledSansFont; svg-heavy. _confidence 0.56_
+- [Cursor](https://cursor.com/) — 18 gradient surfaces; light page; accent #c08532 / #34785c; type: CursorGothic + EB Garamond; svg-heavy. _confidence 0.56_
+- [deno.com](https://deno.com/) — 18 gradient surfaces; light page; accent #001319 / #70ffaf; type: Inter + Menlo; gsap, svg-heavy. _confidence 0.56_
+- [Effect](https://effect.website/) — 14 gradient surfaces; light page; 6-colour palette; type: Inter-2d43eae1204b97f2 + JetBrains Mono-672db76a3f3c5727; svg-heavy. _confidence 0.56_
+- [Fluent 2 Design System](https://fluent2.microsoft.design/) — 7 gradient surfaces; light page; 6-colour palette; display type up to 128px; type: Segoe UI; svg-heavy. _confidence 0.56_
+- [Inngest](https://www.inngest.com/) — 61 gradient surfaces; dark page; accent #013cf6 / #f65c4f; type: WhyteV1 + CircularXX. _confidence 0.56_
+- [Jesko Jets](https://jeskojets.com/) — 7 gradient surfaces; light page; 5-colour palette; type: GT America Extended + GT America Expanded; gsap, lenis, webgl. _confidence 0.56_
+- [Linear](https://linear.app/) — 57 gradient surfaces; dark page; accent #e4f222 / #f34e52; type: Inter Variable + Berkeley Mono; svg-heavy. _confidence 0.56_
+- [Liveblocks](https://liveblocks.io/) — 17 gradient surfaces; dark page; accent #ec6572 / #65afec; type: suisse; webgl, svg-heavy. _confidence 0.56_
+- [Material Design 3](https://m3.material.io/) — 16 gradient surfaces; light page; accent #6442d6; type: Google Sans + Google Sans Text. _confidence 0.56_
+- [Mantine](https://mantine.dev/) — 20 gradient surfaces; light page; accent #5865f2 / #228be6; type: Outfit + Menlo; svg-heavy, next.js. _confidence 0.56_
+- [Material Design 3](https://m3.material.io/) — 16 gradient surfaces; light page; accent #6442d6; type: Google Sans + Google Sans Text. _confidence 0.56_
+- [Drizzle ORM](https://orm.drizzle.team/) — 6 gradient surfaces; light page; accent #4bb74b; type: ui-sans-serif + Menlo; svg-heavy. _confidence 0.56_
+- [ORYZO AI](https://oryzo.ai/) — 7 gradient surfaces; dark page; accent #ff0000 / #382416; display type up to 410px; type: halyard-display-variable + DM Mono; webgl, svg-heavy. _confidence 0.56_
+- [PlanetScale](https://planetscale.com/) — 6 gradient surfaces; light page; accent #fbca00 / #f35815; type: ui-monospace; svg-heavy. _confidence 0.56_
+- [python.org](https://www.python.org/) — 18 gradient surfaces; light page; accent #2b5b84 / #ffdf76; type: SourceSansProRegular + Georgia. _confidence 0.56_
+- [Stripe](https://stripe.com/) — 23 gradient surfaces; light page; accent #0d1738 / #533afd; type: sohne-var; webgl, svg-heavy, next.js. _confidence 0.56_
+- [Supabase](https://supabase.com/) — 12 gradient surfaces; light page; accent #0c0f24 / #002533; type: Inter + Manrope; svg-heavy. _confidence 0.56_
+- [Trigger.dev](https://trigger.dev/) — 10 gradient surfaces; dark page; accent #a8ff53; type: Satoshi-Variable + Geist; svg-heavy. _confidence 0.56_
+- [Aceternity UI](https://ui.aceternity.com/) — 27 gradient surfaces; light page; two-value palette; type: inter + ui-monospace; svg-heavy. _confidence 0.56_
+- [Vercel](https://vercel.com/) — 7 gradient surfaces; light page; 3-colour palette; type: GeistSans + Geist Mono; svg-heavy. _confidence 0.56_
+- [The Content Architecture](https://www.contentarchitecture.dev/) — 6 gradient surfaces; light page; 6-colour palette; type: GeistSans + GeistMono; webgl, svg-heavy. _confidence 0.56_
+- [Euveka](https://www.euveka.com/) — 9 gradient surfaces; light page; accent #ff4f4f; display type up to 112px; type: PP Eiko Thin + Inter; gsap, svg-heavy, framer. _confidence 0.56_
+- [folk.app](https://www.folk.app/) — 6 gradient surfaces; light page; accent #98b558 / #588eb5; type: Inter + Uxumgrotesque; webgl, svg-heavy, webflow. _confidence 0.56_
+- [Hasan Wali](https://hw-6890.com/) — 6 gradient surfaces; light page; 6-colour palette; type: Geist + Geist Variable; lenis, webgl, framer. _confidence 0.56_
+- [Melius](https://www.melius.com/) — 10 gradient surfaces; light page; accent #f04e23 / #fff78b; type: easeStandard + recklessStandard; webgl, svg-heavy. _confidence 0.56_
+- [Rivian](https://rivian.com/) — 7 gradient surfaces; light page; accent #ffac00 / #e84826; display type up to 360px; type: Adventure + Liga; next.js. _confidence 0.56_
 - [AOI](https://aoiofficial.com/) — 21 gradient surfaces; light page; two-value palette; type: Saol Display + Trio Grotesk; shopify. _confidence 0.56_
-- [Archie Bolden](https://www.archiebolden.com/) — 6 gradient surfaces; light page; accent #632933 / #27331c; type: Taviraj + Mona Sans; framer. _confidence 0.56_
-- [Belledonne Paris](https://belledonne.com/en-us) — 6 gradient surfaces; light page; two-value palette; type: Mier A; svg-heavy, shopify. _confidence 0.56_
-- [Extraordinary Products](https://uk.busterandpunch.com/) — 7 gradient surfaces; light page; 6-colour palette; type: MuseoSans; svg-heavy, shopify. _confidence 0.56_
 - [Company Policy](https://www.companypolicy.studio/) — 6 gradient surfaces; light page; accent #3667f6; type: Kleischll + Fkrastergrotesktrial blended; gsap, lenis. _confidence 0.56_
 - [DEON LIBRA](https://deonlibra.com/) — 11 gradient surfaces; light page; accent #c00121; type: Inter + Anton; svg-heavy, shopify. _confidence 0.56_
-- [Designed by women](https://designedbywomen.org/en/) — 15 gradient surfaces; light page; 3-colour palette; type: DBW + Lelo; webgl. _confidence 0.56_
 - [Dipsea](https://www.dipseastories.com/) — 7 gradient surfaces; dark page; accent #a5006d / #26122f; type: Queens Condensed Light + Good Sans Light; svg-heavy, next.js. _confidence 0.56_
-- [Dries Bos](https://www.driesbos.com/) — 56 gradient surfaces; light page; accent #050200; svg-heavy. _confidence 0.56_
-- [Elliott Mangham](https://elliott.mangham.dev/) — 6 gradient surfaces; dark page; accent #5e2bff; type: Neue Montreal + Roobert Mono. _confidence 0.56_
 - [PAS4D Experiments](https://www.everydayexperiments.com/) — 7 gradient surfaces; light page; accent #0071e3 / #ffa500; type: SF Pro Text + Poppins; svg-heavy, shopify. _confidence 0.56_
-- [Evina](https://www.evina.com/) — 8 gradient surfaces; light page; accent #1d0b0c; type: Everett + JJannon Display. _confidence 0.56_
-- [Beacon](https://findyourbeacon.app/) — 10 gradient surfaces; dark page; accent #12172f / #2b3467; type: Playfair Display + Inter. _confidence 0.56_
-- [folk.app](https://www.folk.app/) — 6 gradient surfaces; light page; accent #98b558 / #588eb5; type: Inter + Uxumgrotesque; webgl, svg-heavy, webflow. _confidence 0.56_
-- [Legacy](https://www.givelegacy.com/) — 17 gradient surfaces; light page; accent #396d51 / #6ed39b; type: Ptlspekta; svg-heavy. _confidence 0.56_
-- [Havaianas](https://www.havaianas.com/) — 8 gradient surfaces; light page; 5-colour palette; type: Manrope + Bricolage Grotesque; svg-heavy, shopify. _confidence 0.56_
-- [Howl](https://www.howl.link/) — 9 gradient surfaces; light page; accent #01ffa7; type: Instrument Sans; gsap, svg-heavy. _confidence 0.56_
-- [Hyperframe](https://www.hyperframe.com/) — 6 gradient surfaces; dark page; accent #cbfb45; display type up to 260px; type: EverettLight + Everett; svg-heavy. _confidence 0.56_
-- [Lavenham Jackets](https://lavenhamjackets.com/) — 10 gradient surfaces; light page; 5-colour palette; type: Gill Sans + Plantin Light; svg-heavy, shopify. _confidence 0.56_
 - [Levitate Professionals](https://letslevitate.com/) — 15 gradient surfaces; light page; accent #2c622c; type: Figtree; svg-heavy, shopify. _confidence 0.56_
 - [L'Étude](https://letude.group/) — 9 gradient surfaces; light page; accent #ee382b; type: Indivisible; svg-heavy. _confidence 0.56_
 - [MAIN ROSE](https://mainrose.com/en-us) — 9 gradient surfaces; light page; accent #ea339f; type: ABC Permanent + Helvetica; svg-heavy, shopify. _confidence 0.56_
 - [MARSANO](https://marsano-berlin.de/) — 13 gradient surfaces; dark page; accent #007bbc; type: Merriweather; shopify. _confidence 0.56_
-- [Melius](https://www.melius.com/) — 10 gradient surfaces; light page; accent #f04e23 / #fff78b; type: easeStandard + recklessStandard; webgl, svg-heavy. _confidence 0.56_
 - [Operate](https://operate.so/) — 8 gradient surfaces; dark page; accent #005c00 / #117025; type: denim + muoto; svg-heavy. _confidence 0.56_
-- [Original Sin](https://www.originalsin.co/) — 10 gradient surfaces; light page; accent #990000; type: Allianz + Neue Haas Grotesk; svg-heavy. _confidence 0.56_
-- [Oscar Pecher](https://www.oscarpecher.com/) — 6 gradient surfaces; light page; accent #ff6419; type: Switzer; framer. _confidence 0.56_
-- [otonove.studiokhi.com](https://otonove.studiokhi.com/) — 17 gradient surfaces; light page; accent #80dee9; display type up to 432px; type: Galgo + Inter; svg-heavy. _confidence 0.56_
+- [Oxide Computer Company](https://oxide.computer/) — 7 gradient surfaces; light page; accent #563160; type: SuisseIntl + GT America Mono; svg-heavy. _confidence 0.56_
 - [Pattrn](https://pattrn.io/) — 31 gradient surfaces; dark page; accent #0a84ff; type: Inter + SF Pro; svg-heavy, framer. _confidence 0.56_
 - [Prima](https://prima.co/) — 11 gradient surfaces; light page; accent #113034; type: SelfModern-Regular + AkzidenzGroteskBQExtendedLight; svg-heavy, shopify. _confidence 0.56_
-- [SevenGrid](https://sevengrid.app/) — 6 gradient surfaces; dark page; accent #1dc7b7 / #0c1611; type: Inter + Geist; svg-heavy. _confidence 0.56_
 - [Sketch](https://www.sketch.com/) — 16 gradient surfaces; light page; accent #ff7843 / #ff0000; type: InterVariable + Reckless; svg-heavy. _confidence 0.56_
-- [templi.com](https://www.templi.com/) — 9 gradient surfaces; light page; accent #60269e / #a95cff; type: Roboto + Material Symbols Outlined; svg-heavy, next.js. _confidence 0.56_
-- [The Print Loft](https://theprintloft.art/) — 38 gradient surfaces; light page; accent #0021b3; display type up to 160px; type: Parkinsans + IBM Plex Mono; svg-heavy, shopify. _confidence 0.56_
-- [Tusaro Studio](https://www.tusaro.studio/) — 21 gradient surfaces; light page; accent #0728c4; display type up to 464px; type: PP Neue Montreal Medium + Inter; framer. _confidence 0.56_
-- [USPS Delivers](https://www.uspsdelivers.com/direct-mail-technologies/) — 10 gradient surfaces; light page; accent #004b87; type: Neue Helvetica + Material Icons. _confidence 0.56_
-- [WePresent](https://wepresent.wetransfer.com/) — 9 gradient surfaces; light page; accent #fff200; type: Actief Grotesque + GT Super; next.js. _confidence 0.56_
-- [Wist](https://www.wist.chat/) — 21 gradient surfaces; light page; accent #0a4bff; type: InterVariable + LyonText; svg-heavy. _confidence 0.56_

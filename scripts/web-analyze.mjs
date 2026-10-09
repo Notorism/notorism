@@ -11,7 +11,7 @@ const outFile = '.research/web/analysis.json';
 let done = {};
 try { done = JSON.parse(await readFile(outFile, 'utf8')); } catch {}
 
-const browser = await chromium.launch({executablePath: process.env.CHROMIUM_PATH ?? '/opt/pw-browsers/chromium'}).catch(() => chromium.launch());
+const browser = await chromium.launch({executablePath: process.env.CHROMIUM_PATH ?? '/opt/pw-browsers/chromium', args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist', '--enable-webgl']}).catch(() => chromium.launch());
 
 const probe = () => {
   const px = n => parseFloat(n) || 0;
@@ -111,7 +111,9 @@ const probe = () => {
   };
 };
 
-const todo = candidates.filter(c => !done[c.host]).slice(0, limit);
+const ANIM = new Set(['gsap', 'lenis', 'locomotive-scroll', 'three.js', 'webgl']);
+const redo = h => process.env.REDO && (process.env.REDO === 'all' || done[h]?.ok && (done[h].tech ?? []).some(t => ANIM.has(t)) || /^seed/.test(process.env.REDO) && candidates.find(c => c.host === h)?.sources.includes('seed'));
+const todo = candidates.filter(c => !done[c.host] || (done[c.host].motion?.v !== 2 && redo(c.host))).slice(0, limit);
 let n = 0;
 async function worker(queue) {
   const ctx = await browser.newContext({viewport: {width: 1440, height: 900}, userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36', ignoreHTTPSErrors: true});
@@ -119,6 +121,11 @@ async function worker(queue) {
   while (queue.length) {
     const c = queue.shift();
     const page = await ctx.newPage();
+    await page.addInitScript(() => {
+      window.__raf = 0;
+      const o = window.requestAnimationFrame.bind(window);
+      window.requestAnimationFrame = cb => o(t => { window.__raf++; cb(t); });
+    });
     try {
       const res = await page.goto(c.url, {waitUntil: 'domcontentloaded', timeout: 25000});
       await page.waitForLoadState('load', {timeout: 8000}).catch(() => {});
@@ -128,7 +135,28 @@ async function worker(queue) {
       await page.evaluate(() => window.scrollTo(0, 900)).catch(() => {});
       await page.waitForTimeout(500);
       const data = await page.evaluate(probe);
-      done[c.host] = {ok: true, status, finalUrl: page.url(), ...data};
+      // Motion: rAF callbacks per second, running CSS/Web animations, canvases covering the viewport.
+      // Heavy WebGL scenes need time to boot; settle before sampling frames.
+      await page.bringToFront().catch(() => {});
+      const heavy = c.sources.includes('seed') || (data.tech ?? []).some(t => ANIM.has(t) || t === 'canvas');
+      if (heavy) await page.waitForTimeout(Number(process.env.SETTLE ?? 5000));
+      const r0 = await page.evaluate(() => window.__raf);
+      await page.waitForTimeout(1000);
+      const motion = await page.evaluate(r0 => {
+        const vw = innerWidth, vh = innerHeight;
+        const cv = [...document.querySelectorAll('canvas')].map(c => { const r = c.getBoundingClientRect(); return Math.max(0, Math.min(r.right, vw) - Math.max(r.left, 0)) * Math.max(0, Math.min(r.bottom, vh) - Math.max(r.top, 0)) / (vw * vh); });
+        return {rafPerSec: window.__raf - r0, running: document.getAnimations().filter(a => a.playState === 'running').length, canvasCoverage: Number(Math.max(0, ...cv).toFixed(2)), canvases: cv.length};
+      }, r0).catch(() => ({rafPerSec: 0, running: 0, canvasCoverage: 0, canvases: 0}));
+      // Scroll-linked motion: does a long scroll move sampled elements at different rates?
+      const probeY = () => page.evaluate(() => [...document.querySelectorAll('body *')].filter(e => { const r = e.getBoundingClientRect(); return r.width > 80 && r.height > 40 && r.top > 0 && r.top < innerHeight; }).slice(0, 30).map(e => e.getBoundingClientRect().top));
+      const y0 = await probeY();
+      await page.mouse.wheel(0, 500); await page.waitForTimeout(900);
+      const y1 = await page.evaluate(() => [...document.querySelectorAll('body *')].filter(e => { const r = e.getBoundingClientRect(); return r.width > 80 && r.height > 40; }).length);
+      motion.scrollY = await page.evaluate(() => Math.round(scrollY));
+      motion.smoothScrollLag = motion.scrollY > 0 && motion.scrollY < 480;
+      motion.v = 2;
+      if (heavy) { const d2 = await page.evaluate(probe).catch(() => null); if (d2 && d2.textLen > data.textLen) Object.assign(data, {textLen: d2.textLen, tech: d2.tech}); }
+      done[c.host] = {ok: true, status, finalUrl: page.url(), ...data, motion};
     } catch (e) {
       done[c.host] = {ok: false, error: String(e.message).slice(0, 80)};
     }

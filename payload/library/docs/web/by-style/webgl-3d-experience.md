@@ -1,31 +1,94 @@
 # WebGL / 3D Experience: real websites
 
-27 live sites measured as examples of [WebGL / 3D Experience](../../styles/webgl-3d-experience/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+90 live sites measured as examples of [WebGL / 3D Experience](../../styles/webgl-3d-experience/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
+- [14islands](https://www.14islands.com/) — renders a WebGL canvas; light page; two-value palette; type: AftenScreen + BentonSans; webgl, next.js. _confidence 0.81_
+- [Aristide Benoist](https://aristidebenoist.com/) — renders a WebGL canvas; dark page; two-value palette; type: jws; webgl, svg-heavy. _confidence 0.81_
+- [basement.studio](https://basement.studio/) — renders a WebGL canvas; dark page; 3-colour palette; type: Geist + Geist Mono; webgl. _confidence 0.81_
+- [Bruno's](https://bruno-simon.com/) — renders a WebGL canvas; light page; two-value palette; webgl. _confidence 0.81_
+- [Cappen](https://cappen.com/) — renders a WebGL canvas; light page; two-value palette; display type up to 140px; type: HelveticaNowDisplay; webgl, svg-heavy. _confidence 0.81_
+- [Clay](https://clay.global/) — renders a WebGL canvas; light page; 4-colour palette; type: UniversalSans-500 + UniversalSans-740-Headlines; webgl, svg-heavy, next.js. _confidence 0.81_
+- [Clerk](https://clerk.com/) — renders a WebGL canvas; light page; accent #6c47ff; type: ui-sans-serif + geistNumbers; webgl, svg-heavy. _confidence 0.81_
+- [dogstudio.co](https://dogstudio.co/) — renders a WebGL canvas; dark page; accent #0e101a / #5ab400; type: Heebo + Gilroy; webgl, svg-heavy. _confidence 0.81_
+- [Fumadocs](https://www.fumadocs.dev/) — renders a WebGL canvas; light page; accent #c6bb58 / #dd7627; type: Geist + JetBrains Mono; webgl, svg-heavy. _confidence 0.81_
+- [Hello Monday](https://hellomonday.com/) — renders a WebGL canvas; light page; accent #db7093; webgl. _confidence 0.81_
+- [Immersive Garden](https://immersive-g.com/) — renders a WebGL canvas; light page; two-value palette; type: PSTimes + HelveticaNeueRegular; webgl. _confidence 0.81_
+- [Jesko Jets](https://jeskojets.com/) — renders a WebGL canvas; light page; 5-colour palette; type: GT America Extended + GT America Expanded; gsap, lenis, webgl. _confidence 0.81_
+- [Joshua Baker](https://www.joshuabaker.com/) — renders a WebGL canvas; dark page; 3-colour palette; type: Söhne; webgl, svg-heavy. _confidence 0.81_
+- [KPR](https://kprverse.com/) — renders a WebGL canvas; light page; 3-colour palette; display type up to 159px; type: IBMPlexMono + ui-monospace; webgl, svg-heavy. _confidence 0.81_
+- [Bizarro](https://lhbzr.com/) — renders a WebGL canvas; dark page; two-value palette; type: Borda; webgl. _confidence 0.81_
+- [Liveblocks](https://liveblocks.io/) — renders a WebGL canvas; dark page; accent #ec6572 / #65afec; type: suisse; webgl, svg-heavy. _confidence 0.81_
+- [Locomotive](https://locomotive.ca/en) — renders a WebGL canvas; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.81_
+- [Lusion](https://lusion.co/) — renders a WebGL canvas; light page; accent #0016ec; display type up to 144px; type: Aeonik; webgl, svg-heavy. _confidence 0.81_
+- [mercury.com](https://mercury.com/) — renders a WebGL canvas; light page; accent #5266eb; type: arcadia + arcadiaDisplay; webgl, svg-heavy. _confidence 0.81_
+- [monopo london](https://monopo.london/) — renders a WebGL canvas; dark page; two-value palette; type: Roobert; webgl. _confidence 0.81_
+- [Motion (prev Framer Motion)](https://motion.dev/) — renders a WebGL canvas; dark page; accent #ffdb2a; type: TASA Orbiter + Geist Mono; webgl, svg-heavy. _confidence 0.81_
+- [Obsidian](https://obsidian.md/) — renders a WebGL canvas; dark page; accent #713f12 / #7c3aed; type: ui-sans-serif; webgl, svg-heavy. _confidence 0.81_
+- [Obys Agency](https://obys.agency/) — renders a WebGL canvas; light page; two-value palette; type: Obys; webgl. _confidence 0.81_
+- [OddCommon](https://www.oddcommon.com/) — renders a WebGL canvas; light page; two-value palette; type: Roobert + GTFlexa; webgl. _confidence 0.81_
+- [ORYZO AI](https://oryzo.ai/) — renders a WebGL canvas; dark page; accent #ff0000 / #382416; display type up to 410px; type: halyard-display-variable + DM Mono; webgl, svg-heavy. _confidence 0.81_
+- [The AI presentation workspace](https://pitch.com/) — renders a WebGL canvas; light page; accent #280f62 / #5318eb; display type up to 180px; type: Mark Pro Bold + Eina 03 Regular; webgl, framer. _confidence 0.81_
+- [Ramp](https://ramp.com/) — renders a WebGL canvas; light page; 4-colour palette; type: Lausanne; webgl, svg-heavy. _confidence 0.81_
+- [Raycast](https://www.raycast.com/) — renders a WebGL canvas; dark page; accent #452324 / #ff6363; type: Inter + SF Pro Text; webgl, svg-heavy. _confidence 0.81_
+- [Resn](https://resn.co.nz/) — renders a WebGL canvas; dark page; two-value palette; type: Fort-Medium; three.js, webgl. _confidence 0.81_
+- [Spline](https://spline.design/) — renders a WebGL canvas; dark page; accent #0062ff; type: Spline Sans + ui-monospace; webgl, svg-heavy, next.js. _confidence 0.81_
+- [Stripe](https://stripe.com/) — renders a WebGL canvas; light page; accent #0d1738 / #533afd; type: sohne-var; webgl, svg-heavy, next.js. _confidence 0.81_
+- [Unseen Studio®](https://unseen.co/) — renders a WebGL canvas; light page; 4-colour palette; type: Neue Montreal; webgl, svg-heavy. _confidence 0.81_
+- [Zed](https://zed.dev/) — renders a WebGL canvas; light page; accent #bf3c27; type: writer + ui-monospace; webgl, svg-heavy. _confidence 0.81_
 - [Radio Null Rewind 2022](https://2022.madebynull.com/) — renders a WebGL canvas; light page; accent #000010 / #00009f; display type up to 172px; type: PP Neue + Suisse; webgl, svg-heavy. _confidence 0.81_
 - [Driftime®](https://2025.driftime.com/) — renders a WebGL canvas; dark page; 3-colour palette; display type up to 532px; type: Koulen + Instrument Serif; webgl. _confidence 0.81_
-- [Anècdota](https://www.anecdotarural.com/en) — renders a WebGL canvas; light page; 3-colour palette; type: ivar + neueHass; webgl. _confidence 0.81_
-- [Balky Studio®](https://www.balky.studio/) — renders a WebGL canvas; light page; accent #ff4d00; display type up to 128px; type: Gta + Gta Mono; lenis, webgl, svg-heavy. _confidence 0.81_
+- [Adaline](https://www.adaline.ai/) — renders a WebGL canvas; light page; accent #050e11 / #203b14; type: akkurat + Newsreader; webgl, svg-heavy. _confidence 0.81_
+- [Any Other Name](https://anyother.name/) — renders a WebGL canvas; light page; two-value palette; type: Monument Grotesk; webgl. _confidence 0.81_
+- [Ark Shelter](https://www.ark-shelter.com/en) — renders a WebGL canvas; light page; 6-colour palette; type: CircularStd + Roboto; three.js, webgl. _confidence 0.81_
+- [artem shcherbakov](https://artemartemartem.com/) — renders a WebGL canvas; light page; two-value palette; type: Arial Narrow + EaseDouble; webgl, svg-heavy, next.js. _confidence 0.81_
+- [artemiilebedev.com](https://artemiilebedev.com/) — renders a WebGL canvas; dark page; 4-colour palette; type: Fragment Mono; gsap, lenis, three.js. _confidence 0.81_
+- [BASS](https://bassbcn.com/) — renders a WebGL canvas; light page; 4-colour palette; type: EaseStandard-Medium; gsap, lenis, three.js. _confidence 0.81_
 - [Bécane](https://www.becaneparis.com/) — renders a WebGL canvas; light page; accent #ff0000; type: Eurostile Becane; webgl, next.js, shopify. _confidence 0.81_
+- [Belen Jones](https://www.belenjones.com/) — renders a WebGL canvas; light page; accent #fff200; type: Monument Extended Ultrabold + Monument Extended Regular; webgl, next.js. _confidence 0.81_
+- [Birch (Revealbot)](https://bir.ch/) — renders a WebGL canvas; dark page; accent #1877f2 / #5b45cd; display type up to 123px; type: Tt Commons Pro Variable + TT Commons Pro Variable; gsap, webgl, svg-heavy. _confidence 0.81_
+- [Carbon Design System](https://www.carbondesignsystem.com/) — renders a WebGL canvas; light page; accent #002d9c / #001d6c; display type up to 187px; type: IBM Plex Sans + IBM Plex Serif; webgl, svg-heavy. _confidence 0.81_
 - [Celtic Sea Salt®](https://celticseasalt.com/) — renders a WebGL canvas; light page; accent #052356 / #3979ad; type: Texturina + Roboto; gsap, webgl, svg-heavy. _confidence 0.81_
-- [Charlie Osborne](https://www.charlieosborne.co/) — renders a WebGL canvas; dark page; 3-colour palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.81_
+- [Charlie Osborne](https://www.charlieosborne.co/) — renders a WebGL canvas; dark page; two-value palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.81_
+- [Chiara Luzzana](https://chiaraluzzana.com/) — renders a WebGL canvas; light page; two-value palette; display type up to 173px; type: Roslindale Display Condensed + Ayer; gsap, locomotive-scroll, three.js. _confidence 0.81_
 - [Choreograffiti](https://choreograffiti.com/) — renders a WebGL canvas; light page; accent #d3fe05; display type up to 459px; type: SharpGrotesk; webgl. _confidence 0.81_
+- [Claudiu Angheloni](https://claudiuangheloni.com/) — renders a WebGL canvas; light page; two-value palette; type: Barlow Condensed; three.js, webgl. _confidence 0.81_
 - [Chronically Online Magazine](https://com.manychat.com/) — renders a WebGL canvas; dark page; accent #0057ff / #ff4b00; display type up to 115px; type: CoFo Sans Mono + Rooftop; gsap, webgl, svg-heavy. _confidence 0.81_
-- [Designed by women](https://designedbywomen.org/en/) — renders a WebGL canvas; light page; 3-colour palette; type: DBW + Lelo; webgl. _confidence 0.81_
-- [Dia](https://www.diabrowser.com/) — renders a WebGL canvas; light page; accent #ffcb30 / #ffe48c; type: ABC Oracle + ABC Oracle Triple; webgl, next.js. _confidence 0.81_
-- [(dot)connect](https://dotconnect.vc/) — renders a WebGL canvas; light page; accent #001011 / #fd5321; type: AeonikPro; gsap, webgl. _confidence 0.81_
+- [The Content Architecture](https://www.contentarchitecture.dev/) — renders a WebGL canvas; light page; 6-colour palette; type: GeistSans + GeistMono; webgl, svg-heavy. _confidence 0.81_
+- [Corentin Bernadou](https://corentinbernadou.com/) — renders a WebGL canvas; dark page; accent #ff0000; type: H; gsap, webgl. _confidence 0.81_
+- [Cryptogram](https://cryptogramink.com/) — renders a WebGL canvas; dark page; two-value palette; type: Atlas Grotesk Web; three.js, webgl. _confidence 0.81_
+- [CubiFlow](https://www.cubiflow.com/) — renders a WebGL canvas; light page; two-value palette; type: B612 Mono; gsap, three.js, webgl. _confidence 0.81_
+- [Game Changer](https://detour.hk/2016/en/) — renders a WebGL canvas; light page; accent #ffce00 / #dd0505; type: MarkPro; three.js, webgl. _confidence 0.81_
+- [Edoardo Lunardi](https://www.edoardolunardi.dev/) — renders a WebGL canvas; dark page; two-value palette; type: Inter + Ubuntu Mono; webgl, svg-heavy. _confidence 0.81_
+- [Emmit Fenn](https://farfromhere.emmitfenn.com/) — renders a WebGL canvas; light page; two-value palette; type: Untitled Sans; webgl, svg-heavy. _confidence 0.81_
 - [folk.app](https://www.folk.app/) — renders a WebGL canvas; light page; accent #98b558 / #588eb5; type: Inter + Uxumgrotesque; webgl, svg-heavy, webflow. _confidence 0.81_
-- [GF Smith](https://www.gfsmith.com/) — renders a WebGL canvas; light page; accent #193f1a / #c5ff21; display type up to 264px; type: GFS Homie + Noto Sans KR; webgl, next.js. _confidence 0.81_
-- [House of Honey](https://www.houseofhoney.com/) — renders a WebGL canvas; dark page; accent #331917 / #fc72c4; display type up to 537px; type: canora + noeText; webgl. _confidence 0.81_
-- [jkane.co](https://www.jkane.co/) — renders a WebGL canvas; light page; accent #ff66eb; type: PPNeueMontreal + PPNeueMontreal Medium; webgl, next.js. _confidence 0.81_
+- [Frequency Breathwork](https://frequencybreathwork.com/) — renders a WebGL canvas; light page; 6-colour palette; type: Aime + Neue Montreal; gsap, lenis, webgl. _confidence 0.81_
+- [fromanother](https://www.fromanother.love/) — renders a WebGL canvas; dark page; accent #051236; type: twkFont + herbikFont; webgl. _confidence 0.81_
+- [GATE108](https://gate108.cc/) — renders a WebGL canvas; light page; accent #06040a; type: instrumentserif-regular + clashgrotesk-regular; webgl. _confidence 0.81_
+- [Grafik®](https://grafik.co.nz/) — renders a WebGL canvas; light page; accent #ff4f00 / #6320ee; type: Die Grotesk A Regular + Founders Grotesk X Condensed Semibold; webgl. _confidence 0.81_
+- [Audience](https://www.figma.com/deck/T84sk9fQrqA9cNHp07h03k/Studio-Gyor-Moore-%7C-Recent-Work--2025) — renders a WebGL canvas; light page; 3-colour palette; webgl. _confidence 0.81_
+- [Hasan Wali](https://hw-6890.com/) — renders a WebGL canvas; light page; 6-colour palette; type: Geist + Geist Variable; lenis, webgl, framer. _confidence 0.81_
+- [Illuminating Radioactivity](https://illuminating-radioactivity.com/2/) — renders a WebGL canvas; light page; accent #218423; display type up to 200px; type: custom_19789 + custom_20744; gsap, webgl. _confidence 0.81_
+- [ITom](https://itomdev.com/) — renders a WebGL canvas; light page; two-value palette; type: Inter; webgl. _confidence 0.81_
 - [jonway.studio](https://www.jonway.studio/) — renders a WebGL canvas; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl. _confidence 0.81_
-- [Locomotive](https://locomotive.ca/en) — renders a WebGL canvas; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.81_
+- [Kokopako](https://kokopako.fr/work) — renders a WebGL canvas; dark page; two-value palette; webgl, svg-heavy. _confidence 0.81_
+- [Maël Ruffini](https://www.maelruffini.com/) — renders a WebGL canvas; light page; 3-colour palette; display type up to 120px; type: ESAllianz + EditorialOld; webgl. _confidence 0.81_
+- [maximilian kaspar](https://www.maximiliankaspar.com/) — renders a WebGL canvas; light page; two-value palette; display type up to 112px; type: Bugrino + Neue Montreal Mono Book; gsap, lenis, webgl. _confidence 0.81_
+- [Medusmo](https://www.medusmo.com/) — renders a WebGL canvas; light page; accent #ff0000 / #0000ff; display type up to 160px; type: Doumbar + Inter; gsap, lenis, webgl. _confidence 0.81_
 - [Melius](https://www.melius.com/) — renders a WebGL canvas; light page; accent #f04e23 / #fff78b; type: easeStandard + recklessStandard; webgl, svg-heavy. _confidence 0.81_
+- [Noomo](https://noomoagency.com/) — renders a WebGL canvas; light page; 5-colour palette; display type up to 120px; type: NeueRoman + NeueMachina; webgl. _confidence 0.81_
+- [nudot.com.tw](https://nudot.com.tw/) — renders a WebGL canvas; dark page; 3-colour palette; display type up to 144px; type: DM Sans + Bitcount Grid Single; gsap, lenis, three.js. _confidence 0.81_
+- [Origin](https://www.originbrand.io/) — renders a WebGL canvas; light page; 6-colour palette; display type up to 124px; type: Saans; webgl. _confidence 0.81_
 - [outreach.space](https://www.outreach.space/) — renders a WebGL canvas; dark page; accent #0075ff / #ff0808; type: ITC Garamond + Suisse; webgl, next.js. _confidence 0.81_
+- [OVA](https://ova-investment.com/) — renders a WebGL canvas; dark page; two-value palette; type: Neue Montreal; webgl. _confidence 0.81_
+- [Over-Stimulated](https://www.over-stimulated.com/) — renders a WebGL canvas; light page; 3-colour palette; type: __myFont_696fb3 + __geistMono_93783d; webgl, next.js. _confidence 0.81_
 - [Powell Studio](https://powell-studio.com/) — renders a WebGL canvas; dark page; two-value palette; type: ma; webgl. _confidence 0.81_
-- [Visions](https://www.readvisions.com/marvin/) — renders a WebGL canvas; dark page; accent #ff4c65; display type up to 418px; type: Marvin Visions Variable + Infini; webgl. _confidence 0.81_
+- [Powerhouse Company](https://www.powerhouse-company.com/) — renders a WebGL canvas; light page; two-value palette; type: Graphik; three.js, webgl. _confidence 0.81_
+- [Resend](https://resend.com/) — renders a WebGL canvas; dark page; accent #00a3ff / #22ff99; type: inter + aBCFavorit; webgl, svg-heavy. _confidence 0.81_
 - [A Creative Agency.](https://www.seventeenagency.com/) — renders a WebGL canvas; light page; accent #c13437 / #275d82; type: Bagosscondensed; gsap, lenis, three.js. _confidence 0.81_
-- [Side Stage Ventures](https://www.sidestage.vc/) — renders a WebGL canvas; dark page; accent #7fa5ff; type: Abcdiatype + Quadranttextmonotrial; gsap, lenis, webgl. _confidence 0.81_
-- [Tempo](https://tempo.xyz/) — renders a WebGL canvas; light page; accent #001923; type: Pilat + HB Set; webgl, svg-heavy. _confidence 0.81_
-- [VERDE](https://verde.io/) — renders a WebGL canvas; light page; accent #00cc00 / #d4ff00; type: Calibre; webgl. _confidence 0.81_
+- [Winter '26](https://www.shopify.com/editions/winter2026) — renders a WebGL canvas; dark page; 6-colour palette; display type up to 194px; type: NeueMontreal + HWCigars; webgl, svg-heavy. _confidence 0.81_
+- [Silver Gore](https://www.silvergore.com/) — renders a WebGL canvas; dark page; two-value palette; type: ocr-b-std + Obviously; webgl. _confidence 0.81_
+- [Squarespace](https://www.squarespace.com/) — renders a WebGL canvas; light page; 4-colour palette; type: Clarkson + Clarkson Serif; webgl, svg-heavy. _confidence 0.81_
+- [thenewindustrials.com](https://thenewindustrials.com/) — renders a WebGL canvas; light page; accent #ff8126; type: albraBook + bizUdMincho; webgl. _confidence 0.81_
 - [Paris](https://viens-la.com/) — renders a WebGL canvas; dark page; accent #ffe375 / #ffc48c; display type up to 200px; type: obviously-variable; webgl, svg-heavy. _confidence 0.81_
+- [Waterworks](https://waterworksproject.nl/en) — renders a WebGL canvas; dark page; two-value palette; type: IBM Plex Mono + Helvetica Neue; webgl. _confidence 0.81_
+- [VERDE](https://verde.io/) — renders a WebGL canvas; light page; accent #00cc00 / #d4ff00; type: Calibre; webgl. _confidence 0.81_

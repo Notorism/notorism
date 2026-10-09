@@ -1,7 +1,7 @@
 // Collects candidate sites from public, curated web-design galleries.
 // Output: .research/web/candidates.json (git-ignored). Only URLs and the
 // gallery's own tags are stored here; nothing from the sites is copied.
-import {mkdir, writeFile} from 'node:fs/promises';
+import {mkdir, writeFile, readFile} from 'node:fs/promises';
 
 const UA = 'Mozilla/5.0 (compatible; NotorismWebDatacenter/1.0; +https://github.com/Notorism/notorism)';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -20,6 +20,7 @@ async function get(url) {
 }
 
 const candidates = new Map();
+if (process.env.SEEDS_ONLY) for (const c of JSON.parse(await readFile('.research/web/candidates.json', 'utf8'))) candidates.set(c.host, c);
 function add(url, name, source, tags = []) {
   let u;
   try { u = new URL(url); } catch { return; }
@@ -32,6 +33,7 @@ function add(url, name, source, tags = []) {
   candidates.set(host, entry);
 }
 
+if (!process.env.SEEDS_ONLY) {
 // Httpster: style pages carry the gallery's own style tag.
 const httpsterStyles = ['brutalist', 'colourful', 'dark', 'fullscreen', 'grid', 'illustrative', 'interactive', 'light', 'minimal', 'monotone', 'non-standard-layout', 'non-standard-navigation', 'photographic', 'print', 'retro', 'scrolling-behaviour', 'typographic'];
 const parseHttpster = (html, tags) => {
@@ -59,6 +61,14 @@ for (let p = 1; p <= pages.minimal; p++) {
   while ((m = re.exec(html))) { add(m[1], '', 'minimal.gallery'); n++; }
   if (!n) break;
   await sleep(300);
+}
+
+}
+
+// Curated anchors (scripts/web-seeds.json): hand-picked, always analyzed and prioritized.
+const seeds = JSON.parse(await readFile('scripts/web-seeds.json', 'utf8'));
+for (const [collection, hosts] of Object.entries(seeds)) for (const h of hosts) {
+  add('https://' + h + '/', '', 'seed', [`anchor:${collection}`]);
 }
 
 await mkdir('.research/web', {recursive: true});

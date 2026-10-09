@@ -15,7 +15,7 @@ const styleName = Object.fromEntries(catalog.styles.map(s => [s.slug, s.name]));
 const GROTESQUE = /helvetica|grotesk|grotesque|akzidenz|neue|inter|suisse|aktiv|univers|haas|arial|dm sans|manrope|geist|söhne|sohne|gt america|favorit|pp neue|pp mori|general sans|satoshi/i;
 const SERIF = /serif|georgia|times|garamond|playfair|canela|tiempos|freight|caslon|bodoni|didone|editorial|newsreader|ivar|gt sectra|cormorant|ogg|reckless|signifier|fraunces/i;
 const MONO = /mono|courier|consolas|menlo|code|typewriter|space grotesk mono|berkeley|jetbrains|ibm plex mono/i;
-const BAD_TITLE = /just a moment|access denied|attention required|403|404|not found|error|cloudflare|captcha|domain|for sale|parked|coming soon|under construction|casino|porn|xxx|escort|bet(ting)?\b/i;
+const BAD_TITLE = /just a moment|access denied|attention required|403|404|not found|not supported|unsupported|error|cloudflare|captcha|domain|for sale|parked|coming soon|under construction|casino|porn|xxx|escort|bet(ting)?\b/i;
 
 const rule = (slug, score, why) => ({slug, score, why});
 
@@ -131,29 +131,72 @@ function describe(a) {
 }
 
 // ---- assemble
+// Motion evidence: measured frames per second, running animations, a viewport-sized canvas, and the motion stack.
+const motionScore = a => {
+  const m = a.motion;
+  let sc = 0;
+  if (m) {
+    if (m.rafPerSec >= 25) sc += 1;
+    if (m.canvasCoverage >= .5) sc += 1.5;
+    if (m.running >= 4) sc += .5;
+    if (m.smoothScrollLag) sc += .3;
+  }
+  if (a.tech.includes('webgl') || a.tech.includes('three.js')) sc += 1;
+  sc += Math.min(1, a.tech.filter(t => ['gsap', 'lenis', 'locomotive-scroll'].includes(t)).length * .5);
+  return Number(sc.toFixed(2));
+};
+const MINIMAL_STYLES = new Set(['minimalism', 'japanese-minimalism', 'swiss-design', 'international-typographic-style', 'monochromatic-design', 'typography-first']);
+
 const pool = [];
 for (const c of candidates) {
   const a = analysis[c.host];
-  if (!a?.ok || BAD_TITLE.test(a.title) || a.textLen < 60 || !/^https?:/.test(c.url)) continue;
-  const styles = classify(c, a);
-  if (!styles.length) continue;
-  const quality = styles[0].score + (c.sources.length > 1 ? .8 : 0) + (a.accents.length ? .1 : 0) + Math.min(.5, a.tech.length * .1);
-  pool.push({c, a, styles, quality});
+  const anchor = c.tags.find(t => t.startsWith('anchor:'))?.slice(7) ?? null;
+  if (!a?.ok || BAD_TITLE.test(a.title) || (a.textLen < 60 && !anchor) || !/^https?:/.test(c.url)) continue;
+  const mScore = motionScore(a);
+  let styles = classify(c, a);
+  const has = slug => styles.some(x => x.slug === slug);
+  const force = (slug, score, why) => { if (styleName[slug] && !has(slug)) styles = [...styles, {slug, score, why}]; };
+  if (mScore >= 2) force('motion-driven-design', 1.8 + Math.min(1, (mScore - 2) / 3), `measured motion: ${a.motion?.rafPerSec ?? '?'} frames/s, ${a.motion?.running ?? 0} running animations, canvas ${Math.round((a.motion?.canvasCoverage ?? 0) * 100)}% of viewport`);
+  if (anchor === 'minimal-product') styles = styles.filter(x => !['terminal-hacker-ui', 'neo-brutalism'].includes(x.slug));
+  if (anchor === 'minimal-product') force('minimalism', 2.7, 'curated reference for restrained product and documentation design');
+  if (anchor === 'animation-first') {
+    if (a.tech.includes('webgl') || a.tech.includes('three.js')) force('webgl-3d-experience', 2.6, 'curated animation-first reference with a WebGL scene');
+    force('motion-driven-design', 2.6, 'curated animation-first reference');
+  }
+  styles = styles.sort((x, y) => y.score - x.score).slice(0, 4);
+  const collections = [];
+  const calm = a.palette.length <= 4 && a.accents.length <= 1;
+  if (anchor === 'animation-first' || mScore >= 2.5) collections.push('animation-first');
+  if (anchor === 'minimal-product' || (anchor !== 'animation-first' && a.textLen >= 60 && calm && mScore < 2 && a.feats.textEls <= 140 && styles.some(x => MINIMAL_STYLES.has(x.slug) && x.score >= 2.2))) collections.push('minimal-product');
+  if (!styles.length && !collections.length) continue;
+  const quality = (styles[0]?.score ?? 0) + (c.sources.length > 1 ? .8 : 0) + (a.accents.length ? .1 : 0) + Math.min(.5, a.tech.length * .1);
+  pool.push({c, a, styles, quality, anchor, collections, mScore});
 }
 pool.sort((x, y) => y.quality - x.quality);
 
-// Balanced selection: round-robin over primary styles so one aesthetic cannot dominate.
+// Selection. Priority 1: curated anchors. Priority 2: measured members of the two featured collections.
+// Priority 3: everything else, balanced by primary style so no aesthetic can dominate.
+const QUOTA = {'animation-first': Number(process.env.ANIM_QUOTA ?? 100), 'minimal-product': Number(process.env.MIN_QUOTA ?? 100)};
+const picked = [], used = new Set(), priority = new Map();
+const take = (p, pr) => { if (!used.has(p.c.host) && picked.length < TARGET) { picked.push(p); used.add(p.c.host); priority.set(p.c.host, pr); return true; } return false; };
+for (const [coll, quota] of Object.entries(QUOTA)) {
+  const members = pool.filter(p => p.collections.includes(coll));
+  const anchors = members.filter(p => p.anchor === coll).sort((x, y) => coll === 'animation-first' ? y.mScore - x.mScore : y.quality - x.quality);
+  const rest = members.filter(p => p.anchor !== coll).sort((x, y) => coll === 'animation-first' ? y.mScore - x.mScore || y.quality - x.quality : y.quality - x.quality);
+  let n = 0;
+  for (const p of anchors) if (n < quota && take(p, 1)) n++;
+  for (const p of rest) if (n < quota && take(p, 2)) n++;
+}
 const byPrimary = new Map();
-for (const p of pool) { const k = p.styles[0].slug; (byPrimary.get(k) ?? byPrimary.set(k, []).get(k)).push(p); }
-const picked = [], used = new Set();
+for (const p of pool) { if (!p.styles.length) continue; const k = p.styles[0].slug; (byPrimary.get(k) ?? byPrimary.set(k, []).get(k)).push(p); }
 const cap = Number(process.env.CAP ?? 14);
 for (let round = 0; round < cap && picked.length < TARGET; round++) {
   for (const [, list] of [...byPrimary.entries()].sort((a, b) => b[1].length - a[1].length)) {
     const p = list[round];
-    if (p && !used.has(p.c.host) && picked.length < TARGET) { picked.push(p); used.add(p.c.host); }
+    if (p) take(p, 3);
   }
 }
-for (const p of pool) if (picked.length < TARGET && !used.has(p.c.host)) { picked.push(p); used.add(p.c.host); }
+for (const p of pool) if (p.styles.length) take(p, 3);
 
 // Short brand name: the shortest title segment that looks like a name, else the host.
 const brand = p => {
@@ -162,15 +205,17 @@ const brand = p => {
   return ok.sort((a, b) => a.length - b.length)[0] ?? p.c.host;
 };
 const slugify = h => h.replace(/^www\./, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-const sites = picked.sort((x, y) => x.c.host.localeCompare(y.c.host)).map((p, i) => ({
+const sites = picked.sort((x, y) => priority.get(x.c.host) - priority.get(y.c.host) || x.c.host.localeCompare(y.c.host)).map((p, i) => ({
   id: i + 1,
   slug: slugify(p.c.host),
   name: brand(p),
   url: p.a.finalUrl.replace(/[?#].*$/, ''),
   host: p.c.host,
   language: p.a.lang || null,
+  priority: priority.get(p.c.host),
+  collections: p.collections,
   curatedBy: p.c.sources,
-  galleryTags: p.c.tags.map(t => t.replace('httpster:', '')),
+  galleryTags: p.c.tags.filter(t => !t.startsWith('anchor:')).map(t => t.replace('httpster:', '')),
   styles: p.styles.map(s => ({slug: s.slug, confidence: Number(Math.min(.99, s.score / 3.6).toFixed(2)), because: s.why})),
   observed: {
     mode: p.a.dark ? 'dark' : 'light',
@@ -178,7 +223,9 @@ const sites = picked.sort((x, y) => x.c.host.localeCompare(y.c.host)).map((p, i)
     fonts: p.a.fonts, displayFont: p.a.h1Font, displaySizePx: Math.round(Math.max(p.a.maxFont, p.a.h1Size ?? 0)),
     displayCase: p.a.h1Case, tracking: p.a.h1Tracking,
     tech: p.a.tech, pageHeightPx: p.a.pageHeight,
+    motion: p.a.motion ? {framesPerSecond: p.a.motion.rafPerSec, runningAnimations: p.a.motion.running, canvasCoverage: p.a.motion.canvasCoverage, score: p.mScore} : null,
     summary: describe(p.a),
+    ...(p.a.textLen < 60 ? {measurement: {status: 'limited', reason: 'The page rendered no text or canvas in a headless browser without a GPU (typical of heavy WebGL sites). Style and collection come from curation; open the live site in a real browser to study it.'}} : {}),
   },
   capturedAt: '2026-10-09',
 }));
@@ -188,32 +235,55 @@ await rm(outDir, {recursive: true, force: true});
 await mkdir(outDir, {recursive: true});
 await writeFile(path.join(outDir, 'sites.json'), JSON.stringify({
   schemaVersion: 1, count: sites.length, capturedAt: '2026-10-09', viewport: '1440x900',
-  method: 'Public design galleries were harvested for URLs; each site was opened in a headless browser and measured. Style tags are heuristic and carry a confidence value. Measurements can be skewed by cookie banners or interstitials. No screenshots, markup, copy or code are redistributed.',
+  priorities: {1: 'curated anchor reference', 2: 'measured member of a featured collection', 3: 'balanced style coverage'},
+  collections: {
+    'minimal-product': 'Restrained product, brand and documentation sites in the manner of Apple, Material 3 or Fumadocs.',
+    'animation-first': 'Sites where motion, WebGL or scroll choreography is the experience, in the manner of Igloo, Lusion or Cuberto.',
+  },
+  method: 'Public design galleries and a hand-curated anchor list (scripts/web-seeds.json) supplied the URLs; each site was opened in a headless browser and measured, including animation frames per second. Style tags are heuristic and carry a confidence value. Measurements can be skewed by cookie banners or interstitials. No screenshots, markup, copy or code are redistributed.',
   sites,
 }, null, 1) + '\n');
 
-// Docs: index and per-style lists (only styles that have at least one site).
+// Docs: collections, per-style lists, and the index.
 const docDir = path.join(root, 'docs/web');
 await rm(docDir, {recursive: true, force: true});
 await mkdir(path.join(docDir, 'by-style'), {recursive: true});
+await mkdir(path.join(docDir, 'collections'), {recursive: true});
 const perStyle = new Map();
 for (const s of sites) for (const st of s.styles) (perStyle.get(st.slug) ?? perStyle.set(st.slug, []).get(st.slug)).push({s, st});
 const row = ({s, st}) => `- [${s.name}](${s.url}) — ${st.because}; ${s.observed.summary}. _confidence ${st.confidence}_`;
 for (const [slug, list] of perStyle) {
-  list.sort((a, b) => b.st.confidence - a.st.confidence);
+  list.sort((a, b) => a.s.priority - b.s.priority || b.st.confidence - a.st.confidence);
   await writeFile(path.join(docDir, 'by-style', `${slug}.md`),
     `# ${styleName[slug]}: real websites\n\n${list.length} live sites measured as examples of [${styleName[slug]}](../../styles/${slug}/README.md). Open the live site to study it; do not copy its code, copy, images or brand.\n\n${list.map(row).join('\n')}\n`);
 }
+const collDocs = {
+  'minimal-product': {title: 'Minimal product and documentation sites', lead: 'How restraint is built at product scale: one idea per screen, a disciplined type scale, quiet neutral palettes with one decisive accent, and motion that explains instead of decorating. Reference class: Apple product pages, Material 3, Fumadocs, Linear, Vercel.', look: 'Study the type scale, the spacing rhythm, how the palette stays quiet, how components and states are documented, and what is deliberately left out.'},
+  'animation-first': {title: 'Animation-first sites', lead: 'Sites where the motion is the work: WebGL scenes, scroll choreography, kinetic type, custom cursors. Reference class: Igloo, Lusion, Cuberto, Active Theory.', look: 'Study how the scene or the scroll tells the story, how the motion is timed and eased, the loader and entry sequence, the performance and reduced-motion handling, and how legibility survives the effects.'},
+};
+for (const [coll, d] of Object.entries(collDocs)) {
+  const list = sites.filter(s => s.collections.includes(coll));
+  const line = s => `- [${s.name}](${s.url})${s.priority === 1 ? ' ★' : ''} — ${s.styles.map(x => styleName[x.slug]).join(', ') || 'unclassified'}; ${s.observed.summary}${s.observed.motion ? `; motion ${s.observed.motion.framesPerSecond} fps, ${s.observed.motion.runningAnimations} animations running, canvas ${Math.round(s.observed.motion.canvasCoverage * 100)}%` : ''}`;
+  await writeFile(path.join(docDir, 'collections', `${coll}.md`), `# ${d.title}\n\n${d.lead}\n\n${list.length} sites. ★ marks hand-picked anchors; the others were measured and qualified.\n\n**What to look for:** ${d.look}\n\nOpen the live site, observe, then design something original. Never reuse a site's markup, copy, imagery, logo or brand.\n\n${list.map(line).join('\n')}\n`);
+}
 const idx = [...perStyle.entries()].sort((a, b) => b[1].length - a[1].length);
+const count = c => sites.filter(s => s.collections.includes(c)).length;
 await writeFile(path.join(docDir, 'INDEX.md'), `# Web Datacenter
 
-${sites.length} real, live websites curated by public design galleries and measured in a 1440x900 headless browser. Use them as evidence of how a visual language is actually built: type, palette, density, motion stack. They are references to study, not templates to copy.
+${sites.length} real, live websites measured in a 1440x900 headless browser. Use them as evidence of how a visual language is actually built: type, palette, density, motion. They are references to study, not templates to copy.
 
-How to use:
+## Start here: the two featured collections
 
-1. Pick the style in [docs/styles/INDEX.md](../styles/INDEX.md).
-2. Open \`docs/web/by-style/<style>.md\` for live sites that express it.
-3. Read \`web/sites.json\` for measured facts (fonts, palette, display size, tech) and the reason each style tag was given.
+- [Minimal product and documentation sites](collections/minimal-product.md): ${count('minimal-product')} sites. Apple, Material 3, Fumadocs and their peers. Use for product pages, docs, design systems and anything that must feel precise and calm.
+- [Animation-first sites](collections/animation-first.md): ${count('animation-first')} sites. Igloo, Lusion, Cuberto and their peers. Use when motion, WebGL or scroll choreography is the point of the page.
+
+Sites marked ★ in the collections are hand-picked anchors. Choose a collection first when the brief is about restraint or about motion; choose a style when the brief names a visual language.
+
+## How to use
+
+1. Pick a collection above, or pick the style in [docs/styles/INDEX.md](../styles/INDEX.md).
+2. Open \`docs/web/by-style/<style>.md\` for live sites that express that style.
+3. Read \`web/sites.json\` for measured facts (fonts, palette, display size, tech, animation frames per second) and the reason each style tag was given.
 4. Open the live URL, observe, then write your own original design. Never reuse the site's markup, copy, imagery, logo or brand.
 
 Style tags are heuristic. Check the \`confidence\` and \`because\` fields, and trust your own eyes on the live page.
@@ -224,7 +294,7 @@ ${idx.map(([slug, l]) => `- [${styleName[slug]}](by-style/${slug}.md): ${l.lengt
 
 ## All sites
 
-${sites.map(s => `- [${s.name}](${s.url}) — ${s.styles.map(x => styleName[x.slug]).join(', ')}`).join('\n')}
+${sites.map(s => `- [${s.name}](${s.url})${s.priority === 1 ? ' ★' : ''} — ${s.styles.map(x => styleName[x.slug]).join(', ') || s.collections.join(', ')}`).join('\n')}
 `);
 
 // Register the module.
@@ -232,8 +302,9 @@ const regPath = path.join(root, 'modules/registry.json');
 const reg = JSON.parse(await readFile(regPath, 'utf8'));
 reg.modules = reg.modules.filter(m => m.id !== 'web-datacenter');
 const at = reg.modules.findIndex(m => m.id === 'style-combinations');
-reg.modules.splice(at + 1, 0, {id: 'web-datacenter', path: 'docs/web/INDEX.md', load: 'on-demand', purpose: 'Study live, curated websites per style: measured type, palette, density and motion stack.'});
+reg.modules.splice(at + 1, 0, {id: 'web-datacenter', path: 'docs/web/INDEX.md', load: 'on-demand', purpose: 'Study live websites: minimal product and docs sites, animation-first sites, and per-style references with measured type, palette and motion.'});
 await writeFile(regPath, JSON.stringify(reg, null, 2).replace(/\{\s+"id": ("[^"]+"),\s+"path": ("[^"]+"),\s+"load": ("[^"]+"),\s+"purpose": ("[^"]+")\s+\}/g, '{"id":$1,"path":$2,"load":$3,"purpose":$4}').replace(/\[\s+("contracts\/[^\]]+)\]/, m => m) + '\n');
 
 console.log(`pool ${pool.length}, selected ${sites.length}, styles covered ${perStyle.size}`);
+console.log('priority', [1, 2, 3].map(n => n + ':' + sites.filter(x => x.priority === n).length).join(' '), '| collections', Object.keys(QUOTA).map(c => c + ':' + count(c)).join(' '));
 console.log(idx.map(([s, l]) => `${s}:${l.length}`).join(' '));

@@ -1,58 +1,61 @@
 # Collage Design: real websites
 
-54 live sites measured as examples of [Collage Design](../../styles/collage-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+57 live sites measured as examples of [Collage Design](../../styles/collage-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [Abbotsford Convent](https://abbotsfordconvent.com.au/) — rotated or clipped pieces; light page; accent #f26b7b / #f7742b; type: founders-grotesk + untitled-serif. _confidence 0.47_
-- [Anna Jóna](https://www.annajona.is/) — rotated or clipped pieces; light page; accent #db404f / #0e1736; type: Sansita + Clarkson; svg-heavy. _confidence 0.47_
-- [Archier](https://archier.com.au/) — rotated or clipped pieces; light page; two-value palette; type: Basetica 205 Tf; gsap, lenis. _confidence 0.47_
-- [Bad Boys Supply](https://bad-boys.vercel.app/) — rotated or clipped pieces; light page; accent #ff0000 / #ddfc23; type: Neue Montreal + Neue Bit; next.js. _confidence 0.47_
+- [anthropic.com](https://www.anthropic.com/) — rotated or clipped pieces; light page; 4-colour palette; type: Anthropic Sans + Anthropic Serif; gsap, svg-heavy. _confidence 0.47_
+- [Astro](https://astro.build/) — rotated or clipped pieces; dark page; accent #0c0f19 / #1a3e57; type: ui-sans-serif + Obviously; svg-heavy. _confidence 0.47_
+- [Bear](https://bear.app/) — rotated or clipped pieces; light page; accent #dd4c4f / #fcb827; type: bearsans + bearsansheadline; svg-heavy. _confidence 0.47_
+- [Bun](https://bun.sh/) — rotated or clipped pieces; light page; accent #009150 / #ff1f8f; display type up to 117px; type: ui-sans-serif + Archivo; svg-heavy. _confidence 0.47_
+- [Cal.com](https://cal.com/) — rotated or clipped pieces; light page; 6-colour palette; type: Cal Sans UI Variable Light + Cal Sans; svg-heavy, framer. _confidence 0.47_
+- [Campsite](https://www.campsite.com/) — rotated or clipped pieces; light page; accent #3b82f6 / #22c55e; type: __Inter_d65c78 + ui-monospace; svg-heavy, next.js. _confidence 0.47_
+- [Chakra UI](https://chakra-ui.com/) — rotated or clipped pieces; light page; accent #0d9488 / #14b8a6; type: Wix Madefor Text + SFMono-Regular; svg-heavy. _confidence 0.47_
+- [Clay](https://clay.global/) — rotated or clipped pieces; light page; 4-colour palette; type: UniversalSans-500 + UniversalSans-740-Headlines; webgl, svg-heavy, next.js. _confidence 0.47_
+- [Cuberto](https://cuberto.com/) — rotated or clipped pieces; light page; 5-colour palette; type: Suisse Intl; svg-heavy. _confidence 0.47_
+- [darkroom.engineering](https://darkroom.engineering/) — rotated or clipped pieces; light page; two-value palette; display type up to 251px; type: therma + mono; svg-heavy. _confidence 0.47_
+- [dogstudio.co](https://dogstudio.co/) — rotated or clipped pieces; dark page; accent #0e101a / #5ab400; type: Heebo + Gilroy; webgl, svg-heavy. _confidence 0.47_
+- [Fluent 2 Design System](https://fluent2.microsoft.design/) — rotated or clipped pieces; light page; 6-colour palette; display type up to 128px; type: Segoe UI; svg-heavy. _confidence 0.47_
+- [Bizarro](https://lhbzr.com/) — rotated or clipped pieces; dark page; two-value palette; type: Borda; webgl. _confidence 0.47_
+- [Lusion](https://lusion.co/) — rotated or clipped pieces; light page; accent #0016ec; display type up to 144px; type: Aeonik; webgl, svg-heavy. _confidence 0.47_
+- [makemepulse](https://www.makemepulse.com/) — rotated or clipped pieces; light page; accent #896fff; display type up to 160px; type: Biotif + Beatrice Display. _confidence 0.47_
+- [Mantine](https://mantine.dev/) — rotated or clipped pieces; light page; accent #5865f2 / #228be6; type: Outfit + Menlo; svg-heavy, next.js. _confidence 0.47_
+- [Mintlify](https://www.mintlify.com/) — rotated or clipped pieces; light page; accent #c44120 / #0052ff; type: inter + arizonaFlare; svg-heavy. _confidence 0.47_
+- [Nix & NixOS](https://nixos.org/) — rotated or clipped pieces; light page; two-value palette; type: Fira Code Variable + Roboto Flex Variable; svg-heavy. _confidence 0.47_
+- [Drizzle ORM](https://orm.drizzle.team/) — rotated or clipped pieces; light page; accent #4bb74b; type: ui-sans-serif + Menlo; svg-heavy. _confidence 0.47_
+- [Railway](https://railway.com/) — rotated or clipped pieces; dark page; accent #1b2132 / #553f83; type: Inter + IBM Plex Serif; svg-heavy. _confidence 0.47_
+- [React](https://react.dev/) — rotated or clipped pieces; light page; accent #087ea4; type: Optimistic Text + Optimistic Display; svg-heavy, next.js. _confidence 0.47_
+- [Spline](https://spline.design/) — rotated or clipped pieces; dark page; accent #0062ff; type: Spline Sans + ui-monospace; webgl, svg-heavy, next.js. _confidence 0.47_
+- [Stripe](https://stripe.com/) — rotated or clipped pieces; light page; accent #0d1738 / #533afd; type: sohne-var; webgl, svg-heavy, next.js. _confidence 0.47_
+- [Supabase](https://supabase.com/) — rotated or clipped pieces; light page; accent #0c0f24 / #002533; type: Inter + Manrope; svg-heavy. _confidence 0.47_
+- [Tailwind CSS](https://tailwindcss.com/) — rotated or clipped pieces; light page; two-value palette; type: inter + plexMono; svg-heavy. _confidence 0.47_
+- [Tana](https://tana.inc/) — rotated or clipped pieces; light page; accent #2b8fe6 / #0c0805; type: Inter + Source Serif 4; svg-heavy. _confidence 0.47_
+- [Tendril](https://tendril.studio/) — rotated or clipped pieces; light page; two-value palette; type: HKGrotesque. _confidence 0.47_
+- [TypeScript](https://www.typescriptlang.org/) — rotated or clipped pieces; light page; accent #3178c6 / #235a97; type: Segoe UI Web (West European) + Cascadia Mono-SemiLight; svg-heavy. _confidence 0.47_
+- [Aceternity UI](https://ui.aceternity.com/) — rotated or clipped pieces; light page; two-value palette; type: inter + ui-monospace; svg-heavy. _confidence 0.47_
+- [Upstash](https://upstash.com/) — rotated or clipped pieces; light page; accent #34d399 / #065f46; display type up to 180px; type: Inter + Inter Tight; svg-heavy. _confidence 0.47_
+- [Game Changer](https://detour.hk/2016/en/) — rotated or clipped pieces; light page; accent #ffce00 / #dd0505; type: MarkPro; three.js, webgl. _confidence 0.47_
+- [Emmit Fenn](https://farfromhere.emmitfenn.com/) — rotated or clipped pieces; light page; two-value palette; type: Untitled Sans; webgl, svg-heavy. _confidence 0.47_
+- [fromanother](https://www.fromanother.love/) — rotated or clipped pieces; dark page; accent #051236; type: twkFont + herbikFont; webgl. _confidence 0.47_
+- [ITom](https://itomdev.com/) — rotated or clipped pieces; light page; two-value palette; type: Inter; webgl. _confidence 0.47_
+- [thenewindustrials.com](https://thenewindustrials.com/) — rotated or clipped pieces; light page; accent #ff8126; type: albraBook + bizUdMincho; webgl. _confidence 0.47_
+- [valerian.studio](https://www.valerian.studio/) — rotated or clipped pieces; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.47_
 - [Beci Orpin](http://beciorpin.com/) — rotated or clipped pieces; light page; accent #ff3600 / #fed030; type: droulers. _confidence 0.47_
 - [Cabi](https://cabifoods.com/) — rotated or clipped pieces; light page; accent #d02a00 / #e88357; type: Cagliostro + Marcel; svg-heavy, shopify. _confidence 0.47_
-- [Cantor8](https://www.cantor8.io/) — rotated or clipped pieces; dark page; accent #044ab3; type: Times New Roman + Fragment Mono; gsap, lenis. _confidence 0.47_
+- [Cantor8](https://www.cantor8.io/) — rotated or clipped pieces; dark page; accent #044ab3; type: PP Neue Montreal + Fragment Mono; gsap, lenis. _confidence 0.47_
 - [Cassette](https://www.cassettemusic.com/) — rotated or clipped pieces; light page; accent #ff8461 / #f0e226; type: Apercu Mono Pro + Apercu Pro; gsap, svg-heavy. _confidence 0.47_
-- [Coco Hotel](https://coco-hotel.com/) — rotated or clipped pieces; light page; accent #e74a40 / #002fa8; type: transat-text + rhode-extended; svg-heavy. _confidence 0.47_
-- [Cofactr](https://www.cofactr.com/) — rotated or clipped pieces; light page; accent #183028 / #0e1c18; type: fontAntiqueLegacy + fontInter; svg-heavy. _confidence 0.47_
 - [DEON LIBRA](https://deonlibra.com/) — rotated or clipped pieces; light page; accent #c00121; type: Inter + Anton; svg-heavy, shopify. _confidence 0.47_
-- [Dropbox Brand Guidelines](https://brand.dropbox.com/) — rotated or clipped pieces; light page; accent #892055 / #fad24b; type: Dbsharpgroteskvariable Vf + Atlasgrotesk Web; svg-heavy. _confidence 0.47_
-- [eloyb.design](https://eloyb.design/) — rotated or clipped pieces; dark page; accent #d8fb81; type: Px 437 Phoenixvga 8 X 16; gsap, lenis, svg-heavy. _confidence 0.47_
+- [eloyb.design](https://eloyb.design/) — rotated or clipped pieces; dark page; accent #d8fb81; gsap, lenis, svg-heavy. _confidence 0.47_
 - [ESR](https://www.esrbespoke.au/) — rotated or clipped pieces; light page; accent #070b14 / #e20508; type: __bodyFont_0f148b + __headingFont_a39ca7; next.js. _confidence 0.47_
 - [Fable & Mane](https://fableandmane.com/) — rotated or clipped pieces; light page; accent #f9423a / #680006; type: QuincyCF-ExtraBold + SofiaPro-Regular; svg-heavy, shopify. _confidence 0.47_
-- [GF Smith](https://www.gfsmith.com/) — rotated or clipped pieces; light page; accent #193f1a / #c5ff21; display type up to 264px; type: GFS Homie + Noto Sans KR; webgl, next.js. _confidence 0.47_
 - [Goodfight](https://goodfight.shop/) — rotated or clipped pieces; light page; 3-colour palette; type: Saol Text Monospaced; shopify. _confidence 0.47_
-- [Grid9 Studio](https://www.grid9.ru/) — rotated or clipped pieces; dark page; 6-colour palette; display type up to 300px; type: Geist + Geist Mono; gsap. _confidence 0.47_
-- [GT Standard](https://gt-standard.com/) — rotated or clipped pieces; light page; accent #ffca08 / #ff3500; display type up to 380px; type: GT Standard + GT Standard Loading; svg-heavy. _confidence 0.47_
-- [GT Zirkon](http://gt-zirkon.com/) — rotated or clipped pieces; light page; two-value palette; display type up to 302px; type: GT-Zirkon. _confidence 0.47_
-- [Gusta](https://gusta.studio/) — rotated or clipped pieces; light page; accent #fcc113 / #e14f1e; display type up to 128px; type: Universal Sans Display 385 + Universal Sans Display 538; framer. _confidence 0.47_
 - [HALEYS Beauty](https://haleysbeauty.com/) — rotated or clipped pieces; light page; accent #4b3c92 / #a62719; type: Montserrat; svg-heavy, shopify. _confidence 0.47_
 - [Happy Ring](https://happyring.fiftyseven.co/) — rotated or clipped pieces; light page; accent #161108 / #e1f277; display type up to 427px; type: Formadjrdisplay + Formadjrmicro; lenis, svg-heavy. _confidence 0.47_
-- [Hotel Peter & Paul](https://ash.world/hotels/peter-and-paul) — rotated or clipped pieces; light page; accent #2c5234; type: Feijoa-Medium + Atari; svg-heavy. _confidence 0.47_
-- [House of Honey](https://www.houseofhoney.com/) — rotated or clipped pieces; dark page; accent #331917 / #fc72c4; display type up to 537px; type: canora + noeText; webgl. _confidence 0.47_
-- [Huehaus Agency](https://huehaus.design/) — rotated or clipped pieces; light page; accent #0443b5 / #fbb833; display type up to 240px; type: Inter Display + PP Neue Montreal Medium; svg-heavy, framer. _confidence 0.47_
 - [Karst Goods](https://karst-goods-hydrogen-da07598423e4ffde70f6.o2.myshopify.dev/) — rotated or clipped pieces; light page; accent #2f59ff; type: Monument Grotesk + Tiempos Headline; svg-heavy, shopify. _confidence 0.47_
-- [Kyoso](https://www.kyoso.com/) — rotated or clipped pieces; light page; two-value palette; display type up to 400px; type: ui-sans-serif + Manrope; svg-heavy. _confidence 0.47_
-- [Le Puzz](https://lepuzz.com/) — rotated or clipped pieces; light page; accent #ffd931; type: Times Now + Helvetica Neue; svg-heavy, shopify. _confidence 0.47_
-- [Maëlan Le Meur](https://maelanlemeur.com/) — rotated or clipped pieces; light page; accent #674825; display type up to 317px; type: PP Neue Montreal. _confidence 0.47_
-- [Claude Type](https://claudetype.com/) — rotated or clipped pieces; light page; accent #4000ff / #100401; type: MagicUIPro; svg-heavy. _confidence 0.47_
-- [Mezmo](https://www.mezmo.com/) — rotated or clipped pieces; light page; 6-colour palette; type: Onest Variable + ui-monospace; svg-heavy. _confidence 0.47_
 - [mssngpeces.com](https://mssngpeces.com/) — rotated or clipped pieces; dark page; accent #8a3440 / #3f261d; type: Ivory LL + GT America Regular. _confidence 0.47_
-- [My Storytime](https://mystorytime.com/) — rotated or clipped pieces; light page; accent #291b44; type: LL Circular. _confidence 0.47_
-- [NORNORM](https://nornorm.com/) — rotated or clipped pieces; light page; accent #1e37a0 / #1032cf; type: Lunar; svg-heavy. _confidence 0.47_
 - [Nottingham Contemporary](https://www.nottinghamcontemporary.org/) — rotated or clipped pieces; light page; accent #cdde79 / #debc79; type: Unica77LLWebBold. _confidence 0.47_
 - [oddritual](https://oddritualgolf.com/) — rotated or clipped pieces; dark page; accent #050fff; type: Ppneuemontrealvariable + Instrument Serif; gsap, lenis, svg-heavy. _confidence 0.47_
-- [Original Sin](https://www.originalsin.co/) — rotated or clipped pieces; light page; accent #990000; type: Allianz + Neue Haas Grotesk; svg-heavy. _confidence 0.47_
-- [otonove.studiokhi.com](https://otonove.studiokhi.com/) — rotated or clipped pieces; light page; accent #80dee9; display type up to 432px; type: Galgo + Inter; svg-heavy. _confidence 0.47_
 - [Overpass](https://www.overpass.com/) — rotated or clipped pieces; light page; accent #0099ff / #1a49ba; type: eina03 + eina01; svg-heavy. _confidence 0.47_
-- [pastamansi.com](https://pastamansi.com/) — rotated or clipped pieces; light page; accent #dc991a; type: gt_pressura_monolight + gt_pressura_regular. _confidence 0.47_
 - [plantstotherescue.co](https://plantstotherescue.co/) — rotated or clipped pieces; light page; accent #503217 / #d3744a; type: Garamond + Inter; svg-heavy, shopify. _confidence 0.47_
-- [Portrait](https://portrait.so/) — rotated or clipped pieces; light page; accent #08304c; type: __basierCircle_9ca3f5 + __switzer_c2a0a8; svg-heavy, next.js. _confidence 0.47_
 - [Spots Travel](https://www.spotstravel.co/en) — rotated or clipped pieces; light page; accent #023a29 / #a33600; type: Helvetica Neue + __fontKalice_17cadc. _confidence 0.47_
-- [Thursday](https://thursday.studio/) — rotated or clipped pieces; light page; accent #34c759; type: basis_grotesque_promedium + ITCBodoni72WebItalic. _confidence 0.47_
 - [Organic Basics UK](https://uk.organicbasics.com/) — rotated or clipped pieces; light page; accent #87ffa2; type: TexGyreHerosCN + FeatureDisplay; svg-heavy, shopify. _confidence 0.47_
 - [UNION](https://unionboulangerie.com/en/) — rotated or clipped pieces; light page; accent #2259ec / #f25a07; type: Shinka + Serial Blur; svg-heavy, shopify. _confidence 0.47_
-- [valerian.studio](https://www.valerian.studio/) — rotated or clipped pieces; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.47_
-- [Monotype.](https://www.monotype.com/resources/variable-fonts) — rotated or clipped pieces; light page; accent #1a73e8; type: HelveticaNowMTTextMedium + HelveticaNowMTTextRegular; svg-heavy. _confidence 0.47_
-- [Vipp](https://vipp.com/en) — rotated or clipped pieces; light page; 5-colour palette; type: __vippNeue_cb73ae + ivypresto-headline; svg-heavy. _confidence 0.47_
-- [Viacheslav Novoseltsev](https://vshslv.com/) — rotated or clipped pieces; dark page; two-value palette; type: ABC Diatype; svg-heavy. _confidence 0.47_
 - [Watts Pet](https://wattspet.com/) — rotated or clipped pieces; dark page; accent #c03800 / #c13700; type: Degular; gsap, svg-heavy, shopify. _confidence 0.47_
-- [WePresent](https://wepresent.wetransfer.com/) — rotated or clipped pieces; light page; accent #fff200; type: Actief Grotesque + GT Super; next.js. _confidence 0.47_
-- [Google X](https://x.company/) — rotated or clipped pieces; light page; accent #f13f0f / #ffb300; type: Google Sans. _confidence 0.47_

@@ -1,0 +1,120 @@
+# Minimal product and documentation sites
+
+How restraint is built at product scale: one idea per screen, a disciplined type scale, quiet neutral palettes with one decisive accent, and motion that explains instead of decorating. Reference class: Apple product pages, Material 3, Fumadocs, Linear, Vercel.
+
+110 sites. ★ marks hand-picked anchors; the others were measured and qualified.
+
+**What to look for:** Study the type scale, the spacing rhythm, how the palette stays quiet, how components and states are documented, and what is deliberately left out.
+
+Open the live site, observe, then design something original. Never reuse a site's markup, copy, imagery, logo or brand.
+
+- [Ant Design](https://ant.design/) ★ — Minimalism, Glassmorphism; light page; accent #1677ff / #ee35f1; type: AlibabaSans + Avenir; svg-heavy; motion 0 fps, 157 animations running, canvas 1%
+- [anthropic.com](https://www.anthropic.com/) ★ — Minimalism, Scroll-Driven Animation, Collage Design; light page; 4-colour palette; type: Anthropic Sans + Anthropic Serif; gsap, svg-heavy; motion 3 fps, 0 animations running, canvas 3%
+- [Apple](https://www.apple.com/) ★ — Minimalism, Bento Grid, Gradient Design; light page; accent #24568e / #241004; type: SF Pro Text + SF Pro Display; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [arc.net](https://arc.net/) ★ — Minimalism, Vintage Analog, Brutalism, Retro-Futurism; light page; accent #3139fb / #2702c2; type: Marlin Soft SQ + InterVariable; svg-heavy, next.js; motion 7 fps, 2 animations running, canvas 0%
+- [Astro](https://astro.build/) ★ — Minimalism, Bento Grid, Gradient Design, Collage Design; dark page; accent #0c0f19 / #1a3e57; type: ui-sans-serif + Obviously; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Atlassian Design](https://atlassian.design/) ★ — Minimalism, Big Typography, Gradient Design, Card-Based Design; light page; accent #1868db / #fca700; display type up to 112px; type: Atlassian Sans + Atlassian Mono; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Bang & Olufsen](https://www.bang-olufsen.com/en/us) ★ — Minimalism; light page; accent #060daa; type: BeoSupreme + BeoLogue; next.js; motion 0 fps, 0 animations running, canvas 0%
+- [Base UI](https://base-ui.com/) ★ — Swiss Design, Minimalism; light page; two-value palette; type: die grotesk a + die grotesk b; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Bear](https://bear.app/) ★ — Minimalism, Collage Design; light page; accent #dd4c4f / #fcb827; type: bearsans + bearsansheadline; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [biomejs.dev](https://biomejs.dev/) ★ — Minimalism, Bento Grid, Variable Typography; light page; accent #0065da / #25aff4; type: Geist-b17c5c92c1d3a205 + JetBrains Mono-1ea6b49896f773c2; svg-heavy; motion 0 fps, 1 animations running, canvas 0%
+- [Bun](https://bun.sh/) ★ — Minimalism, Big Typography, Bento Grid, Collage Design; light page; accent #009150 / #ff1f8f; display type up to 117px; type: ui-sans-serif + Archivo; svg-heavy; motion 4 fps, 12 animations running, canvas 0%
+- [Cal.com](https://cal.com/) ★ — Minimalism, Gradient Design, Collage Design; light page; 6-colour palette; type: Cal Sans UI Variable Light + Cal Sans; svg-heavy, framer; motion 4 fps, 7 animations running, canvas 0%
+- [Campsite](https://www.campsite.com/) ★ — Minimalism, Collage Design; light page; accent #3b82f6 / #22c55e; type: __Inter_d65c78 + ui-monospace; svg-heavy, next.js; motion 0 fps, 2 animations running, canvas 0%
+- [Chakra UI](https://chakra-ui.com/) ★ — Minimalism, Gradient Design, Collage Design; light page; accent #0d9488 / #14b8a6; type: Wix Madefor Text + SFMono-Regular; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Clerk](https://clerk.com/) ★ — WebGL / 3D Experience, Minimalism, Editorial Layout, Glassmorphism; light page; accent #6c47ff; type: ui-sans-serif + geistNumbers; webgl, svg-heavy; motion 0 fps, 6 animations running, canvas 6%
+- [Convex](https://www.convex.dev/) ★ — Minimalism, Glassmorphism, Bento Grid; light page; accent #73312b / #de5d33; type: gtAmerica + publico; svg-heavy; motion 0 fps, 2 animations running, canvas 0%
+- [Craft](https://www.craft.do/) ★ — Minimalism, Editorial Layout, Gradient Design, Variable Typography; light page; accent #ff4500; type: UntitledSerifFont + UntitledSansFont; svg-heavy; motion 24 fps, 0 animations running, canvas 0%
+- [Cursor](https://cursor.com/) ★ — Minimalism, Bento Grid, Gradient Design; light page; accent #c08532 / #34785c; type: CursorGothic + EB Garamond; svg-heavy; motion 2 fps, 38 animations running, canvas 0%
+- [deno.com](https://deno.com/) ★ — Minimalism, Bento Grid, Scroll-Driven Animation, Gradient Design; light page; accent #001319 / #70ffaf; type: Inter + Menlo; gsap, svg-heavy; motion 9 fps, 296 animations running, canvas 4%
+- [Apple Developer](https://developer.apple.com/) ★ — Minimalism, Bento Grid; light page; accent #0071e3; type: SF Pro Display + SF Pro Text; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Docusaurus](https://docusaurus.io/) ★ — Minimalism; light page; accent #25c19f / #54c7ec; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Effect](https://effect.website/) ★ — Minimalism, Gradient Design, Chromatic Aberration; light page; 6-colour palette; type: Inter-2d43eae1204b97f2 + JetBrains Mono-672db76a3f3c5727; svg-heavy; motion 60 fps, 2 animations running, canvas 0%
+- [Fairphone](https://www.fairphone.com/) ★ — Minimalism; light page; accent #00433d; type: DM Sans + Bricolage Grotesque; motion 0 fps, 0 animations running, canvas 0%
+- [Figma](https://www.figma.com/) ★ — Minimalism, Bento Grid; light page; 3-colour palette; type: figmaSans + figmaMono; svg-heavy; motion 1 fps, 11 animations running, canvas 0%
+- [Fluent 2 Design System](https://fluent2.microsoft.design/) ★ — Minimalism, Big Typography, Gradient Design, Collage Design; light page; 6-colour palette; display type up to 128px; type: Segoe UI; svg-heavy; motion 0 fps, 27 animations running, canvas 0%
+- [Fumadocs](https://www.fumadocs.dev/) ★ — WebGL / 3D Experience, Minimalism, Glassmorphism; light page; accent #c6bb58 / #dd7627; type: Geist + JetBrains Mono; webgl, svg-heavy; motion 0 fps, 4 animations running, canvas 0%
+- [The Go Programming Language](https://go.dev/) ★ — Minimalism, Brutalism; light page; accent #007d9c / #fddd00; type: Menlo + Material Icons; motion 0 fps, 0 animations running, canvas 0%
+- [Heroicons](https://heroicons.com/) ★ — Swiss Design, Minimalism, Editorial Layout; light page; 3-colour palette; type: Inter var; svg-heavy, next.js; motion 0 fps, 0 animations running, canvas 0%
+- [Hono](https://hono.dev/) ★ — Minimalism, Editorial Layout; light page; accent #ff9c24; type: ui-monospace; motion 0 fps, 0 animations running, canvas 0%
+- [Inngest](https://www.inngest.com/) ★ — Minimalism, Bento Grid, Gradient Design, Aurora UI; dark page; accent #013cf6 / #f65c4f; type: WhyteV1 + CircularXX; motion 0 fps, 6 animations running, canvas 0%
+- [Kagi](https://kagi.com/) ★ — Minimalism; light page; accent #ffb319; type: Lufga + Arial; motion 0 fps, 0 animations running, canvas 0%
+- [USA](https://leica-camera.com/en-US) ★ — Minimalism, Full-Bleed Design; light page; two-value palette; type: Outfit; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Linear](https://linear.app/) ★ — Minimalism, Bento Grid, Gradient Design, Aurora UI; dark page; accent #e4f222 / #f34e52; type: Inter Variable + Berkeley Mono; svg-heavy; motion 0 fps, 82 animations running, canvas 0%
+- [Liveblocks](https://liveblocks.io/) ★ — WebGL / 3D Experience, Minimalism, Bento Grid, Gradient Design; dark page; accent #ec6572 / #65afec; type: suisse; webgl, svg-heavy; motion 35 fps, 2 animations running, canvas 7%
+- [Lucide](https://lucide.dev/) ★ — Minimalism, Editorial Layout; light page; accent #f56565; type: Inter; svg-heavy; motion 0 fps, 2 animations running, canvas 0%
+- [Material Design 3](https://m3.material.io/) ★ — Minimalism, Bento Grid, Gradient Design; light page; accent #6442d6; type: Google Sans + Google Sans Text; motion 0 fps, 0 animations running, canvas 0%
+- [Magic UI](https://magicui.design/) ★ — Minimalism, Glassmorphism; light page; two-value palette; type: Geist; svg-heavy; motion 0 fps, 10 animations running, canvas 0%
+- [Mantine](https://mantine.dev/) ★ — Minimalism, Gradient Design, Card-Based Design, Collage Design; light page; accent #5865f2 / #228be6; type: Outfit + Menlo; svg-heavy, next.js; motion 0 fps, 1 animations running, canvas 0%
+- [Material Design 3](https://m3.material.io/) ★ — Minimalism, Bento Grid, Gradient Design; light page; accent #6442d6; type: Google Sans + Google Sans Text; motion 0 fps, 0 animations running, canvas 0%
+- [mercury.com](https://mercury.com/) ★ — WebGL / 3D Experience, Minimalism, Glassmorphism, Bento Grid; light page; accent #5266eb; type: arcadia + arcadiaDisplay; webgl, svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Mintlify](https://www.mintlify.com/) ★ — Minimalism, Collage Design; light page; accent #c44120 / #0052ff; type: inter + arizonaFlare; svg-heavy; motion 8 fps, 29 animations running, canvas 17%
+- [Motion (prev Framer Motion)](https://motion.dev/) ★ — WebGL / 3D Experience, Minimalism, Glassmorphism, Aurora UI; dark page; accent #ffdb2a; type: TASA Orbiter + Geist Mono; webgl, svg-heavy; motion 5 fps, 8 animations running, canvas 5%
+- [Neon](https://neon.com/) ★ — Minimalism, Big Typography, Bento Grid; dark page; accent #0d221a / #34d59a; display type up to 128px; type: Inter + GeistMono; svg-heavy; motion 60 fps, 2 animations running, canvas 0%
+- [Next.js by Vercel](https://nextjs.org/) ★ — Minimalism, Glassmorphism; light page; 6-colour palette; type: GeistSans + Geist Mono; svg-heavy; motion 0 fps, 19 animations running, canvas 0%
+- [Nextra](https://nextra.site/) ★ — Minimalism, Editorial Layout, Glassmorphism; light page; 4-colour palette; type: ui-sans-serif + ui-monospace; svg-heavy; motion 7 fps, 0 animations running, canvas 0%
+- [Nix & NixOS](https://nixos.org/) ★ — Minimalism, Editorial Layout, Collage Design; light page; two-value palette; type: Fira Code Variable + Roboto Flex Variable; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Nothing](https://nothing.tech/) ★ — Minimalism, Glassmorphism, Full-Bleed Design; light page; accent #ffc700; type: NType82-Regular + Ndot-Bold; svg-heavy, shopify; motion 58 fps, 0 animations running, canvas 0%
+- [Notion](https://www.notion.com/) ★ — Minimalism, Bento Grid, Duotone, Full-Bleed Design; light page; accent #097fe8 / #ffb110; type: NotionInter + Lyon Text; svg-heavy, next.js; motion 0 fps, 2 animations running, canvas 0%
+- [Obsidian](https://obsidian.md/) ★ — WebGL / 3D Experience, Minimalism; dark page; accent #713f12 / #7c3aed; type: ui-sans-serif; webgl, svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Drizzle ORM](https://orm.drizzle.team/) ★ — Minimalism, Editorial Layout, Gradient Design, Collage Design; light page; accent #4bb74b; type: ui-sans-serif + Menlo; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [ouraring.com](https://ouraring.com/) ★ — Minimalism, Glassmorphism, Bento Grid; light page; accent #2a72de / #1f72cd; type: AkkuratLL + Editorial New; svg-heavy; motion 46 fps, 0 animations running, canvas 0%
+- [The AI presentation workspace](https://pitch.com/) ★ — WebGL / 3D Experience, Big Typography, Minimalism, Motion-Driven Design; light page; accent #280f62 / #5318eb; display type up to 180px; type: Mark Pro Bold + Eina 03 Regular; webgl, framer; motion 264 fps, 1 animations running, canvas 36%
+- [PlanetScale](https://planetscale.com/) ★ — Minimalism, Gradient Design; light page; accent #fbca00 / #f35815; type: ui-monospace; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [PocketBase](https://pocketbase.io/) ★ — Minimalism, Editorial Layout; light page; 6-colour palette; type: Ubuntu Mono + Source Sans Pro; motion 0 fps, 0 animations running, canvas 0%
+- [Polaris references](https://shopify.dev/docs/api/polaris) ★ — Minimalism; light page; 4-colour palette; type: Inter; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Polestar](https://www.polestar.com/us/) ★ — Minimalism, Big Typography; light page; accent #f06e00; display type up to 110px; type: Polestar Unica; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Primer](https://primer.style/) ★ — Minimalism, Editorial Layout; light page; 3-colour palette; type: Mona Sans + Mona Sans VF; motion 0 fps, 0 animations running, canvas 0%
+- [python.org](https://www.python.org/) ★ — Minimalism, Gradient Design; light page; accent #2b5b84 / #ffdf76; type: SourceSansProRegular + Georgia; motion 0 fps, 0 animations running, canvas 0%
+- [Radix UI](https://www.radix-ui.com/) ★ — Minimalism; light page; accent #3e63dd / #00c69d; type: untitledSans + adobeTextPro; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Railway](https://railway.com/) ★ — Minimalism, Neon Glow, Collage Design; dark page; accent #1b2132 / #553f83; type: Inter + IBM Plex Serif; svg-heavy; motion 4 fps, 13 animations running, canvas 0%
+- [Ramp](https://ramp.com/) ★ — WebGL / 3D Experience, Minimalism, Glassmorphism; light page; 4-colour palette; type: Lausanne; webgl, svg-heavy; motion 15 fps, 14 animations running, canvas 24%
+- [Raycast](https://www.raycast.com/) ★ — WebGL / 3D Experience, Minimalism, Glassmorphism; dark page; accent #452324 / #ff6363; type: Inter + SF Pro Text; webgl, svg-heavy; motion 2 fps, 23 animations running, canvas 6%
+- [React](https://react.dev/) ★ — Minimalism, Editorial Layout, Glassmorphism, Collage Design; light page; accent #087ea4; type: Optimistic Text + Optimistic Display; svg-heavy, next.js; motion 0 fps, 0 animations running, canvas 0%
+- [Rust Programming Language](https://rust-lang.org/) ★ — Minimalism; light page; accent #2e2459 / #a72145; type: Fira Sans + Alfa Slab One; motion 0 fps, 0 animations running, canvas 0%
+- [Sonos](https://www.sonos.com/en-us/home) ★ — Minimalism; light page; 6-colour palette; type: aktiv-grotesk; svg-heavy; motion 0 fps, 0 animations running, canvas 7%
+- [starlight.astro.build](https://starlight.astro.build/) ★ — Minimalism, Editorial Layout, Full-Bleed Design; light page; accent #3d50f5; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Stripe](https://stripe.com/) ★ — WebGL / 3D Experience, Minimalism, Gradient Design, Collage Design; light page; accent #0d1738 / #533afd; type: sohne-var; webgl, svg-heavy, next.js; motion 5 fps, 48 animations running, canvas 4%
+- [Supabase](https://supabase.com/) ★ — Minimalism, Gradient Design, Collage Design; light page; accent #0c0f24 / #002533; type: Inter + Manrope; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Superhuman](https://superhuman.com/) ★ — Minimalism; light page; accent #421d24 / #281647; type: Super Sans VF; svg-heavy, next.js; motion 0 fps, 0 animations running, canvas 0%
+- [Svelte](https://svelte.dev/) ★ — Minimalism, Editorial Layout; light page; accent #d43008; type: Georgia + DM Serif Display; motion 0 fps, 0 animations running, canvas 0%
+- [Tailwind CSS](https://tailwindcss.com/) ★ — Minimalism, Glassmorphism, Bento Grid, Collage Design; light page; two-value palette; type: inter + plexMono; svg-heavy; motion 2 fps, 1 animations running, canvas 0%
+- [Tana](https://tana.inc/) ★ — Minimalism, Glassmorphism, Collage Design; light page; accent #2b8fe6 / #0c0805; type: Inter + Source Serif 4; svg-heavy; motion 0 fps, 2 animations running, canvas 0%
+- [Tauri](https://tauri.app/) ★ — Minimalism, Editorial Layout, Card-Based Design, Full-Bleed Design; light page; 6-colour palette; type: ui-monospace; svg-heavy; motion 0 fps, 1 animations running, canvas 0%
+- [teenage engineering](https://teenage.engineering/) ★ — Minimalism, Monochromatic Design; dark page; two-value palette; type: te-40 + te-20; motion 0 fps, 0 animations running, canvas 0%
+- [Things](https://culturedcode.com/things/) ★ — Minimalism, Editorial Layout, Scroll-Driven Animation; light page; accent #4f91fb; type: ui-sans-serif; gsap; motion 0 fps, 0 animations running, canvas 0%
+- [Trigger.dev](https://trigger.dev/) ★ — Minimalism, Bento Grid, Gradient Design, Aurora UI; dark page; accent #a8ff53; type: Satoshi-Variable + Geist; svg-heavy; motion 7 fps, 2 animations running, canvas 0%
+- [Turso](https://turso.tech/) ★ — Minimalism; dark page; accent #0d1318 / #4ff8d2; type: __Inter_f367f3 + __GeistMono_46451f; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [TypeScript](https://www.typescriptlang.org/) ★ — Minimalism, Collage Design; light page; accent #3178c6 / #235a97; type: Segoe UI Web (West European) + Cascadia Mono-SemiLight; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Aceternity UI](https://ui.aceternity.com/) ★ — Minimalism, Bento Grid, Gradient Design, Collage Design; light page; two-value palette; type: inter + ui-monospace; svg-heavy; motion 120 fps, 8 animations running, canvas 0%
+- [shadcn/ui](https://ui.shadcn.com/) ★ — Swiss Design, Minimalism, Bento Grid; light page; two-value palette; type: Geist; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Upstash](https://upstash.com/) ★ — Big Typography, Minimalism, Collage Design; light page; accent #34d399 / #065f46; display type up to 180px; type: Inter + Inter Tight; svg-heavy; motion 1 fps, 3 animations running, canvas 0%
+- [Val Town](https://www.val.town/) ★ — Minimalism, Full-Bleed Design; light page; accent #5db9ef; type: Sprig Sans; motion 0 fps, 22 animations running, canvas 0%
+- [Vercel](https://vercel.com/) ★ — Minimalism, Gradient Design; light page; 3-colour palette; type: GeistSans + Geist Mono; svg-heavy; motion 0 fps, 0 animations running, canvas 0%
+- [Vite](https://vite.dev/) ★ — Minimalism; dark page; accent #370a7f; type: Inter + APK Protocol; svg-heavy; motion 62 fps, 10 animations running, canvas 0%
+- [VitePress](https://vitepress.dev/) ★ — Minimalism, Editorial Layout; light page; accent #5672cd; type: Inter; motion 0 fps, 0 animations running, canvas 0%
+- [Zed](https://zed.dev/) ★ — WebGL / 3D Experience, Minimalism, Editorial Layout; light page; accent #bf3c27; type: writer + ui-monospace; webgl, svg-heavy; motion 3 fps, 2 animations running, canvas 49%
+- [Altason](https://atlason.com/) — Big Typography, Minimalism, Editorial Layout; light page; two-value palette; display type up to 288px; type: haas-grotesk-ds-pro + haas-grotesk-tx-pro; svg-heavy
+- [Carbon Design System](https://www.carbondesignsystem.com/) — WebGL / 3D Experience, Big Typography, Minimalism, Motion-Driven Design; light page; accent #002d9c / #001d6c; display type up to 187px; type: IBM Plex Sans + IBM Plex Serif; webgl, svg-heavy; motion 216 fps, 3 animations running, canvas 81%
+- [Convicts](https://convicts.nyc/) — Minimalism, Big Typography, Editorial Layout, Full-Bleed Design; light page; 3-colour palette; display type up to 180px; type: sans + display
+- [Counterprint](https://www.counter-print.co.uk/) — Brutalism, Swiss Design, Monochromatic Design; dark page; two-value palette; type: Helvetica; svg-heavy, shopify
+- [Shop All](https://www.everyday-needs.com/collections/all/) — Swiss Design; light page; two-value palette; type: Neue Haas Unica W1G; svg-heavy, shopify
+- [Isa de Burgh](https://isadeburgh.com/) — Big Typography, Minimalism, Scroll-Driven Animation, Kinetic Typography; light page; 3-colour palette; display type up to 240px; type: FoundersGroteskCondensedMedium + EditorialNewUltraLight; gsap, lenis; motion 20 fps, 0 animations running, canvas 0%
+- [Jenni Kayne](https://www.jennikayne.com/) — Swiss Design, Editorial Layout, Full-Bleed Design; light page; 3-colour palette; type: GT America Web + Domaine-Redesign; svg-heavy, shopify
+- [jonway.studio](https://www.jonway.studio/) — WebGL / 3D Experience, Minimalism, Scroll-Driven Animation, Monochromatic Design; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl; motion 8 fps, 0 animations running, canvas 2%
+- [Kada](https://kada.co.nz/) — Typography-First, Scroll-Driven Animation, Immersive Storytelling; light page; 3-colour palette; type: Circular + Signifier; gsap, svg-heavy, shopify; motion 12 fps, 0 animations running, canvas 0%
+- [Playfight](https://www.letsplayfight.com/) — Swiss Design, Editorial Layout, Minimalism, Bento Grid; light page; two-value palette; type: FKGrotesk + Newsreader; webflow
+- [Mock Studio](https://mock.nyc/) — Swiss Design, Minimalism, International Typographic Style; light page; two-value palette; type: neue-haas-grotesk-text; shopify
+- [Murmure](https://murmure.me/) — Minimalism, Full-Bleed Design, Monochromatic Design; dark page; two-value palette; type: a + MonumentGrotesk
+- [Resend](https://resend.com/) — WebGL / 3D Experience, Minimalism, Glassmorphism, Motion-Driven Design; dark page; accent #00a3ff / #22ff99; type: inter + aBCFavorit; webgl, svg-heavy; motion 216 fps, 9 animations running, canvas 0%
+- [Rivian](https://rivian.com/) — Big Typography, Minimalism, Gradient Design, Motion-Driven Design; light page; accent #ffac00 / #e84826; display type up to 360px; type: Adventure + Liga; next.js; motion 63 fps, 0 animations running, canvas 58%
+- [St. Leo](https://stleointeriors.com/) — Swiss Design, International Typographic Style; light page; two-value palette; type: Louize + Neue Hass Unica; svg-heavy, shopify
+- [valerian.studio](https://www.valerian.studio/) — Big Typography, Swiss Design, Minimalism, Collage Design; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal
+- [VISIONNAIRE](https://vision-naire.com/) — Swiss Design, International Typographic Style, Bento Grid, Scroll-Driven Animation; light page; two-value palette; type: PP Neue Montreal; gsap, svg-heavy, shopify; motion 17 fps, 1 animations running, canvas 0%
+- [AOI](https://aoiofficial.com/) — Anti-Design, International Typographic Style, Scrollytelling, Gradient Design; light page; two-value palette; type: Saol Display + Trio Grotesk; shopify
+- [Benvenusa Italian Wines](https://benvenusa.com/) — Monochromatic Design, Editorial Layout, Duotone; light page; accent #ac00ef; type: Syllabus + DieGrotesk; svg-heavy
+- [Counter Forms](https://counter-forms.com/) — Typography-First, Anti-Design, Duotone; light page; accent #ff6500; type: Cassette + Fugit Regular
+- [josef](https://josef.online/) — Monochromatic Design, Big Typography; light page; accent #1e5cff; display type up to 114px; type: FaktPro + FinancierDisplayWeb
+- [KALTPRESSE](https://www.kaltpresse.de/) — International Typographic Style; light page; 3-colour palette; type: Korpus-Grotesk-D + Korpus-Grotesk-C; svg-heavy, shopify
+- [Raca Design Studio](https://www.racastudio.pl/) — Monochromatic Design, Scroll-Driven Animation, Immersive Storytelling; light page; accent #424b9b; type: Poppins; gsap, webflow; motion 60 fps, 0 animations running, canvas 0%
+- [shinbu.be](http://www.shinbu.be/) — Monochromatic Design, Big Typography, Flat Design 2.0; light page; accent #2d3f91; display type up to 144px; type: source-han-sans-japanese + degular

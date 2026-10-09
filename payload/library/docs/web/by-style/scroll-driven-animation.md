@@ -1,52 +1,48 @@
 # Scroll-Driven Animation: real websites
 
-48 live sites measured as examples of [Scroll-Driven Animation](../../styles/scroll-driven-animation/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+44 live sites measured as examples of [Scroll-Driven Animation](../../styles/scroll-driven-animation/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [108™ Supply](https://108.supply/) — scroll motion stack: gsap, lenis; dark page; 3-colour palette; type: Season Sans + Gt Alpina Condensed; gsap, lenis, webflow. _confidence 0.64_
-- [ajournalon.co](https://www.ajournalon.co/) — scroll motion stack: lenis; dark page; two-value palette; type: Tid + Pitch Sans; lenis. _confidence 0.64_
-- [Anne Boysen](https://www.anneboysen.dk/) — scroll motion stack: gsap, lenis; light page; accent #023327 / #250000; type: Scto Grotesk A; gsap, lenis. _confidence 0.64_
-- [Archier](https://archier.com.au/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: Basetica 205 Tf; gsap, lenis. _confidence 0.64_
-- [Arc.](https://www.arcprojects.build/) — scroll motion stack: gsap, lenis; light page; accent #a63a00; type: Neue Haas Grotesk Display; gsap, lenis. _confidence 0.64_
-- [Arkitektkontoret Vest](https://arkitektkontoretvest.no/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: bastardo; gsap, lenis, svg-heavy. _confidence 0.64_
-- [Balky Studio®](https://www.balky.studio/) — scroll motion stack: lenis; light page; accent #ff4d00; display type up to 128px; type: Gta + Gta Mono; lenis, webgl, svg-heavy. _confidence 0.64_
-- [IPSY](https://www.ipsycorporate.com/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: Neue Einstellung; gsap, lenis, svg-heavy. _confidence 0.64_
-- [Bruno Suraski](https://brunosuraski.com/) — scroll motion stack: lenis; light page; two-value palette; type: kGKWJBAwqz; lenis. _confidence 0.64_
-- [Cantor8](https://www.cantor8.io/) — scroll motion stack: gsap, lenis; dark page; accent #044ab3; type: Times New Roman + Fragment Mono; gsap, lenis. _confidence 0.64_
+- [Jesko Jets](https://jeskojets.com/) — scroll motion stack: gsap, lenis; light page; 5-colour palette; type: GT America Extended + GT America Expanded; gsap, lenis, webgl. _confidence 0.64_
+- [anthropic.com](https://www.anthropic.com/) — scroll motion stack: gsap; light page; 4-colour palette; type: Anthropic Sans + Anthropic Serif; gsap, svg-heavy. _confidence 0.56_
+- [Dennis Snellenberg](https://dennissnellenberg.com/) — scroll motion stack: gsap, locomotive-scroll; dark page; accent #455ce9 / #334bd3; display type up to 216px; type: Dennis Sans; gsap, locomotive-scroll. _confidence 0.56_
+- [deno.com](https://deno.com/) — scroll motion stack: gsap; light page; accent #001319 / #70ffaf; type: Inter + Menlo; gsap, svg-heavy. _confidence 0.56_
+- [GSAP](https://gsap.com/) — scroll motion stack: gsap; dark page; accent #ff8709 / #0ae448; type: Mori; gsap, svg-heavy. _confidence 0.56_
+- [Inicio](https://nuno.studio/) — scroll motion stack: gsap; dark page; accent #115cfa; type: Inter + Public Sans; gsap. _confidence 0.56_
+- [Things](https://culturedcode.com/things/) — scroll motion stack: gsap; light page; accent #4f91fb; type: ui-sans-serif; gsap. _confidence 0.56_
+- [artemiilebedev.com](https://artemiilebedev.com/) — scroll motion stack: gsap, lenis; dark page; 4-colour palette; type: Fragment Mono; gsap, lenis, three.js. _confidence 0.64_
+- [BASS](https://bassbcn.com/) — scroll motion stack: gsap, lenis; light page; 4-colour palette; type: EaseStandard-Medium; gsap, lenis, three.js. _confidence 0.64_
+- [Oil Paintings](https://www.eirdis.com/) — scroll motion stack: gsap, lenis; light page; 6-colour palette; display type up to 173px; type: Fraunces + Inter; gsap, lenis. _confidence 0.64_
+- [Frequency Breathwork](https://frequencybreathwork.com/) — scroll motion stack: gsap, lenis; light page; 6-colour palette; type: Aime + Neue Montreal; gsap, lenis, webgl. _confidence 0.64_
+- [Hasan Wali](https://hw-6890.com/) — scroll motion stack: lenis; light page; 6-colour palette; type: Geist + Geist Variable; lenis, webgl, framer. _confidence 0.64_
+- [Isa de Burgh](https://isadeburgh.com/) — scroll motion stack: gsap, lenis; light page; 3-colour palette; display type up to 240px; type: FoundersGroteskCondensedMedium + EditorialNewUltraLight; gsap, lenis. _confidence 0.64_
+- [maximilian kaspar](https://www.maximiliankaspar.com/) — scroll motion stack: gsap, lenis; light page; two-value palette; display type up to 112px; type: Bugrino + Neue Montreal Mono Book; gsap, lenis, webgl. _confidence 0.64_
+- [Medusmo](https://www.medusmo.com/) — scroll motion stack: gsap, lenis; light page; accent #ff0000 / #0000ff; display type up to 160px; type: Doumbar + Inter; gsap, lenis, webgl. _confidence 0.64_
+- [A Creative Agency.](https://www.seventeenagency.com/) — scroll motion stack: gsap, lenis; light page; accent #c13437 / #275d82; type: Bagosscondensed; gsap, lenis, three.js. _confidence 0.64_
+- [Birch (Revealbot)](https://bir.ch/) — scroll motion stack: gsap; dark page; accent #1877f2 / #5b45cd; display type up to 123px; type: Tt Commons Pro Variable + TT Commons Pro Variable; gsap, webgl, svg-heavy. _confidence 0.56_
+- [Celtic Sea Salt®](https://celticseasalt.com/) — scroll motion stack: gsap; light page; accent #052356 / #3979ad; type: Texturina + Roboto; gsap, webgl, svg-heavy. _confidence 0.56_
+- [Corentin Bernadou](https://corentinbernadou.com/) — scroll motion stack: gsap; dark page; accent #ff0000; type: H; gsap, webgl. _confidence 0.56_
+- [CubiFlow](https://www.cubiflow.com/) — scroll motion stack: gsap; light page; two-value palette; type: B612 Mono; gsap, three.js, webgl. _confidence 0.56_
+- [Euveka](https://www.euveka.com/) — scroll motion stack: gsap; light page; accent #ff4f4f; display type up to 112px; type: PP Eiko Thin + Inter; gsap, svg-heavy, framer. _confidence 0.56_
+- [Illuminating Radioactivity](https://illuminating-radioactivity.com/2/) — scroll motion stack: gsap; light page; accent #218423; display type up to 200px; type: custom_19789 + custom_20744; gsap, webgl. _confidence 0.56_
+- [jonway.studio](https://www.jonway.studio/) — scroll motion stack: gsap; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl. _confidence 0.56_
+- [Kada](https://kada.co.nz/) — scroll motion stack: gsap; light page; 3-colour palette; type: Circular + Signifier; gsap, svg-heavy, shopify. _confidence 0.56_
+- [VISIONNAIRE](https://vision-naire.com/) — scroll motion stack: gsap; light page; two-value palette; type: PP Neue Montreal; gsap, svg-heavy, shopify. _confidence 0.56_
+- [Cantor8](https://www.cantor8.io/) — scroll motion stack: gsap, lenis; dark page; accent #044ab3; type: PP Neue Montreal + Fragment Mono; gsap, lenis. _confidence 0.64_
 - [Company Policy](https://www.companypolicy.studio/) — scroll motion stack: gsap, lenis; light page; accent #3667f6; type: Kleischll + Fkrastergrotesktrial blended; gsap, lenis. _confidence 0.64_
-- [eloyb.design](https://eloyb.design/) — scroll motion stack: gsap, lenis; dark page; accent #d8fb81; type: Px 437 Phoenixvga 8 X 16; gsap, lenis, svg-heavy. _confidence 0.64_
-- [Emele Collab](https://emelecollab.com/) — scroll motion stack: lenis; light page; accent #ff0000; type: pr + sc; lenis. _confidence 0.64_
+- [eloyb.design](https://eloyb.design/) — scroll motion stack: gsap, lenis; dark page; accent #d8fb81; gsap, lenis, svg-heavy. _confidence 0.64_
 - [Happy Ring](https://happyring.fiftyseven.co/) — scroll motion stack: lenis; light page; accent #161108 / #e1f277; display type up to 427px; type: Formadjrdisplay + Formadjrmicro; lenis, svg-heavy. _confidence 0.64_
 - [HOY](https://houseofyellow.nl/) — scroll motion stack: gsap, lenis; light page; 5-colour palette; type: Poppins-font; gsap, lenis, svg-heavy. _confidence 0.64_
-- [Jump Factory](https://jumpfactory.ch/) — scroll motion stack: lenis; light page; accent #5c95ed / #272cc5; type: Plus Jakarta Sans + agn; lenis. _confidence 0.64_
-- [Mikki Sindhunata](https://mikkisindhunata.com/) — scroll motion stack: gsap, lenis; dark page; 3-colour palette; type: B612 Mono + Anton SC; gsap, lenis. _confidence 0.64_
-- [Mush Studios](https://mushstudios.co/) — scroll motion stack: lenis; light page; accent #230b37; type: Sneak Light + SF Compact Regular; lenis, shopify. _confidence 0.64_
 - [oddritual](https://oddritualgolf.com/) — scroll motion stack: gsap, lenis; dark page; accent #050fff; type: Ppneuemontrealvariable + Instrument Serif; gsap, lenis, svg-heavy. _confidence 0.64_
 - [OXI Instruments](https://oxiinstruments.com/) — scroll motion stack: gsap, lenis; dark page; 5-colour palette; display type up to 302px; type: Work Sans Variable + Fragment Mono; gsap, lenis, webflow. _confidence 0.64_
-- [Round](http://round.com.au/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: FT Regola Neue + FT Regola Neue SemiBold; gsap, lenis, svg-heavy. _confidence 0.64_
-- [A Creative Agency.](https://www.seventeenagency.com/) — scroll motion stack: gsap, lenis; light page; accent #c13437 / #275d82; type: Bagosscondensed; gsap, lenis, three.js. _confidence 0.64_
-- [Side Stage Ventures](https://www.sidestage.vc/) — scroll motion stack: gsap, lenis; dark page; accent #7fa5ff; type: Abcdiatype + Quadranttextmonotrial; gsap, lenis, webgl. _confidence 0.64_
-- [Studio Dumbar](https://studiodumbar.com/) — scroll motion stack: gsap, lenis; dark page; two-value palette; type: Haas; gsap, lenis. _confidence 0.64_
+- [Round](http://round.com.au/) — scroll motion stack: gsap, lenis; light page; 3-colour palette; type: FT Regola Neue + FT Regola Neue SemiBold; gsap, lenis, svg-heavy. _confidence 0.64_
 - [Studio Primal](https://www.studioprimal.com/) — scroll motion stack: gsap, lenis; light page; accent #fefe00; type: Greed Narrow + Neue Montreal; gsap, lenis, webflow. _confidence 0.64_
-- [watch_001](https://www.suvreesstudio.de/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: PP Neue Montreal; gsap, lenis. _confidence 0.64_
-- [The BanXhies](https://www.thebanxhies.com/fr) — scroll motion stack: gsap, lenis; light page; accent #fc3636; type: Neue Haas Display; gsap, lenis, webflow. _confidence 0.64_
 - [The Only Agency](https://www.theonly.agency/) — scroll motion stack: gsap, lenis; light page; two-value palette; type: Cochin + Abc favorit; gsap, lenis. _confidence 0.64_
-- [Tillmann Franzen](https://tillmannfranzen.com/) — scroll motion stack: gsap, lenis; light page; accent #eaff00; type: Lars; gsap, lenis. _confidence 0.64_
-- [b14.dk](https://b14.dk/en) — scroll motion stack: gsap; light page; two-value palette; type: Teka; gsap. _confidence 0.56_
 - [Bragg Live Foods](https://www.bragg.com/) — scroll motion stack: gsap; light page; accent #ed1c24 / #ffe100; type: Season Mix-TRIAL + ITC Franklin Gothic Std; gsap, svg-heavy, shopify. _confidence 0.56_
 - [Cassette](https://www.cassettemusic.com/) — scroll motion stack: gsap; light page; accent #ff8461 / #f0e226; type: Apercu Mono Pro + Apercu Pro; gsap, svg-heavy. _confidence 0.56_
-- [Celtic Sea Salt®](https://celticseasalt.com/) — scroll motion stack: gsap; light page; accent #052356 / #3979ad; type: Texturina + Roboto; gsap, webgl, svg-heavy. _confidence 0.56_
-- [(dot)connect](https://dotconnect.vc/) — scroll motion stack: gsap; light page; accent #001011 / #fd5321; type: AeonikPro; gsap, webgl. _confidence 0.56_
 - [Drop Dead Generous](https://www.dropdeadgenerous.org/) — scroll motion stack: gsap; light page; accent #fcff51 / #9887ff; type: Inter; gsap, svg-heavy. _confidence 0.56_
 - [Katie](https://emptystate.com/) — scroll motion stack: gsap; dark page; accent #00007d; type: Untitled Sans + Avenue Mono; gsap. _confidence 0.56_
 - [flexe.com](https://flexe.com/) — scroll motion stack: gsap; dark page; accent #cf8c29 / #7f9b00; type: Reckless Neue + Inter; gsap, svg-heavy. _confidence 0.56_
-- [Grid9 Studio](https://www.grid9.ru/) — scroll motion stack: gsap; dark page; 6-colour palette; display type up to 300px; type: Geist + Geist Mono; gsap. _confidence 0.56_
-- [Howl](https://www.howl.link/) — scroll motion stack: gsap; light page; accent #01ffa7; type: Instrument Sans; gsap, svg-heavy. _confidence 0.56_
-- [jonway.studio](https://www.jonway.studio/) — scroll motion stack: gsap; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl. _confidence 0.56_
-- [Kada](https://kada.co.nz/) — scroll motion stack: gsap; light page; 3-colour palette; type: Circular + Signifier; gsap, svg-heavy, shopify. _confidence 0.56_
 - [LAB46](https://lab46.de/en) — scroll motion stack: gsap; light page; 6-colour palette; type: N27 + Times Now; gsap, svg-heavy, shopify. _confidence 0.56_
 - [Milamend](https://www.milamend.com/) — scroll motion stack: gsap; light page; accent #00403a / #be4300; type: Hooj + F37 Zagma Mono; gsap, svg-heavy, shopify. _confidence 0.56_
-- [normalcomputing.com](https://www.normalcomputing.com/) — scroll motion stack: gsap; light page; accent #d61912 / #ff1e22; type: Tobias + Abcdiatype; gsap, svg-heavy, webflow. _confidence 0.56_
 - [Raca Design Studio](https://www.racastudio.pl/) — scroll motion stack: gsap; light page; accent #424b9b; type: Poppins; gsap, webflow. _confidence 0.56_
-- [Superpower](https://superpower.com/) — scroll motion stack: gsap; light page; 6-colour palette; type: Nb international pro webfont; gsap, svg-heavy, webflow. _confidence 0.56_
-- [VISIONNAIRE](https://vision-naire.com/) — scroll motion stack: gsap; light page; two-value palette; type: PP Neue Montreal; gsap, svg-heavy, shopify. _confidence 0.56_
 - [Watts Pet](https://wattspet.com/) — scroll motion stack: gsap; dark page; accent #c03800 / #c13700; type: Degular; gsap, svg-heavy, shopify. _confidence 0.56_

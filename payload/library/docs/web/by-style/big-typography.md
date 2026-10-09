@@ -1,60 +1,55 @@
 # Big Typography: real websites
 
-56 live sites measured as examples of [Big Typography](../../styles/big-typography/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+51 live sites measured as examples of [Big Typography](../../styles/big-typography/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
+- [ORYZO AI](https://oryzo.ai/) — display type reaches 410px; dark page; accent #ff0000 / #382416; display type up to 410px; type: halyard-display-variable + DM Mono; webgl, svg-heavy. _confidence 0.94_
+- [Rauno Freiberg](https://rauno.me/) — display type reaches 720px; light page; accent #ffff02; display type up to 720px; type: X; next.js. _confidence 0.94_
+- [darkroom.engineering](https://darkroom.engineering/) — display type reaches 251px; light page; two-value palette; display type up to 251px; type: therma + mono; svg-heavy. _confidence 0.86_
+- [Dennis Snellenberg](https://dennissnellenberg.com/) — display type reaches 216px; dark page; accent #455ce9 / #334bd3; display type up to 216px; type: Dennis Sans; gsap, locomotive-scroll. _confidence 0.81_
+- [mmm.page](https://mmm.page/) — display type reaches 195px; light page; accent #7012e2 / #72dd95; display type up to 195px; type: Lato + NationalPark-Variable. _confidence 0.79_
+- [The AI presentation workspace](https://pitch.com/) — display type reaches 180px; light page; accent #280f62 / #5318eb; display type up to 180px; type: Mark Pro Bold + Eina 03 Regular; webgl, framer. _confidence 0.76_
+- [Upstash](https://upstash.com/) — display type reaches 180px; light page; accent #34d399 / #065f46; display type up to 180px; type: Inter + Inter Tight; svg-heavy. _confidence 0.76_
+- [Monks](https://www.monks.com/) — display type reaches 172px; light page; 6-colour palette; display type up to 172px; type: Helvetica Now Extended + Helvetica Now; svg-heavy. _confidence 0.75_
+- [Monks](https://www.monks.com/) — display type reaches 172px; light page; 6-colour palette; display type up to 172px; type: Helvetica Now Extended + Helvetica Now; svg-heavy. _confidence 0.75_
+- [makemepulse](https://www.makemepulse.com/) — display type reaches 160px; light page; accent #896fff; display type up to 160px; type: Biotif + Beatrice Display. _confidence 0.74_
+- [KPR](https://kprverse.com/) — display type reaches 159px; light page; 3-colour palette; display type up to 159px; type: IBMPlexMono + ui-monospace; webgl, svg-heavy. _confidence 0.73_
+- [Cappen](https://cappen.com/) — display type reaches 140px; light page; two-value palette; display type up to 140px; type: HelveticaNowDisplay; webgl, svg-heavy. _confidence 0.71_
+- [Lusion](https://lusion.co/) — display type reaches 144px; light page; accent #0016ec; display type up to 144px; type: Aeonik; webgl, svg-heavy. _confidence 0.71_
+- [Fluent 2 Design System](https://fluent2.microsoft.design/) — display type reaches 128px; light page; 6-colour palette; display type up to 128px; type: Segoe UI; svg-heavy. _confidence 0.69_
+- [Neon](https://neon.com/) — display type reaches 128px; dark page; accent #0d221a / #34d59a; display type up to 128px; type: Inter + GeistMono; svg-heavy. _confidence 0.69_
+- [Bun](https://bun.sh/) — display type reaches 117px; light page; accent #009150 / #ff1f8f; display type up to 117px; type: ui-sans-serif + Archivo; svg-heavy. _confidence 0.68_
+- [Atlassian Design](https://atlassian.design/) — display type reaches 112px; light page; accent #1868db / #fca700; display type up to 112px; type: Atlassian Sans + Atlassian Mono; svg-heavy. _confidence 0.67_
+- [Polestar](https://www.polestar.com/us/) — display type reaches 110px; light page; accent #f06e00; display type up to 110px; type: Polestar Unica; svg-heavy. _confidence 0.67_
 - [Driftime®](https://2025.driftime.com/) — display type reaches 532px; dark page; 3-colour palette; display type up to 532px; type: Koulen + Instrument Serif; webgl. _confidence 0.94_
-- [Boundary Breaks Wine](https://boundarybreaks.com/) — display type reaches 513px; light page; two-value palette; display type up to 513px; type: gt-walsheim-web + nsw-web. _confidence 0.94_
 - [Choreograffiti](https://choreograffiti.com/) — display type reaches 459px; light page; accent #d3fe05; display type up to 459px; type: SharpGrotesk; webgl. _confidence 0.94_
-- [eTypes](https://e-types.com/) — display type reaches 403px; light page; two-value palette; display type up to 403px; type: Rialta. _confidence 0.94_
-- [Glyphs](https://glyphsapp.com/) — display type reaches 480px; light page; accent #42242e / #9aff00; display type up to 480px; type: Symbol Helper. _confidence 0.94_
-- [Download Free Trial Fonts](http://gt-flexa.com/) — display type reaches 1008px; light page; accent #ff8f80 / #ff5240; display type up to 1008px; type: Flexa + Flexa Mono. _confidence 0.94_
-- [GT Standard](https://gt-standard.com/) — display type reaches 380px; light page; accent #ffca08 / #ff3500; display type up to 380px; type: GT Standard + GT Standard Loading; svg-heavy. _confidence 0.94_
-- [Happy Ring](https://happyring.fiftyseven.co/) — display type reaches 427px; light page; accent #161108 / #e1f277; display type up to 427px; type: Formadjrdisplay + Formadjrmicro; lenis, svg-heavy. _confidence 0.94_
-- [House of Honey](https://www.houseofhoney.com/) — display type reaches 537px; dark page; accent #331917 / #fc72c4; display type up to 537px; type: canora + noeText; webgl. _confidence 0.94_
-- [icebergdoc.org](https://www.icebergdoc.org/) — display type reaches 356px; dark page; accent #ff6a41; display type up to 356px; type: Neue Montreal; svg-heavy. _confidence 0.94_
-- [Kyoso](https://www.kyoso.com/) — display type reaches 400px; light page; two-value palette; display type up to 400px; type: ui-sans-serif + Manrope; svg-heavy. _confidence 0.94_
-- [Maëlan Le Meur](https://maelanlemeur.com/) — display type reaches 317px; light page; accent #674825; display type up to 317px; type: PP Neue Montreal. _confidence 0.94_
-- [Newlyn](https://newlyn.com/) — display type reaches 317px; dark page; two-value palette; display type up to 317px; type: New Atten + e009c2f960fd345e825f4e4175073defc39b7851; svg-heavy. _confidence 0.94_
-- [otonove.studiokhi.com](https://otonove.studiokhi.com/) — display type reaches 432px; light page; accent #80dee9; display type up to 432px; type: Galgo + Inter; svg-heavy. _confidence 0.94_
-- [Mama Joyce Peppa Sauce](https://www.peppasauce.love/) — display type reaches 576px; dark page; accent #151329; display type up to 576px; type: Obviously + Vulf Sans. _confidence 0.94_
-- [Visions](https://www.readvisions.com/marvin/) — display type reaches 418px; dark page; accent #ff4c65; display type up to 418px; type: Marvin Visions Variable + Infini; webgl. _confidence 0.94_
-- [spectral.prototypo.io](https://spectral.prototypo.io/) — display type reaches 806px; light page; accent #518ff4 / #619cf2; display type up to 806px; type: gfnt + gnft-aperture. _confidence 0.94_
-- [Tusaro Studio](https://www.tusaro.studio/) — display type reaches 464px; light page; accent #0728c4; display type up to 464px; type: PP Neue Montreal Medium + Inter; framer. _confidence 0.94_
-- [TYPE BY](https://www.typeby.com/) — display type reaches 600px; dark page; accent #ef8e71; display type up to 600px; type: Felka Line Normal + Pirol 01 Thin. _confidence 0.94_
-- [UPSET](https://upset.ch/) — display type reaches 484px; light page; accent #0b1215; display type up to 484px; type: UT FutterGrotesk. _confidence 0.94_
-- [Charlie Osborne](https://www.charlieosborne.co/) — display type reaches 300px; dark page; 3-colour palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.93_
-- [Grid9 Studio](https://www.grid9.ru/) — display type reaches 300px; dark page; 6-colour palette; display type up to 300px; type: Geist + Geist Mono; gsap. _confidence 0.93_
-- [GT Zirkon](http://gt-zirkon.com/) — display type reaches 302px; light page; two-value palette; display type up to 302px; type: GT-Zirkon. _confidence 0.93_
-- [kubrick.life](https://kubrick.life/) — display type reaches 300px; light page; accent #f2473e; display type up to 300px; type: vcxq. _confidence 0.93_
-- [OXI Instruments](https://oxiinstruments.com/) — display type reaches 302px; dark page; 5-colour palette; display type up to 302px; type: Work Sans Variable + Fragment Mono; gsap, lenis, webflow. _confidence 0.93_
+- [Rivian](https://rivian.com/) — display type reaches 360px; light page; accent #ffac00 / #e84826; display type up to 360px; type: Adventure + Liga; next.js. _confidence 0.94_
+- [Charlie Osborne](https://www.charlieosborne.co/) — display type reaches 300px; dark page; two-value palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.93_
 - [valerian.studio](https://www.valerian.studio/) — display type reaches 293px; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.92_
 - [Altason](https://atlason.com/) — display type reaches 288px; light page; two-value palette; display type up to 288px; type: haas-grotesk-ds-pro + haas-grotesk-tx-pro; svg-heavy. _confidence 0.91_
-- [ACD/CW](https://brunocis.co/) — display type reaches 282px; light page; 3-colour palette; display type up to 282px; type: Inter Tight + Exposure Italic; gsap, svg-heavy. _confidence 0.91_
-- [Wolff Olins](https://www.wolffolins.com/) — display type reaches 283px; light page; accent #fff84b; display type up to 283px; type: Monument-Grotesk + Untitled-Serif; svg-heavy. _confidence 0.91_
-- [GF Smith](https://www.gfsmith.com/) — display type reaches 264px; light page; accent #193f1a / #c5ff21; display type up to 264px; type: GFS Homie + Noto Sans KR; webgl, next.js. _confidence 0.88_
-- [Hyperframe](https://www.hyperframe.com/) — display type reaches 260px; dark page; accent #cbfb45; display type up to 260px; type: EverettLight + Everett; svg-heavy. _confidence 0.88_
-- [Huehaus Agency](https://huehaus.design/) — display type reaches 240px; light page; accent #0443b5 / #fbb833; display type up to 240px; type: Inter Display + PP Neue Montreal Medium; svg-heavy, framer. _confidence 0.85_
+- [Isa de Burgh](https://isadeburgh.com/) — display type reaches 240px; light page; 3-colour palette; display type up to 240px; type: FoundersGroteskCondensedMedium + EditorialNewUltraLight; gsap, lenis. _confidence 0.85_
+- [Illuminating Radioactivity](https://illuminating-radioactivity.com/2/) — display type reaches 200px; light page; accent #218423; display type up to 200px; type: custom_19789 + custom_20744; gsap, webgl. _confidence 0.79_
 - [Paris](https://viens-la.com/) — display type reaches 200px; dark page; accent #ffe375 / #ffc48c; display type up to 200px; type: obviously-variable; webgl, svg-heavy. _confidence 0.79_
+- [Winter '26](https://www.shopify.com/editions/winter2026) — display type reaches 194px; dark page; 6-colour palette; display type up to 194px; type: NeueMontreal + HWCigars; webgl, svg-heavy. _confidence 0.78_
+- [Carbon Design System](https://www.carbondesignsystem.com/) — display type reaches 187px; light page; accent #002d9c / #001d6c; display type up to 187px; type: IBM Plex Sans + IBM Plex Serif; webgl, svg-heavy. _confidence 0.77_
 - [Convicts](https://convicts.nyc/) — display type reaches 180px; light page; 3-colour palette; display type up to 180px; type: sans + display. _confidence 0.76_
 - [Radio Null Rewind 2022](https://2022.madebynull.com/) — display type reaches 172px; light page; accent #000010 / #00009f; display type up to 172px; type: PP Neue + Suisse; webgl, svg-heavy. _confidence 0.75_
-- [The Print Loft](https://theprintloft.art/) — display type reaches 160px; light page; accent #0021b3; display type up to 160px; type: Parkinsans + IBM Plex Mono; svg-heavy, shopify. _confidence 0.74_
+- [Chiara Luzzana](https://chiaraluzzana.com/) — display type reaches 173px; light page; two-value palette; display type up to 173px; type: Roslindale Display Condensed + Ayer; gsap, locomotive-scroll, three.js. _confidence 0.75_
+- [Oil Paintings](https://www.eirdis.com/) — display type reaches 173px; light page; 6-colour palette; display type up to 173px; type: Fraunces + Inter; gsap, lenis. _confidence 0.75_
+- [Medusmo](https://www.medusmo.com/) — display type reaches 160px; light page; accent #ff0000 / #0000ff; display type up to 160px; type: Doumbar + Inter; gsap, lenis, webgl. _confidence 0.74_
+- [nudot.com.tw](https://nudot.com.tw/) — display type reaches 144px; dark page; 3-colour palette; display type up to 144px; type: DM Sans + Bitcount Grid Single; gsap, lenis, three.js. _confidence 0.71_
+- [Origin](https://www.originbrand.io/) — display type reaches 124px; light page; 6-colour palette; display type up to 124px; type: Saans; webgl. _confidence 0.69_
+- [Birch (Revealbot)](https://bir.ch/) — display type reaches 123px; dark page; accent #1877f2 / #5b45cd; display type up to 123px; type: Tt Commons Pro Variable + TT Commons Pro Variable; gsap, webgl, svg-heavy. _confidence 0.68_
+- [Maël Ruffini](https://www.maelruffini.com/) — display type reaches 120px; light page; 3-colour palette; display type up to 120px; type: ESAllianz + EditorialOld; webgl. _confidence 0.68_
+- [Noomo](https://noomoagency.com/) — display type reaches 120px; light page; 5-colour palette; display type up to 120px; type: NeueRoman + NeueMachina; webgl. _confidence 0.68_
+- [Chronically Online Magazine](https://com.manychat.com/) — display type reaches 115px; dark page; accent #0057ff / #ff4b00; display type up to 115px; type: CoFo Sans Mono + Rooftop; gsap, webgl, svg-heavy. _confidence 0.67_
+- [Euveka](https://www.euveka.com/) — display type reaches 112px; light page; accent #ff4f4f; display type up to 112px; type: PP Eiko Thin + Inter; gsap, svg-heavy, framer. _confidence 0.67_
+- [maximilian kaspar](https://www.maximiliankaspar.com/) — display type reaches 112px; light page; two-value palette; display type up to 112px; type: Bugrino + Neue Montreal Mono Book; gsap, lenis, webgl. _confidence 0.67_
+- [Grafik®](https://grafik.co.nz/) — display type reaches 108px; light page; accent #ff4f00 / #6320ee; type: Die Grotesk A Regular + Founders Grotesk X Condensed Semibold; webgl. _confidence 0.66_
+- [Powell Studio](https://powell-studio.com/) — display type reaches 100px; dark page; two-value palette; type: ma; webgl. _confidence 0.65_
+- [Happy Ring](https://happyring.fiftyseven.co/) — display type reaches 427px; light page; accent #161108 / #e1f277; display type up to 427px; type: Formadjrdisplay + Formadjrmicro; lenis, svg-heavy. _confidence 0.94_
+- [OXI Instruments](https://oxiinstruments.com/) — display type reaches 302px; dark page; 5-colour palette; display type up to 302px; type: Work Sans Variable + Fragment Mono; gsap, lenis, webflow. _confidence 0.93_
 - [shinbu.be](http://www.shinbu.be/) — display type reaches 144px; light page; accent #2d3f91; display type up to 144px; type: source-han-sans-japanese + degular. _confidence 0.71_
 - [GASS Records](https://www.gass.zone/) — display type reaches 135px; dark page; accent #ff0000 / #00220b; display type up to 135px; type: neue-haas-grotesk-display + Perfetto; next.js. _confidence 0.7_
-- [IT Specialist](https://www.lorenzodaldosso.it/) — display type reaches 135px; light page; accent #000310; display type up to 135px; type: LDD + NeueMontreal-Regular. _confidence 0.7_
-- [ot.studio](https://ot.studio/) — display type reaches 132px; dark page; two-value palette; display type up to 132px; type: Unica77 + GT-Super-Text. _confidence 0.7_
-- [Finn](https://petfinn.com/) — display type reaches 133px; light page; accent #60c4bf / #161345; display type up to 133px; type: Athletics-Medium + Larsseit-Regular; svg-heavy, shopify. _confidence 0.7_
-- [Balky Studio®](https://www.balky.studio/) — display type reaches 128px; light page; accent #ff4d00; display type up to 128px; type: Gta + Gta Mono; lenis, webgl, svg-heavy. _confidence 0.69_
-- [Buffet](https://www.buffet.digital/) — display type reaches 123px; light page; 3-colour palette; display type up to 123px; type: Synt + Avenir; next.js. _confidence 0.69_
-- [Gusta](https://gusta.studio/) — display type reaches 128px; light page; accent #fcc113 / #e14f1e; display type up to 128px; type: Universal Sans Display 385 + Universal Sans Display 538; framer. _confidence 0.69_
-- [Default Web Site Page](http://tecprize.org/cgi-sys/defaultwebpage.cgi) — display type reaches 126px; light page; two-value palette; display type up to 126px; type: Arial. _confidence 0.69_
-- [Bissiri](https://burkinow.com/en) — display type reaches 120px; light page; two-value palette; display type up to 120px; type: Regola Pro Medium + Regola Pro Regular; svg-heavy, framer. _confidence 0.68_
-- [ennismore.com](https://ennismore.com/) — display type reaches 120px; light page; accent #335461; display type up to 120px; type: Spezia Serif + Spezia Sans. _confidence 0.68_
-- [Fontshare](https://fontshare.com/) — display type reaches 120px; light page; two-value palette; display type up to 120px; type: _Satoshi_Variable + Passenger-Sans; svg-heavy. _confidence 0.68_
 - [capital.xyz](https://capital.xyz/) — display type reaches 115px; dark page; accent #ed5145; display type up to 115px; type: __muoto_7e5c91 + GT America Mono; next.js. _confidence 0.67_
-- [Chronically Online Magazine](https://com.manychat.com/) — display type reaches 115px; dark page; accent #0057ff / #ff4b00; display type up to 115px; type: CoFo Sans Mono + Rooftop; gsap, webgl, svg-heavy. _confidence 0.67_
 - [josef](https://josef.online/) — display type reaches 114px; light page; accent #1e5cff; display type up to 114px; type: FaktPro + FinancierDisplayWeb. _confidence 0.67_
-- [Locomotive](https://locomotive.ca/en) — display type reaches 110px; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.67_
 - [Studio Primal](https://www.studioprimal.com/) — display type reaches 109px; light page; accent #fefe00; type: Greed Narrow + Neue Montreal; gsap, lenis, webflow. _confidence 0.67_
-- [b14.dk](https://b14.dk/en) — display type reaches 108px; light page; two-value palette; type: Teka; gsap. _confidence 0.66_
-- [Driftime Impact Report 2022](https://2022.driftime.com/) — display type reaches 100px; light page; accent #363666; type: Inter. _confidence 0.65_
-- [Powell Studio](https://powell-studio.com/) — display type reaches 100px; dark page; two-value palette; type: ma; webgl. _confidence 0.65_

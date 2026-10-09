@@ -1,30 +1,43 @@
 # Glassmorphism: real websites
 
-26 live sites measured as examples of [Glassmorphism](../../styles/glassmorphism/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+39 live sites measured as examples of [Glassmorphism](../../styles/glassmorphism/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [108™ Supply](https://108.supply/) — 12 elements use backdrop blur; dark page; 3-colour palette; type: Season Sans + Gt Alpina Condensed; gsap, lenis, webflow. _confidence 0.69_
-- [Amie](https://amie.so/) — 5 elements use backdrop blur; light page; accent #11a8ff / #ff6154; type: Inter; svg-heavy, next.js. _confidence 0.69_
-- [Bragg Live Foods](https://www.bragg.com/) — 88 elements use backdrop blur; light page; accent #ed1c24 / #ffe100; type: Season Mix-TRIAL + ITC Franklin Gothic Std; gsap, svg-heavy, shopify. _confidence 0.69_
-- [Bumblebee](https://bumblebeespaces.com/) — 9 elements use backdrop blur; light page; accent #006bd6; type: MaisonNeue + MaisonNeue-Light. _confidence 0.69_
-- [Bissiri](https://burkinow.com/en) — 5 elements use backdrop blur; light page; two-value palette; display type up to 120px; type: Regola Pro Medium + Regola Pro Regular; svg-heavy, framer. _confidence 0.69_
-- [Charlie Osborne](https://www.charlieosborne.co/) — 13 elements use backdrop blur; dark page; 3-colour palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.69_
+- [Ant Design](https://ant.design/) — 5 elements use backdrop blur; light page; accent #1677ff / #ee35f1; type: AlibabaSans + Avenir; svg-heavy. _confidence 0.69_
+- [Clerk](https://clerk.com/) — 15 elements use backdrop blur; light page; accent #6c47ff; type: ui-sans-serif + geistNumbers; webgl, svg-heavy. _confidence 0.69_
+- [Convex](https://www.convex.dev/) — 4 elements use backdrop blur; light page; accent #73312b / #de5d33; type: gtAmerica + publico; svg-heavy. _confidence 0.69_
+- [Fantasy](https://fantasy.co/) — 3 elements use backdrop blur; light page; two-value palette; type: sans. _confidence 0.69_
+- [Framer](https://www.framer.com/) — 5 elements use backdrop blur; dark page; accent #0099ff / #00bb88; type: Inter Variable + Inter; svg-heavy, framer. _confidence 0.69_
+- [Fumadocs](https://www.fumadocs.dev/) — 6 elements use backdrop blur; light page; accent #c6bb58 / #dd7627; type: Geist + JetBrains Mono; webgl, svg-heavy. _confidence 0.69_
+- [Magic UI](https://magicui.design/) — 41 elements use backdrop blur; light page; two-value palette; type: Geist; svg-heavy. _confidence 0.69_
+- [mercury.com](https://mercury.com/) — 4 elements use backdrop blur; light page; accent #5266eb; type: arcadia + arcadiaDisplay; webgl, svg-heavy. _confidence 0.69_
+- [mmm.page](https://mmm.page/) — 3 elements use backdrop blur; light page; accent #7012e2 / #72dd95; display type up to 195px; type: Lato + NationalPark-Variable. _confidence 0.69_
+- [Motion (prev Framer Motion)](https://motion.dev/) — 11 elements use backdrop blur; dark page; accent #ffdb2a; type: TASA Orbiter + Geist Mono; webgl, svg-heavy. _confidence 0.69_
+- [Next.js by Vercel](https://nextjs.org/) — 11 elements use backdrop blur; light page; 6-colour palette; type: GeistSans + Geist Mono; svg-heavy. _confidence 0.69_
+- [Nextra](https://nextra.site/) — 9 elements use backdrop blur; light page; 4-colour palette; type: ui-sans-serif + ui-monospace; svg-heavy. _confidence 0.69_
+- [Nothing](https://nothing.tech/) — 13 elements use backdrop blur; light page; accent #ffc700; type: NType82-Regular + Ndot-Bold; svg-heavy, shopify. _confidence 0.69_
+- [ouraring.com](https://ouraring.com/) — 7 elements use backdrop blur; light page; accent #2a72de / #1f72cd; type: AkkuratLL + Editorial New; svg-heavy. _confidence 0.69_
+- [Ramp](https://ramp.com/) — 10 elements use backdrop blur; light page; 4-colour palette; type: Lausanne; webgl, svg-heavy. _confidence 0.69_
+- [Raycast](https://www.raycast.com/) — 18 elements use backdrop blur; dark page; accent #452324 / #ff6363; type: Inter + SF Pro Text; webgl, svg-heavy. _confidence 0.69_
+- [React](https://react.dev/) — 4 elements use backdrop blur; light page; accent #087ea4; type: Optimistic Text + Optimistic Display; svg-heavy, next.js. _confidence 0.69_
+- [Tailwind CSS](https://tailwindcss.com/) — 10 elements use backdrop blur; light page; two-value palette; type: inter + plexMono; svg-heavy. _confidence 0.69_
+- [Tana](https://tana.inc/) — 3 elements use backdrop blur; light page; accent #2b8fe6 / #0c0805; type: Inter + Source Serif 4; svg-heavy. _confidence 0.69_
+- [Charlie Osborne](https://www.charlieosborne.co/) — 13 elements use backdrop blur; dark page; two-value palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.69_
 - [Chronically Online Magazine](https://com.manychat.com/) — 11 elements use backdrop blur; dark page; accent #0057ff / #ff4b00; display type up to 115px; type: CoFo Sans Mono + Rooftop; gsap, webgl, svg-heavy. _confidence 0.69_
+- [Oil Paintings](https://www.eirdis.com/) — 3 elements use backdrop blur; light page; 6-colour palette; display type up to 173px; type: Fraunces + Inter; gsap, lenis. _confidence 0.69_
+- [Maël Ruffini](https://www.maelruffini.com/) — 4 elements use backdrop blur; light page; 3-colour palette; display type up to 120px; type: ESAllianz + EditorialOld; webgl. _confidence 0.69_
+- [Medusmo](https://www.medusmo.com/) — 3 elements use backdrop blur; light page; accent #ff0000 / #0000ff; display type up to 160px; type: Doumbar + Inter; gsap, lenis, webgl. _confidence 0.69_
+- [Over-Stimulated](https://www.over-stimulated.com/) — 9 elements use backdrop blur; light page; 3-colour palette; type: __myFont_696fb3 + __geistMono_93783d; webgl, next.js. _confidence 0.69_
+- [Resend](https://resend.com/) — 4 elements use backdrop blur; dark page; accent #00a3ff / #22ff99; type: inter + aBCFavorit; webgl, svg-heavy. _confidence 0.69_
+- [Winter '26](https://www.shopify.com/editions/winter2026) — 5 elements use backdrop blur; dark page; 6-colour palette; display type up to 194px; type: NeueMontreal + HWCigars; webgl, svg-heavy. _confidence 0.69_
+- [Squarespace](https://www.squarespace.com/) — 4 elements use backdrop blur; light page; 4-colour palette; type: Clarkson + Clarkson Serif; webgl, svg-heavy. _confidence 0.69_
+- [Paris](https://viens-la.com/) — 4 elements use backdrop blur; dark page; accent #ffe375 / #ffc48c; display type up to 200px; type: obviously-variable; webgl, svg-heavy. _confidence 0.69_
+- [Waterworks](https://waterworksproject.nl/en) — 22 elements use backdrop blur; dark page; two-value palette; type: IBM Plex Mono + Helvetica Neue; webgl. _confidence 0.69_
+- [Bragg Live Foods](https://www.bragg.com/) — 88 elements use backdrop blur; light page; accent #ed1c24 / #ffe100; type: Season Mix-TRIAL + ITC Franklin Gothic Std; gsap, svg-heavy, shopify. _confidence 0.69_
 - [Drop Dead Generous](https://www.dropdeadgenerous.org/) — 9 elements use backdrop blur; light page; accent #fcff51 / #9887ff; type: Inter; gsap, svg-heavy. _confidence 0.69_
-- [Gusta](https://gusta.studio/) — 13 elements use backdrop blur; light page; accent #fcc113 / #e14f1e; display type up to 128px; type: Universal Sans Display 385 + Universal Sans Display 538; framer. _confidence 0.69_
-- [Karol Ortyl](https://www.karolortyl.com/) — 4 elements use backdrop blur; dark page; accent #f2c230 / #d254e3; type: Funnel Sans + Roboto Condensed; framer. _confidence 0.69_
 - [LAB46](https://lab46.de/en) — 5 elements use backdrop blur; light page; 6-colour palette; type: N27 + Times Now; gsap, svg-heavy, shopify. _confidence 0.69_
-- [Claude Type](https://claudetype.com/) — 26 elements use backdrop blur; light page; accent #4000ff / #100401; type: MagicUIPro; svg-heavy. _confidence 0.69_
 - [Milamend](https://www.milamend.com/) — 45 elements use backdrop blur; light page; accent #00403a / #be4300; type: Hooj + F37 Zagma Mono; gsap, svg-heavy, shopify. _confidence 0.69_
-- [Mush Studios](https://mushstudios.co/) — 10 elements use backdrop blur; light page; accent #230b37; type: Sneak Light + SF Compact Regular; lenis, shopify. _confidence 0.69_
 - [Natural Paint Co.](https://www.naturalpaint.co.nz/) — 4 elements use backdrop blur; light page; accent #4a0517 / #115374; type: Good Sans; svg-heavy, shopify. _confidence 0.69_
 - [OXI Instruments](https://oxiinstruments.com/) — 17 elements use backdrop blur; dark page; 5-colour palette; display type up to 302px; type: Work Sans Variable + Fragment Mono; gsap, lenis, webflow. _confidence 0.69_
-- [Portrait](https://portrait.so/) — 3 elements use backdrop blur; light page; accent #08304c; type: __basierCircle_9ca3f5 + __switzer_c2a0a8; svg-heavy, next.js. _confidence 0.69_
-- [REKKI](https://rekki.com/) — 3 elements use backdrop blur; dark page; accent #040910 / #0063e1; type: Diatype REKKI Medium + Diatype REKKI Regular; svg-heavy, framer. _confidence 0.69_
 - [Seed](https://seed.com/) — 3 elements use backdrop blur; dark page; accent #1c3a13 / #36542d; type: Seed Sans + Seed Sans Mono; svg-heavy, next.js, shopify. _confidence 0.69_
 - [Studio Primal](https://www.studioprimal.com/) — 7 elements use backdrop blur; light page; accent #fefe00; type: Greed Narrow + Neue Montreal; gsap, lenis, webflow. _confidence 0.69_
-- [Superpower](https://superpower.com/) — 18 elements use backdrop blur; light page; 6-colour palette; type: Nb international pro webfont; gsap, svg-heavy, webflow. _confidence 0.69_
-- [Paris](https://viens-la.com/) — 4 elements use backdrop blur; dark page; accent #ffe375 / #ffc48c; display type up to 200px; type: obviously-variable; webgl, svg-heavy. _confidence 0.69_
-- [Viacheslav Novoseltsev](https://vshslv.com/) — 4 elements use backdrop blur; dark page; two-value palette; type: ABC Diatype; svg-heavy. _confidence 0.69_
-- [Remark](https://remark.ai/) — 3 elements use backdrop blur; light page; accent #eb684e / #52a6eb; type: Gelica + Circular; svg-heavy, webflow. _confidence 0.69_
 - [Wiz](https://www.wiz.io/) — 28 elements use backdrop blur; light page; accent #0254ec; type: fontSans + fontHeadings; svg-heavy, next.js. _confidence 0.69_
-- [Wolff Olins](https://www.wolffolins.com/) — 7 elements use backdrop blur; light page; accent #fff84b; display type up to 283px; type: Monument-Grotesk + Untitled-Serif; svg-heavy. _confidence 0.69_

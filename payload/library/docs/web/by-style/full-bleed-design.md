@@ -1,69 +1,49 @@
 # Full-Bleed Design: real websites
 
-65 live sites measured as examples of [Full-Bleed Design](../../styles/full-bleed-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+45 live sites measured as examples of [Full-Bleed Design](../../styles/full-bleed-design/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [Clea Forkert](https://cleaforkert.com/) — image-led, full-viewport sections; dark page; two-value palette; type: TeX Gyre Heros Cn. _confidence 0.64_
-- [Account Suspended](http://derepublica.com.au/cgi-sys/suspendedpage.cgi) — image-led, full-viewport sections; light page; two-value palette; type: Arial. _confidence 0.64_
-- [Future Paris](https://futureparis.com/) — image-led, full-viewport sections; light page; two-value palette; type: orpheuspro + neue-haas-grotesk-text. _confidence 0.64_
-- [Grisly Faye](http://grislyfaye.com/) — image-led, full-viewport sections; light page; two-value palette; type: Brandon. _confidence 0.64_
-- [Imperial Woodpecker](https://www.imperial.tv/) — image-led, full-viewport sections; dark page; two-value palette; type: Maison Neue Medium + Maison Neue Book. _confidence 0.64_
-- [Instrument](https://www.instrument.com/) — image-led, full-viewport sections; light page; two-value palette; type: Instrument-Sans + Instrument-Serif; svg-heavy. _confidence 0.64_
-- [Joyce Wang Studio](https://joycewangstudio.com/) — image-led, full-viewport sections; light page; two-value palette; type: post_groteskmedium + post_groteskbook. _confidence 0.64_
+- [14islands](https://www.14islands.com/) — image-led, full-viewport sections; light page; two-value palette; type: AftenScreen + BentonSans; webgl, next.js. _confidence 0.39_
+- [basement.studio](https://basement.studio/) — image-led, full-viewport sections; dark page; 3-colour palette; type: Geist + Geist Mono; webgl. _confidence 0.39_
+- [Cappen](https://cappen.com/) — image-led, full-viewport sections; light page; two-value palette; display type up to 140px; type: HelveticaNowDisplay; webgl, svg-heavy. _confidence 0.39_
+- [dogstudio.co](https://dogstudio.co/) — image-led, full-viewport sections; dark page; accent #0e101a / #5ab400; type: Heebo + Gilroy; webgl, svg-heavy. _confidence 0.39_
+- [USA](https://leica-camera.com/en-US) — image-led, full-viewport sections; light page; two-value palette; type: Outfit; svg-heavy. _confidence 0.39_
+- [Nothing](https://nothing.tech/) — image-led, full-viewport sections; light page; accent #ffc700; type: NType82-Regular + Ndot-Bold; svg-heavy, shopify. _confidence 0.39_
+- [Notion](https://www.notion.com/) — image-led, full-viewport sections; light page; accent #097fe8 / #ffb110; type: NotionInter + Lyon Text; svg-heavy, next.js. _confidence 0.39_
+- [Inicio](https://nuno.studio/) — image-led, full-viewport sections; dark page; accent #115cfa; type: Inter + Public Sans; gsap. _confidence 0.39_
+- [starlight.astro.build](https://starlight.astro.build/) — image-led, full-viewport sections; light page; accent #3d50f5; svg-heavy. _confidence 0.39_
+- [Tauri](https://tauri.app/) — image-led, full-viewport sections; light page; 6-colour palette; type: ui-monospace; svg-heavy. _confidence 0.39_
+- [Tendril](https://tendril.studio/) — image-led, full-viewport sections; light page; two-value palette; type: HKGrotesque. _confidence 0.39_
+- [Val Town](https://www.val.town/) — image-led, full-viewport sections; light page; accent #5db9ef; type: Sprig Sans. _confidence 0.39_
+- [Choreograffiti](https://choreograffiti.com/) — image-led, full-viewport sections; light page; accent #d3fe05; display type up to 459px; type: SharpGrotesk; webgl. _confidence 0.39_
+- [Convicts](https://convicts.nyc/) — image-led, full-viewport sections; light page; 3-colour palette; display type up to 180px; type: sans + display. _confidence 0.39_
+- [Cryptogram](https://cryptogramink.com/) — image-led, full-viewport sections; dark page; two-value palette; type: Atlas Grotesk Web; three.js, webgl. _confidence 0.39_
+- [Game Changer](https://detour.hk/2016/en/) — image-led, full-viewport sections; light page; accent #ffce00 / #dd0505; type: MarkPro; three.js, webgl. _confidence 0.39_
+- [Jenni Kayne](https://www.jennikayne.com/) — image-led, full-viewport sections; light page; 3-colour palette; type: GT America Web + Domaine-Redesign; svg-heavy, shopify. _confidence 0.39_
+- [Murmure](https://murmure.me/) — image-led, full-viewport sections; dark page; two-value palette; type: a + MonumentGrotesk. _confidence 0.39_
+- [Origin](https://www.originbrand.io/) — image-led, full-viewport sections; light page; 6-colour palette; display type up to 124px; type: Saans; webgl. _confidence 0.39_
+- [OVA](https://ova-investment.com/) — image-led, full-viewport sections; dark page; two-value palette; type: Neue Montreal; webgl. _confidence 0.39_
+- [Silver Gore](https://www.silvergore.com/) — image-led, full-viewport sections; dark page; two-value palette; type: ocr-b-std + Obviously; webgl. _confidence 0.39_
 - [Listeners Playlist](https://lp.anzi.kr/) — image-led, full-viewport sections; dark page; accent #182645; type: NGB. _confidence 0.64_
 - [mssngpeces.com](https://mssngpeces.com/) — image-led, full-viewport sections; dark page; accent #8a3440 / #3f261d; type: Ivory LL + GT America Regular. _confidence 0.64_
 - [ANDSTAAT](https://www.staat.com/) — image-led, full-viewport sections; dark page; accent #f9bb15 / #e8001c; type: Suisse Works + Circular. _confidence 0.64_
-- [StudioBand®](https://www.studioband.com.au/) — image-led, full-viewport sections; dark page; accent #f3392f; type: Aeonik Pro. _confidence 0.64_
 - [Studio Ongarato](https://studioongarato.com.au/) — image-led, full-viewport sections; light page; two-value palette; type: Univers Condensed Bold + Univers LT W01_55 Roman1475956. _confidence 0.64_
-- [The Founder](https://thefounder.biz/) — image-led, full-viewport sections; light page; accent #0000ff; type: Montserrat + Inconsolata. _confidence 0.64_
 - [The Robey Chicago](https://www.therobey.com/) — image-led, full-viewport sections; light page; accent #c33129 / #3b5998; type: Raleway + Helvetica. _confidence 0.64_
 - [VERDE](https://verde.io/) — image-led, full-viewport sections; light page; accent #00cc00 / #d4ff00; type: Calibre; webgl. _confidence 0.64_
-- [Acne Studios](https://www.acnestudios.com/us/en/home) — image-led, full-viewport sections; light page; 3-colour palette; type: Helvetica Now Text. _confidence 0.39_
 - [Anuc Home](https://www.anuchome.com/) — image-led, full-viewport sections; light page; accent #976751 / #9a682c; type: Instrument Serif + Instrument Sans; svg-heavy. _confidence 0.39_
-- [Archie Bolden](https://www.archiebolden.com/) — image-led, full-viewport sections; light page; accent #632933 / #27331c; type: Taviraj + Mona Sans; framer. _confidence 0.39_
-- [Arkitektkontoret Vest](https://arkitektkontoretvest.no/) — image-led, full-viewport sections; light page; two-value palette; type: bastardo; gsap, lenis, svg-heavy. _confidence 0.39_
-- [Bad Boys Supply](https://bad-boys.vercel.app/) — image-led, full-viewport sections; light page; accent #ff0000 / #ddfc23; type: Neue Montreal + Neue Bit; next.js. _confidence 0.39_
-- [Boundary Breaks Wine](https://boundarybreaks.com/) — image-led, full-viewport sections; light page; two-value palette; display type up to 513px; type: gt-walsheim-web + nsw-web. _confidence 0.39_
-- [Bumblebee](https://bumblebeespaces.com/) — image-led, full-viewport sections; light page; accent #006bd6; type: MaisonNeue + MaisonNeue-Light. _confidence 0.39_
 - [capital.xyz](https://capital.xyz/) — image-led, full-viewport sections; dark page; accent #ed5145; display type up to 115px; type: __muoto_7e5c91 + GT America Mono; next.js. _confidence 0.39_
-- [Choreograffiti](https://choreograffiti.com/) — image-led, full-viewport sections; light page; accent #d3fe05; display type up to 459px; type: SharpGrotesk; webgl. _confidence 0.39_
 - [Company Policy](https://www.companypolicy.studio/) — image-led, full-viewport sections; light page; accent #3667f6; type: Kleischll + Fkrastergrotesktrial blended; gsap, lenis. _confidence 0.39_
-- [Convicts](https://convicts.nyc/) — image-led, full-viewport sections; light page; 3-colour palette; display type up to 180px; type: sans + display. _confidence 0.39_
 - [Crumpler Australia](https://www.crumpler.com/) — image-led, full-viewport sections; light page; 6-colour palette; type: Neue Haas Grotesk Text Pro + Sixtyfour; svg-heavy, shopify. _confidence 0.39_
-- [Curry Cafe](https://curry.cafe/) — image-led, full-viewport sections; light page; accent #ff6c2c / #efea45; type: akkuratBoldItalic + archiveMono; svg-heavy. _confidence 0.39_
 - [Drummonds Bathrooms](https://drummonds-uk.com/) — image-led, full-viewport sections; light page; accent #8d2729; type: Playfair Display + Lato; svg-heavy, shopify. _confidence 0.39_
-- [eTypes](https://e-types.com/) — image-led, full-viewport sections; light page; two-value palette; display type up to 403px; type: Rialta. _confidence 0.39_
-- [eloyb.design](https://eloyb.design/) — image-led, full-viewport sections; dark page; accent #d8fb81; type: Px 437 Phoenixvga 8 X 16; gsap, lenis, svg-heavy. _confidence 0.39_
-- [Emele Collab](https://emelecollab.com/) — image-led, full-viewport sections; light page; accent #ff0000; type: pr + sc; lenis. _confidence 0.39_
+- [eloyb.design](https://eloyb.design/) — image-led, full-viewport sections; dark page; accent #d8fb81; gsap, lenis, svg-heavy. _confidence 0.39_
 - [ESR](https://www.esrbespoke.au/) — image-led, full-viewport sections; light page; accent #070b14 / #e20508; type: __bodyFont_0f148b + __headingFont_a39ca7; next.js. _confidence 0.39_
-- [FinTech Collective](https://fintech.io/) — image-led, full-viewport sections; light page; accent #26539c; type: Moderat + Domaine Text. _confidence 0.39_
-- [GF Smith](https://www.gfsmith.com/) — image-led, full-viewport sections; light page; accent #193f1a / #c5ff21; display type up to 264px; type: GFS Homie + Noto Sans KR; webgl, next.js. _confidence 0.39_
 - [Gigantic // Candy Deluxe](https://giganticcandy.com/) — image-led, full-viewport sections; light page; accent #ff634b; type: neue-haas-grotesk-display; shopify. _confidence 0.39_
 - [Glasfurd & Walker](https://glasfurdandwalker.com/) — image-led, full-viewport sections; light page; accent #c25959 / #5c0d12; type: Fancy-Serif + Sans. _confidence 0.39_
-- [Groth Studio](https://www.groth.studio/) — image-led, full-viewport sections; light page; accent #bf551a; type: PP Neue Montreal + GT America Mono LCG. _confidence 0.39_
 - [HOVERSTAT.ES](https://www.hoverstat.es/) — image-led, full-viewport sections; light page; 3-colour palette; type: Fakt. _confidence 0.39_
-- [icebergdoc.org](https://www.icebergdoc.org/) — image-led, full-viewport sections; dark page; accent #ff6a41; display type up to 356px; type: Neue Montreal; svg-heavy. _confidence 0.39_
-- [iconwerk](https://www.iconwerk.com/) — image-led, full-viewport sections; light page; two-value palette; type: __Graphik_5. _confidence 0.39_
-- [Jenni Kayne](https://www.jennikayne.com/) — image-led, full-viewport sections; light page; 3-colour palette; type: GT America Web + Domaine-Redesign; svg-heavy, shopify. _confidence 0.39_
 - [L'Étude](https://letude.group/) — image-led, full-viewport sections; light page; accent #ee382b; type: Indivisible; svg-heavy. _confidence 0.39_
 - [MAIN ROSE](https://mainrose.com/en-us) — image-led, full-viewport sections; light page; accent #ea339f; type: ABC Permanent + Helvetica; svg-heavy, shopify. _confidence 0.39_
-- [Claude Type](https://claudetype.com/) — image-led, full-viewport sections; light page; accent #4000ff / #100401; type: MagicUIPro; svg-heavy. _confidence 0.39_
-- [Murmure](https://murmure.me/) — image-led, full-viewport sections; dark page; two-value palette; type: a + MonumentGrotesk. _confidence 0.39_
-- [Mush Studios](https://mushstudios.co/) — image-led, full-viewport sections; light page; accent #230b37; type: Sneak Light + SF Compact Regular; lenis, shopify. _confidence 0.39_
-- [Oscar Pecher](https://www.oscarpecher.com/) — image-led, full-viewport sections; light page; accent #ff6419; type: Switzer; framer. _confidence 0.39_
 - [plantstotherescue.co](https://plantstotherescue.co/) — image-led, full-viewport sections; light page; accent #503217 / #d3744a; type: Garamond + Inter; svg-heavy, shopify. _confidence 0.39_
 - [Prima](https://prima.co/) — image-led, full-viewport sections; light page; accent #113034; type: SelfModern-Regular + AkzidenzGroteskBQExtendedLight; svg-heavy, shopify. _confidence 0.39_
-- [Visions](https://www.readvisions.com/marvin/) — image-led, full-viewport sections; dark page; accent #ff4c65; display type up to 418px; type: Marvin Visions Variable + Infini; webgl. _confidence 0.39_
-- [recruit.dac.co.jp](https://recruit.hakuhodody-one.co.jp/) — image-led, full-viewport sections; light page; 5-colour palette; type: Noto Sans JP + pragmatica-extended. _confidence 0.39_
-- [REKKI](https://rekki.com/) — image-led, full-viewport sections; dark page; accent #040910 / #0063e1; type: Diatype REKKI Medium + Diatype REKKI Regular; svg-heavy, framer. _confidence 0.39_
-- [ALSO](https://ridealso.com/) — image-led, full-viewport sections; light page; accent #361a5b / #8a38f5; type: ABCCameraPlainVariable + Serial C; svg-heavy, shopify. _confidence 0.39_
-- [Sometimes Always](https://sometimesalways.com.au/) — image-led, full-viewport sections; light page; accent #59611d / #ee7623; type: FoundersGrotesk-Regular + FoundersGrotesk-Medium; shopify. _confidence 0.39_
-- [Studio Office](https://www.studio-office.fun/) — image-led, full-viewport sections; light page; accent #1d1705; type: Oswald + Tiro Tamil. _confidence 0.39_
 - [Sucre London](https://sucrerestaurant.com/) — image-led, full-viewport sections; light page; accent #e0a655; type: garton-regular. _confidence 0.39_
 - [TBD Post](https://tbdpost.com/) — image-led, full-viewport sections; light page; accent #164953 / #af5c6b; type: Modern Era. _confidence 0.39_
-- [The BanXhies](https://www.thebanxhies.com/fr) — image-led, full-viewport sections; light page; accent #fc3636; type: Neue Haas Display; gsap, lenis, webflow. _confidence 0.39_
-- [Thursday](https://thursday.studio/) — image-led, full-viewport sections; light page; accent #34c759; type: basis_grotesque_promedium + ITCBodoni72WebItalic. _confidence 0.39_
-- [Tillmann Franzen](https://tillmannfranzen.com/) — image-led, full-viewport sections; light page; accent #eaff00; type: Lars; gsap, lenis. _confidence 0.39_
-- [Monotype.](https://www.monotype.com/resources/variable-fonts) — image-led, full-viewport sections; light page; accent #1a73e8; type: HelveticaNowMTTextMedium + HelveticaNowMTTextRegular; svg-heavy. _confidence 0.39_
 - [Warren and Mahoney](https://wam.studio/) — image-led, full-viewport sections; light page; accent #00649f / #d47182; type: die-grotesk-b + die-grotesk-a; svg-heavy. _confidence 0.39_
 - [Waste Not](https://wastenot.world/) — image-led, full-viewport sections; light page; accent #5cb55d / #ff2f22; type: Helvetica Neue + Times New Roman; svg-heavy. _confidence 0.39_
-- [Google X](https://x.company/) — image-led, full-viewport sections; light page; accent #f13f0f / #ffb300; type: Google Sans. _confidence 0.39_

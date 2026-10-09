@@ -1,48 +1,134 @@
 # Minimalism: real websites
 
-44 live sites measured as examples of [Minimalism](../../styles/minimalism/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+130 live sites measured as examples of [Minimalism](../../styles/minimalism/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
 
-- [108™ Supply](https://108.supply/) — few colors, little copy, generous space; dark page; 3-colour palette; type: Season Sans + Gt Alpina Condensed; gsap, lenis, webflow. _confidence 0.78_
-- [ajournalon.co](https://www.ajournalon.co/) — few colors, little copy, generous space; dark page; two-value palette; type: Tid + Pitch Sans; lenis. _confidence 0.78_
-- [Arkitektkontoret Vest](https://arkitektkontoretvest.no/) — few colors, little copy, generous space; light page; two-value palette; type: bastardo; gsap, lenis, svg-heavy. _confidence 0.78_
+- [Ant Design](https://ant.design/) — curated reference for restrained product and documentation design; light page; accent #1677ff / #ee35f1; type: AlibabaSans + Avenir; svg-heavy. _confidence 0.75_
+- [anthropic.com](https://www.anthropic.com/) — curated reference for restrained product and documentation design; light page; 4-colour palette; type: Anthropic Sans + Anthropic Serif; gsap, svg-heavy. _confidence 0.75_
+- [Apple](https://www.apple.com/) — curated reference for restrained product and documentation design; light page; accent #24568e / #241004; type: SF Pro Text + SF Pro Display; svg-heavy. _confidence 0.75_
+- [arc.net](https://arc.net/) — curated reference for restrained product and documentation design; light page; accent #3139fb / #2702c2; type: Marlin Soft SQ + InterVariable; svg-heavy, next.js. _confidence 0.75_
+- [Astro](https://astro.build/) — curated reference for restrained product and documentation design; dark page; accent #0c0f19 / #1a3e57; type: ui-sans-serif + Obviously; svg-heavy. _confidence 0.75_
+- [Atlassian Design](https://atlassian.design/) — curated reference for restrained product and documentation design; light page; accent #1868db / #fca700; display type up to 112px; type: Atlassian Sans + Atlassian Mono; svg-heavy. _confidence 0.75_
+- [Bang & Olufsen](https://www.bang-olufsen.com/en/us) — curated reference for restrained product and documentation design; light page; accent #060daa; type: BeoSupreme + BeoLogue; next.js. _confidence 0.75_
+- [Base UI](https://base-ui.com/) — curated reference for restrained product and documentation design; light page; two-value palette; type: die grotesk a + die grotesk b; svg-heavy. _confidence 0.75_
+- [Bear](https://bear.app/) — curated reference for restrained product and documentation design; light page; accent #dd4c4f / #fcb827; type: bearsans + bearsansheadline; svg-heavy. _confidence 0.75_
+- [biomejs.dev](https://biomejs.dev/) — curated reference for restrained product and documentation design; light page; accent #0065da / #25aff4; type: Geist-b17c5c92c1d3a205 + JetBrains Mono-1ea6b49896f773c2; svg-heavy. _confidence 0.75_
+- [Bun](https://bun.sh/) — curated reference for restrained product and documentation design; light page; accent #009150 / #ff1f8f; display type up to 117px; type: ui-sans-serif + Archivo; svg-heavy. _confidence 0.75_
+- [Cal.com](https://cal.com/) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: Cal Sans UI Variable Light + Cal Sans; svg-heavy, framer. _confidence 0.75_
+- [Campsite](https://www.campsite.com/) — curated reference for restrained product and documentation design; light page; accent #3b82f6 / #22c55e; type: __Inter_d65c78 + ui-monospace; svg-heavy, next.js. _confidence 0.75_
+- [Chakra UI](https://chakra-ui.com/) — curated reference for restrained product and documentation design; light page; accent #0d9488 / #14b8a6; type: Wix Madefor Text + SFMono-Regular; svg-heavy. _confidence 0.75_
+- [Clerk](https://clerk.com/) — curated reference for restrained product and documentation design; light page; accent #6c47ff; type: ui-sans-serif + geistNumbers; webgl, svg-heavy. _confidence 0.75_
+- [Convex](https://www.convex.dev/) — curated reference for restrained product and documentation design; light page; accent #73312b / #de5d33; type: gtAmerica + publico; svg-heavy. _confidence 0.75_
+- [Craft](https://www.craft.do/) — curated reference for restrained product and documentation design; light page; accent #ff4500; type: UntitledSerifFont + UntitledSansFont; svg-heavy. _confidence 0.75_
+- [Cursor](https://cursor.com/) — curated reference for restrained product and documentation design; light page; accent #c08532 / #34785c; type: CursorGothic + EB Garamond; svg-heavy. _confidence 0.75_
+- [deno.com](https://deno.com/) — curated reference for restrained product and documentation design; light page; accent #001319 / #70ffaf; type: Inter + Menlo; gsap, svg-heavy. _confidence 0.75_
+- [Apple Developer](https://developer.apple.com/) — curated reference for restrained product and documentation design; light page; accent #0071e3; type: SF Pro Display + SF Pro Text; svg-heavy. _confidence 0.75_
+- [Docusaurus](https://docusaurus.io/) — curated reference for restrained product and documentation design; light page; accent #25c19f / #54c7ec; svg-heavy. _confidence 0.75_
+- [Effect](https://effect.website/) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: Inter-2d43eae1204b97f2 + JetBrains Mono-672db76a3f3c5727; svg-heavy. _confidence 0.75_
+- [Fairphone](https://www.fairphone.com/) — curated reference for restrained product and documentation design; light page; accent #00433d; type: DM Sans + Bricolage Grotesque. _confidence 0.75_
+- [Figma](https://www.figma.com/) — curated reference for restrained product and documentation design; light page; 3-colour palette; type: figmaSans + figmaMono; svg-heavy. _confidence 0.75_
+- [Fluent 2 Design System](https://fluent2.microsoft.design/) — curated reference for restrained product and documentation design; light page; 6-colour palette; display type up to 128px; type: Segoe UI; svg-heavy. _confidence 0.75_
+- [Fumadocs](https://www.fumadocs.dev/) — curated reference for restrained product and documentation design; light page; accent #c6bb58 / #dd7627; type: Geist + JetBrains Mono; webgl, svg-heavy. _confidence 0.75_
+- [The Go Programming Language](https://go.dev/) — curated reference for restrained product and documentation design; light page; accent #007d9c / #fddd00; type: Menlo + Material Icons. _confidence 0.75_
+- [Heroicons](https://heroicons.com/) — curated reference for restrained product and documentation design; light page; 3-colour palette; type: Inter var; svg-heavy, next.js. _confidence 0.75_
+- [Hono](https://hono.dev/) — curated reference for restrained product and documentation design; light page; accent #ff9c24; type: ui-monospace. _confidence 0.75_
+- [Inngest](https://www.inngest.com/) — curated reference for restrained product and documentation design; dark page; accent #013cf6 / #f65c4f; type: WhyteV1 + CircularXX. _confidence 0.75_
+- [Kagi](https://kagi.com/) — curated reference for restrained product and documentation design; light page; accent #ffb319; type: Lufga + Arial. _confidence 0.75_
+- [USA](https://leica-camera.com/en-US) — curated reference for restrained product and documentation design; light page; two-value palette; type: Outfit; svg-heavy. _confidence 0.75_
+- [Linear](https://linear.app/) — curated reference for restrained product and documentation design; dark page; accent #e4f222 / #f34e52; type: Inter Variable + Berkeley Mono; svg-heavy. _confidence 0.75_
+- [Liveblocks](https://liveblocks.io/) — curated reference for restrained product and documentation design; dark page; accent #ec6572 / #65afec; type: suisse; webgl, svg-heavy. _confidence 0.75_
+- [Lucide](https://lucide.dev/) — curated reference for restrained product and documentation design; light page; accent #f56565; type: Inter; svg-heavy. _confidence 0.75_
+- [Material Design 3](https://m3.material.io/) — curated reference for restrained product and documentation design; light page; accent #6442d6; type: Google Sans + Google Sans Text. _confidence 0.75_
+- [Magic UI](https://magicui.design/) — curated reference for restrained product and documentation design; light page; two-value palette; type: Geist; svg-heavy. _confidence 0.75_
+- [Mantine](https://mantine.dev/) — curated reference for restrained product and documentation design; light page; accent #5865f2 / #228be6; type: Outfit + Menlo; svg-heavy, next.js. _confidence 0.75_
+- [Material Design 3](https://m3.material.io/) — curated reference for restrained product and documentation design; light page; accent #6442d6; type: Google Sans + Google Sans Text. _confidence 0.75_
+- [mercury.com](https://mercury.com/) — curated reference for restrained product and documentation design; light page; accent #5266eb; type: arcadia + arcadiaDisplay; webgl, svg-heavy. _confidence 0.75_
+- [Mintlify](https://www.mintlify.com/) — curated reference for restrained product and documentation design; light page; accent #c44120 / #0052ff; type: inter + arizonaFlare; svg-heavy. _confidence 0.75_
+- [Motion (prev Framer Motion)](https://motion.dev/) — curated reference for restrained product and documentation design; dark page; accent #ffdb2a; type: TASA Orbiter + Geist Mono; webgl, svg-heavy. _confidence 0.75_
+- [Neon](https://neon.com/) — curated reference for restrained product and documentation design; dark page; accent #0d221a / #34d59a; display type up to 128px; type: Inter + GeistMono; svg-heavy. _confidence 0.75_
+- [Next.js by Vercel](https://nextjs.org/) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: GeistSans + Geist Mono; svg-heavy. _confidence 0.75_
+- [Nextra](https://nextra.site/) — curated reference for restrained product and documentation design; light page; 4-colour palette; type: ui-sans-serif + ui-monospace; svg-heavy. _confidence 0.75_
+- [Nix & NixOS](https://nixos.org/) — curated reference for restrained product and documentation design; light page; two-value palette; type: Fira Code Variable + Roboto Flex Variable; svg-heavy. _confidence 0.75_
+- [Nothing](https://nothing.tech/) — curated reference for restrained product and documentation design; light page; accent #ffc700; type: NType82-Regular + Ndot-Bold; svg-heavy, shopify. _confidence 0.75_
+- [Notion](https://www.notion.com/) — curated reference for restrained product and documentation design; light page; accent #097fe8 / #ffb110; type: NotionInter + Lyon Text; svg-heavy, next.js. _confidence 0.75_
+- [Obsidian](https://obsidian.md/) — curated reference for restrained product and documentation design; dark page; accent #713f12 / #7c3aed; type: ui-sans-serif; webgl, svg-heavy. _confidence 0.75_
+- [Drizzle ORM](https://orm.drizzle.team/) — curated reference for restrained product and documentation design; light page; accent #4bb74b; type: ui-sans-serif + Menlo; svg-heavy. _confidence 0.75_
+- [ouraring.com](https://ouraring.com/) — curated reference for restrained product and documentation design; light page; accent #2a72de / #1f72cd; type: AkkuratLL + Editorial New; svg-heavy. _confidence 0.75_
+- [The AI presentation workspace](https://pitch.com/) — curated reference for restrained product and documentation design; light page; accent #280f62 / #5318eb; display type up to 180px; type: Mark Pro Bold + Eina 03 Regular; webgl, framer. _confidence 0.75_
+- [PlanetScale](https://planetscale.com/) — curated reference for restrained product and documentation design; light page; accent #fbca00 / #f35815; type: ui-monospace; svg-heavy. _confidence 0.75_
+- [PocketBase](https://pocketbase.io/) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: Ubuntu Mono + Source Sans Pro. _confidence 0.75_
+- [Polaris references](https://shopify.dev/docs/api/polaris) — curated reference for restrained product and documentation design; light page; 4-colour palette; type: Inter; svg-heavy. _confidence 0.75_
+- [Polestar](https://www.polestar.com/us/) — curated reference for restrained product and documentation design; light page; accent #f06e00; display type up to 110px; type: Polestar Unica; svg-heavy. _confidence 0.75_
+- [Primer](https://primer.style/) — curated reference for restrained product and documentation design; light page; 3-colour palette; type: Mona Sans + Mona Sans VF. _confidence 0.75_
+- [python.org](https://www.python.org/) — curated reference for restrained product and documentation design; light page; accent #2b5b84 / #ffdf76; type: SourceSansProRegular + Georgia. _confidence 0.75_
+- [Radix UI](https://www.radix-ui.com/) — curated reference for restrained product and documentation design; light page; accent #3e63dd / #00c69d; type: untitledSans + adobeTextPro; svg-heavy. _confidence 0.75_
+- [Railway](https://railway.com/) — curated reference for restrained product and documentation design; dark page; accent #1b2132 / #553f83; type: Inter + IBM Plex Serif; svg-heavy. _confidence 0.75_
+- [Ramp](https://ramp.com/) — curated reference for restrained product and documentation design; light page; 4-colour palette; type: Lausanne; webgl, svg-heavy. _confidence 0.75_
+- [Raycast](https://www.raycast.com/) — curated reference for restrained product and documentation design; dark page; accent #452324 / #ff6363; type: Inter + SF Pro Text; webgl, svg-heavy. _confidence 0.75_
+- [React](https://react.dev/) — curated reference for restrained product and documentation design; light page; accent #087ea4; type: Optimistic Text + Optimistic Display; svg-heavy, next.js. _confidence 0.75_
+- [Rust Programming Language](https://rust-lang.org/) — curated reference for restrained product and documentation design; light page; accent #2e2459 / #a72145; type: Fira Sans + Alfa Slab One. _confidence 0.75_
+- [Sonos](https://www.sonos.com/en-us/home) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: aktiv-grotesk; svg-heavy. _confidence 0.75_
+- [starlight.astro.build](https://starlight.astro.build/) — curated reference for restrained product and documentation design; light page; accent #3d50f5; svg-heavy. _confidence 0.75_
+- [Stripe](https://stripe.com/) — curated reference for restrained product and documentation design; light page; accent #0d1738 / #533afd; type: sohne-var; webgl, svg-heavy, next.js. _confidence 0.75_
+- [Supabase](https://supabase.com/) — curated reference for restrained product and documentation design; light page; accent #0c0f24 / #002533; type: Inter + Manrope; svg-heavy. _confidence 0.75_
+- [Superhuman](https://superhuman.com/) — curated reference for restrained product and documentation design; light page; accent #421d24 / #281647; type: Super Sans VF; svg-heavy, next.js. _confidence 0.75_
+- [Svelte](https://svelte.dev/) — curated reference for restrained product and documentation design; light page; accent #d43008; type: Georgia + DM Serif Display. _confidence 0.75_
+- [Tailwind CSS](https://tailwindcss.com/) — curated reference for restrained product and documentation design; light page; two-value palette; type: inter + plexMono; svg-heavy. _confidence 0.75_
+- [Tana](https://tana.inc/) — curated reference for restrained product and documentation design; light page; accent #2b8fe6 / #0c0805; type: Inter + Source Serif 4; svg-heavy. _confidence 0.75_
+- [Tauri](https://tauri.app/) — curated reference for restrained product and documentation design; light page; 6-colour palette; type: ui-monospace; svg-heavy. _confidence 0.75_
+- [teenage engineering](https://teenage.engineering/) — curated reference for restrained product and documentation design; dark page; two-value palette; type: te-40 + te-20. _confidence 0.75_
+- [Things](https://culturedcode.com/things/) — curated reference for restrained product and documentation design; light page; accent #4f91fb; type: ui-sans-serif; gsap. _confidence 0.75_
+- [Trigger.dev](https://trigger.dev/) — curated reference for restrained product and documentation design; dark page; accent #a8ff53; type: Satoshi-Variable + Geist; svg-heavy. _confidence 0.75_
+- [Turso](https://turso.tech/) — curated reference for restrained product and documentation design; dark page; accent #0d1318 / #4ff8d2; type: __Inter_f367f3 + __GeistMono_46451f; svg-heavy. _confidence 0.75_
+- [TypeScript](https://www.typescriptlang.org/) — curated reference for restrained product and documentation design; light page; accent #3178c6 / #235a97; type: Segoe UI Web (West European) + Cascadia Mono-SemiLight; svg-heavy. _confidence 0.75_
+- [Aceternity UI](https://ui.aceternity.com/) — curated reference for restrained product and documentation design; light page; two-value palette; type: inter + ui-monospace; svg-heavy. _confidence 0.75_
+- [shadcn/ui](https://ui.shadcn.com/) — curated reference for restrained product and documentation design; light page; two-value palette; type: Geist; svg-heavy. _confidence 0.75_
+- [Upstash](https://upstash.com/) — curated reference for restrained product and documentation design; light page; accent #34d399 / #065f46; display type up to 180px; type: Inter + Inter Tight; svg-heavy. _confidence 0.75_
+- [Val Town](https://www.val.town/) — curated reference for restrained product and documentation design; light page; accent #5db9ef; type: Sprig Sans. _confidence 0.75_
+- [Vercel](https://vercel.com/) — curated reference for restrained product and documentation design; light page; 3-colour palette; type: GeistSans + Geist Mono; svg-heavy. _confidence 0.75_
+- [Vite](https://vite.dev/) — curated reference for restrained product and documentation design; dark page; accent #370a7f; type: Inter + APK Protocol; svg-heavy. _confidence 0.75_
+- [VitePress](https://vitepress.dev/) — curated reference for restrained product and documentation design; light page; accent #5672cd; type: Inter. _confidence 0.75_
+- [Zed](https://zed.dev/) — curated reference for restrained product and documentation design; light page; accent #bf3c27; type: writer + ui-monospace; webgl, svg-heavy. _confidence 0.75_
+- [basement.studio](https://basement.studio/) — few colors, little copy, generous space; dark page; 3-colour palette; type: Geist + Geist Mono; webgl. _confidence 0.67_
+- [Joshua Baker](https://www.joshuabaker.com/) — few colors, little copy, generous space; dark page; 3-colour palette; type: Söhne; webgl, svg-heavy. _confidence 0.67_
+- [Locomotive](https://locomotive.ca/en) — few colors, little copy, generous space; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.67_
+- [Obys Agency](https://obys.agency/) — few colors, little copy, generous space; light page; two-value palette; type: Obys; webgl. _confidence 0.67_
+- [Bruno's](https://bruno-simon.com/) — very few elements, quiet palette, single screen; light page; two-value palette; webgl. _confidence 0.61_
+- [gentlerage.com](https://gentlerage.com/lander) — very few elements, quiet palette, single screen; dark page; 3-colour palette; type: GD Sherpa. _confidence 0.61_
+- [Igloo Inc.](https://www.igloo.inc/) — very few elements, quiet palette, single screen; light page; two-value palette. _confidence 0.61_
+- [Bizarro](https://lhbzr.com/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: Borda; webgl. _confidence 0.61_
+- [Resn](https://resn.co.nz/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: Fort-Medium; three.js, webgl. _confidence 0.61_
+- [Studio Freight](https://studiofreight.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: jjannon-regular + publico-text-mono-roman. _confidence 0.61_
+- [Three.js](https://threejs.org/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Roboto Mono. _confidence 0.61_
+- [artem shcherbakov](https://artemartemartem.com/) — few colors, little copy, generous space; light page; two-value palette; type: Arial Narrow + EaseDouble; webgl, svg-heavy, next.js. _confidence 0.78_
 - [Altason](https://atlason.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 288px; type: haas-grotesk-ds-pro + haas-grotesk-tx-pro; svg-heavy. _confidence 0.78_
-- [Belledonne Paris](https://belledonne.com/en-us) — few colors, little copy, generous space; light page; two-value palette; type: Mier A; svg-heavy, shopify. _confidence 0.78_
-- [Bruno Suraski](https://brunosuraski.com/) — few colors, little copy, generous space; light page; two-value palette; type: kGKWJBAwqz; lenis. _confidence 0.78_
-- [Bureau Tonalli](https://www.bureautonalli.com/) — few colors, little copy, generous space; light page; two-value palette; type: Helvetica Neue Light + Helvetica Neue Bold; framer. _confidence 0.78_
+- [Claudiu Angheloni](https://claudiuangheloni.com/) — few colors, little copy, generous space; light page; two-value palette; type: Barlow Condensed; three.js, webgl. _confidence 0.78_
 - [Convicts](https://convicts.nyc/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 180px; type: sans + display. _confidence 0.78_
-- [Fontshare](https://fontshare.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 120px; type: _Satoshi_Variable + Passenger-Sans; svg-heavy. _confidence 0.78_
+- [CubiFlow](https://www.cubiflow.com/) — few colors, little copy, generous space; light page; two-value palette; type: B612 Mono; gsap, three.js, webgl. _confidence 0.78_
+- [Edoardo Lunardi](https://www.edoardolunardi.dev/) — few colors, little copy, generous space; dark page; two-value palette; type: Inter + Ubuntu Mono; webgl, svg-heavy. _confidence 0.78_
 - [jonway.studio](https://www.jonway.studio/) — few colors, little copy, generous space; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl. _confidence 0.78_
-- [middlename.co.uk](https://middlename.co.uk/) — few colors, little copy, generous space; light page; accent #10286f; type: General. _confidence 0.78_
-- [Mikki Sindhunata](https://mikkisindhunata.com/) — few colors, little copy, generous space; dark page; 3-colour palette; type: B612 Mono + Anton SC; gsap, lenis. _confidence 0.78_
+- [Maël Ruffini](https://www.maelruffini.com/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 120px; type: ESAllianz + EditorialOld; webgl. _confidence 0.78_
 - [Mock Studio](https://mock.nyc/) — few colors, little copy, generous space; light page; two-value palette; type: neue-haas-grotesk-text; shopify. _confidence 0.78_
 - [Murmure](https://murmure.me/) — few colors, little copy, generous space; dark page; two-value palette; type: a + MonumentGrotesk. _confidence 0.78_
-- [watch_001](https://www.suvreesstudio.de/) — few colors, little copy, generous space; light page; two-value palette; type: PP Neue Montreal; gsap, lenis. _confidence 0.78_
-- [Viacheslav Novoseltsev](https://vshslv.com/) — few colors, little copy, generous space; dark page; two-value palette; type: ABC Diatype; svg-heavy. _confidence 0.78_
-- [West Of West](https://www.westofwest.com/) — few colors, little copy, generous space; light page; 4-colour palette; type: Sequel Sans; next.js. _confidence 0.78_
+- [Over-Stimulated](https://www.over-stimulated.com/) — few colors, little copy, generous space; light page; 3-colour palette; type: __myFont_696fb3 + __geistMono_93783d; webgl, next.js. _confidence 0.78_
+- [Silver Gore](https://www.silvergore.com/) — few colors, little copy, generous space; dark page; two-value palette; type: ocr-b-std + Obviously; webgl. _confidence 0.78_
+- [Carbon Design System](https://www.carbondesignsystem.com/) — curated reference for restrained product and documentation design; light page; accent #002d9c / #001d6c; display type up to 187px; type: IBM Plex Sans + IBM Plex Serif; webgl, svg-heavy. _confidence 0.75_
+- [Resend](https://resend.com/) — curated reference for restrained product and documentation design; dark page; accent #00a3ff / #22ff99; type: inter + aBCFavorit; webgl, svg-heavy. _confidence 0.75_
+- [Rivian](https://rivian.com/) — curated reference for restrained product and documentation design; light page; accent #ffac00 / #e84826; display type up to 360px; type: Adventure + Liga; next.js. _confidence 0.75_
 - [Driftime®](https://2025.driftime.com/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 532px; type: Koulen + Instrument Serif; webgl. _confidence 0.67_
-- [Anècdota](https://www.anecdotarural.com/en) — few colors, little copy, generous space; light page; 3-colour palette; type: ivar + neueHass; webgl. _confidence 0.67_
-- [ACD/CW](https://brunocis.co/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 282px; type: Inter Tight + Exposure Italic; gsap, svg-heavy. _confidence 0.67_
-- [Bissiri](https://burkinow.com/en) — few colors, little copy, generous space; light page; two-value palette; display type up to 120px; type: Regola Pro Medium + Regola Pro Regular; svg-heavy, framer. _confidence 0.67_
-- [Charlie Osborne](https://www.charlieosborne.co/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.67_
-- [Kyoso](https://www.kyoso.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 400px; type: ui-sans-serif + Manrope; svg-heavy. _confidence 0.67_
+- [Charlie Osborne](https://www.charlieosborne.co/) — few colors, little copy, generous space; dark page; two-value palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.67_
+- [Isa de Burgh](https://isadeburgh.com/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 240px; type: FoundersGroteskCondensedMedium + EditorialNewUltraLight; gsap, lenis. _confidence 0.67_
+- [ITom](https://itomdev.com/) — few colors, little copy, generous space; light page; two-value palette; type: Inter; webgl. _confidence 0.67_
 - [Playfight](https://www.letsplayfight.com/) — few colors, little copy, generous space; light page; two-value palette; type: FKGrotesk + Newsreader; webflow. _confidence 0.67_
-- [Locomotive](https://locomotive.ca/en) — few colors, little copy, generous space; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.67_
-- [Pixel Poetry by Here.](https://pixelpoetry.heredesign.com/) — few colors, little copy, generous space; light page; two-value palette; type: Px-Regular + Px-Screen; next.js. _confidence 0.67_
+- [maximilian kaspar](https://www.maximiliankaspar.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 112px; type: Bugrino + Neue Montreal Mono Book; gsap, lenis, webgl. _confidence 0.67_
+- [nudot.com.tw](https://nudot.com.tw/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 144px; type: DM Sans + Bitcount Grid Single; gsap, lenis, three.js. _confidence 0.67_
+- [OVA](https://ova-investment.com/) — few colors, little copy, generous space; dark page; two-value palette; type: Neue Montreal; webgl. _confidence 0.67_
+- [valerian.studio](https://www.valerian.studio/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.67_
+- [Waterworks](https://waterworksproject.nl/en) — few colors, little copy, generous space; dark page; two-value palette; type: IBM Plex Mono + Helvetica Neue; webgl. _confidence 0.67_
+- [Any Other Name](https://anyother.name/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Monument Grotesk; webgl. _confidence 0.61_
+- [Chiara Luzzana](https://chiaraluzzana.com/) — very few elements, quiet palette, single screen; light page; two-value palette; display type up to 173px; type: Roslindale Display Condensed + Ayer; gsap, locomotive-scroll, three.js. _confidence 0.61_
+- [Emmit Fenn](https://farfromhere.emmitfenn.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Untitled Sans; webgl, svg-heavy. _confidence 0.61_
+- [Audience](https://www.figma.com/deck/T84sk9fQrqA9cNHp07h03k/Studio-Gyor-Moore-%7C-Recent-Work--2025) — very few elements, quiet palette, single screen; light page; 3-colour palette; webgl. _confidence 0.61_
+- [Kokopako](https://kokopako.fr/work) — very few elements, quiet palette, single screen; dark page; two-value palette; webgl, svg-heavy. _confidence 0.61_
+- [Powerhouse Company](https://www.powerhouse-company.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Graphik; three.js, webgl. _confidence 0.61_
 - [THE INDEX](https://theindex.website/) — few colors, little copy, generous space; light page; two-value palette; type: Unica77 + CatalogueLL; next.js. _confidence 0.67_
 - [The Only Agency](https://www.theonly.agency/) — few colors, little copy, generous space; light page; two-value palette; type: Cochin + Abc favorit; gsap, lenis. _confidence 0.67_
-- [valerian.studio](https://www.valerian.studio/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.67_
-- [Twoo®](https://wearetwoo.com/) — few colors, little copy, generous space; light page; 3-colour palette; type: Untitled. _confidence 0.67_
-- [Archier](https://archier.com.au/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Basetica 205 Tf; gsap, lenis. _confidence 0.61_
-- [beaustudio](https://www.beaustudio.fr/) — very few elements, quiet palette, single screen; light page; two-value palette; type: SuisseIntl-light + SuisseIntl-book. _confidence 0.61_
-- [Clea Forkert](https://cleaforkert.com/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: TeX Gyre Heros Cn. _confidence 0.61_
-- [Account Suspended](http://derepublica.com.au/cgi-sys/suspendedpage.cgi) — very few elements, quiet palette, single screen; light page; two-value palette; type: Arial. _confidence 0.61_
-- [Future Paris](https://futureparis.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: orpheuspro + neue-haas-grotesk-text. _confidence 0.61_
-- [Grisly Faye](http://grislyfaye.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Brandon. _confidence 0.61_
-- [Imperial Woodpecker](https://www.imperial.tv/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: Maison Neue Medium + Maison Neue Book. _confidence 0.61_
-- [limlondon.com](https://www.limlondon.com/lander) — very few elements, quiet palette, single screen; dark page; two-value palette; type: GD Sherpa. _confidence 0.61_
-- [MÁLÀ PROJECT](https://www.malaproject.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Helveesti + Hei. _confidence 0.61_
-- [Mariano Pascual Art](https://marianopascual.cargo.site/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Diatype Condensed Variable. _confidence 0.61_
-- [shiseido.co.jp](http://message.shiseido.co.jp/) — very few elements, quiet palette, single screen; light page; two-value palette; type: ＭＳ Ｐゴシック. _confidence 0.61_
-- [Default Web Site Page](http://tecprize.org/cgi-sys/defaultwebpage.cgi) — very few elements, quiet palette, single screen; light page; two-value palette; display type up to 126px; type: Arial. _confidence 0.61_
-- [uncut.wtf](https://uncut.wtf/) — very few elements, quiet palette, single screen; light page; two-value palette; type: UncutSansWeb. _confidence 0.61_
-- [Sydney, Perth](https://vivienscreative.com.au/) — very few elements, quiet palette, single screen; light page; two-value palette; type: __Signifier_1cde07 + __MessinaSans_fee2dc. _confidence 0.61_
