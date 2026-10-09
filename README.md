@@ -44,6 +44,10 @@ the installer adds its optional SessionStart integration.
   layouts, motion systems, and texture techniques.
 - Three original visual studies for every style, with editable HTML and local
   PNG references.
+- A Web Datacenter of 300 real, live websites chosen from curated design
+  galleries and measured in a browser (type, palette, density, motion stack),
+  indexed by style in `docs/web`. Links and measurements only; no third-party
+  assets are redistributed.
 - Clear guidance for choosing a direction, writing interface copy, using
   images and icons, handling responsive behavior, and reviewing the result.
 - An artifact-first workflow with a brief, reference observations, design

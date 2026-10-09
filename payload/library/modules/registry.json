@@ -10,6 +10,7 @@
     {"id":"diagramming","path":"skill/design/artifacts/diagramming.md","load":"on-demand","purpose":"Explain mechanisms with meaningful diagrams."},
     {"id":"style-index","path":"docs/styles/INDEX.md","load":"on-demand","purpose":"Choose a style, read its guide, and inspect its three images."},
     {"id":"style-combinations","path":"docs/styles/combinations.md","load":"on-demand","purpose":"Combine visual languages deliberately."},
+    {"id":"web-datacenter","path":"docs/web/INDEX.md","load":"on-demand","purpose":"Study live, curated websites per style: measured type, palette, density and motion stack."},
     {"id":"copywriting","path":"docs/foundations/copywriting.md","load":"on-demand","purpose":"Write customer-facing copy and avoid stock AI patterns."},
     {"id":"images-and-icons","path":"docs/foundations/images-and-icons.md","load":"on-demand","purpose":"Choose meaningful, authorized imagery and consistent icons."},
     {"id":"design-system","path":"docs/foundations/design-system.md","load":"on-demand","purpose":"Preserve existing tokens and define coherent components."},

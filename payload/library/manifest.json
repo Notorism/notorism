@@ -1782,6 +1782,186 @@
       "size": 3373
     },
     {
+      "path": "docs/web/by-style/anti-design.md",
+      "sha256": "78f5e0129c2a195c5fca24e37596665fe18558fea33f8fecce06d1fb8a911934",
+      "size": 2590
+    },
+    {
+      "path": "docs/web/by-style/aurora-ui.md",
+      "sha256": "46bcaf7ad78e485ae4cf4058e81b32bb173af6f5aff4938493ad22d9ee054ff1",
+      "size": 1331
+    },
+    {
+      "path": "docs/web/by-style/bento-grid.md",
+      "sha256": "744aa6b535c4384716a5877b52ff3b4ce51a1425c96249d784d487f54d48ea59",
+      "size": 7037
+    },
+    {
+      "path": "docs/web/by-style/big-typography.md",
+      "sha256": "a487797f2a72ec49e237c688aca1ca457fc600bf84441f2d97888e7eaca1a620",
+      "size": 10786
+    },
+    {
+      "path": "docs/web/by-style/brutalism.md",
+      "sha256": "20e90cab278467741295fa2ebd159b52119ede8449b53b995d1f72dfe7d86f7f",
+      "size": 2670
+    },
+    {
+      "path": "docs/web/by-style/card-based-design.md",
+      "sha256": "25825e0a3f183fa897a2f3df2b4abaed90fa78515f7e28dc24b874b157e66481",
+      "size": 2036
+    },
+    {
+      "path": "docs/web/by-style/chromatic-aberration.md",
+      "sha256": "36bdb0030496a3857450c325487d87d5bbac8fd39a709b48e710b1885bc62be9",
+      "size": 2614
+    },
+    {
+      "path": "docs/web/by-style/collage-design.md",
+      "sha256": "a3b8f0b8dc39f6aae534509737428cdb11b3d26e76465fc9c665037dbb83bedd",
+      "size": 9758
+    },
+    {
+      "path": "docs/web/by-style/duotone.md",
+      "sha256": "162a49ff17cd35eaf5a04a769f3929aad47330bedb3508caaa74cf0f1ad5497e",
+      "size": 4101
+    },
+    {
+      "path": "docs/web/by-style/editorial-layout.md",
+      "sha256": "0165f3718c0cbe5d3362467b267426b360182da82a815035c7ba7c4afe574517",
+      "size": 4590
+    },
+    {
+      "path": "docs/web/by-style/flat-design-2-0.md",
+      "sha256": "cd0f3cfb9afbaf125dae9c74e049ab05a79766018ebf7fdfa1f01be1b120317b",
+      "size": 1314
+    },
+    {
+      "path": "docs/web/by-style/full-bleed-design.md",
+      "sha256": "9087d5948547f6c9d9068b55a82ce69ad5cff20dcbf2faacb79035f0c2e692dd",
+      "size": 11665
+    },
+    {
+      "path": "docs/web/by-style/glassmorphism.md",
+      "sha256": "94b74f0cf3c745e9f5f5320067c5dc906eca59f7fd542040be16945dea5504b5",
+      "size": 5033
+    },
+    {
+      "path": "docs/web/by-style/gradient-design.md",
+      "sha256": "f554c58d5edd50a8b3867eb4e069bbdc99bfaf0724da127e01b464093a43308a",
+      "size": 6624
+    },
+    {
+      "path": "docs/web/by-style/hand-drawn-design.md",
+      "sha256": "ee5059cdaac24e713ac35f1c312d1f706026ec4c25cbce9014bffc4273a80d02",
+      "size": 3174
+    },
+    {
+      "path": "docs/web/by-style/immersive-storytelling.md",
+      "sha256": "cb132f6768f08641fe583338056e7e04179e505767df0a5494c5eeea06912279",
+      "size": 2195
+    },
+    {
+      "path": "docs/web/by-style/international-typographic-style.md",
+      "sha256": "e0c30f256c5200358f1908842cee73af174cbf77b44a2b7f8ac7a13990347b75",
+      "size": 1613
+    },
+    {
+      "path": "docs/web/by-style/japanese-minimalism.md",
+      "sha256": "3ff4c2ba8cae86504c11665587f28444aef7f452d68053be6b3e1bce1b769da0",
+      "size": 2286
+    },
+    {
+      "path": "docs/web/by-style/kinetic-typography.md",
+      "sha256": "65aa7a95087327eff732f42a46341081d498843b5409842acea9515320a951da",
+      "size": 1273
+    },
+    {
+      "path": "docs/web/by-style/maximalism.md",
+      "sha256": "991b0e56149f0cad7ce21824a687b2ff2199ac5264735f7723d903facc9e3701",
+      "size": 1764
+    },
+    {
+      "path": "docs/web/by-style/minimalism.md",
+      "sha256": "add122c7968edfe989d96183b7629ab2055279a0d573e74ebf259b9c0bad470b",
+      "size": 8345
+    },
+    {
+      "path": "docs/web/by-style/modular-grid.md",
+      "sha256": "ae1893916f6b9166dac5f5ac09f6bdf5ec2a419888693adfb620a1244295d565",
+      "size": 1028
+    },
+    {
+      "path": "docs/web/by-style/monochromatic-design.md",
+      "sha256": "4813df032f65eaa14335b0fb84f6053e887fad24b1c5ebaf9d361a0cfb7b9eb2",
+      "size": 5406
+    },
+    {
+      "path": "docs/web/by-style/neo-brutalism.md",
+      "sha256": "fd08b4eb2949f8d5ec81838af743a7a31361a809972bfedc4fca7689660b0e97",
+      "size": 3588
+    },
+    {
+      "path": "docs/web/by-style/neon-glow.md",
+      "sha256": "5fb446dab6cdd78212a39d633dce52d11563ad17c293841b804d47e050d49ce3",
+      "size": 1320
+    },
+    {
+      "path": "docs/web/by-style/retro-futurism.md",
+      "sha256": "42d62bb43bc4be0c55042bd05c4d73baded7569836d60ff26ae899402a619edc",
+      "size": 754
+    },
+    {
+      "path": "docs/web/by-style/scroll-driven-animation.md",
+      "sha256": "1c15503824385729222653ec8cd1b1dcc65503d05e4cd9edeb430032c19617d0",
+      "size": 8687
+    },
+    {
+      "path": "docs/web/by-style/scrollytelling.md",
+      "sha256": "532bedf8e00f1e98092c7d9f53e1477501e968487a00c86c19a91e3d6b57c30c",
+      "size": 1110
+    },
+    {
+      "path": "docs/web/by-style/swiss-design.md",
+      "sha256": "553f85da1993b03f725a4a401f879702b85370c1b50f1d85d3b67d7138e6ab79",
+      "size": 4028
+    },
+    {
+      "path": "docs/web/by-style/terminal-hacker-ui.md",
+      "sha256": "a0012340b7cfda612ccc94985e6bc4b01d1104ada53a2e4b969e4660b33b3a2a",
+      "size": 3211
+    },
+    {
+      "path": "docs/web/by-style/typography-first.md",
+      "sha256": "7622dc3fa5b85769e5487719d213997480c384b6d0b65c5db4a463ca464bc146",
+      "size": 2813
+    },
+    {
+      "path": "docs/web/by-style/variable-typography.md",
+      "sha256": "a79048c8816bc1c381a4f8d28070d36c50a9a97b261e05f9d027b6a482a7ff9a",
+      "size": 1965
+    },
+    {
+      "path": "docs/web/by-style/vintage-analog.md",
+      "sha256": "51fd9e184ada906d1c5bf094b13338bc0b60a172977c6430420a34da7fd9bde4",
+      "size": 3354
+    },
+    {
+      "path": "docs/web/by-style/webgl-3d-experience.md",
+      "sha256": "9983c4349ab499ab0be585508b3388f0a1cea227c75fb685db5155209b8872a6",
+      "size": 5060
+    },
+    {
+      "path": "docs/web/by-style/y2k-aesthetic.md",
+      "sha256": "2a1d2ee2c4239f6c07755f1dfa1fb024cf946ffc69a9b58387240375ff05ae69",
+      "size": 784
+    },
+    {
+      "path": "docs/web/INDEX.md",
+      "sha256": "5ae94bbf8f3736633fb7f0ea3be89a3af0c6476f19013068a78043fd69992448",
+      "size": 29209
+    },
+    {
       "path": "fonts/body.LICENSE.txt",
       "sha256": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7",
       "size": 4502
@@ -5143,8 +5323,8 @@
     },
     {
       "path": "modules/registry.json",
-      "sha256": "ecedc25268b5404e342d79b546e88d3f7dd26650b059082a33b8aaf3260ce111",
-      "size": 2774
+      "sha256": "faa0a1041e716d5e1cb7477a5fc3e539cc06362a88f23708c9e32b94899fccf7",
+      "size": 2951
     },
     {
       "path": "NOTICE",
@@ -5185,6 +5365,11 @@
       "path": "skill/design/artifacts/workflow.md",
       "sha256": "c969e7685329b94b1faa8907e81fe1a1a708ffb0a9833bea109370a069615495",
       "size": 3054
+    },
+    {
+      "path": "web/sites.json",
+      "sha256": "a2887796c63a5ede13ad434e9be4ce4f65e80ca6a88be7b56ed65df9e9414474",
+      "size": 348334
     }
   ]
 }

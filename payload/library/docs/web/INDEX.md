@@ -1,0 +1,353 @@
+# Web Datacenter
+
+300 real, live websites curated by public design galleries and measured in a 1440x900 headless browser. Use them as evidence of how a visual language is actually built: type, palette, density, motion stack. They are references to study, not templates to copy.
+
+How to use:
+
+1. Pick the style in [docs/styles/INDEX.md](../styles/INDEX.md).
+2. Open `docs/web/by-style/<style>.md` for live sites that express it.
+3. Read `web/sites.json` for measured facts (fonts, palette, display size, tech) and the reason each style tag was given.
+4. Open the live URL, observe, then write your own original design. Never reuse the site's markup, copy, imagery, logo or brand.
+
+Style tags are heuristic. Check the `confidence` and `because` fields, and trust your own eyes on the live page.
+
+## Styles with live references
+
+- [Full-Bleed Design](by-style/full-bleed-design.md): 65
+- [Big Typography](by-style/big-typography.md): 56
+- [Collage Design](by-style/collage-design.md): 54
+- [Scroll-Driven Animation](by-style/scroll-driven-animation.md): 48
+- [Minimalism](by-style/minimalism.md): 44
+- [Gradient Design](by-style/gradient-design.md): 39
+- [Bento Grid](by-style/bento-grid.md): 36
+- [Monochromatic Design](by-style/monochromatic-design.md): 30
+- [WebGL / 3D Experience](by-style/webgl-3d-experience.md): 27
+- [Glassmorphism](by-style/glassmorphism.md): 26
+- [Duotone](by-style/duotone.md): 24
+- [Editorial Layout](by-style/editorial-layout.md): 23
+- [Swiss Design](by-style/swiss-design.md): 18
+- [Vintage Analog](by-style/vintage-analog.md): 17
+- [Neo-Brutalism](by-style/neo-brutalism.md): 16
+- [Hand-Drawn Design](by-style/hand-drawn-design.md): 16
+- [Typography-First](by-style/typography-first.md): 15
+- [Chromatic Aberration](by-style/chromatic-aberration.md): 15
+- [Terminal / Hacker UI](by-style/terminal-hacker-ui.md): 15
+- [Anti-Design](by-style/anti-design.md): 13
+- [Brutalism](by-style/brutalism.md): 13
+- [Japanese Minimalism](by-style/japanese-minimalism.md): 12
+- [Immersive Storytelling](by-style/immersive-storytelling.md): 11
+- [Variable Typography](by-style/variable-typography.md): 10
+- [Card-Based Design](by-style/card-based-design.md): 10
+- [Maximalism](by-style/maximalism.md): 9
+- [International Typographic Style](by-style/international-typographic-style.md): 7
+- [Kinetic Typography](by-style/kinetic-typography.md): 6
+- [Flat Design 2.0](by-style/flat-design-2-0.md): 6
+- [Aurora UI](by-style/aurora-ui.md): 6
+- [Neon Glow](by-style/neon-glow.md): 6
+- [Scrollytelling](by-style/scrollytelling.md): 5
+- [Modular Grid](by-style/modular-grid.md): 5
+- [Retro-Futurism](by-style/retro-futurism.md): 3
+- [Y2K Aesthetic](by-style/y2k-aesthetic.md): 3
+
+## All sites
+
+- [108™ Supply](https://108.supply/) — Minimalism, Glassmorphism, Scroll-Driven Animation
+- [Driftime Impact Report 2022](https://2022.driftime.com/) — Typography-First, Big Typography
+- [Radio Null Rewind 2022](https://2022.madebynull.com/) — WebGL / 3D Experience, Big Typography, Anti-Design, Gradient Design
+- [Driftime®](https://2025.driftime.com/) — Big Typography, Swiss Design, WebGL / 3D Experience, Minimalism
+- [Abbotsford Convent](https://abbotsfordconvent.com.au/) — Collage Design
+- [Acne Studios](https://www.acnestudios.com/us/en/home) — Swiss Design, International Typographic Style, Full-Bleed Design
+- [After Party Studios](https://afterparty.studio/) — Duotone
+- [ajournalon.co](https://www.ajournalon.co/) — Minimalism, Scroll-Driven Animation, Monochromatic Design
+- [Amie](https://amie.so/) — Neo-Brutalism, Glassmorphism
+- [Anècdota](https://www.anecdotarural.com/en) — Swiss Design, WebGL / 3D Experience, Minimalism, Bento Grid
+- [Anna Jóna](https://www.annajona.is/) — Bento Grid, Hand-Drawn Design, Scrollytelling, Collage Design
+- [Anne Boysen](https://www.anneboysen.dk/) — Scroll-Driven Animation
+- [anopenunderstanding.com](https://www.anopenunderstanding.com/) — Duotone
+- [Anuc Home](https://www.anuchome.com/) — Variable Typography, Full-Bleed Design
+- [AOI](https://aoiofficial.com/) — Anti-Design, International Typographic Style, Scrollytelling, Gradient Design
+- [arc.net](https://arc.net/) — Neo-Brutalism, Vintage Analog, Brutalism, Retro-Futurism
+- [Archie Bolden](https://www.archiebolden.com/) — Gradient Design, Full-Bleed Design
+- [Archier](https://archier.com.au/) — Scroll-Driven Animation, Minimalism, Collage Design, Japanese Minimalism
+- [Arc.](https://www.arcprojects.build/) — Scroll-Driven Animation
+- [Arkitektkontoret Vest](https://arkitektkontoretvest.no/) — Minimalism, Scroll-Driven Animation, Full-Bleed Design
+- [Altason](https://atlason.com/) — Big Typography, Minimalism, Editorial Layout
+- [b14.dk](https://b14.dk/en) — Monochromatic Design, Big Typography, Scroll-Driven Animation, Kinetic Typography
+- [Bad Boys Supply](https://bad-boys.vercel.app/) — Collage Design, Full-Bleed Design
+- [Marius Bălaj](https://balajmarius.com/) — Variable Typography
+- [Balky Studio®](https://www.balky.studio/) — WebGL / 3D Experience, Big Typography, Scroll-Driven Animation, Immersive Storytelling
+- [beaustudio](https://www.beaustudio.fr/) — Anti-Design, Minimalism, Japanese Minimalism
+- [Bécane](https://www.becaneparis.com/) — WebGL / 3D Experience
+- [Beci Orpin](http://beciorpin.com/) — Maximalism, Hand-Drawn Design, Collage Design
+- [Belledonne Paris](https://belledonne.com/en-us) — Minimalism, Gradient Design
+- [BENI](https://www.benirugs.com/) — Duotone, Chromatic Aberration
+- [Benvenusa Italian Wines](https://benvenusa.com/) — Monochromatic Design, Editorial Layout, Duotone
+- [IPSY](https://www.ipsycorporate.com/) — Swiss Design, Scroll-Driven Animation
+- [Birchmore Group](https://birchmoregroup.com.au/) — Maximalism
+- [Blank Inside](https://blankinside.co.uk/) — Bento Grid
+- [Bloomers](https://bloomers.com.br/) — Brutalism
+- [Boundary Breaks Wine](https://boundarybreaks.com/) — Big Typography, Full-Bleed Design
+- [Bragg Live Foods](https://www.bragg.com/) — Neo-Brutalism, Glassmorphism, Bento Grid, Scroll-Driven Animation
+- [ACD/CW](https://brunocis.co/) — Big Typography, Swiss Design, Minimalism, Bento Grid
+- [Bruno Suraski](https://brunosuraski.com/) — Minimalism, Scroll-Driven Animation, Japanese Minimalism
+- [Buffet](https://www.buffet.digital/) — Typography-First, Big Typography, Flat Design 2.0, Immersive Storytelling
+- [Bumblebee](https://bumblebeespaces.com/) — Glassmorphism, Full-Bleed Design
+- [Bureau Tonalli](https://www.bureautonalli.com/) — Minimalism
+- [Bissiri](https://burkinow.com/en) — Glassmorphism, Big Typography, Minimalism, Chromatic Aberration
+- [Extraordinary Products](https://uk.busterandpunch.com/) — Bento Grid, Gradient Design
+- [BYBORRE™](https://byborre.com/) — Vintage Analog
+- [Cabi](https://cabifoods.com/) — Scrollytelling, Collage Design
+- [Cantor8](https://www.cantor8.io/) — Scroll-Driven Animation, Terminal / Hacker UI, Collage Design, Duotone
+- [capital.xyz](https://capital.xyz/) — Monochromatic Design, Big Typography, Duotone, Full-Bleed Design
+- [Care of Chan](https://www.careofchan.com/) — Typography-First, Immersive Storytelling
+- [Odense Symfoniorkester](https://odensesymfoni.dk/carlnielsenkonkurrencen/) — Variable Typography
+- [Cassette](https://www.cassettemusic.com/) — Bento Grid, Scroll-Driven Animation, Collage Design
+- [Celtic Sea Salt®](https://celticseasalt.com/) — WebGL / 3D Experience, Bento Grid, Scroll-Driven Animation, Card-Based Design
+- [Charlie Osborne](https://www.charlieosborne.co/) — Big Typography, WebGL / 3D Experience, Glassmorphism, Minimalism
+- [Choreograffiti](https://choreograffiti.com/) — Big Typography, WebGL / 3D Experience, Full-Bleed Design
+- [Clea Forkert](https://cleaforkert.com/) — Full-Bleed Design, Minimalism, Japanese Minimalism, Monochromatic Design
+- [Co Projects](https://co-projects.xyz/) — Immersive Storytelling
+- [Coco Hotel](https://coco-hotel.com/) — Collage Design
+- [Cofactr](https://www.cofactr.com/) — Collage Design
+- [coffeesupreme.com](https://coffeesupreme.com/) — Editorial Layout
+- [Chronically Online Magazine](https://com.manychat.com/) — WebGL / 3D Experience, Glassmorphism, Big Typography, Terminal / Hacker UI
+- [Company Policy](https://www.companypolicy.studio/) — Scroll-Driven Animation, Gradient Design, Full-Bleed Design
+- [Convicts](https://convicts.nyc/) — Minimalism, Big Typography, Editorial Layout, Full-Bleed Design
+- [Counter Forms](https://counter-forms.com/) — Typography-First, Anti-Design, Duotone
+- [Counterprint](https://www.counter-print.co.uk/) — Brutalism, Swiss Design, Monochromatic Design
+- [Crumpler Australia](https://www.crumpler.com/) — Brutalism, Vintage Analog, Y2K Aesthetic, Full-Bleed Design
+- [Cubitts](https://cubitts.com/) — Modular Grid
+- [Curry Cafe](https://curry.cafe/) — Vintage Analog, Brutalism, Retro-Futurism, Full-Bleed Design
+- [Danielle Levitt](https://www.daniellelevitt.com/) — Anti-Design
+- [DEON LIBRA](https://deonlibra.com/) — Typography-First, Gradient Design, Collage Design
+- [Account Suspended](http://derepublica.com.au/cgi-sys/suspendedpage.cgi) — Full-Bleed Design, Minimalism, Japanese Minimalism
+- [Design Better](https://designbetter.com/) — Terminal / Hacker UI, Bento Grid
+- [Designed by women](https://designedbywomen.org/en/) — Typography-First, WebGL / 3D Experience, Gradient Design, Immersive Storytelling
+- [Dia](https://www.diabrowser.com/) — WebGL / 3D Experience
+- [Dipsea](https://www.dipseastories.com/) — Gradient Design, Aurora UI, Neon Glow
+- [(dot)connect](https://dotconnect.vc/) — WebGL / 3D Experience, Scroll-Driven Animation, Kinetic Typography, Chromatic Aberration
+- [Dries Bos](https://www.driesbos.com/) — Gradient Design
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/) — Collage Design
+- [Drop Dead Generous](https://www.dropdeadgenerous.org/) — Glassmorphism, Scroll-Driven Animation, Kinetic Typography
+- [Drummonds Bathrooms](https://drummonds-uk.com/) — Editorial Layout, Full-Bleed Design
+- [eTypes](https://e-types.com/) — Big Typography, Full-Bleed Design
+- [EADEM](https://eadem.co/) — Variable Typography
+- [XENiA](https://eatxenia.com/) — Variable Typography
+- [Elliott Mangham](https://elliott.mangham.dev/) — Terminal / Hacker UI, Gradient Design, Aurora UI, Neon Glow
+- [eloyb.design](https://eloyb.design/) — Scroll-Driven Animation, Collage Design, Full-Bleed Design
+- [Emele Collab](https://emelecollab.com/) — Scroll-Driven Animation, Full-Bleed Design
+- [Katie](https://emptystate.com/) — Terminal / Hacker UI, Scroll-Driven Animation
+- [ennismore.com](https://ennismore.com/) — Editorial Layout, Big Typography, Variable Typography
+- [ESR](https://www.esrbespoke.au/) — Collage Design, Full-Bleed Design
+- [Shop All](https://www.everyday-needs.com/collections/all/) — Swiss Design
+- [PAS4D Experiments](https://www.everydayexperiments.com/) — Neo-Brutalism, Gradient Design
+- [Evina](https://www.evina.com/) — Gradient Design
+- [exactly.ai](https://exactly.ai/) — Bento Grid, Card-Based Design
+- [Fable & Mane](https://fableandmane.com/) — Collage Design
+- [Fellowship](https://fellowship.xyz/) — Immersive Storytelling
+- [Beacon](https://findyourbeacon.app/) — Terminal / Hacker UI, Bento Grid, Gradient Design, Neon Glow
+- [FinTech Collective](https://fintech.io/) — Duotone, Full-Bleed Design, Chromatic Aberration
+- [flexe.com](https://flexe.com/) — Scroll-Driven Animation
+- [folk.app](https://www.folk.app/) — WebGL / 3D Experience, Bento Grid, Gradient Design, Card-Based Design
+- [Fontshare](https://fontshare.com/) — Swiss Design, Minimalism, Big Typography
+- [ForAI](https://forai.design/) — Chromatic Aberration
+- [Frontier Imaginaries](http://frontierimaginaries.org/) — Duotone
+- [Future Paris](https://futureparis.com/) — Full-Bleed Design, Minimalism, Japanese Minimalism
+- [Gantri](https://www.gantri.com/) — Bento Grid, Duotone
+- [Gardinex](https://www.gardinex.com/) — Duotone, Chromatic Aberration
+- [GASS Records](https://www.gass.zone/) — Brutalism, Big Typography, Vintage Analog, Duotone
+- [georgecox.co.uk](https://www.georgecoxfootwear.com/en-us) — Modular Grid, Immersive Storytelling
+- [GF Smith](https://www.gfsmith.com/) — Big Typography, WebGL / 3D Experience, Collage Design, Full-Bleed Design
+- [Gigantic // Candy Deluxe](https://giganticcandy.com/) — Vintage Analog, Full-Bleed Design
+- [Legacy](https://www.givelegacy.com/) — Gradient Design
+- [Glasfurd & Walker](https://glasfurdandwalker.com/) — Anti-Design, Full-Bleed Design
+- [Glyphs](https://glyphsapp.com/) — Big Typography
+- [OD Design Studio](https://go-od.co/) — Hand-Drawn Design
+- [GOAT](https://www.goat.com/) — Monochromatic Design
+- [Goodfight](https://goodfight.shop/) — Anti-Design, Collage Design
+- [Google Fonts + 한국어](https://googlefonts.github.io/korean/) — Monochromatic Design
+- [Grainne Morton](https://www.grainnemorton.co.uk/) — Editorial Layout
+- [Grape Juice](https://www.grapejuicewineshop.com/) — Vintage Analog, Retro-Futurism
+- [Grid9 Studio](https://www.grid9.ru/) — Big Typography, Scroll-Driven Animation, Kinetic Typography, Collage Design
+- [Grisly Faye](http://grislyfaye.com/) — Full-Bleed Design, Minimalism, Japanese Minimalism
+- [Groth Studio](https://www.groth.studio/) — Duotone, Full-Bleed Design
+- [Download Free Trial Fonts](http://gt-flexa.com/) — Big Typography, Neo-Brutalism, Brutalism
+- [GT Standard](https://gt-standard.com/) — Big Typography, Collage Design
+- [GT Zirkon](http://gt-zirkon.com/) — Big Typography, Monochromatic Design, Collage Design
+- [Gusta](https://gusta.studio/) — Glassmorphism, Big Typography, Card-Based Design, Collage Design
+- [hackie-techie.com](https://hackie-techie.com/) — Brutalism
+- [HALEYS Beauty](https://haleysbeauty.com/) — Neo-Brutalism, Bento Grid, Collage Design
+- [Handsome Frank](https://www.handsomefrank.com/) — Hand-Drawn Design
+- [Happy Ring](https://happyring.fiftyseven.co/) — Big Typography, Scroll-Driven Animation, Collage Design
+- [Havaianas](https://www.havaianas.com/) — Gradient Design
+- [Hotel Peter & Paul](https://ash.world/hotels/peter-and-paul) — Neo-Brutalism, Editorial Layout, Hand-Drawn Design, Collage Design
+- [House of Honey](https://www.houseofhoney.com/) — Big Typography, WebGL / 3D Experience, Collage Design
+- [HOY](https://houseofyellow.nl/) — Scroll-Driven Animation, Chromatic Aberration
+- [HOVERSTAT.ES](https://www.hoverstat.es/) — Card-Based Design, Full-Bleed Design
+- [Howl](https://www.howl.link/) — Neo-Brutalism, Scroll-Driven Animation, Gradient Design
+- [Huddle](https://www.huddle.works/) — Maximalism, Flat Design 2.0
+- [Huehaus Agency](https://huehaus.design/) — Big Typography, Collage Design
+- [Hyperframe](https://www.hyperframe.com/) — Big Typography, Gradient Design
+- [icebergdoc.org](https://www.icebergdoc.org/) — Big Typography, Full-Bleed Design
+- [iconwerk](https://www.iconwerk.com/) — Hand-Drawn Design, Full-Bleed Design
+- [Imperial Woodpecker](https://www.imperial.tv/) — Full-Bleed Design, Minimalism, Monochromatic Design
+- [index-space.org](https://www.index-space.org/) — Brutalism
+- [Instrument](https://www.instrument.com/) — Full-Bleed Design
+- [Italic](https://www.italic.com/) — Editorial Layout
+- [Jenni Kayne](https://www.jennikayne.com/) — Swiss Design, Editorial Layout, Full-Bleed Design
+- [jkane.co](https://www.jkane.co/) — WebGL / 3D Experience, Bento Grid
+- [jonway.studio](https://www.jonway.studio/) — WebGL / 3D Experience, Minimalism, Scroll-Driven Animation, Japanese Minimalism
+- [josef](https://josef.online/) — Monochromatic Design, Big Typography
+- [Joyce Wang Studio](https://joycewangstudio.com/) — Full-Bleed Design
+- [Jump Factory](https://jumpfactory.ch/) — Scroll-Driven Animation
+- [Kada](https://kada.co.nz/) — Typography-First, Scroll-Driven Animation, Immersive Storytelling
+- [KALTPRESSE](https://www.kaltpresse.de/) — International Typographic Style
+- [Karol Ortyl](https://www.karolortyl.com/) — Glassmorphism, Terminal / Hacker UI, Aurora UI, Neon Glow
+- [Karst Goods](https://karst-goods-hydrogen-da07598423e4ffde70f6.o2.myshopify.dev/) — Editorial Layout, Collage Design
+- [Katie Shillingford](http://katieshillingford.com/) — Variable Typography, Monochromatic Design
+- [kubrick.life](https://kubrick.life/) — Big Typography
+- [Kyoso](https://www.kyoso.com/) — Big Typography, Editorial Layout, Minimalism, Collage Design
+- [LAB46](https://lab46.de/en) — Editorial Layout, Glassmorphism, Bento Grid, Scroll-Driven Animation
+- [Lavenham Jackets](https://lavenhamjackets.com/) — Gradient Design
+- [Leandro Farina](http://leandrofarina.com/) — Anti-Design, Monochromatic Design
+- [L'Enclume](https://www.lenclume.co.uk/) — Bento Grid
+- [Le Puzz](https://lepuzz.com/) — Editorial Layout, Vintage Analog, Hand-Drawn Design, Collage Design
+- [Lesa Restaurant](https://lesarestaurant.com.au/) — Terminal / Hacker UI
+- [Levitate Professionals](https://letslevitate.com/) — Bento Grid, Hand-Drawn Design, Gradient Design
+- [Playfight](https://www.letsplayfight.com/) — Swiss Design, Editorial Layout, Minimalism, Bento Grid
+- [L'Étude](https://letude.group/) — Gradient Design, Duotone, Full-Bleed Design, Chromatic Aberration
+- [Lick](https://lick.com/) — Bento Grid
+- [limlondon.com](https://www.limlondon.com/lander) — Typography-First, Minimalism, Monochromatic Design
+- [Locomotive](https://locomotive.ca/en) — Swiss Design, WebGL / 3D Experience, Minimalism, Big Typography
+- [logram.jp](https://logram.jp/) — Duotone
+- [IT Specialist](https://www.lorenzodaldosso.it/) — Monochromatic Design, Big Typography
+- [Listeners Playlist](https://lp.anzi.kr/) — Full-Bleed Design
+- [Lunchbox](https://lunchbox.io/) — Neo-Brutalism, Vintage Analog, Bento Grid, Hand-Drawn Design
+- [Maëlan Le Meur](https://maelanlemeur.com/) — Big Typography, Typography-First, Scrollytelling, Collage Design
+- [MAIN ROSE](https://mainrose.com/en-us) — Gradient Design, Full-Bleed Design
+- [MÁLÀ PROJECT](https://www.malaproject.com/) — Vintage Analog, Minimalism, Japanese Minimalism
+- [Claude Type](https://claudetype.com/) — Glassmorphism, Collage Design, Full-Bleed Design
+- [Mariano Pascual Art](https://marianopascual.cargo.site/) — Vintage Analog, Minimalism, Japanese Minimalism
+- [MARSANO](https://marsano-berlin.de/) — Gradient Design
+- [Melius](https://www.melius.com/) — WebGL / 3D Experience, Gradient Design, Chromatic Aberration
+- [Mezmo](https://www.mezmo.com/) — Monochromatic Design, Collage Design
+- [middlename.co.uk](https://middlename.co.uk/) — Minimalism
+- [Mikki Sindhunata](https://mikkisindhunata.com/) — Minimalism, Scroll-Driven Animation
+- [Milamend](https://www.milamend.com/) — Glassmorphism, Scroll-Driven Animation
+- [Mock Studio](https://mock.nyc/) — Swiss Design, Minimalism, International Typographic Style
+- [Molo](https://www.molo.com/en-US) — Duotone
+- [moremud.co](https://moremud.co/) — Editorial Layout
+- [mssngpeces.com](https://mssngpeces.com/) — Full-Bleed Design, Collage Design
+- [Murmure](https://murmure.me/) — Minimalism, Full-Bleed Design, Monochromatic Design
+- [Mush Studios](https://mushstudios.co/) — Glassmorphism, Scroll-Driven Animation, Duotone, Full-Bleed Design
+- [My Storytime](https://mystorytime.com/) — Collage Design
+- [National Trust](https://www.nationaltrust.org.uk/) — Editorial Layout
+- [Natural Paint Co.](https://www.naturalpaint.co.nz/) — Glassmorphism, Bento Grid
+- [Newlyn](https://newlyn.com/) — Big Typography, Bento Grid, Monochromatic Design
+- [NoGood](https://nogood.studio/) — Duotone
+- [normalcomputing.com](https://www.normalcomputing.com/) — Brutalism, Scroll-Driven Animation
+- [NORNORM](https://nornorm.com/) — Neo-Brutalism, Collage Design
+- [Nottingham Contemporary](https://www.nottinghamcontemporary.org/) — Card-Based Design, Collage Design
+- [oddritual](https://oddritualgolf.com/) — Scroll-Driven Animation, Collage Design
+- [Oh Ira Design](https://ohira.design/) — Duotone
+- [OH no Type Company](https://ohnotype.co/) — Monochromatic Design, Brutalism
+- [One&Other](https://oneandother.com.au/) — Anti-Design
+- [Operate](https://operate.so/) — Terminal / Hacker UI, Gradient Design, Aurora UI, Neon Glow
+- [Original Sin](https://www.originalsin.co/) — Gradient Design, Collage Design
+- [Oscar Pecher](https://www.oscarpecher.com/) — Gradient Design, Full-Bleed Design
+- [OSSA Wines Tasmania](https://ossa.wine/) — Immersive Storytelling
+- [ot.studio](https://ot.studio/) — Typography-First, Big Typography, Flat Design 2.0, Monochromatic Design
+- [otonove.studiokhi.com](https://otonove.studiokhi.com/) — Big Typography, Gradient Design, Collage Design, Duotone
+- [outreach.space](https://www.outreach.space/) — WebGL / 3D Experience, Neo-Brutalism, Anti-Design, Hand-Drawn Design
+- [Overpass](https://www.overpass.com/) — Maximalism, Flat Design 2.0, Collage Design
+- [OXI Instruments](https://oxiinstruments.com/) — Big Typography, Glassmorphism, Scroll-Driven Animation, Kinetic Typography
+- [pastamansi.com](https://pastamansi.com/) — Brutalism, Collage Design
+- [Pattrn](https://pattrn.io/) — Terminal / Hacker UI, Gradient Design, Aurora UI, Card-Based Design
+- [Mama Joyce Peppa Sauce](https://www.peppasauce.love/) — Big Typography, Hand-Drawn Design
+- [Perform](https://performproduce.com/) — Chromatic Aberration
+- [Finn](https://petfinn.com/) — Neo-Brutalism, Big Typography
+- [PINE](https://pine.se/) — Swiss Design
+- [Pixel Poetry by Here.](https://pixelpoetry.heredesign.com/) — Monochromatic Design, Editorial Layout, Minimalism
+- [plantstotherescue.co](https://plantstotherescue.co/) — Collage Design, Full-Bleed Design
+- [Portrait](https://portrait.so/) — Editorial Layout, Glassmorphism, Collage Design, Variable Typography
+- [Posthuman Studio copy](https://posthuman.studio/) — Chromatic Aberration
+- [Powell Studio](https://powell-studio.com/) — Typography-First, WebGL / 3D Experience, Monochromatic Design, Big Typography
+- [Prima](https://prima.co/) — Gradient Design, Full-Bleed Design
+- [Raca Design Studio](https://www.racastudio.pl/) — Monochromatic Design, Scroll-Driven Animation, Immersive Storytelling
+- [Visions](https://www.readvisions.com/marvin/) — Big Typography, WebGL / 3D Experience, Terminal / Hacker UI, Full-Bleed Design
+- [recruit.dac.co.jp](https://recruit.hakuhodody-one.co.jp/) — Hand-Drawn Design, Full-Bleed Design
+- [REKKI](https://rekki.com/) — Glassmorphism, Full-Bleed Design
+- [Best Prebiotic Toothpaste](https://revitin.com/) — Bento Grid
+- [ALSO](https://ridealso.com/) — Neo-Brutalism, Bento Grid, Full-Bleed Design
+- [Round](http://round.com.au/) — Swiss Design, Scroll-Driven Animation
+- [Seed](https://seed.com/) — Glassmorphism, Terminal / Hacker UI
+- [SevenGrid](https://sevengrid.app/) — Terminal / Hacker UI, Bento Grid, Gradient Design, Aurora UI
+- [A Creative Agency.](https://www.seventeenagency.com/) — WebGL / 3D Experience, Scroll-Driven Animation
+- [shinbu.be](http://www.shinbu.be/) — Monochromatic Design, Big Typography, Flat Design 2.0
+- [shiseido.co.jp](http://message.shiseido.co.jp/) — Vintage Analog, Minimalism, Japanese Minimalism
+- [MrBeast.Store](https://mrbeast.store/) — Vintage Analog, Bento Grid, Maximalism, Flat Design 2.0
+- [Side Stage Ventures](https://www.sidestage.vc/) — WebGL / 3D Experience, Scroll-Driven Animation, Terminal / Hacker UI, Neon Glow
+- [Shop Simply®](https://www.simplychocolate.dk/) — Neo-Brutalism, Bento Grid
+- [Sketch](https://www.sketch.com/) — Vintage Analog, Anti-Design, Gradient Design, Y2K Aesthetic
+- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) — Monochromatic Design, Editorial Layout
+- [Sometimes Always](https://sometimesalways.com.au/) — Vintage Analog, Y2K Aesthetic, Full-Bleed Design
+- [Varmt velkommen til Sommerro](https://www.sommerrohouse.com/) — Neo-Brutalism
+- [spectral.prototypo.io](https://spectral.prototypo.io/) — Big Typography
+- [Spots Travel](https://www.spotstravel.co/en) — Card-Based Design, Collage Design
+- [ANDSTAAT](https://www.staat.com/) — Full-Bleed Design
+- [St. Leo](https://stleointeriors.com/) — Swiss Design, International Typographic Style
+- [Studio Office](https://www.studio-office.fun/) — Typography-First, Full-Bleed Design
+- [Studio.Build](https://www.studio.build/) — Duotone
+- [StudioBand®](https://www.studioband.com.au/) — Full-Bleed Design
+- [Studio Dumbar](https://studiodumbar.com/) — Scroll-Driven Animation, Monochromatic Design
+- [Studio Ongarato](https://studioongarato.com.au/) — Full-Bleed Design
+- [Studio Paradise](http://studioparadise.com/) — Variable Typography, Monochromatic Design
+- [Studio Primal](https://www.studioprimal.com/) — Glassmorphism, Big Typography, Scroll-Driven Animation, Kinetic Typography
+- [Sucre London](https://sucrerestaurant.com/) — Scrollytelling, Full-Bleed Design
+- [Superpower](https://superpower.com/) — Glassmorphism, Scroll-Driven Animation, Card-Based Design, Chromatic Aberration
+- [sussexroyal.com](https://sussexroyal.com/) — Variable Typography
+- [watch_001](https://www.suvreesstudio.de/) — Minimalism, Scroll-Driven Animation
+- [TBD Post](https://tbdpost.com/) — Duotone, Full-Bleed Design
+- [Default Web Site Page](http://tecprize.org/cgi-sys/defaultwebpage.cgi) — Monochromatic Design, Big Typography, Minimalism
+- [templi.com](https://www.templi.com/) — Bento Grid, Gradient Design
+- [Tempo](https://tempo.xyz/) — WebGL / 3D Experience, Chromatic Aberration
+- [The Brand Identity](https://the-brandidentity.com/) — Bento Grid
+- [The BanXhies](https://www.thebanxhies.com/fr) — Scroll-Driven Animation, Full-Bleed Design
+- [The Founder](https://thefounder.biz/) — Full-Bleed Design
+- [THE INDEX](https://theindex.website/) — Typography-First, Minimalism, Modular Grid, Hand-Drawn Design
+- [The Mind Room](https://themindroom.com.au/) — Hand-Drawn Design
+- [Theodore Ellison Designs](https://theodoreellison.com/) — Modular Grid
+- [The Only Agency](https://www.theonly.agency/) — Swiss Design, Minimalism, Scroll-Driven Animation, International Typographic Style
+- [The Print Loft](https://theprintloft.art/) — Neo-Brutalism, Big Typography, Bento Grid, Gradient Design
+- [The Robey Chicago](https://www.therobey.com/) — Full-Bleed Design
+- [The Sill](https://www.thesill.com/) — Bento Grid
+- [Thursday](https://thursday.studio/) — Editorial Layout, Collage Design, Full-Bleed Design
+- [Tillmann Franzen](https://tillmannfranzen.com/) — Scroll-Driven Animation, Full-Bleed Design
+- [trulytype](https://trulytype.com/) — Duotone, Chromatic Aberration
+- [Tusaro Studio](https://www.tusaro.studio/) — Big Typography, Gradient Design
+- [TYPE BY](https://www.typeby.com/) — Big Typography, Terminal / Hacker UI, Brutalism
+- [Organic Basics UK](https://uk.organicbasics.com/) — Collage Design
+- [uncut.wtf](https://uncut.wtf/) — Typography-First, Monochromatic Design, Minimalism
+- [UNION](https://unionboulangerie.com/en/) — Collage Design
+- [UPSET](https://upset.ch/) — Big Typography
+- [USPS Delivers](https://www.uspsdelivers.com/direct-mail-technologies/) — Vintage Analog, Anti-Design, Maximalism, Gradient Design
+- [valerian.studio](https://www.valerian.studio/) — Big Typography, Swiss Design, Minimalism, Collage Design
+- [Monotype.](https://www.monotype.com/resources/variable-fonts) — Collage Design, Full-Bleed Design
+- [VERDE](https://verde.io/) — WebGL / 3D Experience, Full-Bleed Design
+- [Verre Vert](https://www.verrevertglass.com/) — Hand-Drawn Design
+- [Paris](https://viens-la.com/) — WebGL / 3D Experience, Big Typography, Glassmorphism, Maximalism
+- [Vipp](https://vipp.com/en) — Collage Design
+- [VISIONNAIRE](https://vision-naire.com/) — Swiss Design, International Typographic Style, Bento Grid, Scroll-Driven Animation
+- [Sydney, Perth](https://vivienscreative.com.au/) — Typography-First, Minimalism, Immersive Storytelling, Japanese Minimalism
+- [Viacheslav Novoseltsev](https://vshslv.com/) — Minimalism, Glassmorphism, Collage Design, Monochromatic Design
+- [Warren and Mahoney](https://wam.studio/) — Maximalism, Duotone, Full-Bleed Design, Chromatic Aberration
+- [Waste Not](https://wastenot.world/) — Vintage Analog, Hand-Drawn Design, Full-Bleed Design
+- [Watts Pet](https://wattspet.com/) — Bento Grid, Scroll-Driven Animation, Collage Design
+- [Twoo®](https://wearetwoo.com/) — Minimalism, Anti-Design
+- [WePresent](https://wepresent.wetransfer.com/) — Editorial Layout, Gradient Design, Collage Design
+- [West Of West](https://www.westofwest.com/) — Minimalism, Modular Grid
+- [Wist](https://www.wist.chat/) — Gradient Design
+- [Remark](https://remark.ai/) — Glassmorphism, Bento Grid, Card-Based Design
+- [Wiz](https://www.wiz.io/) — Editorial Layout, Glassmorphism, Bento Grid, Maximalism
+- [Wolff Olins](https://www.wolffolins.com/) — Big Typography, Glassmorphism
+- [Google X](https://x.company/) — Collage Design, Full-Bleed Design

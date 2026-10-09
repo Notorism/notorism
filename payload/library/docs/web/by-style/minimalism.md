@@ -1,0 +1,48 @@
+# Minimalism: real websites
+
+44 live sites measured as examples of [Minimalism](../../styles/minimalism/README.md). Open the live site to study it; do not copy its code, copy, images or brand.
+
+- [108™ Supply](https://108.supply/) — few colors, little copy, generous space; dark page; 3-colour palette; type: Season Sans + Gt Alpina Condensed; gsap, lenis, webflow. _confidence 0.78_
+- [ajournalon.co](https://www.ajournalon.co/) — few colors, little copy, generous space; dark page; two-value palette; type: Tid + Pitch Sans; lenis. _confidence 0.78_
+- [Arkitektkontoret Vest](https://arkitektkontoretvest.no/) — few colors, little copy, generous space; light page; two-value palette; type: bastardo; gsap, lenis, svg-heavy. _confidence 0.78_
+- [Altason](https://atlason.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 288px; type: haas-grotesk-ds-pro + haas-grotesk-tx-pro; svg-heavy. _confidence 0.78_
+- [Belledonne Paris](https://belledonne.com/en-us) — few colors, little copy, generous space; light page; two-value palette; type: Mier A; svg-heavy, shopify. _confidence 0.78_
+- [Bruno Suraski](https://brunosuraski.com/) — few colors, little copy, generous space; light page; two-value palette; type: kGKWJBAwqz; lenis. _confidence 0.78_
+- [Bureau Tonalli](https://www.bureautonalli.com/) — few colors, little copy, generous space; light page; two-value palette; type: Helvetica Neue Light + Helvetica Neue Bold; framer. _confidence 0.78_
+- [Convicts](https://convicts.nyc/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 180px; type: sans + display. _confidence 0.78_
+- [Fontshare](https://fontshare.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 120px; type: _Satoshi_Variable + Passenger-Sans; svg-heavy. _confidence 0.78_
+- [jonway.studio](https://www.jonway.studio/) — few colors, little copy, generous space; dark page; two-value palette; type: custom-font-54f303a8-0942-4a7c-b6e7-f03743b1ac36; gsap, webgl. _confidence 0.78_
+- [middlename.co.uk](https://middlename.co.uk/) — few colors, little copy, generous space; light page; accent #10286f; type: General. _confidence 0.78_
+- [Mikki Sindhunata](https://mikkisindhunata.com/) — few colors, little copy, generous space; dark page; 3-colour palette; type: B612 Mono + Anton SC; gsap, lenis. _confidence 0.78_
+- [Mock Studio](https://mock.nyc/) — few colors, little copy, generous space; light page; two-value palette; type: neue-haas-grotesk-text; shopify. _confidence 0.78_
+- [Murmure](https://murmure.me/) — few colors, little copy, generous space; dark page; two-value palette; type: a + MonumentGrotesk. _confidence 0.78_
+- [watch_001](https://www.suvreesstudio.de/) — few colors, little copy, generous space; light page; two-value palette; type: PP Neue Montreal; gsap, lenis. _confidence 0.78_
+- [Viacheslav Novoseltsev](https://vshslv.com/) — few colors, little copy, generous space; dark page; two-value palette; type: ABC Diatype; svg-heavy. _confidence 0.78_
+- [West Of West](https://www.westofwest.com/) — few colors, little copy, generous space; light page; 4-colour palette; type: Sequel Sans; next.js. _confidence 0.78_
+- [Driftime®](https://2025.driftime.com/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 532px; type: Koulen + Instrument Serif; webgl. _confidence 0.67_
+- [Anècdota](https://www.anecdotarural.com/en) — few colors, little copy, generous space; light page; 3-colour palette; type: ivar + neueHass; webgl. _confidence 0.67_
+- [ACD/CW](https://brunocis.co/) — few colors, little copy, generous space; light page; 3-colour palette; display type up to 282px; type: Inter Tight + Exposure Italic; gsap, svg-heavy. _confidence 0.67_
+- [Bissiri](https://burkinow.com/en) — few colors, little copy, generous space; light page; two-value palette; display type up to 120px; type: Regola Pro Medium + Regola Pro Regular; svg-heavy, framer. _confidence 0.67_
+- [Charlie Osborne](https://www.charlieosborne.co/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 300px; type: Inter Display + Inter; webgl, framer. _confidence 0.67_
+- [Kyoso](https://www.kyoso.com/) — few colors, little copy, generous space; light page; two-value palette; display type up to 400px; type: ui-sans-serif + Manrope; svg-heavy. _confidence 0.67_
+- [Playfight](https://www.letsplayfight.com/) — few colors, little copy, generous space; light page; two-value palette; type: FKGrotesk + Newsreader; webflow. _confidence 0.67_
+- [Locomotive](https://locomotive.ca/en) — few colors, little copy, generous space; light page; two-value palette; display type up to 110px; type: HelveticaNowDisplay + LocomotiveNew; locomotive-scroll, webgl. _confidence 0.67_
+- [Pixel Poetry by Here.](https://pixelpoetry.heredesign.com/) — few colors, little copy, generous space; light page; two-value palette; type: Px-Regular + Px-Screen; next.js. _confidence 0.67_
+- [THE INDEX](https://theindex.website/) — few colors, little copy, generous space; light page; two-value palette; type: Unica77 + CatalogueLL; next.js. _confidence 0.67_
+- [The Only Agency](https://www.theonly.agency/) — few colors, little copy, generous space; light page; two-value palette; type: Cochin + Abc favorit; gsap, lenis. _confidence 0.67_
+- [valerian.studio](https://www.valerian.studio/) — few colors, little copy, generous space; dark page; 3-colour palette; display type up to 293px; type: ppNeueMontreal. _confidence 0.67_
+- [Twoo®](https://wearetwoo.com/) — few colors, little copy, generous space; light page; 3-colour palette; type: Untitled. _confidence 0.67_
+- [Archier](https://archier.com.au/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Basetica 205 Tf; gsap, lenis. _confidence 0.61_
+- [beaustudio](https://www.beaustudio.fr/) — very few elements, quiet palette, single screen; light page; two-value palette; type: SuisseIntl-light + SuisseIntl-book. _confidence 0.61_
+- [Clea Forkert](https://cleaforkert.com/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: TeX Gyre Heros Cn. _confidence 0.61_
+- [Account Suspended](http://derepublica.com.au/cgi-sys/suspendedpage.cgi) — very few elements, quiet palette, single screen; light page; two-value palette; type: Arial. _confidence 0.61_
+- [Future Paris](https://futureparis.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: orpheuspro + neue-haas-grotesk-text. _confidence 0.61_
+- [Grisly Faye](http://grislyfaye.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Brandon. _confidence 0.61_
+- [Imperial Woodpecker](https://www.imperial.tv/) — very few elements, quiet palette, single screen; dark page; two-value palette; type: Maison Neue Medium + Maison Neue Book. _confidence 0.61_
+- [limlondon.com](https://www.limlondon.com/lander) — very few elements, quiet palette, single screen; dark page; two-value palette; type: GD Sherpa. _confidence 0.61_
+- [MÁLÀ PROJECT](https://www.malaproject.com/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Helveesti + Hei. _confidence 0.61_
+- [Mariano Pascual Art](https://marianopascual.cargo.site/) — very few elements, quiet palette, single screen; light page; two-value palette; type: Diatype Condensed Variable. _confidence 0.61_
+- [shiseido.co.jp](http://message.shiseido.co.jp/) — very few elements, quiet palette, single screen; light page; two-value palette; type: ＭＳ Ｐゴシック. _confidence 0.61_
+- [Default Web Site Page](http://tecprize.org/cgi-sys/defaultwebpage.cgi) — very few elements, quiet palette, single screen; light page; two-value palette; display type up to 126px; type: Arial. _confidence 0.61_
+- [uncut.wtf](https://uncut.wtf/) — very few elements, quiet palette, single screen; light page; two-value palette; type: UncutSansWeb. _confidence 0.61_
+- [Sydney, Perth](https://vivienscreative.com.au/) — very few elements, quiet palette, single screen; light page; two-value palette; type: __Signifier_1cde07 + __MessinaSans_fee2dc. _confidence 0.61_
